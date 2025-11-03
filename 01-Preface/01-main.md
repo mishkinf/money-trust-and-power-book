@@ -25,6 +25,8 @@ Six essential themes emerge from this history:
 
 **Sixth**, flexibility requires discipline. Fiat money freed governments from gold's arbitrary constraints but removed automatic limits on money creation. The discipline that gold imposed is gone; in its place are human judgments and institutional constraints.
 
+These themes emerge progressively through the narrative. Chapter 1 demonstrates how credit preceded commodity money in Mesopotamia, China, and medieval England. Chapter 2 shows how merchant networks created international credit systems independent of metal. Chapter 3 reveals why domestic credit instruments like tally sticks couldn't finance foreign wars—the fourth theme's first appearance. Chapter 4 explains how the Bank of England solved this problem through parliamentary backing, illustrating how institutions matter more than metal. Chapter 5 shows how taxation created demand for Bank notes domestically while parliamentary credibility satisfied foreign lenders. Chapter 6 traces Newton's accidental creation of the gold standard and its global spread. Chapter 7 chronicles the gold standard's collapse, revealing that flexibility requires discipline. Chapter 8 examines the modern fiat system, where all six themes converge in the architecture of contemporary central banking.
+
 From temple ledgers and tally sticks to the Bank of England and modern central banks, this book reveals how every financial revolution was ultimately a political one. To understand money is to understand sovereignty, and to see how societies choose to organize their mutual obligations.
 
 This is the story of how we learned—again and again—that value does not lie in gold, but in trust. And trust, as history repeatedly demonstrates, is built through institutions, maintained through competence, and destroyed through abuse.
@@ -34,3 +36,5 @@ The age of pure fiat is not the end of monetary history but its logical culminat
 ---
 
 *A note on sources*: This book draws on archaeological evidence, historical documents, economic analysis, and contemporary research. Where scholarly debates exist, I have tried to present multiple perspectives while distinguishing well-established facts from contested interpretations. The endnotes provide detailed citations for readers who wish to explore further.
+
+*A note on method*: This narrative synthesizes insights from economic history, anthropology, political science, and institutional economics. I have prioritized primary sources—parliamentary records, central bank archives, contemporary accounts—supplemented by modern scholarship. Where I use composite examples or representative cases to illustrate broader patterns, I have noted this explicitly. The human vignettes in Chapters 3, 7, and 8 are based on documented historical cases with proper citations. My aim is to make complex monetary history accessible without sacrificing accuracy, and to show how abstract economic concepts played out in real human lives.

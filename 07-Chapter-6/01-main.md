@@ -6,6 +6,8 @@ On September 21, 1717, Newton submitted a report to the Treasury that would acci
 
 Newton intended to create a stable bimetallic system. Instead, he triggered a slow-motion revolution that would make gold the foundation of the world's monetary order. It was, as one historian later wrote, "the most consequential accident in financial history."³
 
+What Newton's accident would ultimately prove was not that gold was the foundation of monetary value, but that institutional credibility—the Bank of England's track record, Parliament's taxing power, Britain's fiscal capacity—mattered more than the metal itself. The gold standard worked not because of gold but because of the institutions managing it. When those institutions faltered, as they would in the 1920s and 1930s, gold could not save the system. But in the century after Newton's decision, Britain's institutional strength would make gold seem indispensable, creating a monetary orthodoxy that would dominate the world until 1971.
+
 ---
 
 ### The Great Recoinage
@@ -133,6 +135,14 @@ The gold standard was not designed but **evolved**, emerging from the interactio
 For two centuries, the gold standard would define monetary orthodoxy. It would be praised as the foundation of prosperity and damned as the cause of depression. It would survive wars, revolutions, and financial panics, only to collapse catastrophically in the 1930s. But its origins lay in a scientist's attempt to solve a technical problem—an attempt that succeeded too well, creating a system nobody had intended and few fully understood.³⁹
 
 Newton's accident became the world's monetary order. And when that order finally broke, the world would have to rediscover the lesson that Newton himself had demonstrated: **money is not a natural phenomenon but a human institution**, shaped by law, policy, and the credibility of the authorities that issue it. Gold was never the foundation; trust was. And trust, as England had proven, could be built without gold—if the institutions were strong enough.⁴⁰
+
+For two centuries, the gold standard would define monetary orthodoxy. It would be praised as the foundation of prosperity, damned as the cause of depression, and defended with religious fervor by those who could not imagine an alternative. But the system Newton accidentally created contained fatal contradictions. It would survive wars and financial panics, only to collapse catastrophically when those contradictions became unbearable. The breaking would begin in 1797, accelerate in 1914, and conclude in 1971—revealing at last that gold had never been necessary, that money had always been a human institution, and that trust could be built without metal if the institutions were strong enough.
+
+---
+
+### **Chapter Summary**
+
+The gold standard emerged accidentally from Isaac Newton's 1717 revaluation of the guinea. By setting gold's price slightly too high relative to silver, Newton inadvertently made gold more profitable to mint, driving silver out of circulation through Gresham's Law. Britain drifted onto a de facto gold standard by the 1770s, formalized in 1816. The system globalized after 1870 as major economies adopted gold convertibility, creating an international monetary order where currencies maintained fixed exchange rates through gold points (typically 0.4-1.4% of par). The gold standard worked through three mechanisms: legal obligation to convert currency to gold, adequate reserves to meet redemptions, and parliamentary taxation providing fiscal backing. Sterling became the world's reserve currency, with London as financial capital. But the system redistributed wealth from debtor to creditor, periphery to core, imposing deflationary bias that benefited creditors while harming debtors. The gold standard was never neutral—it was a political choice that served creditor interests, sustained by institutional credibility rather than metal's intrinsic value.
 
 ---
 

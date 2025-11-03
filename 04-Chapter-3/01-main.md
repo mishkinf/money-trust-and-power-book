@@ -4,6 +4,8 @@ The royal treasury at Westminster was nearly empty. Outside, in the muddy street
 
 Edward turned to the only people with liquid capital—Italian merchant-bankers. The Bardi and Peruzzi families of Florence had grown rich financing Mediterranean trade, and they understood the new instruments of credit. They advanced Edward gold florins and silver marks, recorded the debt in their ledgers, and waited for repayment. But when the king defaulted in 1345, unable to extract enough taxes from his subjects to satisfy foreign creditors, both houses collapsed. The shock rippled across Europe's financial networks. For a generation afterward, no banker would lend to an English king without collateral in hand.²
 
+This chapter reveals a fundamental distinction that would shape monetary history for centuries: the difference between domestic credit, backed by a monarch's power to tax his subjects, and international credit, which required assets foreigners would accept. A king could create money within his realm by issuing promises redeemable in taxes. But beyond his borders, those promises meant nothing. Foreign wars required foreign credit, and foreign credit required gold, silver, or goods that could cross boundaries. The fiscal crisis of early modern monarchy was born from this asymmetry.
+
 ---
 
 ### The paradox of sovereignty
@@ -65,7 +67,11 @@ The English crown's record was particularly dismal. Edward III's default in 1345
 
 The English Civil War (1642–1651) was many things—a religious conflict, a constitutional struggle, a clash of classes—but it was also a **fiscal reckoning**. Charles I's inability to finance his government without parliamentary consent revealed the bankruptcy of absolutism. When he was executed in 1649, it symbolized not just the death of a king but the death of an idea: that personal sovereignty could sustain public credit.¹⁶
 
-The restored Stuart monarchy learned nothing. In 1672, Charles II faced a liquidity crisis. He had borrowed heavily from London's goldsmith-bankers—men who accepted deposits from merchants and lent to the crown at interest. When the Exchequer could not meet its obligations, Charles declared the **Stop of the Exchequer**, suspending all debt payments for one year. The goldsmiths were ruined. Some never recovered; others passed losses to their depositors. The City of London's financial community resolved that the crown would never again borrow on its word alone.¹⁷
+The restored Stuart monarchy learned nothing. In 1672, Charles II faced a liquidity crisis. He had borrowed heavily from London's goldsmith-bankers—men who accepted deposits from merchants and lent to the crown at interest. When the Exchequer could not meet its obligations, Charles declared the **Stop of the Exchequer**, suspending all debt payments for one year. The total suspended: **£1,328,526**—approximately **2.2-3.3% of English GDP** and more than the crown's entire annual peacetime revenue.¹⁷ The goldsmiths were ruined. Some never recovered; others passed losses to their depositors. The City of London's financial community resolved that the crown would never again borrow on its word alone.
+
+Edward Backwell, one of London's leading goldsmith-bankers, learned of the Stop in January 1672. By then the crown owed him approximately £295,994—nearly his entire capital—expecting repayment from tax revenues. The interest alone would have supported his family and business for years. Instead, Charles II suspended all debt payments indefinitely. Backwell's depositors—merchants who had trusted him with their working capital—demanded their money. He could not pay them. The "one-year" moratorium was repeatedly extended, dragging on for years. Backwell continued in official service but his bank never recovered liquidity. In 1682 he was declared bankrupt. He died in exile in 1683, and only by a private Act of Parliament in 1698 could his creditors get any repayment.¹⁷ᵃ
+
+The Stop destroyed more than individual fortunes. It shattered the trust that made credit possible. Contemporary historian Gilbert Burnet wrote that "the bankers were broken, and multitudes who had put their money in their hands were ruined."¹⁷ᵇ Most London goldsmith-bankers failed or were forced out of business in the 1670s. For a generation, merchants refused to lend to the crown except at ruinous rates or with collateral in hand. The lesson was clear: personal sovereignty—the king's word alone—could not sustain public credit. What England needed was a system where promises were backed not by royal virtue but by institutional guarantees that no single person could break.
 
 ---
 
@@ -81,6 +87,24 @@ The pattern was universal. Monarchs could not wage modern war without credit. Bu
 
 ---
 
+### Why foreign creditors demanded gold
+
+The distinction between domestic and foreign borrowing was not merely technical—it reflected fundamental differences in what creditors could enforce. English tally sticks worked brilliantly within England because they represented claims on specific tax revenues that domestic holders could collect. A tally reading "£9 4s 4d from Fulk Basset for the farm of Wycombe" identified both the revenue source and the tax collector.²⁰ᵃ Domestic merchants could present these tallies to Exchequer officials, verify their authenticity, and receive payment. The system required access to English institutions but no commodity backing.
+
+Foreign creditors faced entirely different constraints. A Dutch investor holding English tally sticks could not easily collect from English tax receivers without domestic agents. He could not verify the creditworthiness of specific revenue streams. Most critically, he could not use tally sticks as payment in Amsterdam—they were worthless outside England's borders. While tallies circulated domestically as a form of money, they embodied information asymmetries that made them unsuitable for international finance.²⁰ᵇ
+
+This explains why foreign wars required gold and silver in ways domestic finance did not. When England hired German mercenaries or purchased Dutch ships, foreign suppliers demanded payment in universally accepted media. Gold and silver settled across borders without requiring trust in foreign legal systems or knowledge of domestic revenue collection. They avoided currency conversion risks. They provided liquid collateral that could be shipped or pledged internationally. Most importantly, they required no institutional access—a Hamburg merchant holding gold coins could spend them anywhere without navigating English Exchequer procedures.²⁰ᶜ
+
+The mechanism of international settlement reinforced this pattern. Most cross-border trade settled through bills of exchange rather than physical gold shipments. A Virginia tobacco producer could draw a bill on his London merchant account, sell it to a local merchant, who transmitted it to London to pay for imported goods.²⁰ᵈ But bills of exchange worked only when both parties trusted the underlying banking networks. For final settlement of imbalances—when one country owed another more than it was owed—gold provided the universal medium that required no trust.
+
+The Amsterdam Exchange Bank exemplified this system. Its "bank money" traded at a premium over circulating currency and was required by law for settling international bills of exchange. This created a two-tier system: international bills settled in Amsterdam bank money (ultimately backed by precious metal), while domestic transactions used various currencies.²⁰ᵉ During the classical gold standard era (1870-1914), gold points—the exchange rate boundaries where physical gold shipment became profitable—typically ranged from 0.4% to 1.4% of par value, depending on shipping costs, insurance, and interest forgone.²⁰ᶠ Most transactions settled within these bands through bills, but gold flowed at the margins to correct persistent imbalances.
+
+Foreign creditors' preference for gold thus reflected practical realities rather than irrational commodity fetishism. Dutch investors who held 30.3% of Bank of England stock by 1750 did so because parliamentary guarantees made English debt credible even without gold backing.²⁰ᵍ But those same investors, when lending to Spain or France, demanded either gold collateral or interest rates high enough to compensate for default risk. The Genoese bankers who financed Spanish wars through the *asiento* system structured contracts to receive American silver directly, bypassing the Spanish crown's unreliable promises.²⁰ʰ When Spain defaulted in 1557, 1575, 1596, 1607, and 1627, the Genoese lost fortunes—but they kept lending because silver collateral made partial recovery possible.
+
+The fundamental problem was institutional. Domestic money worked when backed by domestic tax authority. International money required either commodity backing or institutional credibility that transcended borders. England's tally sticks, France's tax receipts, Spain's promises—all were domestic instruments that foreign creditors could not enforce. Gold and silver were the only media that settled internationally without requiring trust in foreign institutions. This asymmetry would drive the creation of the Bank of England and shape monetary architecture for centuries.
+
+---
+
 ### The invention of the fiscal state
 
 What Europe needed was a way to make royal debt **credible** without relying on royal virtue. The answer emerged not from economic theory but from constitutional struggle: **parliamentary control of taxation**. If a representative body, rather than the king alone, authorized taxes and guaranteed their use for debt repayment, then creditors could trust the nation even if they distrusted the monarch.²¹
@@ -91,7 +115,13 @@ England would follow the same path, but only after a revolution. In 1688, when P
 
 For the first time, lenders could trust that their loans were backed not by a king's promise but by a **nation's legal obligation**. Parliament could commit future tax revenues to debt repayment, and no monarch could unilaterally repudiate that commitment. The fiscal-military state was born—a government capable of mobilizing resources on a scale that would have astonished Edward III or Charles II.
 
-But the machinery of that state—the institution that would turn parliamentary promises into liquid credit—had yet to be invented. That innovation, the **Bank of England**, would complete the revolution that began in 1688. It would transform the nature of money itself, proving that credit backed by taxation could circulate as freely as gold.
+But the machinery of that state—the institution that would turn parliamentary promises into liquid credit—had yet to be invented. That innovation would come in 1694, when a group of London merchants proposed a radical solution: a bank that would lend to the government by creating money. The Bank of England would complete the revolution that began in 1688, transforming not just England's finances but the nature of money itself.
+
+---
+
+### **Chapter Summary**
+
+Early modern monarchs faced an impossible dilemma: war required credit, but credit required trust, and royal defaults had destroyed that trust. Domestic instruments like tally sticks worked within borders because tax authority backed them, but foreign wars required gold or silver that monarchs didn't have. Repeated defaults—from Edward III to Charles II's Stop of the Exchequer—made royal borrowing ruinously expensive. The solution emerged not from economics but from constitutional revolution: parliamentary control of taxation after 1688 made England's debt credible for the first time. Lenders could trust Parliament's legal commitment even if they distrusted the king. This institutional innovation—separating borrowing authority from repayment authority—solved the credibility problem that had plagued European monarchies for centuries.
 
 ---
 
@@ -114,9 +144,19 @@ But the machinery of that state—the institution that would turn parliamentary 
 15. Ashton, R. (1960). *The Crown and the Money Market, 1603–1640.* Oxford University Press.
 16. Hill, C. (1961). *The Century of Revolution, 1603–1714.* Edinburgh University Press.
 17. Roseveare, H. (1991). *The Financial Revolution 1660–1760.* Longman.
+17a. NatWest Group Heritage Hub. "Edward Backwell." [https://www.natwestgroup.com/heritage/people/edward-backwell.html](https://www.natwestgroup.com/heritage/people/edward-backwell.html)
+17b. Davies, G. (1994). *A History of Money: From Ancient Times to the Present Day.* University of Wales Press.
 18. Dickson, P. G. M. (1967). *The Financial Revolution in England: A Study in the Development of Public Credit, 1688–1756.* Macmillan.
 19. Bonney, R. (1981). *The King's Debts: Finance and Politics in France, 1589–1661.* Oxford University Press.
 20. Tracy, J. D. (1985). *A Financial Revolution in the Habsburg Netherlands.* University of California Press.
+20a. BBC News. (2017, June 28). "Tally Sticks: An Ancient Form of Payment." [https://www.bbc.com/news/business-40189959](https://www.bbc.com/news/business-40189959)
+20b. Conversable Economist. (2017, July 12). "Tally Sticks and the Fundamentals of Money." [https://conversableeconomist.com/2017/07/12/tally-sticks-and-the-fundamentals-of-money/](https://conversableeconomist.com/2017/07/12/tally-sticks-and-the-fundamentals-of-money/)
+20c. Neal, L. (1990). *The Rise of Financial Capitalism: International Capital Markets in the Age of Reason.* Cambridge University Press.
+20d. American Journal of Legal History. (2019). "Bills of Exchange in Colonial America." *AJLH,* 63(2), 150-178.
+20e. Schnabel, I., & Shin, H. S. (2018). "Money and Trust: Lessons from the 1620s for Money in the Digital Age." BIS Working Paper. [https://www.bis.org/authors/1763_schnabel_shin.pdf](https://www.bis.org/authors/1763_schnabel_shin.pdf)
+20f. Officer, L. H. (2008). "Gold Standard." *EH.Net Encyclopedia.* [https://eh.net/encyclopedia/gold-standard/](https://eh.net/encyclopedia/gold-standard/)
+20g. Wilson, C. (1941). "Dutch Investment in Eighteenth-Century England: A Note on Yardsticks." *Economic History Review,* 12(1-2), 434-461.
+20h. Drelichman, M., & Voth, H.-J. (2011). "Serial Defaults, Serial Profits: Returns to Sovereign Lending in Habsburg Spain, 1566-1600." *Explorations in Economic History,* 48(1), 1-19.
 21. North, D. C., & Weingast, B. R. (1989). "Constitutions and Commitment: The Evolution of Institutions Governing Public Choice in Seventeenth-Century England." *Journal of Economic History,* 49(4), 803–832.
 22. 't Hart, M., Jonker, J., & van Zanden, J. L. (1997). *A Financial History of the Netherlands.* Cambridge University Press.
 23. Pincus, S. (2009). *1688: The First Modern Revolution.* Yale University Press.

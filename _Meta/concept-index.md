@@ -15,6 +15,12 @@ This index tracks key concepts, terms, and themes throughout the book, mapping t
 
 ## B
 
+**Backwell, Edward** - Ch 3, Crisis of Trust section
+- Goldsmith-banker ruined by Stop of the Exchequer (1672)
+- Crown owed him £295,994
+- Declared bankrupt 1682, died in exile 1683
+- Example of royal default destroying individual fortunes
+
 **Bank of England (1694)** - Ch 4, Ch 5
 - Creation and charter
 - £1.2 million initial loan
@@ -156,6 +162,12 @@ This index tracks key concepts, terms, and themes throughout the book, mapping t
 
 ## M
 
+**McKenzie, Maureen** - Ch 8, Crisis of 2008 section
+- Kirkwood, MO bookkeeper
+- Lost home to foreclosure May 2008
+- Payment-option ARM: 2.25% → 7.875%
+- Example of 2008 crisis human cost
+
 **Medici Bank** - Ch 2, Networks of Credit section
 - 1397-1494
 - Branch structure
@@ -199,6 +211,12 @@ This index tracks key concepts, terms, and themes throughout the book, mapping t
 - Foundation of British credit
 
 ## R
+
+**Reynolds, Hugh (Councillor)** - Ch 7, Churchill's Blunder section
+- Plean Colliery coalminer, Stirlingshire
+- 1926 General Strike participant
+- 18 shillings/week relief during 9-month lockout
+- Example of gold standard's human cost
 
 **Reputation-Based Systems** - Ch 2, Ch 3
 - Merchant family networks

@@ -8,7 +8,7 @@ For centuries economists assumed money was born from barter—hunters trading hi
 
 ### The age of sacred accounting
 
-Temples in Sumer and Babylon functioned as economic hubs. They owned land, received tithes, issued rations, and extended credit to farmers who needed seed or tools. Hudson calls them *“palatial balance-sheet economies”*: they lent resources during planting season and reclaimed them at harvest through taxes or interest in kind. To keep society from collapsing under compound debt, rulers periodically proclaimed *amargi*—debt cancellation or “clean-slate” jubilees.⁴ Money here was not a spontaneous market medium but a **political technology of accounting and control**.
+Temples in Sumer and Babylon functioned as economic hubs. They owned land, received tithes, issued rations, and extended credit to farmers who needed seed or tools. Hudson calls them *"palatial balance-sheet economies"*—centralized systems where temples and palaces functioned as both banks and accounting offices, tracking debts and credits across the entire society. They lent resources during planting season and reclaimed them at harvest through taxes or interest in kind. To keep society from collapsing under compound debt, rulers periodically proclaimed *amargi*—debt cancellation or “clean-slate” jubilees.⁴ Money here was not a spontaneous market medium but a **political technology of accounting and control**.
 
 Egypt followed a similar model. Grain stored in state granaries served as both sustenance and standard of value. Taxes were payable in wheat; officials recorded deposits and withdrawals in the same units. A worker’s wage, a priest’s tithe, and a merchant’s payment could all be expressed in *hekats* of grain even if no grain changed hands. The economy’s stability depended less on metal than on bureaucracy—the scribes’ ability to maintain balanced ledgers.⁵
 
@@ -36,15 +36,13 @@ When Rome fell, Europe’s coin supply shrank, but the logic of accounting survi
 
 By accepting these instruments for taxes, the crown gave them life. By keeping them on its books, it ensured their redemption. For ordinary people, a split stick was as good as silver because it satisfied the one debt that mattered most: what they owed the king.⁹
 
+Yet this power had a fatal limitation: tally sticks could discharge obligations only within the realm. The distinction between domestic instruments backed by tax authority and international instruments requiring exportable value would haunt European monarchs for centuries and ultimately drive the creation of central banks.
+
 ---
 
-### Ambiguity and the birth of standards
+### **Chapter Summary**
 
-The coexistence of multiple monies created **ambiguity**. What exactly was a “pound” when coins of different weight and fineness circulated beside tallies and foreign pieces? A contract written in pounds could be settled in various forms, each valued differently. Merchants and officials haggled constantly over equivalence between the *money of account* (the abstract pound) and the *money of payment* (actual coin or credit). This instability plagued early modern Europe.
-
-By the seventeenth century England’s economy was thriving on bills of exchange and royal debt instruments, yet its coinage remained chaotic—clipped, counterfeited, and inconsistent. When Isaac Newton became Master of the Mint in 1696, he led the Great Recoinage to restore uniformity. Two decades later, he fixed the ratio between gold and silver at £3 17 s 10½ d per troy ounce of gold. Though intended as an administrative convenience, the decision effectively placed Britain on a **gold standard**. For the first time, the unit of account had an explicit physical anchor.¹⁰
-
-Newton’s fix did not make the government richer or its credit more real; it made its promises **legible**. By tying the pound to a measurable quantity, the crown eliminated the ambiguity that had haunted contracts for centuries. Merchants could now calculate confidently; foreigners could trust that English paper would convert to a known weight of metal. The act was less economic necessity than political theater—a declaration that England’s word was as solid as gold.
+Money began not as commodity but as credit—recorded obligations managed by central institutions. From Mesopotamian temple ledgers to Chinese paper notes to English tally sticks, societies created money through accounting systems backed by taxation authority. Credit preceded coin by millennia. The medium mattered less than the institutional capacity to impose and enforce obligations. This pattern—credit instruments circulating domestically based on tax authority—worked within sovereign borders but failed across them, setting up the fiscal crisis that would drive the creation of central banks.
 
 ---
 

@@ -76,6 +76,12 @@ The **first international monetary system** was not a metallic standard but a mo
 
 ---
 
+### **Chapter Summary**
+
+Medieval merchants created international credit networks that operated independently of metal currency. Bills of exchange—four-party instruments that circumvented usury prohibitions—allowed merchants to settle debts across borders through offsetting obligations rather than shipping gold. Double-entry bookkeeping, systematized by Luca Pacioli in 1494, transformed accounting into a moral and mathematical discipline. Merchant banking families like the Medici built empires on reputation and information networks, not commodity reserves. Clearing systems in Antwerp and Amsterdam demonstrated that most transactions could settle through ledger entries, with metal moving only at the margins. This merchant-created system proved that credit could function internationally when backed by reputation and institutional trust—a lesson that would shape the development of central banking and modern finance.
+
+---
+
 ### **Sources & Further Reading**
 
 1. De Roover, R. (1948). *The Medici Bank: Its Organization, Management, Operations, and Decline.* New York: New York University Press.

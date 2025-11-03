@@ -46,6 +46,8 @@ Yet even with parliamentary backing, England's war finance remained chaotic. Loa
 
 The idea came from a group of London merchants and financiers, led by William Paterson and Michael Godfrey. Their proposal, presented to Parliament in 1694, was audacious: create a joint-stock company that would lend **£1.2 million** to the government at **8 percent interest**. In return, the company would receive a royal charter and the exclusive right to issue **banknotes**—paper receipts representing its own liabilities, which could circulate as money.⁹
 
+The scale was unprecedented. The £1.2 million loan represented approximately **2.0-2.4% of English GDP** and equaled **100% of annual government revenue**—proportionally far larger than any modern central bank founding.⁹ᵃ In today's terms, this would be equivalent to roughly **$635 million to $1 billion** in purchasing power, or asking a modern government to borrow its entire annual revenue in a single transaction. The loan could have paid 60,000 skilled craftsmen for a year, purchased 146 small warships, or maintained 40,000-60,000 soldiers for a full campaign.⁹ᵇ
+
 The response was astonishing. The entire sum was subscribed in just **eleven days** by over **1,200 individuals**—from nobles and merchants to shopkeepers and widows. Yet the mechanics were more complex than they appeared. Investors did not pay the full £1.2 million immediately. Through phased capital calls, only **25 percent** was due at subscription, with another **35 percent** later in 1694. The actual cash paid in—**£720,000**—was recorded under the "Banknote" heading on the balance sheet, a novel accounting treatment that reflected the Bank's dual nature as both lender and note-issuer.¹⁰
 
 The mechanics were revolutionary. Investors subscribed capital—paying in coin, bullion, or government tallies—and that capital was lent to the state. But the Bank would not simply hand over gold and wait for repayment. Instead, it would issue **notes**: printed promises to pay the bearer on demand. Those notes, backed by the Bank's assets (including the government loan), would enter circulation as a new form of currency.
@@ -116,6 +118,30 @@ From a modern perspective, this was a profound institutionalization of the princ
 
 ---
 
+### The French counterfactual
+
+France's failure to replicate England's success reveals why institutions mattered more than resources. France was larger, wealthier, and more populous than England—yet it paid consistently higher interest rates and suffered repeated debt crises. The contrast was stark and quantifiable.
+
+**Borrowing costs diverged dramatically after 1688.** During 1700-1750, England's government bonds typically yielded 3-5 percent. France paid 7-11 percent for comparable loans.²²ᵃ In 1718, French perpetual annuities bearing 4 percent coupons traded at only 35 percent of face value—an implied yield of 11 percent—while English bonds yielded approximately 5 percent.²²ᵇ This 3-6 percentage point premium meant France paid roughly 60 percent more in annual interest than England for the same amount borrowed. On a hypothetical £10 million debt, the extra cost was £300,000-600,000 annually—a crushing burden that consumed revenues and forced further borrowing at even worse terms.
+
+The root cause was **serial default**. France restructured or repudiated debts in 1634, 1648, 1652, and 1716, each time wiping out creditors and forcing subsequent borrowers to demand risk premiums.²²ᶜ After the 1634 default, *rentes* (perpetual annuities) were forcibly converted from 10 percent to 4.2 percent interest. By 1659, the monarchy paid over 25 percent on new loans because its credit was destroyed.²²ᵈ England's only comparable default—the 1672 Stop of the Exchequer—was followed by resumption and, crucially, by the 1688 constitutional revolution that made future defaults impossible. Post-1690, Britain never repudiated its perpetual debt.
+
+**France's tax system leaked revenue at every stage.** The crown outsourced most indirect tax collection to *fermiers généraux* (tax farmers) through multi-year contracts. These syndicates paid the king a fixed sum upfront, then kept all proceeds above that amount. Individual tax farmers earned returns of 15-37 percent on their capital—meaning they kept roughly 30-40 percent of gross tax receipts as profit.²²ᵉ One 1762-68 lease generated 37 percent returns for the farmers, leaving only 63 percent for the treasury. Administrative costs and corruption consumed another 10-15 percent. In total, **only 60-70 percent of nominal taxes reached the crown**.²²ᶠ
+
+England's system was far more efficient. Parliamentary statutes authorized taxes collected by salaried royal officials or unpaid local commissioners. The Land Tax Acts named commissioners annually to assess and collect levies.²²ᵍ Collection costs ran only 3-5 percent of revenue. Nearly all assessed taxes reached the Treasury. This efficiency gap meant England extracted more revenue per unit of economic activity despite France's larger economy.
+
+**Fiscal capacity reflected these institutional differences.** By 1700-1750, Britain collected roughly 8-10 percent of GDP in taxes.²²ʰ France managed only 6-8 percent despite having nearly three times England's population (19 million versus 7 million).²²ⁱ Per capita, the British tax burden was substantially higher—yet the system was more legitimate because Parliament authorized levies and credibly committed revenues to debt service. French peasants paid crushing taxes with no representation, while nobles and clergy enjoyed exemptions. Provincial *parlements* (high courts) could veto royal tax edicts, creating unpredictable revenue streams.
+
+**Why couldn't France create its own Bank of England?** The institutional prerequisites were absent. England's system depended on Parliament's credible commitment—a dominant political coalition (the Whigs) that combined moneyed interests with dissenting Protestants, creating cross-issue bargaining that protected creditors.²²ʲ France had no equivalent. The king rarely convened the Estates-General. No stable power-sharing arrangement bound the monarchy to creditors. Without predictable revenue or constitutional checks, no French bank could succeed.
+
+John Law's Banque Générale (1716) proved the point. Law attempted to replicate the Bank of England's model, but without parliamentary backing the scheme collapsed spectacularly in 1720. The Mississippi Bubble's burst discredited the very concept of central banking in France for decades.²²ᵏ By contrast, the Bank of England survived because Parliament obliged the Crown to service it and operated under legal monopoly backed by the government. The word "bank" became so toxic in France that serious attempts at central banking waited until Napoleon.
+
+**Napoleon's reforms finally provided the institutional foundation France had lacked.** The Revolution abolished feudal privileges and estate exemptions, unifying the tax base. Napoleon's strong central state imposed uniform taxes and stabilized debt. In 1800, he chartered the Banque de France with narrow scope (initially issuing notes only in Paris) and state backing.²²ˡ The Franc germinal (1803) anchored the monetary system to gold. These changes—empowered central government, abolished exemptions, clear legal framework—finally gave France what England had enjoyed since 1690.
+
+The comparison reveals a fundamental truth: **financial revolutions require political revolutions**. England's advantage was not economic but constitutional. Parliamentary control of taxation made debt credible. Credible debt enabled cheap borrowing. Cheap borrowing financed wars that built empire. The Bank of England was not the cause but the **consequence** of institutional change—a mechanism that worked only because the underlying political settlement made promises enforceable. France, lacking that settlement, paid the price in higher interest rates, serial defaults, and fiscal crisis until revolution swept away the ancien régime.
+
+---
+
 ### The evolution toward central banking
 
 The Bank of England was not initially conceived as a "central bank" in the modern sense. It was a private joint-stock company that happened to serve the government. But over the next century, it would evolve functions that would define central banking for the world:
@@ -142,6 +168,14 @@ Other nations would try to copy the model. Some, like the Netherlands, succeeded
 
 The Bank of England proved that the future belonged not to the richest states but to the most **credible** ones. And credibility, it turned out, was not a matter of gold reserves but of legal architecture. The real revolution of 1688 was not political but financial: the discovery that **money is a relationship**, and relationships endure only when they are governed by rules no single party can break.
 
+But how, exactly, did this system work in practice? How did the Bank create money by lending? Why did taxation make those notes valuable domestically while parliamentary credibility satisfied foreign lenders? The mechanics of this revolutionary system—the alchemy that turned promises into purchasing power—would define modern finance and reveal truths about money that had been obscured for millennia.
+
+---
+
+### **Chapter Summary**
+
+The Glorious Revolution of 1688 created the institutional foundation for modern central banking by transferring fiscal power from crown to Parliament. Parliamentary control of taxation made England's debt credible for the first time—lenders could trust a nation's legal obligation even if they distrusted the monarch. The Bank of England (1694) completed this revolution by creating a mechanism to manufacture credit on demand: lending £1.2 million to government (2% of GDP) by issuing banknotes backed by parliamentary guarantees. The Bank's notes circulated domestically because taxes created demand; foreign creditors accepted them because parliamentary taxation demonstrated fiscal capacity. France's failure to replicate this success—paying 7-11% interest versus England's 3-5%—proved that institutions mattered more than resources. French serial defaults, tax farming inefficiency (30-40% leakage), and lack of constitutional checks made borrowing ruinously expensive until Napoleon's reforms enabled the Banque de France in 1800. The real revolution was discovering that money is a relationship governed by law, not a commodity backed by metal.
+
 ---
 
 ### **Sources & Further Reading**
@@ -155,6 +189,8 @@ The Bank of England proved that the future belonged not to the richest states bu
 7. Brewer, J. (1989). *The Sinews of Power: War, Money and the English State, 1688–1783.* Harvard University Press.
 8. North, D. C., & Weingast, B. R. (1989). "Constitutions and Commitment: The Evolution of Institutions Governing Public Choice in Seventeenth-Century England." *Journal of Economic History,* 49(4), 803–832.
 9. Dickson, P. G. M. (1967). *The Financial Revolution in England: A Study in the Development of Public Credit, 1688–1756.* Macmillan.
+9a. Broadberry, S., et al. (2015). *British Economic Growth, 1270-1870.* Cambridge University Press. (GDP estimates)
+9b. Clark, G. (2005). "The Condition of the Working Class in England, 1209-2004." *Journal of Political Economy,* 113(6), 1307-1340. (Wage data and purchasing power calculations)
 10. Clapham, J. (1945). *The Bank of England: A History, Vol. 1, 1694–1797.* Cambridge University Press.
 11. Richards, R. D. (1934). "The First Fifty Years of the Bank of England." *History,* 19(75), 241–256.
 12. Murphy, A. L. (2023). "Virtuous Bankers: A Day in the Life of the Eighteenth-Century Bank of England." *Financial History Review,* 30(1), 5–28.
@@ -168,6 +204,18 @@ The Bank of England proved that the future belonged not to the richest states bu
 20. Wray, L. R. (1998). *Understanding Modern Money: The Key to Full Employment and Price Stability.* Edward Elgar.
 21. Stasavage, D. (2003). *Public Debt and the Birth of the Democratic State: France and Great Britain, 1688–1789.* Cambridge University Press.
 22. Bonney, R. (1995). *Economic Systems and State Finance.* Oxford University Press.
+22a. Velde, F. R. (2016). "What We Learn from a Sovereign Debt Restructuring in France in 1721." *Federal Reserve Bank of Chicago Economic Perspectives,* Q3. [https://www.chicagofed.org/publications/economic-perspectives/2016/5-velde](https://www.chicagofed.org/publications/economic-perspectives/2016/5-velde)
+22b. Velde, F. R. (2016). "What We Learn from a Sovereign Debt Restructuring in France in 1721." (1718 price data)
+22c. Doyle, J. A. (1990). *French Government Finance, 1595–1661: Political Problems of the Debt.* Macmillan.
+22d. France and the Failure to Modernize Macroeconomic Institutions. ECONSTOR Working Paper. [https://www.econstor.eu/bitstream/10419/94249/1/1999-04.pdf](https://www.econstor.eu/bitstream/10419/94249/1/1999-04.pdf)
+22e. France's Slow Transition from Privatized to Government-Administered Tax Collection. ECONSTOR Working Paper. [https://www.econstor.eu/bitstream/10419/79157/1/339966831.pdf](https://www.econstor.eu/bitstream/10419/79157/1/339966831.pdf)
+22f. France's Slow Transition from Privatized to Government-Administered Tax Collection. (Collection efficiency data)
+22g. UK Parliament. "Taxes the 18th Century Way." *UK Parliament Living Heritage.* [https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/taxation/overview/taxes18thcentury/](https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/taxation/overview/taxes18thcentury/)
+22h. Office for Budget Responsibility. (2023). "300 Years of UK Public Finance Data." [https://articles.obr.uk/300-years-of-uk-public-finance-data/](https://articles.obr.uk/300-years-of-uk-public-finance-data/)
+22i. Dincecco, M. (2009). *Fiscal Centralization, Limited Government, and Public Revenues in Europe, 1650–1913.* Cambridge University Press.
+22j. Stasavage, D. (2003). *Public Debt and the Birth of the Democratic State: France and Great Britain, 1688–1789.* Cambridge University Press. (Whig coalition analysis)
+22k. Bank of France. (2023). "History of the Banque de France." [https://www.banque-france.fr/en/banque-de-france/history](https://www.banque-france.fr/en/banque-de-france/history)
+22l. Bank of France. (2023). "History of the Banque de France." (1800 founding)
 23. Ingham, G. (2004). *The Nature of Money.* Polity Press.
 24. Thornton, H. (1802). *An Enquiry into the Nature and Effects of the Paper Credit of Great Britain.* London: J. Hatchard.
 25. Bagehot, W. (1873). *Lombard Street: A Description of the Money Market.* London: Henry S. King.
