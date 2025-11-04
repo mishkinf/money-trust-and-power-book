@@ -14,6 +14,7 @@ This book is organized into numbered folders to maintain chronological order:
 - `08-Chapter-7/` - Collapse, Bretton Woods, and the Fiat Era
 - `09-Chapter-8/` - The Modern Legacy: Trust Without Metal
 - `10-Epilogue/` - From Gold to Governance
+- `_Supplementary/` - Reader aids (timeline, key figures, glossary, comparative table, further reading)
 - `_Meta/` - Organizational files, indices, and source mappings
 - `Research/` - Source materials and research documents
 
@@ -34,6 +35,20 @@ The book traces six essential themes:
 4. **Coinage Mandates** - How states created demand for their currency
 5. **International Trust Networks** - Evolution from merchant credit to institutional finance
 6. **Institutional Transformation** - From reputation to Parliament to central banks
+
+## Supplementary Materials
+
+The `_Supplementary/` folder contains reader aids designed to enhance understanding:
+
+- `01-Timeline.md` - Chronological overview from 3000 BCE to present
+- `02-Key-Figures.md` - Biographical sketches of 11 pivotal actors spanning five centuries (Paterson, Newton, Rothschild, Norman, Keynes, White, Bagehot, Volcker, Schacht, Strong, Law)
+- `03-Glossary.md` - Definitions of essential monetary terms
+- `04-Comparative-Table.md` - Matrix comparing four major monetary regimes
+- `05-Further-Reading.md` - Annotated bibliography organized by theme
+
+**Recommended placement in final book:**
+- Timeline and Key Figures: Front matter (after Preface, before Chapter 1)
+- Glossary, Comparative Table, Further Reading: Back matter (after Epilogue)
 
 ## Citation Style
 

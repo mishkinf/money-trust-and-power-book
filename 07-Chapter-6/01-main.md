@@ -98,6 +98,24 @@ This was not Hume's automatic adjustment but **discretionary policy**. The Bank 
 
 ---
 
+### Crisis management: the Bank under pressure
+
+The Bank's ability to manage with minimal reserves was tested repeatedly during the classical gold standard era. Three crises reveal how the institution balanced technical requirements with political pressures—and how close the system came to collapse.
+
+**The Baring Crisis (November 1890)** demonstrated international cooperation and the limits of domestic authority. On November 8, Lord Revelstoke (Edward Baring) approached Governor William Lidderdale to confess that Baring Brothers—one of London's most prestigious merchant banks—was insolvent. By November 10, the Bank's gold reserves had fallen to a dangerous £10.8 million. Lidderdale faced a choice: let Barings fail and risk systemic panic, or rescue the firm and deplete reserves further.²⁸ᵃ
+
+Lidderdale chose rescue but refused to act alone. He negotiated £3 million in gold from the Banque de France and £1.5 million from the Bank of Russia—swapping Treasury bills for bullion through Rothschild connections. The Bank advanced £7.5 million to Barings, while the international support replenished reserves. Chancellor Goschen initially refused to "interfere on behalf of an insolvent house" and offered to suspend the gold requirement. Lidderdale **refused**, fearing a dual crisis: bank runs and sterling collapse. The rescue succeeded. Real GDP fell only 1.6 percent in 1891-92 and recovered by 1894. No systemic run occurred.²⁸ᵇ
+
+**The 1914 war outbreak** pushed the system to its breaking point. When Austria delivered its ultimatum to Serbia on July 23, markets crashed. By July 31, foreign exchange and money markets had broken down. The London Stock Exchange closed—staying closed for five unprecedented months. The government extended the bank holiday to four days. Depositors demanded gold sovereigns; banks rationed gold and paid out £5 notes instead (equivalent to £400 today—useless for small transactions). Long queues formed at the Bank of England. A newsboy was arrested for shouting "Run on the Bank."²⁸ᶜ
+
+Political authorities demanded the Bank raise its rate to **10 percent** as a condition for suspending the Bank Act. Governor Walter Cunliffe—described as "autocratic" and "a bully"—implemented the rate on August 1, 1914, the highest in the world. Emergency measures followed: "Bradburys" (Treasury currency notes) as paper substitutes for gold sovereigns, a general moratorium legalizing suspension of contracts, and the "Cold Storage Scheme" (August 12) where the Bank bought £350 million in "derelict" pre-war bills under Treasury guarantee—almost 40 percent of the money market.²⁸ᵈ
+
+The political pressure was extreme. In 1917, Cunliffe tried to countermand Treasury orders about Canadian gold reserves. Lloyd George threatened to "take over the Bank" and presented a statement for Cunliffe to sign. Lloyd George told Parliament: "I think we have done for the banks as much as ever they could have expected...We did it to enable them to finance trade...If government is prepared to take risks, they must take risks as well." The gold standard was technically maintained, but gold was unavailable to private citizens in practice. State intervention totaled £200 million—9 percent of GDP, unprecedented in peacetime.²⁸ᵉ
+
+These crises revealed that the Bank's low reserve ratios worked only because of three factors: **international cooperation** (Baring Crisis), **government backstops** (1914 emergency measures), and **political tolerance** of the Bank's independence. When any factor weakened, the system teetered. The Bank was not a passive mechanism but an institution constantly negotiating between market forces, political pressures, and international obligations. Its success depended less on gold than on the credibility earned through 200 years of prudent management—and the willingness of other central banks and governments to support it when crises struck.²⁸ᶠ
+
+---
+
 ### Why foreigners accepted sterling
 
 The gold standard's genius was that it made British promises credible to people who had no stake in British institutions. A German banker lending to an English railway company did not care about Parliament or the Bank of England's charter. He cared about one thing: could he **convert** his sterling claims into gold if needed?²⁹

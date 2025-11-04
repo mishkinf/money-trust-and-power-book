@@ -18,7 +18,27 @@ Egypt followed a similar model. Grain stored in state granaries served as both s
 
 China’s earliest dynasties show the same pattern. By the first millennium BCE, the Zhou court kept elaborate registers of tribute and land rent. Paper instruments appeared by the Tang and Song eras: lightweight *jiaozi* notes redeemable in coin or goods, originally issued by merchant guilds and later monopolized by the state. The government accepted these notes for taxes, giving them legal value—proof that fiat currency long predates modern central banks.⁶
 
-In all these societies, the essence of money was **trust**, not metal. As long as the authority that issued the credit could also collect taxes, its promises held. When that authority weakened—through war, drought, or rebellion—the notes lost value. Money’s history, in other words, is inseparable from sovereignty.
+In all these societies, the essence of money was **trust**, not metal. As long as the authority that issued the credit could also collect taxes, its promises held. When that authority weakened—through war, drought, or rebellion—the notes lost value. Money's history, in other words, is inseparable from sovereignty.
+
+---
+
+### The metallist challenge
+
+The credit-first interpretation faces a serious intellectual challenge from the **metallist** school, which argues that money must have originated from commodity exchange. The strongest version of this argument comes from Ludwig von Mises's **Regression Theorem** (1912), which presents what appears to be a logical proof that credit money is impossible without prior commodity money.
+
+Mises reasoned as follows: money's value today depends on people's expectation of its purchasing power tomorrow. Tomorrow's value depends on the next day's expectation, and so on. Tracing this chain backward, we eventually reach a day when the monetary commodity had only **commodity value**—when gold was valued for jewelry or silver for tableware, before either circulated as money. This, Mises argued, proves that money **must** originate from a commodity with prior use-value. It cannot emerge from government fiat or pure credit, because there would be no way to "bootstrap" the initial value.⁶ᵃ
+
+The argument is elegant and has never been fully refuted on its own terms. Carl Menger, founder of the Austrian School, made a similar point in 1892: money emerged as "the spontaneous outcome, the unpremeditated resultant, of particular, individual efforts" as people gradually recognized certain commodities' superior "saleableness." This spontaneous-order narrative directly contradicts the state-creation theory.⁶ᵇ
+
+The archaeological evidence from Mesopotamia admits alternative interpretations. While temple ledgers clearly recorded debts, those debts were often denominated in **silver by weight**—the shekel was originally a unit of weight, not a coin. Physical artifacts include "spiral coils of silver, lengths of which were snipped off to pay debts." Denise Schmandt-Besserat's research on 8,162 clay tokens from the fourth millennium BCE shows each token represented "a specified quantity of a particular commodity"—suggesting commodity-based accounting rather than pure abstraction.⁶ᶜ
+
+Metallists argue that even temple "credits" were ultimately claims on actual stored commodities, not pure abstractions. The requirement that temple notes be convertible to grain or silver means they differed fundamentally from modern fiat currency. The unit of account may have been abstract, but the settlement medium was tangible. This interpretation suggests that credit and commodity money coevolved rather than credit preceding commodity entirely.⁶ᵈ
+
+The debate matters because it shapes how we understand money's essential nature. If metallists are correct that money must originate from commodity value, then fiat currency is a recent deviation from money's natural form—a deviation that might prove unsustainable. If chartalists are correct that money originated as credit backed by institutional authority, then commodity money was merely a transitional phase, and fiat currency represents a return to money's original form.
+
+The evidence presented in this chapter supports the chartalist interpretation: sophisticated credit systems operated for centuries before widespread commodity money, and taxation authority—not commodity backing—drove currency acceptance. But intellectual honesty requires acknowledging the metallist challenge. The Regression Theorem identifies a real puzzle: how does purely abstract money acquire initial value? The chartalist answer—that state power to tax creates value from the start—is theoretically coherent but historically difficult to prove for the earliest monetary systems.
+
+What the evidence does show conclusively is that once monetary systems were established, **institutional credibility mattered more than commodity backing**. Temple credits worked when temples were powerful; they failed when temples weakened. Tally sticks worked when the English crown could enforce taxation; they were worthless abroad where that power didn't reach. The pattern holds across millennia: trust in institutions, not faith in metal, determined whether money functioned.⁶ᵉ
 
 ---
 

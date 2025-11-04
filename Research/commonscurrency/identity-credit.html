@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Identity & Decentralized Credit | Commons Currency</title>
+
+  <!-- SEO Meta Tags -->
+  <meta name="title" content="Identity & Decentralized Credit | Commons Currency">
+  <meta name="description"
+    content="Proof of personhood, zero-knowledge creditworthiness proofs, and how Commons enables unsecured lending without over-collateralization while preserving privacy.">
+  <meta name="author" content="Commons Currency Initiative">
+  <meta name="keywords"
+    content="decentralized credit, proof of personhood, zero-knowledge proofs, creditworthiness, unsecured lending, decentralized identity, DeFi credit, privacy-preserving credit">
+  <meta name="robots" content="index, follow">
+  <meta name="language" content="English">
+  <link rel="canonical" href="https://commonscurrency.org/identity-credit.html">
+
+  <!-- Open Graph / Facebook / WhatsApp -->
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://commonscurrency.org/identity-credit.html">
+  <meta property="og:title" content="Identity & Decentralized Credit | Commons Currency">
+  <meta property="og:description"
+    content="Proof of personhood, zero-knowledge creditworthiness proofs, and how Commons enables unsecured lending without over-collateralization while preserving privacy.">
+  <meta property="og:image" content="https://commonscurrency.org/favicon.png">
+  <meta property="og:site_name" content="Commons Currency">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://commonscurrency.org/identity-credit.html">
+  <meta property="twitter:title" content="Identity & Decentralized Credit | Commons Currency">
+  <meta property="twitter:description"
+    content="Proof of personhood, zero-knowledge creditworthiness proofs, and how Commons enables unsecured lending without over-collateralization while preserving privacy.">
+  <meta property="twitter:image" content="https://commonscurrency.org/favicon.png">
+  <meta name="twitter:creator" content="@CommonsCurrency">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="apple-touch-icon" href="favicon.png">
+
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "TechArticle",
+      "headline": "Identity & Decentralized Credit",
+      "description": "Proof of personhood, zero-knowledge creditworthiness proofs, and how Commons enables unsecured lending without over-collateralization while preserving privacy.",
+      "author": {
+        "@type": "Organization",
+        "name": "Commons Currency"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Commons Currency",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://commonscurrency.org/favicon.png"
+        }
+      },
+      "datePublished": "2025-10-20",
+      "dateModified": "2025-10-20"
+    }
+  </script>
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0QMMVJE36S"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-0QMMVJE36S');
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <nav>
+    <div class="container">
+      <a href="index.html" class="logo">Commons Currency</a>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="proposals.html">Proposals</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container">
+    <div class="proposal-content">
+
+      <p class="breadcrumbs"><a href="proposals.html">← Proposals</a> / Identity & Decentralized Credit</p>
+
+      <h1>Identity, Privacy, and Decentralized Credit</h1>
+
+      <p class="intro-text">Commons Currency solves the fundamental challenge of decentralized credit through a
+        sophisticated identity layer that ties financial history to unique human identities while preserving privacy
+        through zero-knowledge proofs.</p>
+
+      <h2>The Fundamental Challenge</h2>
+
+      <p>Traditional cryptocurrencies face a critical limitation for lending: <span class="highlight">users can create
+          unlimited anonymous wallets with no linkage between them.</span> A borrower could default on loans in one
+        wallet, abandon it, and appear as a pristine new borrower with a fresh wallet address. Lenders have no way to
+        assess true creditworthiness or financial history.</p>
+
+      <p>This forces crypto lending into two unsatisfactory models:</p>
+
+      <ul>
+        <li><strong>Over-collateralized loans:</strong> Borrowers must lock up 150-200% of loan value in crypto assets,
+          making loans useless for those who need capital most</li>
+        <li><strong>Centralized credit checks:</strong> Traditional banks that require full KYC and credit bureau data,
+          sacrificing privacy and excluding the unbanked</li>
+      </ul>
+
+      <p><span class="highlight">Commons Currency solves this through a sophisticated identity layer that ties financial
+          history to unique human identities while preserving privacy through zero-knowledge proofs.</span></p>
+
+      <h2>Identity Foundation: Proof of Personhood</h2>
+
+      <p>The system requires that users establish a verified digital identity tied to their unique personhood. This can
+        be accomplished through multiple approaches:</p>
+
+      <h3>Biometric Proof of Personhood</h3>
+
+      <p>Systems like Worldcoin's World ID use biometric verification (iris scanning via the Orb device) to create a
+        cryptographic proof that a person is unique without storing the biometric data itself.</p>
+
+      <p><span class="highlight">The key insight: you prove you're a unique human who hasn't registered before, but the
+          system doesn't store or reveal who you are.</span></p>
+
+      <p>When a user verifies through World ID, they receive a cryptographic credential proving "this is a unique human,
+        identity #X." This credential is bound to their digital wallet but reveals nothing about their real-world
+        identity.</p>
+
+      <h3>Government-Issued Identity Integration</h3>
+
+      <p>Alternatively or complementarily, government-issued IDs can serve as the personhood anchor. Many countries are
+        developing digital identity systems (Estonia's e-Residency, India's Aadhaar, EU's eIDAS).</p>
+
+      <p><span class="highlight">A user could verify once with their government ID to establish their Commons identity,
+          then transact privately without exposing their ID repeatedly.</span></p>
+
+      <p><strong>The government ID verification process:</strong></p>
+
+      <ol>
+        <li>User presents government ID to an authorized verifier (bank, government office, or trusted digital service)
+        </li>
+        <li>Verifier confirms identity and checks the user hasn't already registered</li>
+        <li>System issues a verifiable credential to the user's wallet: "This wallet belongs to a verified unique
+          citizen of Country X"</li>
+        <li>The actual ID details are not stored on the blockchain—only the cryptographic proof of verification</li>
+      </ol>
+
+      <h3>Hybrid Approach</h3>
+
+      <p>The governance assembly might endorse multiple proof-of-personhood methods to maximize global inclusion:</p>
+
+      <ul>
+        <li><strong>Biometric systems:</strong> For privacy-conscious users who prefer not to involve government</li>
+        <li><strong>Government ID:</strong> For those with existing digital ID infrastructure</li>
+        <li><strong>Community attestation:</strong> For rural areas without access to either option</li>
+      </ul>
+
+      <p><strong>Critical rule: Each person can have only ONE verified identity on the network.</strong> This is
+        enforced through the proof-of-personhood mechanism, whether biometric uniqueness or government ID uniqueness
+        checks.</p>
+
+      <h2>Credit History Accumulation</h2>
+
+      <p>Once a user has a verified identity, <span class="highlight">all financial activity tied to that identity
+          accumulates into a unified credit history, even if the user operates multiple wallets.</span></p>
+
+      <h3>How It Works</h3>
+
+      <ul>
+        <li><strong>Identity-Wallet Binding:</strong> Users can link multiple wallet addresses to their single verified
+          identity. Think of it like having multiple bank accounts all tied to your social security number.</li>
+        <li><strong>Credit Events as Verifiable Credentials:</strong> When a user takes a loan and repays it, the lender
+          issues a verifiable credential to the user's identity: "Identity #X borrowed 10,000 CU on date Y, repaid in
+          full on date Z with no late payments."</li>
+        <li><strong>Cryptographically Signed:</strong> These credentials are digitally signed by the lender and stored
+          in the user's decentralized identity wallet (off-chain or in encrypted storage).</li>
+        <li><strong>Tamper-Proof:</strong> Because credentials are signed by the issuer, they cannot be faked or
+          modified. Lenders trust them because they can cryptographically verify the issuer's signature.</li>
+      </ul>
+
+      <h2>Zero-Knowledge Creditworthiness Proofs</h2>
+
+      <p>Now comes the powerful part: <span class="highlight">users can prove facts about their credit history without
+          revealing the underlying details.</span> This is where zero-knowledge proofs enable the breakthrough.</p>
+
+      <h3>How a Loan Application Works</h3>
+
+      <p>When Alice applies for an unsecured 5,000 CU loan from a DeFi lending pool:</p>
+
+      <ol>
+        <li><strong>Alice presents a ZK proof:</strong> "I am a verified unique person who has taken at least 3 previous
+          loans totaling more than 20,000 CU, all repaid on time with zero defaults in the past 2 years."</li>
+        <li><strong>The lending protocol verifies the proof cryptographically</strong> without learning:
+          <ul>
+            <li>Who Alice is in the real world</li>
+            <li>The exact number of loans (just that it's ≥3)</li>
+            <li>The exact amounts (just that total ≥20,000 CU)</li>
+            <li>Which lenders she borrowed from</li>
+            <li>What the loans were for</li>
+          </ul>
+        </li>
+        <li><strong>The protocol sees only:</strong> "This identity meets our creditworthiness threshold" and approves
+          the loan with appropriate terms (interest rate, duration).</li>
+      </ol>
+
+      <p>Contrast this with traditional credit checks where the lender sees your full credit report (every loan, every
+        purchase on credit, every late payment, your address, social security number, etc.).</p>
+
+      <h3>Preventing Default and Restart</h3>
+
+      <p>The identity binding prevents the classic crypto lending problem: <strong>If Alice defaults on the loan, that
+          default becomes part of her identity's permanent history.</strong></p>
+
+      <ul>
+        <li>The lender issues a credential: "Identity #X defaulted on 5,000 CU loan on date Y"</li>
+        <li>This credential is cryptographically bound to Alice's identity (whether she likes it or not—the blockchain
+          recorded the loan and non-repayment)</li>
+        <li>Alice cannot create a fresh identity and wallet to escape this history—proof of personhood prevents
+          duplicate registrations</li>
+        <li>When Alice tries to borrow again (from any lender), her ZK proof would reveal: "This identity has 1 default
+          in the past year" and lenders can decline or offer higher-risk terms</li>
+      </ul>
+
+      <p><span class="highlight">This creates real accountability without sacrificing privacy: you can't game the system
+          by abandoning bad wallets, but your entire financial life isn't exposed to the world.</span></p>
+
+      <h2>Selective Disclosure and Privacy Controls</h2>
+
+      <p>Users maintain control over what they prove and to whom:</p>
+
+      <ul>
+        <li><strong>For small loans:</strong> Prove only basic facts ("verified human with no defaults")</li>
+        <li><strong>For larger loans:</strong> Prove more detailed history ("5+ years of on-time payments, income
+          verification credential from employer")</li>
+        <li><strong>For compliance:</strong> Prove to regulators "I'm not on sanctions lists" without revealing
+          transaction details</li>
+        <li><strong>For privacy:</strong> Transact using shielded addresses where amounts and recipients are hidden,
+          then selectively reveal for creditworthiness when needed</li>
+      </ul>
+
+      <h2>Building Credit from Zero</h2>
+
+      <p>For the unbanked who have no credit history, the system enables bootstrapping:</p>
+
+      <ul>
+        <li><strong>Micro-loans:</strong> Start with small, short-term loans (100 CU for 1 month) to build initial
+          credentials</li>
+        <li><strong>On-chain activity:</strong> Regular bill payments via smart contracts, consistent savings behavior,
+          and merchant transactions can all generate positive credentials</li>
+        <li><strong>Community attestations:</strong> Local community banks or cooperatives can issue credentials based
+          on character references and local knowledge</li>
+        <li><strong>Income verification:</strong> Employers can issue credentials confirming employment and income
+          ranges without revealing exact salary</li>
+      </ul>
+
+      <p><span class="highlight">This democratizes credit: someone in a developing country with no traditional bank
+          account can build verifiable creditworthiness through on-chain behavior, then access global capital
+          markets.</span></p>
+
+      <h2>Technical Implementation</h2>
+
+      <p>The identity and credit system uses several technical components:</p>
+
+      <ul>
+        <li><strong>Decentralized Identifiers (DIDs):</strong> W3C standard for self-sovereign identity that users
+          control via private keys</li>
+        <li><strong>Verifiable Credentials:</strong> Digitally signed attestations from issuers (lenders, employers,
+          government agencies) stored in user's encrypted wallet</li>
+        <li><strong>ZK-SNARKs:</strong> Zero-knowledge succinct proofs that can prove statements about credentials
+          without revealing the credentials themselves</li>
+        <li><strong>On-chain registries:</strong> Proof-of-personhood anchors and revocation lists on the blockchain for
+          verification</li>
+        <li><strong>Off-chain storage:</strong> Detailed credential data stored encrypted by the user, with only proofs
+          and hashes on-chain</li>
+      </ul>
+
+      <h2>Privacy Layers</h2>
+
+      <p>The system implements privacy at multiple levels:</p>
+
+      <ul>
+        <li><strong>Transaction privacy:</strong> Optional shielded transactions where amounts and parties are encrypted
+          (like Zcash)</li>
+        <li><strong>Identity privacy:</strong> Pseudonymous identities—"Identity #XYZ" rather than real names on-chain
+        </li>
+        <li><strong>Selective disclosure:</strong> ZK proofs reveal only what's necessary for each specific interaction
+        </li>
+        <li><strong>National account transparency:</strong> Government accounts remain transparent for accountability,
+          but individual citizens' accounts are private by default</li>
+      </ul>
+
+      <h2>The Breakthrough</h2>
+
+      <p><strong>Result: A system where creditworthiness assessments work without over-collateralization, lenders have
+          confidence in borrower history, but individual financial privacy is preserved and users maintain control over
+          their data.</strong></p>
+
+      <p>This solves the impossible trilemma of crypto lending:</p>
+
+      <ul>
+        <li>✓ Unsecured lending (no 200% collateral requirement)</li>
+        <li>✓ Privacy preservation (no full exposure of financial history)</li>
+        <li>✓ Accountability (can't abandon bad credit and start fresh)</li>
+      </ul>
+
+      <p><span class="highlight">For the first time, we can have true decentralized credit markets that serve the
+          billions who need capital most, without sacrificing privacy or enabling fraud.</span></p>
+
+      <div class="doc-navigation">
+        <a href="blockchain-tech.html">← Previous: Blockchain Infrastructure</a>
+        <a href="bonds-financial.html">Next: Bonds & Financial Services →</a>
+      </div>
+
+    </div>
+  </div>
+
+  <style>
+    .breadcrumbs {
+      color: #666;
+      font-size: 0.9rem;
+      margin-bottom: 2rem;
+    }
+
+    .breadcrumbs a {
+      color: #666;
+      text-decoration: none;
+    }
+
+    .breadcrumbs a:hover {
+      text-decoration: underline;
+    }
+
+    .doc-navigation {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 4rem;
+      padding-top: 2rem;
+      border-top: 1px solid #e0e0e0;
+    }
+
+    .doc-navigation a {
+      color: #333;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .doc-navigation a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</body>
+
+</html>

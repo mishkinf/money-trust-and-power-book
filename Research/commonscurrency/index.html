@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Commons Currency Monetary System | A Global Monetary Initiative</title>
+
+  <!-- SEO Meta Tags -->
+  <meta name="title" content="Commons Currency Monetary System | A Global Monetary Initiative">
+  <meta name="description"
+    content="A non-profit initiative building a democratically governed global currency with fiscal autonomy for sovereign nations. Join our mission for a more equitable monetary system.">
+  <meta name="author" content="Commons Currency Initiative">
+  <meta name="keywords"
+    content="global currency, democratic governance, fiscal autonomy, monetary system, non-profit, international finance, world currency, global economy, commons currency, bancor, keynes">
+  <meta name="robots" content="index, follow">
+  <meta name="language" content="English">
+  <meta name="revisit-after" content="7 days">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link rel="canonical" href="https://commonscurrency.org/">
+
+  <!-- Open Graph / Facebook / WhatsApp / Instagram -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://commonscurrency.org/">
+  <meta property="og:title" content="Commons Currency Monetary System | A Global Monetary Initiative">
+  <meta property="og:description"
+    content="A non-profit initiative building a democratically governed global currency with fiscal autonomy for sovereign nations.">
+  <meta property="og:image" content="https://commonscurrency.org/favicon.png">
+  <meta property="og:site_name" content="Commons Currency">
+  <meta property="og:locale" content="en_US">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://commonscurrency.org/">
+  <meta property="twitter:title" content="Commons Currency Monetary System | A Global Monetary Initiative">
+  <meta property="twitter:description"
+    content="A non-profit initiative building a democratically governed global currency with fiscal autonomy for sovereign nations.">
+  <meta property="twitter:image" content="https://commonscurrency.org/favicon.png">
+  <meta name="twitter:creator" content="@CommonsCurrency">
+
+  <!-- LinkedIn -->
+  <meta property="linkedin:card" content="summary_large_image">
+  <meta property="linkedin:title" content="Commons Currency Monetary System | A Global Monetary Initiative">
+  <meta property="linkedin:description"
+    content="A non-profit initiative building a democratically governed global currency with fiscal autonomy for sovereign nations.">
+  <meta property="linkedin:image" content="https://commonscurrency.org/favicon.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="apple-touch-icon" href="favicon.png">
+  <link rel="shortcut icon" href="favicon.png">
+
+  <!-- Mobile Specific -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Commons Currency">
+  <meta name="application-name" content="Commons Currency">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="theme-color" content="#ffffff">
+
+  <!-- Structured Data / Schema.org -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Commons Currency",
+      "url": "https://commonscurrency.org",
+      "logo": "https://commonscurrency.org/favicon.png",
+      "description": "A non-profit initiative building a democratically governed global currency with fiscal autonomy for sovereign nations.",
+      "sameAs": [
+        "https://twitter.com/CommonsCurrency",
+        "https://linkedin.com/company/commons-currency",
+        "https://facebook.com/CommonsCurrency"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "join@commonscurrency.org",
+        "contactType": "customer support"
+      }
+    }
+  </script>
+
+  <!-- Structured Data for WebPage -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Commons Currency Monetary System",
+      "description": "A non-profit initiative building a democratically governed global currency with fiscal autonomy for sovereign nations.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Commons Currency"
+      },
+      "inLanguage": "en-US"
+    }
+  </script>
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0QMMVJE36S"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-0QMMVJE36S');
+  </script>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&display=swap" rel="stylesheet">
+
+  <!-- External Styles -->
+  <link rel="stylesheet" href="styles.css">
+
+  <!-- Styles for Globe -->
+  <style>
+    #chartdiv {
+      width: 100%;
+      height: 500px;
+      max-width: 100%;
+      margin: 0 auto;
+      touch-action: none;
+      /* Prevents touch events from triggering default behavior */
+      pointer-events: none;
+      /* Disables pointer events on mobile */
+    }
+
+    /* Re-enable pointer events on desktop */
+    @media (min-width: 769px) {
+      #chartdiv {
+        pointer-events: auto;
+      }
+    }
+
+    .multilingual {
+      text-align: center;
+      padding: 10px 0;
+      overflow: hidden;
+      height: 35px;
+      margin: 0 auto 10px;
+      font-family: 'Montserrat', sans-serif;
+      position: relative;
+    }
+
+    .multilingual p {
+      margin: 0;
+      font-size: 1rem;
+      position: absolute;
+      width: 100%;
+      text-align: center;
+      opacity: 0;
+      transform: translateY(20px);
+      transition: opacity 0.5s, transform 0.5s;
+    }
+
+    .multilingual p.active {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .globe-section {
+      margin: 0 auto 3rem;
+      position: relative;
+      max-width: 680px;
+    }
+
+    @keyframes gradientShift {
+      0% {
+        background-position: 0% 50%;
+      }
+
+      50% {
+        background-position: 100% 50%;
+      }
+
+      100% {
+        background-position: 0% 50%;
+      }
+    }
+
+    h1.title {
+      animation: gradientShift 8s ease infinite;
+    }
+
+    /* Mobile optimizations for globe */
+    @media (max-width: 768px) {
+      #chartdiv {
+        height: 350px;
+      }
+
+      .globe-section {
+        margin-bottom: 2rem;
+      }
+    }
+  </style>
+
+  <!-- Resources for Globe -->
+  <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
+  <script src="https://cdn.amcharts.com/lib/5/map.js"></script>
+  <script src="https://cdn.amcharts.com/lib/5/geodata/worldLow.js"></script>
+  <script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
+
+  <!-- Chart code for Globe -->
+  <script>
+    am5.ready(function () {
+      // Create root element
+      var root = am5.Root.new("chartdiv");
+
+      // Set themes
+      root.setThemes([
+        am5themes_Animated.new(root)
+      ]);
+
+      // Detect if mobile device
+      var isMobile = window.innerWidth < 769;
+
+      // Create the map chart
+      var chart = root.container.children.push(am5map.MapChart.new(root, {
+        panX: isMobile ? "none" : "rotateX", // Disable pan on mobile
+        panY: isMobile ? "none" : "rotateY", // Disable pan on mobile
+        projection: am5map.geoOrthographic(),
+        paddingBottom: 20,
+        paddingTop: 20,
+        paddingLeft: 20,
+        paddingRight: 20
+      }));
+
+      // Create main polygon series for countries
+      var polygonSeries = chart.series.push(am5map.MapPolygonSeries.new(root, {
+        geoJSON: am5geodata_worldLow
+      }));
+
+      polygonSeries.mapPolygons.template.setAll({
+        tooltipText: "{name}",
+        toggleKey: "active",
+        interactive: !isMobile // Disable interaction on mobile
+      });
+
+      polygonSeries.mapPolygons.template.states.create("hover", {
+        fill: root.interfaceColors.get("primaryButtonHover")
+      });
+
+      // Create series for background fill
+      var backgroundSeries = chart.series.push(am5map.MapPolygonSeries.new(root, {}));
+      backgroundSeries.mapPolygons.template.setAll({
+        fill: root.interfaceColors.get("alternativeBackground"),
+        fillOpacity: 0.1,
+        strokeOpacity: 0
+      });
+      backgroundSeries.data.push({
+        geometry: am5map.getGeoRectangle(90, 180, -90, -180)
+      });
+
+      // Create graticule series
+      var graticuleSeries = chart.series.push(am5map.GraticuleSeries.new(root, {}));
+      graticuleSeries.mapLines.template.setAll({ strokeOpacity: 0.1, stroke: root.interfaceColors.get("alternativeBackground") })
+
+      // Rotate animation
+      chart.animate({
+        key: "rotationX",
+        from: 0,
+        to: 360,
+        duration: 30000,
+        loops: Infinity
+      });
+
+      // Make stuff animate on load
+      chart.appear(1000, 100);
+
+      // Handle window resize
+      window.addEventListener('resize', function () {
+        var isMobile = window.innerWidth < 769;
+
+        // Update chart configuration for mobile/desktop
+        chart.set("panX", isMobile ? "none" : "rotateX");
+        chart.set("panY", isMobile ? "none" : "rotateY");
+
+        // Update polygon interaction
+        polygonSeries.mapPolygons.template.set("interactive", !isMobile);
+      });
+    }); // end am5.ready()
+  </script>
+</head>
+
+<body>
+  <!-- Navigation -->
+  <nav>
+    <div class="container">
+      <a href="index.html" class="logo">Commons Currency</a>
+      <ul>
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="charter.html">The Charter</a></li>
+        <li><a href="proposals.html">Proposals</a></li>
+        <li><a href="faq.html">FAQ</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container">
+    <header>
+      <h1 class="title">Commons Currency Monetary System</h1>
+      <div class="nonprofit-badge">Non-Profit Initiative</div>
+      <div class="multilingual" id="multilingual">
+        <p class="active">A global monetary system for all nations</p>
+        <p>Un sistema monetario global para todas las naciones (Spanish)</p>
+        <p>适用于所有国家的全球货币体系 (Chinese/Mandarin)</p>
+        <p>सभी देशों के लिए एक वैश्विक मौद्रिक प्रणाली (Hindi)</p>
+        <p>نظام نقدي عالمي لجميع الدول (Arabic)</p>
+        <p>Um sistema monetário global para todas as nações (Portuguese)</p>
+        <p>Глобальная валютная система для всех стран (Russian)</p>
+        <p>すべての国のためのグローバル通貨システム (Japanese)</p>
+        <p>Un système monétaire mondial pour toutes les nations (French)</p>
+        <p>Sebuah sistem moneter global untuk semua negara (Indonesian)</p>
+        <p>Một hệ thống tiền tệ toàn cầu cho tất cả các quốc gia (Vietnamese)</p>
+        <p>모든 국가를 위한 글로벌 통화 시스템 (Korean)</p>
+        <p>Ein globales Währungssystem für alle Nationen (German)</p>
+        <p>Küresel bir para sistemi tüm uluslar için (Turkish)</p>
+        <p>Un sistema monetario globale per tutte le nazioni (Italian)</p>
+        <p>Sistem monetar global pentru toate națiunile (Romanian)</p>
+        <p>Globalni monetarni sistem za sve nacije (Serbian/Croatian)</p>
+        <p>Globalny system walutowy dla wszystkich narodów (Polish)</p>
+        <p>ระบบการเงินระดับโลกสำหรับทุกประเทศ (Thai)</p>
+        <p>Система глобальної валюти для всіх націй (Ukrainian)</p>
+        <p>Globális pénzügyi rendszer minden nemzet számára (Hungarian)</p>
+        <p>גלאבאלע געלט סיסטעם פֿאַר אַלע נאַציאָנען (Yiddish)</p>
+        <p>Mfumo wa fedha wa kimataifa kwa mataifa yote (Swahili)</p>
+        <p>Sistemang pananalapi sa buong mundo para sa lahat ng bansa (Filipino)</p>
+        <p>Hệ thống tiền tệ toàn cầu cho tất cả các quốc gia (Vietnamese)</p>
+      </div>
+    </header>
+
+    <!-- Globe visualization -->
+    <div class="globe-section">
+      <div id="chartdiv"></div>
+    </div>
+
+    <div class="intro-section">
+      <h3>Introducing Commons Currency</h3>
+      <p class="intro-text">A proposal for a new global currency—created, governed and continuously refined by a truly
+        democratic assembly of representatives drawn from every region of the world.</p>
+
+      <p class="intro-text">We're building an open, participatory process to select and empower delegates, debate
+        monetary rules, and ratify a global monetary union designed to serve people (not states or elites). Join us as
+        we grow a worldwide body to define and steward the first democratically governed global currency.</p>
+    </div>
+
+    <!-- Teaser Video -->
+    <div class="video-section">
+      <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/oaaQ_LHpvW8" title="Commons Currency Teaser Video" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+
+    <section>
+      <h2>The Opportunity</h2>
+      <p>Humanity possesses unprecedented resources, technology, and knowledge to solve our greatest challenges—climate
+        change, healthcare access, infrastructure needs, economic security. We have idle workers ready to build, unused
+        factories capable of producing, and unmet needs waiting to be addressed. <span class="highlight">What we lack is
+          a monetary system that enables coordinated action without forcing nations into impossible choices.</span></p>
+      <p>The current system creates artificial constraints: nations with dollar-denominated debt face devastating choices
+        between crushing domestic growth or accepting currency collapses. Austerity measures imposed during crises
+        prevent countries from mobilizing their own resources to solve their own problems. This isn't inevitable—it's a
+        design flaw we can fix.</p>
+    </section>
+
+    <section>
+      <h2>The Solution</h2>
+      <p>Commons Currency enables nations to invest in solving real problems—building infrastructure, training workers,
+        developing clean energy, providing healthcare—without the artificial financial constraints that force
+        unnecessary austerity. <span class="highlight">The real constraint isn't money; it's productive capacity.
+          Commons helps nations mobilize idle resources to create genuine value.</span></p>
+      <p>Unlike institutions dominated by powerful economies, Commons ensures every nation has an equal say through
+        one-nation-one-vote governance. Inspired by Keynes's Bancor proposal, it introduces balance-correction
+        mechanisms that address trade imbalances without forcing struggling economies into harsh austerity.</p>
+      <p><span class="highlight">Blockchain-based ledgers guarantee transparency and accountability, eliminating
+          backroom manipulation. Nations maintain fiscal autonomy—the freedom to invest in their own priorities—while
+          operating within collaborative guidelines that ensure global stability.</span></p>
+      <p>This creates a foundation for genuine cooperation: nations can pursue full employment, invest in their people,
+        and solve shared challenges like climate change—not through zero-sum competition, but through coordinated
+        action that benefits everyone.</p>
+
+      <div style="background: #f9f9f9; padding: 1.5rem; border-left: 4px solid #333; margin: 2rem 0;">
+        <p style="margin: 0;"><strong>Why not Bitcoin?</strong> Bitcoin is not money—it fails as a medium of exchange,
+          unit of account, and store of value. Its deflationary design would cause economic harm, not solve problems. It
+          has no governance to respond to crises, wastes massive energy, and doesn't address dollar hegemony, trade
+          imbalances, or unemployment. <a href="bitcoin-critique.html"
+            style="color: #000; text-decoration: underline;">Read the full analysis →</a></p>
+      </div>
+    </section>
+
+    <section>
+      <h2>How It Works</h2>
+      <p>Commons enables nations to issue currency for productive investment—infrastructure, education, healthcare,
+        climate solutions—within democratic quotas based on real economic capacity. <span class="highlight">When you
+          have unemployed workers and unmet needs, the constraint isn't money—it's organizing resources
+          effectively.</span> Commons provides the monetary architecture to do exactly that.</p>
+      <p>Automatic mechanisms prevent persistent trade imbalances: surplus countries systematically recycle their excess
+        through investments into deficit nations, maintaining equilibrium without forcing austerity. This creates a
+        virtuous cycle where surplus nations profit from productive investments while deficit nations build capacity.</p>
+      <p>Unlike current systems that sacrifice sovereignty for stability, Commons enhances both. Governments retain the
+        freedom to invest in citizen priorities while benefiting from safeguards against speculation and manipulation.
+        <span class="highlight">The result: nations can mobilize their resources to solve problems, create meaningful
+          work, and build prosperity—not as an abstract promise, but as a practical reality.</span>
+      </p>
+    </section>
+
+    <section>
+      <h2>Principles</h2>
+      <ul>
+        <li>• Money as a public good</li>
+        <li>• Value creation before value extraction</li>
+        <li>• Monetary democracy, not hegemony</li>
+        <li>• Inflation control without austerity</li>
+        <li>• Full transparency of monetary operations</li>
+        <li>• National fiscal autonomy with guardrails for global stability</li>
+        <li>• Political neutrality and global unity</li>
+        <li>• The right to work is a fundamental human right</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Our Vision</h2>
+      <p>Commons envisions a world economy built on unity, fairness, and transparency—where money serves humanity, not
+        geopolitics or private interests. We see economic cooperation as the key to a peaceful, stable world. Our vision
+        respects every nation's cultural diversity and domestic sovereignty while fostering solidarity through a global
+        financial system.</p>
+      <p><span class="highlight">Economic empowerment must be universal, accessible, and democratically governed.
+          Commons seeks no partisan interest, only the shared good of all humanity.</span></p>
+    </section>
+
+    <section>
+      <h2>Economic Rights for a Changing World</h2>
+      <p>In 1944, President Franklin Roosevelt proposed a Second Bill of Rights—economic rights as fundamental as our
+        political freedoms. As we face unprecedented disruption from automation and artificial intelligence, these
+        principles matter more than ever.</p>
+
+      <p><span class="highlight">Every person has the right to:</span></p>
+      <ul>
+        <li>• <strong>Meaningful work</strong> that provides fair compensation and dignity</li>
+        <li>• <strong>Economic security</strong> protecting against forces beyond individual control</li>
+        <li>• <strong>Healthcare, education, and housing</strong> as foundations of a decent life</li>
+        <li>• <strong>Protection from monopolies</strong> and unfair economic power</li>
+        <li>• <strong>Freedom from fear</strong> of unemployment, old age, sickness, and destitution</li>
+      </ul>
+
+      <p>As technology reshapes our economy, millions face displacement through no fault of their own. <span
+          class="highlight">This is not a threat—it's a call to action.</span> The same forces eliminating jobs can free
+        humanity to address our greatest challenges: building sustainable infrastructure, advancing medical research,
+        teaching, caring for communities, restoring our environment.</p>
+
+      <p><strong>But only if we build economic systems that value human contribution beyond market wages.</strong>
+        Commons creates the foundation for an economy where everyone can contribute meaningfully, regardless of what
+        automation disrupts. Where your value isn't determined by whether your job survived technological change, but by
+        what you can build, create, teach, heal, or restore.</p>
+
+      <p>This isn't about handouts—it's about recognizing that in a world of abundance created by technology, everyone
+        deserves the opportunity to contribute their talents and receive fair compensation. Whether you're a factory
+        worker facing automation, a programmer building new systems, or a retiree with decades of wisdom to share: your
+        contribution matters, and the economy should reflect that.</p>
+    </section>
+
+    <section id="join">
+      <h2>Join Us in Building This Future</h2>
+      <p>The world we envision—one of economic justice, democratic cooperation, and shared prosperity—can be built
+        through our collective efforts. The Commons Currency is in its formative stage, and we're inviting people from
+        all walks of life to help shape this proposal.</p>
+
+      <p><span class="highlight">If you've been left behind by globalization, if your industry is being automated away,
+          if you're worried about your children's economic future, if you're frustrated by a system rigged for the
+          powerful—this is your chance to build something better.</span> Not by tearing down, but by creating an
+        alternative that actually works for working people.</p>
+
+      <p>This is an open, participatory process welcoming everyone: high school students passionate about justice,
+        factory workers worried about automation, seasoned economists, software developers, truck drivers, teachers,
+        farmers, nurses, engineers, veterans, retirees with decades of hard-won experience, community organizers, or
+        anyone who believes their skills and labor deserve respect and fair compensation.</p>
+
+      <p><strong>Your perspective matters. Your voice counts.</strong> Age, credentials, and background are not barriers
+        here—only your willingness to contribute thoughtfully to a shared mission. The solutions to our greatest
+        challenges won't come from elites in ivory towers or board rooms. They'll come from people who've lived through
+        economic hardship, who understand what it means to work hard and still fall behind, who know in their bones that
+        the current system is broken.</p>
+
+      <p>We're seeking the best and brightest minds—and more importantly, those with the deepest commitment to serving
+        humanity. This is work driven by purpose, not profit. Many in our growing community contribute their time and
+        talents as an act of service, united by the conviction that building a more equitable world is its own reward.
+        <span class="highlight">Here, your value comes from what you contribute to solving real problems, not from a
+          paycheck that could be automated away tomorrow.</span>
+      </p>
+
+      <p>Your input will directly shape the principles, governance structures, and implementation strategies of this
+        emerging initiative. Join our community of economists, technologists, students, displaced workers, retirees,
+        small business owners, policymakers, and concerned citizens from around the globe—all working together to design
+        a currency system that serves humanity, not special interests.</p>
+
+      <p><strong>Every contribution matters. Every voice enriches the whole. The future is built by those who show
+          up.</strong></p>
+
+      <p>Whether you can code, write, organize, teach, analyze, or simply ask the right questions—there's a role for you
+        in building the economic system our children deserve. This is your opportunity to be part of something historic:
+        not just surviving economic disruption, but channeling it into a force for genuine prosperity and human dignity.
+      </p>
+
+      <p>Contact: <a href="mailto:join@commonscurrency.org"
+          style="color: #000; text-decoration: none; border-bottom: 1px solid #ccc;">join@commonscurrency.org</a></p>
+    </section>
+  </div>
+
+  <!-- Language rotation script -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      const multilingualElement = document.getElementById('multilingual');
+      const phrases = multilingualElement.querySelectorAll('p');
+      let currentIndex = 0;
+
+      function rotateLanguages() {
+        // Remove active class from current phrase
+        phrases[currentIndex].classList.remove('active');
+
+        // Move to next phrase or back to first
+        currentIndex = (currentIndex + 1) % phrases.length;
+
+        // Add active class to new current phrase
+        phrases[currentIndex].classList.add('active');
+      }
+
+      // Start rotation after a delay
+      setInterval(rotateLanguages, 3000);
+    });
+  </script>
+</body>
+
+</html>

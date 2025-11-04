@@ -78,6 +78,28 @@ The modern monetary system, based entirely on fiat currency and institutional cr
 
 ---
 
+### Learning from history: can it be done?
+
+The pattern revealed across five millennia suggests a hard truth: monetary systems typically change through crisis, not foresight. The gold standard collapsed not because economists proved it flawed but because governments faced impossible choices between gold convertibility and political survival. Bretton Woods ended not because of Robert Triffin's elegant critique but because the contradictions became unbearable. The question for our era is whether we can learn from history before crisis forces the lesson upon us.
+
+At Bretton Woods in 1944, John Maynard Keynes proposed exactly this: a supranational currency (bancor) managed through international cooperation, with automatic mechanisms to correct trade imbalances without forcing austerity on deficit countries. The proposal incorporated hard-won lessons from the gold standard's collapse and the catastrophic 1930s. It would have prevented the Triffin dilemma by pooling sovereignty and sharing the burden of liquidity provision. It was rejected. The United States, holding two-thirds of the world's monetary gold, had the power to impose a dollar-based system instead. Harry Dexter White's proposal won not because it was better designed but because American power made it inevitable.
+
+Eighty years later, the dollar system exhibits the same strains Keynes predicted. The Triffin dilemma has returned in new form—manifesting as persistent trade deficits and manufacturing decline rather than gold drain, but following the same logic. And the question resurfaces: could we design better, or are we condemned to repeat the pattern?
+
+Several contemporary initiatives attempt to apply monetary history's lessons. The **International Monetary Fund's Special Drawing Rights** could be expanded into a genuine reserve asset, building on Keynes's insight about pooled sovereignty. This requires coordination among powers with conflicting interests—the same obstacle that limited Keynes—but the institutional infrastructure exists. **Regional monetary unions**, proposed for Africa, Asia, and South America, would pool sovereignty to achieve scale while preserving more local control than a global currency. They follow the European model while attempting to avoid its flaws: asymmetric adjustment burdens and the lack of fiscal union. **Blockchain-based proposals** like the Commons Currency initiative seek to implement the chartalist understanding of money—that taxation drives currency demand, that currency issuers cannot run out of their own currency, that real constraints are productive capacity rather than finance—through democratic governance with one-nation-one-vote and automatic surplus recycling mechanisms.*
+
+Each approach addresses different aspects of the contemporary monetary order's weaknesses. SDR expansion works within existing power structures. Regional unions experiment with sovereignty-pooling at manageable scale. Democratic global currencies attempt to apply institutional money principles without great-power dominance. Whether any could overcome the political obstacles that defeated Keynes is uncertain.
+
+Monetary systems reflect power relationships. Powerful actors benefit from existing arrangements and resist change. The dollar's reserve status imposes costs on American manufacturing but provides enormous geopolitical advantages. China's surplus position creates domestic imbalances but funds industrial policy. The European Union's monetary union forces periodic crises but prevents competitive devaluations among members. Each actor has reasons to prefer muddling through to fundamental reform.
+
+History suggests that only crisis forces change. But history also suggests that systems designed in crisis—the gold standard's panicked reconstruction after 1821, Bretton Woods negotiated during wartime—encode the pressures of their moment and carry those contradictions forward. The opportunity exists to design better before catastrophe demands it. Whether we possess the political will to act on that opportunity remains to be seen.
+
+The lesson of five millennia is clear: money works when institutions are credible, and institutions earn credibility through demonstrated competence. Trust cannot be created by decree, cannot be sustained by coercion, cannot survive instrumental use for strategic advantage. The challenge is to build institutions worthy of trust and maintain them across generations—whether through reform of existing structures or creation of new ones.
+
+The experiment continues. The stakes are enormous. And history is watching to see whether we learned the lesson.
+
+---
+
 ### The lesson of history
 
 If there is a single lesson from five thousand years of monetary history, it is this: **money is what we make it**. It is not a natural phenomenon but a human creation, designed to serve human purposes. It works when the institutions behind it are credible and fails when they are not.

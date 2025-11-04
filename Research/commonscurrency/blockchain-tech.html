@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blockchain Infrastructure | Commons Currency</title>
+
+  <!-- SEO Meta Tags -->
+  <meta name="title" content="Blockchain Infrastructure | Commons Currency">
+  <meta name="description"
+    content="Comprehensive technical specification for Commons Currency blockchain: BFT consensus, parallel execution, cryptographic primitives, state machine design, security architecture, and network upgrades.">
+  <meta name="author" content="Commons Currency Initiative">
+  <meta name="keywords"
+    content="blockchain infrastructure, BFT consensus, Byzantine Fault Tolerant, parallel execution, cryptographic primitives, state machine, blockchain security, network architecture">
+  <meta name="robots" content="index, follow">
+  <meta name="language" content="English">
+  <link rel="canonical" href="https://commonscurrency.org/blockchain-tech.html">
+
+  <!-- Open Graph / Facebook / WhatsApp -->
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://commonscurrency.org/blockchain-tech.html">
+  <meta property="og:title" content="Blockchain Infrastructure | Commons Currency">
+  <meta property="og:description"
+    content="Comprehensive technical specification for Commons Currency blockchain: BFT consensus, parallel execution, cryptographic primitives, and security architecture.">
+  <meta property="og:image" content="https://commonscurrency.org/favicon.png">
+  <meta property="og:site_name" content="Commons Currency">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://commonscurrency.org/blockchain-tech.html">
+  <meta property="twitter:title" content="Blockchain Infrastructure | Commons Currency">
+  <meta property="twitter:description"
+    content="Comprehensive technical specification for Commons Currency blockchain: BFT consensus, parallel execution, cryptographic primitives, and security architecture.">
+  <meta property="twitter:image" content="https://commonscurrency.org/favicon.png">
+  <meta name="twitter:creator" content="@CommonsCurrency">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="apple-touch-icon" href="favicon.png">
+
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "TechArticle",
+      "headline": "Blockchain Infrastructure Technical Specification",
+      "description": "Comprehensive technical specification for Commons Currency blockchain including BFT consensus, parallel execution, cryptographic primitives, state machine design, and security architecture.",
+      "author": {
+        "@type": "Organization",
+        "name": "Commons Currency"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Commons Currency",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://commonscurrency.org/favicon.png"
+        }
+      },
+      "datePublished": "2025-10-20",
+      "dateModified": "2025-10-20"
+    }
+  </script>
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0QMMVJE36S"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-0QMMVJE36S');
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <nav>
+    <div class="container">
+      <a href="index.html" class="logo">Commons Currency</a>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="proposals.html">Proposals</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container">
+    <div class="proposal-content">
+
+      <p class="breadcrumbs"><a href="proposals.html">← Proposals</a> / Blockchain Infrastructure</p>
+
+      <h1>Blockchain Infrastructure</h1>
+
+      <p class="intro-text">Commons Currency will be implemented on a blockchain-based ledger purpose-built for global
+        scale and public sector use. The architecture leverages modern high-performance designs that achieve massive
+        scalability natively—delivering a user experience anyone can use.</p>
+
+      <h2>Design Philosophy</h2>
+
+      <p><span class="highlight">The Commons blockchain will leverage modern architectures that achieve massive
+          scalability natively, delivering a user experience that anyone can use—without requiring users to bridge funds
+          between layers or manage multiple wallets.</span></p>
+
+      <p>Users simply transact in Commons Units without ever thinking about technical complexity. Whether sending $5 to
+        a friend or settling a billion-dollar inter-bank transfer, it's all the same seamless experience on one
+        blockchain.</p>
+
+      <h2>Modern High-Performance Architecture</h2>
+
+      <h3>Proven Approaches</h3>
+
+      <p>Examples of architectures that achieve our performance goals:</p>
+
+      <ul>
+        <li><strong>Flow's multi-role architecture:</strong> Separate nodes for consensus, computation, verification,
+          and storage enable high throughput without fragmenting the user experience</li>
+        <li><strong>Aptos's parallel execution:</strong> Using Block-STM technology, Aptos achieves 160,000+
+          transactions per second on a single unified chain</li>
+        <li><strong>Sui's object-centric model:</strong> Parallel transaction processing for independent objects enables
+          massive scalability</li>
+      </ul>
+
+      <h3>Key Techniques</h3>
+
+      <ul>
+        <li><strong>Parallel execution engines:</strong> Process independent transactions simultaneously rather than
+          sequentially</li>
+        <li><strong>Pipelined architecture:</strong> Overlap consensus, execution, and verification stages for maximum
+          throughput</li>
+        <li><strong>Efficient state management:</strong> Optimized data structures minimize storage and lookup overhead
+        </li>
+        <li><strong>Fast finality:</strong> Sub-second confirmation times for all transactions</li>
+      </ul>
+
+      <h2>Consensus Mechanism</h2>
+
+      <h3>Byzantine Fault Tolerant Consensus</h3>
+
+      <p>The blockchain uses a permissioned validator set comprised of member nations' nodes, with Byzantine Fault
+        Tolerant consensus such as HotStuff or AptosBFT.</p>
+
+      <p><strong>Key properties:</strong></p>
+
+      <ul>
+        <li><strong>Safety:</strong> No conflicting transactions can both be confirmed</li>
+        <li><strong>Liveness:</strong> System continues making progress even if some nodes are offline</li>
+        <li><strong>Finality:</strong> Once confirmed, transactions are irreversible (no forks or reorganizations)</li>
+        <li><strong>Fault tolerance:</strong> Can tolerate up to 1/3 of nodes behaving maliciously or failing</li>
+      </ul>
+
+      <h3>Consensus Protocol Details</h3>
+
+      <p><strong>HotStuff-style BFT implementation with optimizations:</strong></p>
+
+      <ul>
+        <li><strong>Three-phase commit:</strong> Prepare → Pre-commit → Commit (with leader rotation)</li>
+        <li><strong>Aggregated signatures:</strong> Use BLS signatures to reduce message complexity from O(n²) to O(n)
+        </li>
+        <li><strong>Leader rotation:</strong> Automatic leader rotation each epoch (approximately 10 seconds) ensures no
+          single nation controls block production</li>
+        <li><strong>Threshold signatures:</strong> 2/3 + 1 validators must sign for finality (≥134 out of 200 nations)
+        </li>
+        <li><strong>View-change protocol:</strong> If leader fails, validators automatically elect new leader within 3
+          seconds</li>
+        <li><strong>Pipelined consensus:</strong> Multiple blocks in different stages simultaneously for maximum
+          throughput</li>
+      </ul>
+
+      <h3>Design Targets</h3>
+
+      <p>With approximately 200 nation-state validators, the system is designed to achieve:</p>
+
+      <ul>
+        <li><strong>Throughput:</strong> High transaction capacity with room to scale as technology advances</li>
+        <li><strong>Latency:</strong> Sub-second transaction finality (targeting 300-500ms)</li>
+        <li><strong>Energy:</strong> Energy-efficient BFT consensus (no mining required)</li>
+        <li><strong>Scalability:</strong> Handle both retail payments and central bank settlements on one chain</li>
+      </ul>
+
+      <h3>Network Topology</h3>
+
+      <ul>
+        <li><strong>Full mesh:</strong> All validators maintain connections to all other validators for maximum fault
+          tolerance</li>
+        <li><strong>Gossip protocol:</strong> Transactions propagate via efficient gossip (each node forwards to subset
+          of peers)</li>
+        <li><strong>Geographic distribution:</strong> Validators distributed globally to minimize network latency</li>
+        <li><strong>Dedicated network:</strong> High-bandwidth connections between validator nodes (10+ Gbps
+          recommended)</li>
+      </ul>
+
+      <h2>Block and Transaction Structure</h2>
+
+      <h3>Block Format</h3>
+
+      <p>Each block in the Commons blockchain contains:</p>
+
+      <ul>
+        <li><strong>Block header:</strong>
+          <ul style="margin-top: 0.5rem;">
+            <li>Block height (incremental number)</li>
+            <li>Timestamp (Unix epoch milliseconds)</li>
+            <li>Previous block hash (SHA-256)</li>
+            <li>State root hash (Merkle tree root of global state)</li>
+            <li>Transaction root hash (Merkle tree root of all transactions)</li>
+            <li>Proposer signature (nation that proposed this block)</li>
+            <li>Validator signatures (aggregated BLS signatures from 2/3+ validators)</li>
+          </ul>
+        </li>
+        <li><strong>Transaction list:</strong> Ordered list of all transactions in this block (typically 1,000-10,000
+          per block)</li>
+        <li><strong>State changes:</strong> Summary of balance updates and state transitions</li>
+      </ul>
+
+      <h3>Transaction Types</h3>
+
+      <p>The system supports multiple transaction types:</p>
+
+      <ul>
+        <li><strong>Transfer:</strong> Send CU from one account to another (most common)</li>
+        <li><strong>Currency issuance:</strong> National government creates new CU (must be within quota)</li>
+        <li><strong>Tax collection:</strong> Government collects tax payment (destroys CU)</li>
+        <li><strong>Bond issuance:</strong> Government issues bond, receives CU from buyer</li>
+        <li><strong>Bond redemption:</strong> Bondholder redeems bond, receives CU from government</li>
+        <li><strong>Smart contract call:</strong> Invoke contract function (lending, voting, etc.)</li>
+        <li><strong>Governance vote:</strong> Validator submits vote on proposal</li>
+        <li><strong>Identity registration:</strong> Register proof-of-personhood credential</li>
+      </ul>
+
+      <h3>Transaction Structure</h3>
+
+      <p>Each transaction contains:</p>
+
+      <ul>
+        <li><strong>Nonce:</strong> Sequential number to prevent replay attacks</li>
+        <li><strong>Sender:</strong> Public key or account identifier</li>
+        <li><strong>Recipient:</strong> Destination account (or contract address)</li>
+        <li><strong>Amount:</strong> CU to transfer (128-bit integer for precision)</li>
+        <li><strong>Transaction type:</strong> Enum indicating operation</li>
+        <li><strong>Payload:</strong> Additional data (e.g., contract parameters)</li>
+        <li><strong>Gas limit:</strong> Maximum computation allowed</li>
+        <li><strong>Signature:</strong> EdDSA or ECDSA signature proving authorization</li>
+      </ul>
+
+      <h3>Transaction Processing Pipeline</h3>
+
+      <ol>
+        <li><strong>Submission:</strong> User submits signed transaction to any node</li>
+        <li><strong>Validation:</strong> Node checks signature, nonce, balance, gas limit</li>
+        <li><strong>Mempool:</strong> Valid transactions enter memory pool awaiting inclusion</li>
+        <li><strong>Ordering:</strong> Block proposer selects transactions (priority fee + fairness)</li>
+        <li><strong>Parallel execution:</strong> Independent transactions execute simultaneously</li>
+        <li><strong>State commitment:</strong> Updated state root computed via Merkle tree</li>
+        <li><strong>Consensus:</strong> Block + state changes sent to validators for signing</li>
+        <li><strong>Finality:</strong> After 2/3+ validators sign, block is committed (irreversible)</li>
+      </ol>
+
+      <h2>State Machine and Storage</h2>
+
+      <h3>Global State Structure</h3>
+
+      <p>The blockchain maintains a global state represented as a Merkle Patricia Trie (similar to Ethereum) containing:
+      </p>
+
+      <ul>
+        <li><strong>Account balances:</strong> Every account's CU balance</li>
+        <li><strong>Contract storage:</strong> Smart contract state variables</li>
+        <li><strong>National quotas:</strong> Remaining issuance capacity for each nation</li>
+        <li><strong>Bond registry:</strong> All outstanding bonds and their terms</li>
+        <li><strong>Identity registry:</strong> Proof-of-personhood records</li>
+        <li><strong>Governance state:</strong> Active proposals, voting records</li>
+      </ul>
+
+      <h3>State Transitions</h3>
+
+      <p><strong>The state machine is deterministic:</strong> Given state S and transaction T, all validators compute
+        identical next state S'.</p>
+
+      <p>State transition function: <code>S' = StateTransition(S, T)</code></p>
+
+      <ul>
+        <li>If transaction is valid → state updates, transaction succeeds</li>
+        <li>If transaction is invalid → state unchanged, transaction fails (but may still be recorded with error)</li>
+        <li>All validators execute identical logic to ensure consensus on state</li>
+      </ul>
+
+      <h3>Storage Architecture</h3>
+
+      <ul>
+        <li><strong>State database:</strong> Key-value store (RocksDB or similar) for current state (100s of GB)</li>
+        <li><strong>Block storage:</strong> Append-only log of all blocks (growing ~1-10 TB/year depending on usage)
+        </li>
+        <li><strong>Archive nodes:</strong> Full historical state at every block height (multiple petabytes)</li>
+        <li><strong>State snapshots:</strong> Periodic checkpoints allow fast sync without replaying entire history</li>
+        <li><strong>State pruning:</strong> Old state can be pruned after checkpoint (light nodes don't need full
+          history)</li>
+      </ul>
+
+      <h2>Cryptographic Primitives</h2>
+
+      <h3>Digital Signatures</h3>
+
+      <ul>
+        <li><strong>User transactions:</strong> EdDSA (Ed25519) for fast verification and small signatures (64 bytes)
+        </li>
+        <li><strong>Validator signatures:</strong> BLS signatures for efficient aggregation (combine 134 signatures into
+          one)</li>
+        <li><strong>National keys:</strong> Hardware security modules (HSMs) protect validator signing keys</li>
+        <li><strong>Key rotation:</strong> Nations can rotate keys with governance approval</li>
+      </ul>
+
+      <h3>Hashing</h3>
+
+      <ul>
+        <li><strong>Block hashes:</strong> SHA-256 (industry standard, quantum-resistant with larger keys)</li>
+        <li><strong>Merkle trees:</strong> SHA-256 for transaction and state commitments</li>
+        <li><strong>Account addresses:</strong> Derived from public key via SHA-256 + RIPEMD-160</li>
+      </ul>
+
+      <h3>Zero-Knowledge Cryptography</h3>
+
+      <ul>
+        <li><strong>Shielded transactions:</strong> zk-SNARKs (e.g., Groth16 or PLONK) enable private transfers</li>
+        <li><strong>Selective disclosure:</strong> Users prove facts about their account without revealing all data</li>
+        <li><strong>Identity privacy:</strong> Prove personhood without revealing identity</li>
+        <li><strong>Creditworthiness proofs:</strong> Prove loan eligibility without revealing full financial history
+        </li>
+      </ul>
+
+      <h2>Public but Governed Ledger</h2>
+
+      <p>The blockchain will be publicly auditable—meaning anyone can inspect transactions and the state of accounts
+        (with appropriate privacy measures). However, unlike permissionless networks (Bitcoin/Ethereum) where anyone can
+        validate, Commons uses a permissioned validator set comprised of member nations' nodes.</p>
+
+      <p><span class="highlight">This hybrid approach ensures both openness and controlled governance.</span></p>
+
+      <h3>Who Can Participate</h3>
+
+      <ul>
+        <li><strong>Validators:</strong> Only member nation nodes (one per country)</li>
+        <li><strong>Users:</strong> Anyone can create wallets and transact</li>
+        <li><strong>Observers:</strong> Anyone can run read-only nodes to verify the blockchain</li>
+        <li><strong>Developers:</strong> Anyone can build applications on top of Commons</li>
+        <li><strong>Auditors:</strong> Researchers, journalists, regulators can analyze on-chain data</li>
+      </ul>
+
+      <h2>Smart Contract Platform</h2>
+
+      <p>The platform supports smart contracts to enable the financial use cases needed (lending, bonds, trade
+        rebalancing, etc.).</p>
+
+      <h3>Core System Contracts</h3>
+
+      <ul>
+        <li><strong>Governance contracts:</strong> Voting, parameter adjustments, proposal management</li>
+        <li><strong>Clearing union contracts:</strong> Trade imbalance rules, automatic surplus recycling</li>
+        <li><strong>Identity contracts:</strong> Proof-of-personhood registry, credential verification</li>
+        <li><strong>Financial contracts:</strong> Lending protocols, bond issuance, payment channels</li>
+      </ul>
+
+      <h3>Security & Auditability</h3>
+
+      <ul>
+        <li><strong>Open source:</strong> All core contracts publicly auditable</li>
+        <li><strong>Formal verification:</strong> Mathematical proofs of contract correctness</li>
+        <li><strong>Regular audits:</strong> Independent security reviews by multiple firms</li>
+        <li><strong>Bug bounties:</strong> Financial incentives for responsible disclosure</li>
+        <li><strong>Upgrade mechanisms:</strong> Democratic assembly can upgrade contracts with supermajority vote</li>
+      </ul>
+
+      <h3>Flexibility</h3>
+
+      <p>Smart contracts introduce flexibility: new financial instruments or rules can be added by governance without
+        replacing the entire system, just by deploying/upgrading contracts (subject to voting approval).</p>
+
+      <h2>Transparency & Auditability</h2>
+
+      <p>A crucial advantage of using blockchain is that all transactions and monetary operations are recorded
+        indelibly, creating a public audit trail.</p>
+
+      <h3>What's Transparent</h3>
+
+      <ul>
+        <li><strong>Currency issuance:</strong> Every new CU created is visible</li>
+        <li><strong>National accounts:</strong> Government balances and transactions</li>
+        <li><strong>Trade flows:</strong> Aggregate cross-border movements</li>
+        <li><strong>Rebalancing operations:</strong> Surplus recycling and deficit support</li>
+        <li><strong>Governance votes:</strong> All assembly decisions permanently recorded</li>
+        <li><strong>Smart contract code:</strong> All system logic open source and auditable</li>
+      </ul>
+
+      <h3>What's Private</h3>
+
+      <p>To maintain privacy (see <a href="privacy-security.html">Privacy & Security</a>):</p>
+
+      <ul>
+        <li>Individual user accounts can use shielded transactions</li>
+        <li>Personal financial details protected by zero-knowledge proofs</li>
+        <li>Only aggregate statistics visible, not individual transaction details</li>
+      </ul>
+
+      <h3>Audit Tools</h3>
+
+      <p>Built-in explorers and dashboards provide:</p>
+
+      <ul>
+        <li>National balance summaries</li>
+        <li>Total supply and circulation metrics</li>
+        <li>Trade balance indicators</li>
+        <li>Governance activity logs</li>
+        <li>Network health statistics</li>
+        <li>Historical trend analysis</li>
+      </ul>
+
+      <h2>Interoperability</h2>
+
+      <p>The Commons ledger will be designed to interoperate with existing financial infrastructure and other
+        blockchains.</p>
+
+      <h3>Integration Points</h3>
+
+      <ul>
+        <li><strong>Banking APIs:</strong> Allow banks and payment providers to interface with Commons (submit
+          transactions, check balances)</li>
+        <li><strong>CBDC bridges:</strong> Connect with national Central Bank Digital Currencies</li>
+        <li><strong>Cross-chain protocols:</strong> Secure bridges to other major blockchains (subject to governance
+          approval)</li>
+        <li><strong>Legacy systems:</strong> SWIFT-compatible messaging for transition period</li>
+        <li><strong>Forex integration:</strong> Market makers can provide CU exchange services</li>
+      </ul>
+
+      <h3>Controlled Bridging</h3>
+
+      <p>All cross-chain bridges must be:</p>
+
+      <ul>
+        <li>Approved by governance assembly</li>
+        <li>Audited for security vulnerabilities</li>
+        <li>Monitored for illicit flows</li>
+        <li>Rate-limited to prevent systemic risk</li>
+      </ul>
+
+      <h2>Scalability Architecture</h2>
+
+      <h3>Parallel Transaction Execution</h3>
+
+      <p><strong>Block-STM (Software Transactional Memory) approach:</strong></p>
+
+      <ul>
+        <li><strong>Optimistic execution:</strong> Transactions execute in parallel speculatively</li>
+        <li><strong>Conflict detection:</strong> System detects when two transactions modify same state</li>
+        <li><strong>Re-execution:</strong> Conflicting transactions re-execute with correct ordering</li>
+        <li><strong>Deterministic finality:</strong> Despite parallelism, final state is deterministic and identical
+          across all validators</li>
+      </ul>
+
+      <h3>State Sharding (Future)</h3>
+
+      <p>While initially a single chain, the architecture can evolve to support sharding:</p>
+
+      <ul>
+        <li><strong>Account sharding:</strong> Partition accounts across shards by address prefix</li>
+        <li><strong>Cross-shard communication:</strong> Atomic transactions spanning multiple shards</li>
+        <li><strong>Beacon chain:</strong> Coordination layer managing shard committees</li>
+        <li><strong>Dynamic rebalancing:</strong> Hot shards can split, cold shards can merge</li>
+      </ul>
+
+      <h3>Resource Metering (Gas Model)</h3>
+
+      <ul>
+        <li><strong>Computation cost:</strong> Each operation has gas cost (e.g., 1 gas per addition, 100 gas per
+          signature verification)</li>
+        <li><strong>Storage cost:</strong> Writing data costs gas proportional to bytes stored</li>
+        <li><strong>Network cost:</strong> Transaction size contributes to gas cost</li>
+        <li><strong>Gas price:</strong> Set by governance (may be zero for basic transfers, non-zero for complex
+          contracts)</li>
+        <li><strong>Prevents DoS:</strong> Gas limits prevent infinite loops or resource exhaustion attacks</li>
+      </ul>
+
+      <h2>Network Security & Attack Resistance</h2>
+
+      <h3>Consensus Layer Security</h3>
+
+      <ul>
+        <li><strong>Byzantine tolerance:</strong> Up to 66 out of 200 nations could be malicious/offline without
+          compromising safety</li>
+        <li><strong>No double-spend:</strong> Once finalized, transactions cannot be reversed (no forks)</li>
+        <li><strong>Censorship resistance:</strong> Leader rotation prevents single nation from blocking transactions
+        </li>
+        <li><strong>Accountability:</strong> All validator signatures recorded; malicious behavior is provable and
+          punishable</li>
+      </ul>
+
+      <h3>Network Layer Security</h3>
+
+      <ul>
+        <li><strong>DDoS protection:</strong> Rate limiting, IP reputation, connection limits</li>
+        <li><strong>Eclipse attack prevention:</strong> Validators maintain connections to multiple geographically
+          distributed peers</li>
+        <li><strong>Sybil resistance:</strong> Validators are known nation-states (no anonymous validator registration)
+        </li>
+        <li><strong>Encrypted communication:</strong> TLS 1.3+ for all validator-to-validator communication</li>
+      </ul>
+
+      <h3>Smart Contract Security</h3>
+
+      <ul>
+        <li><strong>Formal verification:</strong> Core system contracts mathematically proven correct</li>
+        <li><strong>Audits:</strong> Multiple independent security firms review all protocol contracts</li>
+        <li><strong>Bug bounties:</strong> Large rewards ($100k-$1M+) for critical vulnerability discovery</li>
+        <li><strong>Time-locked upgrades:</strong> Contract upgrades have mandatory delay period for community review
+        </li>
+        <li><strong>Circuit breakers:</strong> Emergency pause mechanisms for detected exploits</li>
+      </ul>
+
+      <h2>Network Upgrades & Governance Execution</h2>
+
+      <h3>Protocol Upgrade Process</h3>
+
+      <ol>
+        <li><strong>Proposal:</strong> Technical specification published (e.g., "Upgrade consensus from HotStuff to
+          Jolteon")</li>
+        <li><strong>Discussion:</strong> 30-day minimum review period for technical community</li>
+        <li><strong>Voting:</strong> Nations vote via on-chain governance (requires 2/3 supermajority)</li>
+        <li><strong>Implementation:</strong> If approved, upgrade deployed to testnet first</li>
+        <li><strong>Testing:</strong> Minimum 60 days of testnet operation</li>
+        <li><strong>Activation:</strong> Coordinated mainnet upgrade at predetermined block height</li>
+        <li><strong>Monitoring:</strong> Post-upgrade monitoring for issues, rollback capability if critical bugs found
+        </li>
+      </ol>
+
+      <h3>Hard Fork vs Soft Fork</h3>
+
+      <ul>
+        <li><strong>Soft fork:</strong> Backward-compatible changes (old nodes still work) - requires simple majority
+        </li>
+        <li><strong>Hard fork:</strong> Breaking changes (all validators must upgrade) - requires 2/3 supermajority</li>
+        <li><strong>Coordinated deployment:</strong> Unlike public blockchains, upgrades are coordinated (no contentious
+          forks)</li>
+      </ul>
+
+      <h3>Emergency Procedures</h3>
+
+      <ul>
+        <li><strong>Critical bug discovered:</strong> Emergency multisig (e.g., 10 of 15 largest nations) can pause
+          system</li>
+        <li><strong>Incident response:</strong> Technical committee investigates, proposes fix</li>
+        <li><strong>Expedited voting:</strong> 7-day emergency vote period (still requires 2/3 approval)</li>
+        <li><strong>Post-mortem:</strong> Public report on incident, lessons learned, prevention measures</li>
+      </ul>
+
+      <h2>Node Operations</h2>
+
+      <h3>National Validator Nodes</h3>
+
+      <p>Each member nation runs validator infrastructure:</p>
+
+      <ul>
+        <li><strong>Hardware requirements:</strong> Enterprise-grade servers (32+ cores, 256GB+ RAM, fast NVMe SSD
+          storage, 10+ Gbps network)
+        </li>
+        <li><strong>Energy consumption:</strong> 50-150 watts per node (similar to running a small server)</li>
+        <li><strong>Redundancy:</strong> Primary + backup nodes in different data centers for high availability</li>
+        <li><strong>Security:</strong> Hardware security modules (HSMs) for key storage, physical security, network
+          isolation</li>
+        <li><strong>Monitoring:</strong> 24/7 operations center with automated alerts for performance degradation</li>
+        <li><strong>Disaster recovery:</strong> Regular backups, documented recovery procedures, tested annually</li>
+      </ul>
+
+      <h3>Observer Nodes</h3>
+
+      <p>Anyone can run read-only observer nodes to:</p>
+
+      <ul>
+        <li>Verify blockchain state independently</li>
+        <li>Serve blockchain data to applications (wallets, exchanges, analytics)</li>
+        <li>Monitor for anomalies or policy violations</li>
+        <li>Provide redundancy and geographical distribution</li>
+        <li>Research and analysis (academics, journalists, civil society)</li>
+      </ul>
+
+      <h3>Node Software</h3>
+
+      <ul>
+        <li><strong>Open source:</strong> All node software publicly available on GitHub</li>
+        <li><strong>Multiple implementations:</strong> Encourage diverse client implementations (e.g., Rust, Go, Java)
+          to avoid monoculture bugs</li>
+        <li><strong>Automated testing:</strong> Continuous integration with thousands of test cases</li>
+        <li><strong>Fuzzing:</strong> Automated fuzzing to discover edge cases and vulnerabilities</li>
+        <li><strong>Documentation:</strong> Comprehensive developer docs, API references, deployment guides</li>
+      </ul>
+
+      <h2>Technology Stack Flexibility</h2>
+
+      <p>The architecture could be built on proven blockchain frameworks that support BFT consensus and smart contracts:
+      </p>
+
+      <ul>
+        <li><strong>Cosmos SDK:</strong> Modular framework with Tendermint consensus</li>
+        <li><strong>Substrate:</strong> Polkadot's flexible blockchain builder</li>
+        <li><strong>Hyperledger Besu:</strong> Enterprise-focused Ethereum client</li>
+        <li><strong>Custom implementation:</strong> Purpose-built for Commons' specific needs</li>
+      </ul>
+
+      <p>The governance assembly will decide based on technical evaluations, with priority given to:</p>
+
+      <ul>
+        <li>Proven security track record</li>
+        <li>Strong developer community</li>
+        <li>Customization flexibility</li>
+        <li>Performance characteristics</li>
+        <li>Ability to implement one-nation-one-vote consensus</li>
+      </ul>
+
+      <h2>Summary: Technical Excellence Serving Human Needs</h2>
+
+      <p><span class="highlight">The blockchain infrastructure is designed to be invisible to users while providing the
+          transparency, security, and scalability needed for a global monetary system.</span></p>
+
+      <h3>Core Technical Achievements</h3>
+
+      <ul>
+        <li>✓ <strong>User-friendly:</strong> One seamless chain, no bridging complexity—users never think about the
+          underlying tech</li>
+        <li>✓ <strong>High performance:</strong> Parallel execution engine + BFT consensus designed for millions of
+          daily transactions with sub-second finality</li>
+        <li>✓ <strong>Energy efficient:</strong> BFT consensus consuming ~10-30 kW total (vs Bitcoin's 150+ TWh
+          annually)</li>
+        <li>✓ <strong>Democratic:</strong> One nation, one validator, equal consensus weight—no wealth-based voting</li>
+        <li>✓ <strong>Byzantine fault tolerant:</strong> System remains secure even if 1/3 of nations are malicious or
+          offline</li>
+        <li>✓ <strong>Deterministic finality:</strong> No forks, no reorganizations—transactions are irreversible once
+          committed</li>
+        <li>✓ <strong>Transparent:</strong> All national monetary operations visible on-chain; individual privacy via
+          zero-knowledge proofs</li>
+        <li>✓ <strong>Formally verified:</strong> Core system contracts mathematically proven correct</li>
+        <li>✓ <strong>Auditable:</strong> Anyone can run observer nodes, analyze on-chain data, verify system integrity
+        </li>
+        <li>✓ <strong>Flexible:</strong> Smart contracts and on-chain governance enable evolution without system
+          replacement</li>
+        <li>✓ <strong>Secure:</strong> Multiple layers of security from cryptography to network to consensus to
+          application</li>
+        <li>✓ <strong>Resilient:</strong> No single point of failure; geographically distributed; disaster recovery
+          procedures</li>
+      </ul>
+
+      <h3>Technical Innovation Serving Social Good</h3>
+
+      <p>The architecture leverages cutting-edge blockchain research—parallel execution, BFT consensus, zero-knowledge
+        cryptography, formal verification—not for speculation or hype, but <strong>to rebuild global finance on a
+          foundation of transparency, fairness, and democratic control.</strong></p>
+
+      <p>Every technical decision serves the mission: <span class="highlight">to create a monetary system that serves
+          humanity, not profits from it.</span></p>
+
+      <div class="doc-navigation">
+        <a href="trade-rebalancing.html">← Previous: Trade Rebalancing</a>
+        <a href="identity-credit.html">Next: Identity & Credit →</a>
+      </div>
+
+    </div>
+  </div>
+
+  <style>
+    .breadcrumbs {
+      color: #666;
+      font-size: 0.9rem;
+      margin-bottom: 2rem;
+    }
+
+    .breadcrumbs a {
+      color: #666;
+      text-decoration: none;
+    }
+
+    .breadcrumbs a:hover {
+      text-decoration: underline;
+    }
+
+    .doc-navigation {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 4rem;
+      padding-top: 2rem;
+      border-top: 1px solid #e0e0e0;
+    }
+
+    .doc-navigation a {
+      color: #333;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .doc-navigation a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</body>
+
+</html>

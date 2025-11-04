@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy & Security | Commons Currency</title>
+
+  <!-- SEO Meta Tags -->
+  <meta name="title" content="Privacy & Security | Commons Currency">
+  <meta name="description"
+    content="Multi-layered privacy architecture, zero-knowledge proofs, national transparency with individual privacy, and security mechanisms in Commons Currency.">
+  <meta name="author" content="Commons Currency Initiative">
+  <meta name="keywords"
+    content="privacy architecture, zero-knowledge proofs, blockchain security, data privacy, national transparency, cryptographic security, privacy-preserving blockchain">
+  <meta name="robots" content="index, follow">
+  <meta name="language" content="English">
+  <link rel="canonical" href="https://commonscurrency.org/privacy-security.html">
+
+  <!-- Open Graph / Facebook / WhatsApp -->
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://commonscurrency.org/privacy-security.html">
+  <meta property="og:title" content="Privacy & Security | Commons Currency">
+  <meta property="og:description"
+    content="Multi-layered privacy architecture, zero-knowledge proofs, national transparency with individual privacy, and security mechanisms in Commons Currency.">
+  <meta property="og:image" content="https://commonscurrency.org/favicon.png">
+  <meta property="og:site_name" content="Commons Currency">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://commonscurrency.org/privacy-security.html">
+  <meta property="twitter:title" content="Privacy & Security | Commons Currency">
+  <meta property="twitter:description"
+    content="Multi-layered privacy architecture, zero-knowledge proofs, national transparency with individual privacy, and security mechanisms in Commons Currency.">
+  <meta property="twitter:image" content="https://commonscurrency.org/favicon.png">
+  <meta name="twitter:creator" content="@CommonsCurrency">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="apple-touch-icon" href="favicon.png">
+
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "TechArticle",
+      "headline": "Privacy & Security Architecture",
+      "description": "Multi-layered privacy architecture, zero-knowledge proofs, national transparency with individual privacy, and security mechanisms in Commons Currency.",
+      "author": {
+        "@type": "Organization",
+        "name": "Commons Currency"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Commons Currency",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://commonscurrency.org/favicon.png"
+        }
+      },
+      "datePublished": "2025-10-20",
+      "dateModified": "2025-10-20"
+    }
+  </script>
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0QMMVJE36S"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-0QMMVJE36S');
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <nav>
+    <div class="container">
+      <a href="index.html" class="logo">Commons Currency</a>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="proposals.html">Proposals</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container">
+    <div class="proposal-content">
+
+      <p class="breadcrumbs"><a href="proposals.html">← Proposals</a> / Privacy & Security</p>
+
+      <h1>Privacy & Security</h1>
+
+      <p class="intro-text">Commons Currency implements a multi-layered privacy and security architecture that balances
+        individual financial privacy with public accountability for institutional actors. The system enables selective
+        disclosure through zero-knowledge proofs while maintaining robust security against attacks.</p>
+
+      <h2>Privacy Philosophy</h2>
+
+      <p><span class="highlight">National-level operations remain transparent for accountability, while individual
+          citizens' accounts are private by default.</span></p>
+
+      <p>This dual approach prevents corruption at the institutional level (governments, central banks) while protecting
+        personal financial privacy for ordinary citizens.</p>
+
+      <h2>Privacy Layers</h2>
+
+      <h3>Transaction Privacy</h3>
+
+      <p>Optional shielded transactions where amounts and parties are encrypted (similar to Zcash):</p>
+
+      <ul>
+        <li><strong>Shielded addresses:</strong> Hide transaction amounts and recipients</li>
+        <li><strong>Zero-knowledge proofs:</strong> Prove transaction validity without revealing details</li>
+        <li><strong>Selective disclosure:</strong> Can reveal specific transaction details to authorized parties when
+          needed</li>
+        <li><strong>Regulatory compatibility:</strong> Can prove compliance without exposing entire financial history
+        </li>
+      </ul>
+
+      <h3>Identity Privacy</h3>
+
+      <p>Pseudonymous identities rather than real names on-chain:</p>
+
+      <ul>
+        <li>Users identified as "Identity #XYZ" on blockchain</li>
+        <li>Real-world identity only known to user and parties they choose to reveal it to</li>
+        <li>Proof of personhood ensures one identity per person without storing biometrics</li>
+        <li>Government ID verification doesn't put personal details on-chain</li>
+      </ul>
+
+      <h3>Selective Disclosure via Zero-Knowledge Proofs</h3>
+
+      <p>Users can prove facts without revealing underlying data:</p>
+
+      <ul>
+        <li><strong>Creditworthiness:</strong> "I have good credit history" without showing all loans</li>
+        <li><strong>Compliance:</strong> "I'm not on sanctions lists" without revealing identity</li>
+        <li><strong>Income:</strong> "I earn above $X" without disclosing exact salary</li>
+        <li><strong>Residence:</strong> "I'm a citizen of Country Y" without showing passport</li>
+      </ul>
+
+      <p>See <a href="identity-credit.html">Identity & Credit</a> for detailed examples of ZK proofs in action.</p>
+
+      <h3>National Account Transparency</h3>
+
+      <p>Government and institutional accounts are transparent by default:</p>
+
+      <ul>
+        <li>National treasury balances visible</li>
+        <li>Central bank reserves auditable</li>
+        <li>Government spending trackable</li>
+        <li>Trade balances public</li>
+        <li>Surplus recycling flows transparent</li>
+      </ul>
+
+      <p>This prevents corruption and ensures democratic accountability without compromising individual privacy.</p>
+
+      <h2>Security Architecture</h2>
+
+      <h3>Consensus Security</h3>
+
+      <p>Byzantine Fault Tolerant consensus provides strong security guarantees:</p>
+
+      <ul>
+        <li><strong>66%+ honest validators required:</strong> Can tolerate up to 1/3 malicious nodes</li>
+        <li><strong>Finality:</strong> Once confirmed, transactions cannot be reversed</li>
+        <li><strong>Distributed trust:</strong> ~200 nation-state validators prevent collusion</li>
+        <li><strong>Geographic distribution:</strong> Validators spread globally prevent regional attacks</li>
+      </ul>
+
+      <h3>Node Security</h3>
+
+      <p>Validator nodes employ enterprise-grade security:</p>
+
+      <ul>
+        <li><strong>Hardware security modules:</strong> Private keys stored in tamper-proof hardware</li>
+        <li><strong>Air-gapped systems:</strong> Critical key material kept offline</li>
+        <li><strong>Multi-signature schemes:</strong> Require multiple parties to authorize actions</li>
+        <li><strong>24/7 monitoring:</strong> Automated alerts for anomalous behavior</li>
+        <li><strong>Regular audits:</strong> Independent security reviews of infrastructure</li>
+      </ul>
+
+      <h3>Smart Contract Security</h3>
+
+      <p>Core system contracts undergo rigorous security processes:</p>
+
+      <ul>
+        <li><strong>Formal verification:</strong> Mathematical proofs of contract correctness</li>
+        <li><strong>Multiple audits:</strong> Independent reviews by top security firms</li>
+        <li><strong>Open source:</strong> Public code review by global community</li>
+        <li><strong>Bug bounties:</strong> Financial incentives for responsible disclosure</li>
+        <li><strong>Upgrade mechanisms:</strong> Democratic assembly can fix vulnerabilities</li>
+        <li><strong>Timelock delays:</strong> Critical changes have delay periods for review</li>
+      </ul>
+
+      <h3>Key Management</h3>
+
+      <p>Multiple layers of key security for different stakeholders:</p>
+
+      <ul>
+        <li><strong>Individual users:</strong> Hardware wallets, biometric protection, social recovery</li>
+        <li><strong>Banks:</strong> Multi-party computation, threshold signatures</li>
+        <li><strong>Governments:</strong> HSMs, geographic distribution of key shares</li>
+        <li><strong>Smart contracts:</strong> Time-locked upgrades, multi-sig requirements</li>
+      </ul>
+
+      <h2>Regulatory Compliance</h2>
+
+      <p>The system enables compliance without mass surveillance:</p>
+
+      <h3>KYC/AML Compatibility</h3>
+
+      <ul>
+        <li><strong>Selective disclosure:</strong> Prove compliance without revealing all data</li>
+        <li><strong>Regulated on-ramps:</strong> Banks and exchanges perform KYC for fiat conversion</li>
+        <li><strong>Identity verification:</strong> Government ID or proof-of-personhood anchors</li>
+        <li><strong>Transaction monitoring:</strong> Large transactions can trigger review</li>
+        <li><strong>Sanctions screening:</strong> ZK proofs can verify not on blacklists</li>
+      </ul>
+
+      <h3>Data Protection (GDPR, etc.)</h3>
+
+      <ul>
+        <li><strong>Data minimization:</strong> Only necessary data on-chain</li>
+        <li><strong>User control:</strong> Individuals control their identity data</li>
+        <li><strong>Right to erasure:</strong> Personal data stored off-chain can be deleted</li>
+        <li><strong>Consent management:</strong> Users explicitly authorize data sharing</li>
+      </ul>
+
+      <h3>Cross-Border Data Flows</h3>
+
+      <ul>
+        <li>Blockchain data globally accessible but pseudonymous</li>
+        <li>Personal identifiers stored locally in user's jurisdiction</li>
+        <li>Regulators can access aggregate statistics</li>
+        <li>Individual data requires legal process to unmask</li>
+      </ul>
+
+      <h2>Threat Model & Mitigations</h2>
+
+      <h3>Sybil Attacks</h3>
+
+      <p><strong>Threat:</strong> Attacker creates multiple fake identities</p>
+      <p><strong>Mitigation:</strong> Proof of personhood ensures one identity per human</p>
+
+      <h3>51% Attacks</h3>
+
+      <p><strong>Threat:</strong> Attacker controls majority of validators</p>
+      <p><strong>Mitigation:</strong> Would require controlling 67%+ of ~200 nations (impossible)</p>
+
+      <h3>Smart Contract Exploits</h3>
+
+      <p><strong>Threat:</strong> Bug in contract allows theft or manipulation</p>
+      <p><strong>Mitigation:</strong> Formal verification, audits, bug bounties, upgrade mechanisms</p>
+
+      <h3>Privacy Attacks</h3>
+
+      <p><strong>Threat:</strong> Transaction graph analysis de-anonymizes users</p>
+      <p><strong>Mitigation:</strong> Shielded transactions, mixing services, ZK proofs</p>
+
+      <h3>Nation-State Attacks</h3>
+
+      <p><strong>Threat:</strong> Powerful government tries to manipulate system</p>
+      <p><strong>Mitigation:</strong> One-nation-one-vote prevents single actor control</p>
+
+      <h3>Social Engineering</h3>
+
+      <p><strong>Threat:</strong> Users tricked into revealing keys or data</p>
+      <p><strong>Mitigation:</strong> Education, hardware wallets, recovery mechanisms</p>
+
+      <h2>Incident Response</h2>
+
+      <p>Procedures for handling security incidents:</p>
+
+      <ul>
+        <li><strong>Bug reporting:</strong> Secure channel for responsible disclosure</li>
+        <li><strong>Emergency assembly:</strong> Accelerated voting for critical fixes</li>
+        <li><strong>Circuit breakers:</strong> Ability to pause affected functions</li>
+        <li><strong>Transparent post-mortems:</strong> Public analysis of what happened</li>
+        <li><strong>Victim remediation:</strong> Process for compensating affected users</li>
+        <li><strong>System hardening:</strong> Implement fixes to prevent recurrence</li>
+      </ul>
+
+      <h2>Continuous Improvement</h2>
+
+      <p>Security and privacy evolve continuously:</p>
+
+      <ul>
+        <li><strong>Regular audits:</strong> Quarterly security reviews</li>
+        <li><strong>Penetration testing:</strong> Simulated attacks to find weaknesses</li>
+        <li><strong>Research collaboration:</strong> Work with academic cryptographers</li>
+        <li><strong>Technology upgrades:</strong> Adopt new privacy/security techniques as they mature</li>
+        <li><strong>Community oversight:</strong> Open source enables global scrutiny</li>
+      </ul>
+
+      <h2>Privacy-Security Balance</h2>
+
+      <p><span class="highlight">Result: A system where institutions are held accountable through transparency,
+          individuals maintain financial privacy through cryptography, and both are secured through distributed trust
+          and formal verification.</span></p>
+
+      <p>Key achievements:</p>
+
+      <ul>
+        <li>✓ Individual privacy by default</li>
+        <li>✓ Institutional transparency for accountability</li>
+        <li>✓ Selective disclosure via zero-knowledge proofs</li>
+        <li>✓ Regulatory compliance without mass surveillance</li>
+        <li>✓ Byzantine fault tolerance against attacks</li>
+        <li>✓ Formal verification of critical code</li>
+        <li>✓ Democratic governance of security policies</li>
+      </ul>
+
+      <div class="doc-navigation">
+        <a href="bonds-financial.html">← Previous: Bonds & Financial Services</a>
+        <a href="implementation.html">Next: Implementation Roadmap →</a>
+      </div>
+
+    </div>
+  </div>
+
+  <style>
+    .breadcrumbs {
+      color: #666;
+      font-size: 0.9rem;
+      margin-bottom: 2rem;
+    }
+
+    .breadcrumbs a {
+      color: #666;
+      text-decoration: none;
+    }
+
+    .breadcrumbs a:hover {
+      text-decoration: underline;
+    }
+
+    .doc-navigation {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 4rem;
+      padding-top: 2rem;
+      border-top: 1px solid #e0e0e0;
+    }
+
+    .doc-navigation a {
+      color: #333;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .doc-navigation a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</body>
+
+</html>

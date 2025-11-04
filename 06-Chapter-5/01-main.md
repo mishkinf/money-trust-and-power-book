@@ -49,6 +49,8 @@ The cycle was self-sustaining. The government did not need to hoard gold to crea
 
 This was the insight that would later be formalized as the **tax-driven money theory**: a sovereign government that issues its own currency and requires taxes be paid in that currency creates demand for the currency by fiat. The value derives not from the paper or the ink but from the **legal obligation** to use it in dealings with the state.¹²
 
+The principle was not new. Adam Smith had articulated it in *The Wealth of Nations* (1776), writing that "a prince, who should enact that a certain proportion of his taxes should be paid in a paper money of a certain kind, might thereby give a certain value to this paper money; even though the term of its final discharge and redemption should depend altogether on the will of the prince." Smith understood that state-imposed tax obligations could create demand for otherwise worthless fiat currency—a recognition that anticipated modern monetary theory by two centuries.¹²ᵃ
+
 In practice, this meant that England's money supply was **elastic**. When the government needed to finance a war, the Bank could expand note issuance. When peace returned and spending fell, taxation would contract the supply. The system was self-regulating, limited only by the government's ability to tax and the public's willingness to hold paper rather than demand gold.¹³
 
 ---
