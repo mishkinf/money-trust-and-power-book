@@ -98,16 +98,35 @@ His doctrine faced its greatest test in 2008. When Lehman Brothers collapsed, ce
 
 ---
 
+## **Arthur Burns (1904–1987)**
+*The Fed Chairman Who Faced Inflation He Couldn't Control*
+
+Arthur Burns served as Federal Reserve Chairman from 1970 to 1978, presiding over the worst peacetime inflation in American history. An Austrian-born economist who advised Eisenhower and Nixon, Burns understood that the 1970s inflation crisis was fundamentally different from demand-driven inflation—it stemmed from supply shocks and real resource constraints that monetary policy alone couldn't solve.
+
+Burns correctly identified inflation's sources as "cost-push" factors: the 1973 and 1979 OPEC oil shocks that quadrupled energy prices, global commodity shortages, and wage bargaining responding to rising costs. He recognized that raising interest rates into an oil embargo wouldn't increase oil supply—it would simply crush demand and employment while leaving the underlying bottleneck unresolved. This was not the Real Bills Doctrine; it was an accurate diagnosis that inflation occurs when spending outstrips real productive capacity, not merely from "too much money."
+
+Inflation rose from 5.5% when Burns took office to 14.8% by March 1980. Burns raised interest rates repeatedly but backed down when unemployment rose—a pattern later criticized as destroying Fed "credibility." But this framing misses the deeper problem: monetary policy was the wrong tool for supply-side inflation. Raising rates couldn't produce more oil, grow more food, or resolve geopolitical conflicts. It could only redistribute pain from creditors to workers through unemployment.
+
+Burns's predicament revealed the limits of central bank power. Nixon pressured him to keep rates low for the 1972 reelection, but even without political interference, Burns faced an impossible choice: impose a severe recession to temporarily suppress inflation symptoms, or accommodate supply shocks while hoping real production would catch up. He chose the latter, believing (correctly) that monetary austerity wouldn't solve the underlying resource constraints.
+
+The 1970s demonstrated that inflation is a complex real-resource phenomenon, not a simple function of central bank "discipline." What the economy needed was fiscal-monetary coordination to manage real resources—energy policy, production capacity, strategic reserves—not just interest rate manipulation. Burns's so-called "failure" was actually a failure of the policy framework itself, which gave central banks responsibility for problems they lacked tools to solve.
+
+**Legacy:** Revealed that monetary policy alone cannot solve supply-driven inflation. His experience demonstrates that inflation control requires managing real resources through coordinated fiscal and monetary policy, not just central bank "independence" and willingness to impose unemployment. The lesson isn't that Burns lacked will—it's that the framework was inadequate for the challenge he faced.
+
+---
+
 ## **Paul Volcker (1927–2019)**
-*The Man Who Broke Inflation and Restored Central Bank Credibility*
+*The Fed Chairman Who Broke Inflation Through Brutal Recession*
 
-When Volcker became Federal Reserve Chairman in August 1979, U.S. inflation was 11% and rising. The dollar was collapsing internationally. A decade of stop-start monetary policy had destroyed the Fed's credibility—markets no longer believed policymakers would tolerate the pain needed to restore price stability. Volcker changed that calculation through sheer force of will.
+When Volcker became Federal Reserve Chairman in August 1979, U.S. inflation was 11% and rising. The dollar was collapsing internationally. The 1970s supply shocks had created persistent inflation that conventional monetary policy struggled to address. Volcker chose a radical solution: deliberately engineer a severe recession to break wage-price dynamics through mass unemployment.
 
-In October 1979, he announced the Fed would target money supply growth rather than interest rates, allowing rates to rise as high as necessary to break inflation. What followed was brutal: the federal funds rate hit 20%, unemployment reached 10.8%, and the 1981-82 recession was the worst since the Great Depression. Farmers drove tractors around the Fed building in protest. Homebuilders mailed Volcker pieces of 2x4s they couldn't use because mortgage rates exceeded 18%.
+In October 1979, he announced the Fed would target money supply growth rather than interest rates, allowing rates to rise as high as necessary. What followed was devastating: the federal funds rate hit 20%, unemployment reached 10.8%, and the 1981-82 recession was the worst since the Great Depression. Farmers drove tractors around the Fed building in protest. Homebuilders mailed Volcker pieces of 2x4s they couldn't use because mortgage rates exceeded 18%. Entire industries collapsed. Families lost homes, jobs, and futures.
 
-Volcker held firm. He understood that credibility required demonstrating willingness to impose short-term pain for long-term stability. By 1983, inflation had fallen to 3%. More importantly, expectations had shifted: markets believed the Fed would defend price stability. This credibility became the foundation for the "Great Moderation"—two decades of low inflation and steady growth.
+Volcker held firm through the suffering. By 1983, inflation had fallen to 3%—not because monetary austerity solved the underlying supply constraints, but because the recession temporarily reset wage-price expectations through sheer economic destruction. The "success" came at enormous human cost: years of lost output, destroyed careers, and communities that never fully recovered.
 
-His achievement was institutional, not just economic. Volcker proved that fiat money could be stable if the central bank was independent and committed to a clear mandate. The gold standard had provided automatic discipline; Volcker showed that human institutions could provide discipline too, if structured correctly. His model—independent central banks with inflation targets—spread globally in the 1990s and 2000s.
+His achievement was political, not technical. Volcker demonstrated that a central bank willing to impose sufficient pain could temporarily suppress inflation symptoms—but this revealed the brutality of using unemployment as an inflation-fighting tool rather than managing real resources. The gold standard had provided automatic discipline through deflation; Volcker showed that fiat systems could replicate that cruelty through deliberate policy choice.
+
+The "Volcker shock" became the model for central bank "credibility"—a willingness to sacrifice workers' livelihoods to protect creditors' real returns. His legacy is complex: he broke inflation, but at a cost that raises profound questions about whether the cure was worse than the disease, and whether better tools existed that were never tried.
 
 **Legacy:** Demonstrated that fiat currency requires institutional credibility, not commodity backing. Established the template for modern central banking: independence, clear mandates, willingness to impose short-term costs for long-term stability. Proved that discipline under fiat money must be chosen, not automatic.
 

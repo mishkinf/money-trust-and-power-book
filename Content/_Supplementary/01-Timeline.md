@@ -156,8 +156,11 @@ March 17 Washington communiqué creates official tier ($35/oz for central banks 
 ### 1971: Nixon Closes Gold Window (August 15)
 U.S. gold reserves fallen to ~$10 billion vs. $80 billion foreign dollar liabilities. Britain requests $3 billion transfer August 11. Nixon ends dollar-gold convertibility, calling it "temporary" (it's permanent). Bretton Woods dismantled. By 1973, major currencies float.
 
-### 1979–1983: Volcker Breaks Inflation
-Fed Chairman Paul Volcker raises federal funds rate to 20% (June 1981), holds firm despite 10.8% unemployment. Inflation falls from 14.8% (March 1980) to 3.8% (1983). Demonstrates fiat currency can be stable with credible, independent central bank committed to price stability.
+### 1971–1978: The 1970s Inflation Crisis
+OPEC oil shocks (1973, 1979) quadruple energy prices, creating supply-driven inflation. Global commodity shortages and wage-price spirals follow. Fed Chairman Arthur Burns correctly diagnoses "cost-push" inflation but lacks tools to address supply constraints—raising interest rates can't produce more oil. Inflation reaches 14.8% by March 1980. Crisis demonstrates that inflation stems from real resource bottlenecks, not simply "too much money," and that monetary policy alone cannot solve supply-side problems.
+
+### 1979–1983: Volcker Breaks Inflation Through Recession
+Fed Chairman Paul Volcker raises federal funds rate to 20% (June 1981), deliberately engineering worst recession since Great Depression. Unemployment reaches 10.8%. Inflation falls from 14.8% (March 1980) to 3.8% (1983)—not by solving supply constraints but by crushing demand through mass unemployment. Demonstrates that central banks can suppress inflation through sufficient economic pain, establishing "credibility" model that prioritizes price stability over employment. Human cost: years of lost output, destroyed careers, communities never fully recovered.
 
 ---
 
