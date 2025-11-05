@@ -6,6 +6,20 @@
 
 ---
 
+### The COVID Stimulus Debate
+
+In March 2020, as COVID-19 shut down the global economy, Congress passed a $2.2 trillion stimulus package. Within months, another $900 billion. By March 2021, an additional $1.9 trillion. Total: over $5 trillion in emergency spending—roughly 25% of U.S. GDP—created without raising taxes, without selling bonds to private investors, without "finding the money" first.
+
+Critics warned of disaster. "Where will the money come from?" they demanded. "This will cause hyperinflation!" "We're bankrupting our grandchildren!" The rhetoric invoked household budget metaphors: governments must live within their means, balance budgets, not spend money they don't have.
+
+But the money appeared. The Federal Reserve credited bank accounts with new reserves. Treasury spent the money into the economy. Checks arrived in mailboxes, unemployment benefits flowed, businesses received loans. The money existed because the government created it—the same way governments have created money for five thousand years.
+
+And inflation? It remained subdued through 2020. When it finally emerged in 2021-2022, it stemmed primarily from supply chain disruptions and energy shocks—real resource constraints, not monetary excess. The economy had absorbed trillions in new spending because it had slack capacity: 14% unemployment in April 2020, factories idle, offices empty, restaurants closed. The money mobilized unused resources rather than bidding up prices for scarce goods.
+
+This was the definitive test of pure fiat money. No gold backing. No commodity anchor. No automatic constraints. Just institutional credibility and the productive capacity principle: money creation causes inflation only when it exceeds the economy's ability to produce goods and services. Understanding why this works—and why the household budget metaphor is fundamentally misleading—requires understanding the culmination of five millennia of monetary evolution.
+
+---
+
 The trading floor of the New York Federal Reserve was silent on the morning of March 16, 2008. Outside, Bear Stearns—one of Wall Street's oldest investment banks—was collapsing. Inside, Fed officials faced a choice that would have been unthinkable a generation earlier: create **$30 billion** out of thin air to facilitate JPMorgan's acquisition of Bear Stearns, or watch the financial system unravel. There was no gold to back the money, no reserves to draw down, no physical constraint. There was only a decision: would the Federal Reserve use its power to create money, or would it stand aside and let the crisis deepen?¹
 
 The Fed chose to act. Over the next eighteen months, it would create **trillions of dollars** through programs with names like TALF, TARP, and quantitative easing. The money appeared as entries in electronic ledgers—the same double-entry bookkeeping that Bank of England clerks had used in 1697, now executed at the speed of light. Critics called it "printing money." Defenders called it "providing liquidity." Both were right. The Fed was doing what central banks had always done: **creating purchasing power** to serve public purposes. The difference was that in 2008, there was no pretense that gold backed the operation. The system ran on pure **fiat**—money created by decree, sustained by trust.²

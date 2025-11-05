@@ -6,6 +6,18 @@
 
 ---
 
+### How Does the Fed Actually Create Money?
+
+"Where does the money come from?" It's the question that stops most policy debates. When Congress proposes infrastructure spending or pandemic relief, critics demand: "How will you pay for it?" The implicit assumption is that government must first collect money—through taxes or borrowing—before it can spend. The government, like a household, must find money before using it.
+
+But what if this is backwards? What if governments that control their own currency create money by spending, not by collecting? What if the Federal Reserve doesn't lend out deposits but creates money through the act of lending itself?
+
+In March 2020, the Fed created $3 trillion in emergency liquidity within weeks. No tax increase. No bond sale to private investors. The Fed simply credited bank accounts with new reserves. Critics called it "printing money." Defenders called it necessary. But few understood the mechanism: the Fed was doing exactly what the Bank of England did in 1694—creating money by making loans, backed not by gold reserves but by the government's power to tax and the institution's credibility.
+
+Understanding how this works requires going back to the invention that made it possible: the Bank of England's solution to the sovereign's dilemma. The mechanism created in 1694 still governs how modern central banks operate. The technology has changed—from handwritten ledgers to digital entries—but the fundamental principle remains: money is created through lending, and its value comes from taxation authority, not from commodity reserves.
+
+---
+
 William's throne came with an immediate price: war. Louis XIV of France, Europe's most powerful monarch, refused to recognize the new regime. England, allied with the Dutch Republic and the Holy Roman Empire, was drawn into the **Nine Years' War** (1688–1697).¹⁵
 
 The numbers were staggering. William needed **£5.5 million annually** at first, rising to **£8.5 million by war's end**—sums that dwarfed any previous English military expenditure. England's traditional revenues brought in barely half that amount. The gap had to be filled by borrowing, and borrowing required something England had never possessed: **institutional credibility**.¹⁶

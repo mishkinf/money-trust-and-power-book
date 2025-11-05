@@ -6,6 +6,18 @@
 
 ---
 
+### China's Dollar Trap
+
+In 2024, China holds over $3 trillion in dollar-denominated assets—Treasury bonds, agency securities, corporate debt. It's the world's largest creditor to the United States, financing American consumption and government spending. Yet Chinese officials increasingly worry about this position. The dollar's value depends on American fiscal discipline and Federal Reserve policy—neither of which China controls. If the dollar weakens, China's reserves lose value. If China tries to sell, the resulting crash would destroy the value of its remaining holdings.
+
+This is the modern Triffin dilemma. China needs dollars for international trade and reserves. But accumulating dollars means accumulating claims on an economy running persistent deficits. The more dollars China holds, the more vulnerable it becomes to American policy decisions. It's the same trap France faced in the 1960s, when President de Gaulle demanded gold for dollars, only to discover that converting too quickly would crash the system and destroy France's remaining dollar holdings.
+
+The 2008 financial crisis revealed both the power and the fragility of this arrangement. When credit markets froze globally, only the Federal Reserve could provide the dollars the world economy needed. The Fed created $580 billion in currency swap lines with foreign central banks—essentially printing dollars for other countries to use. This demonstrated that the dollar's reserve status gives the U.S. extraordinary power: the Fed is the world's central bank by default.
+
+But it also revealed the system's vulnerability. If confidence in the dollar ever truly collapsed, there's no gold to fall back on, no automatic stabilizer. The system works entirely on institutional credibility. Understanding how this system emerged—and why the gold-backed alternative failed—illuminates the constraints and possibilities of our current monetary order.
+
+---
+
 ### The decisive moment
 
 The turning point came on **July 13, 1944**. A.D. Shroff of the Indian delegation questioned the meaning of "gold and gold-convertible exchange":
@@ -104,15 +116,11 @@ The gold standard had been an accident, created by Newton's mathematics and sust
 
 The age of pure fiat had begun, but its architecture was still being built. How would central banks manage money creation to match productive capacity? How would governments mobilize real resources without artificial financial constraints? How would international coordination work without fixed exchange rates? These questions would shape the next half-century, as the world learned to operate a monetary system recognizing that real resources, not money itself, were the true constraint. The answers would emerge through crisis and experimentation, revealing both the flexibility and the political challenges of money freed from commodity backing.
 
----
+And those questions remain urgent today. The Triffin dilemma hasn't disappeared—it's been transferred to a pure fiat system. The dollar remains the world's reserve currency, accounting for 60% of global foreign exchange reserves. This creates the same contradiction Triffin identified: the world needs dollar liquidity for trade and reserves, requiring persistent U.S. current account deficits. But those deficits create concerns about dollar stability and U.S. fiscal sustainability. China faces France's 1960s dilemma: converting dollar reserves to other currencies would crash the dollar and destroy the value of remaining holdings.
 
-### Why This Matters Now
+Understanding Bretton Woods' collapse reveals that our current monetary arrangements are choices, not natural laws. Nixon's decision to close the gold window was presented as temporary but became permanent because the alternative—deflation to defend gold convertibility—was politically unacceptable. The lesson: when monetary rules conflict with economic reality, the rules get changed. This applies to modern debates about central bank independence, inflation targeting, and fiscal rules. These are institutional choices that can be modified when they stop serving human needs.
 
-The Triffin dilemma hasn't disappeared—it's just been transferred to a pure fiat system. The dollar remains the world's reserve currency, accounting for 60% of global foreign exchange reserves. This creates the same contradiction Triffin identified: the world needs dollar liquidity for trade and reserves, requiring persistent U.S. current account deficits. But those deficits create concerns about dollar stability and U.S. fiscal sustainability. China, holding over $3 trillion in dollar-denominated assets, faces the same dilemma as France in the 1960s: converting to other currencies would crash the dollar and destroy the value of their remaining holdings.
-
-The 2008 financial crisis revealed both the power and the fragility of this system. When credit markets froze globally, only the Federal Reserve could provide the dollars the world economy needed. The Fed created $580 billion in currency swap lines with foreign central banks—essentially printing dollars for other countries to use. This demonstrated that the dollar's reserve status gives the U.S. extraordinary power: the Fed is the world's central bank by default. But it also revealed the system's vulnerability: if confidence in the dollar ever truly collapsed, there's no gold to fall back on, no automatic stabilizer. The system works entirely on institutional credibility.
-
-Most importantly, understanding Bretton Woods' collapse reveals that our current monetary arrangements are choices, not natural laws. Nixon's decision to close the gold window was presented as temporary but became permanent because the alternative—deflation to defend gold convertibility—was politically unacceptable. The lesson: when monetary rules conflict with economic reality, the rules get changed. This applies to modern debates about central bank independence, inflation targeting, and fiscal rules. These are institutional choices that can be modified when they stop serving human needs. The gold standard died because it constrained economic growth and employment. If current monetary arrangements create similar problems—persistent unemployment, financial instability, climate inaction—they too can be changed. Money is a tool, not a master. The final breaking of the gold standard proved that conclusively.
+The gold standard died because it constrained economic growth and employment. If current monetary arrangements create similar problems—persistent unemployment, financial instability, climate inaction—they too can be changed. Money is a tool, not a master. The final breaking of the gold standard proved that conclusively. The challenge now is building institutions that use this flexibility to serve public purposes rather than allowing it to serve narrow interests. That challenge shapes the final chapter of our monetary history.
 
 ---
 

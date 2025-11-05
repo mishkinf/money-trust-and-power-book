@@ -6,6 +6,16 @@
 
 ---
 
+### The Greek Tragedy
+
+In May 2010, Greece stood on the edge of default. The government owed €330 billion—debts it could not repay. European creditors demanded austerity: cut pensions, slash public sector wages, raise taxes. Greek citizens protested in the streets. "We can't pay!" they shouted. "Print euros!" But Greece couldn't print euros. It had surrendered that power when it joined the eurozone in 2001, trading its drachma for a currency controlled by the European Central Bank in Frankfurt.
+
+The crisis revealed a fundamental asymmetry in monetary sovereignty. Germany could borrow at 2% interest; Greece paid 30%. Both used the same currency, but only one controlled it. Germany's debt was denominated in a currency its central bank could create; Greece's debt was denominated in a currency it had to borrow from others. This wasn't a new problem. It was the oldest problem in monetary history: the difference between domestic money you can create and foreign money you must acquire.
+
+Edward III faced the same dilemma in 1340. He could issue tally sticks to pay English soldiers—domestic credit backed by his power to tax English subjects. But to hire German mercenaries or buy Flemish ships, he needed gold florins that only Italian bankers could provide. The distinction between domestic and international credit would drive six centuries of monetary history, from medieval defaults to modern debt crises. Understanding why requires understanding what money actually is—and why sovereignty over it matters more than any other economic power.
+
+---
+
 The royal treasury at Westminster was nearly empty. Outside, in the muddy streets of London, soldiers waited for their pay. Some had marched from Yorkshire; others had sailed from Portsmouth. All had fought for King Edward III in his war against France, and all expected coin—silver pennies stamped with the royal seal. But the Exchequer's coffers held only tally sticks and promises. The year was 1340, and England's king faced a problem that would haunt every European monarch for the next three centuries: **how to pay for war when the realm's wealth existed mostly on paper.**¹
 
 Edward turned to the only people with liquid capital—Italian merchant-bankers. The Bardi and Peruzzi families of Florence had grown rich financing Mediterranean trade, and they understood the new instruments of credit. They advanced Edward gold florins and silver marks, recorded the debt in their ledgers, and waited for repayment. But when the king defaulted in 1345, unable to extract enough taxes from his subjects to satisfy foreign creditors, both houses collapsed. The shock rippled across Europe's financial networks. For a generation afterward, no banker would lend to an English king without collateral in hand.²
@@ -34,6 +44,8 @@ But tallies had a fatal limitation: **they could not cross borders**. A Flemish 
 
 This distinction between **domestic** and **foreign** borrowing defined the fiscal crisis of early modern monarchy. At home, a king could create credit by fiat, issuing promises backed by his authority to tax. Abroad, he was just another debtor, and his word alone meant nothing.
 
+This is exactly Greece's problem in the eurozone. Domestically, Greece could theoretically create drachmas to pay Greek workers and pensioners. But its debts are in euros—a currency it cannot create. Like Edward III needing Florentine gold, Greece needs euros from Frankfurt. Currency sovereignty determines fiscal capacity.
+
 ---
 
 ### What kings borrowed and why
@@ -50,6 +62,8 @@ What were these kings buying? Not abstractions, but tangible goods and services 
 Every foreign purchase required **exportable value**. A king could not pay a Venetian shipbuilder with a promise redeemable in London. He needed either **metal** (gold or silver coin), **goods** (wool, grain, or other exports), or **credit instruments** that foreign merchants would accept (bills of exchange drawn on trusted banking houses).¹⁰
 
 This is why monarchs obsessed over their realms' supply of precious metal. Not because gold and silver were intrinsically valuable, but because they were the **universal language of international debt**. A gold coin minted in Florence could pay a soldier in Bruges, a merchant in Lisbon, or a banker in Augsburg. It was neutral collateral—a store of value that transcended political boundaries.
+
+Today's equivalent is dollar reserves. Emerging market countries hoard dollars not because they love American currency but because international debts require payment in currencies creditors accept. Turkey's 2018 crisis, Argentina's repeated defaults—all stem from borrowing in dollars they cannot create, exactly as medieval kings borrowed gold they could not mint.
 
 ---
 
@@ -72,6 +86,8 @@ The real problem was not metal but **credibility**. When a king borrowed, he pro
 The English crown's record was particularly dismal. Edward III's default in 1345 destroyed the Bardi and Peruzzi. Henry VIII seized monastic lands to pay his debts, destabilizing the entire economy. Elizabeth I borrowed cautiously, but her successors—James I and Charles I—treated credit as an entitlement. Charles resorted to **forced loans**—loans the king demanded from merchants under threat of imprisonment—and arbitrary seizures of gold deposited at the Tower of London. When Parliament resisted his demands for new taxes, he dissolved it and ruled alone.¹⁵
 
 The English Civil War (1642–1651) was many things—a religious conflict, a constitutional struggle, a clash of classes—but it was also a **fiscal reckoning**. Charles I's inability to finance his government without parliamentary consent revealed the bankruptcy of absolutism. When he was executed in 1649, it symbolized not just the death of a king but the death of an idea: that personal sovereignty could sustain public credit.¹⁶
+
+Modern bond markets enforce the same discipline. When investors doubt a government's ability to collect taxes—whether Charles I's England or contemporary Argentina—they demand higher interest rates or refuse to lend entirely. Fiscal credibility requires institutional capacity, not just sovereign authority.
 
 The restored Stuart monarchy learned nothing. In 1672, Charles II faced a liquidity crisis—shortage of readily available cash. He had borrowed heavily from London's goldsmith-bankers—men who accepted deposits from merchants and lent to the crown at interest. When the Exchequer could not meet its obligations, Charles declared the **Stop of the Exchequer**, suspending all debt payments for one year. The total suspended: **£1,328,526**—approximately **2.2-3.3% of English GDP** (Gross Domestic Product, the total value of goods and services produced) and more than the crown's entire annual peacetime revenue.¹⁷ The goldsmiths were ruined. Some never recovered; others passed losses to their depositors. The City of London's financial community resolved that the crown would never again borrow on its word alone.
 
@@ -127,15 +143,13 @@ But the machinery of that state—the institution that would turn parliamentary 
 
 The solution to the sovereign's dilemma—how to create credible credit both domestically and internationally—would require institutional innovation on an unprecedented scale. As Part II will reveal, the answer emerged not from private ingenuity alone but from the fusion of constitutional revolution and financial engineering. The Glorious Revolution of 1688 made England's debt credible by transferring fiscal power to Parliament. The Bank of England's founding in 1694 completed this transformation by creating a mechanism to manufacture credit on demand. Together, these innovations would solve the problem that had plagued European monarchies for centuries: how to wage war without gold.
 
----
+And that solution illuminates today's sovereign debt crises with brutal clarity. Modern governments face the same dual money problem Edward III confronted: they can create domestic currency freely, but international creditors demand proof of fiscal capacity. When markets attack sovereign debt—Greece in 2010, Argentina in 2001, Turkey in 2018—they're demanding the same assurance medieval creditors sought: can this government actually collect taxes to repay its debts?
 
-### Why This Matters Now
+The distinction between domestic and international credit remains fundamental. The United States can borrow in dollars at low rates because it controls the currency in which its debt is denominated—the same advantage England had with tally sticks domestically. Japan can sustain debt exceeding 250% of GDP because it borrows in yen and controls the Bank of Japan. But countries that borrow in foreign currencies face Edward III's problem: they must acquire someone else's money to repay debts, making them vulnerable to currency crises and default spirals.
 
-Modern governments face the same dual money problem Edward III confronted: they can create domestic currency freely, but international creditors demand proof of fiscal capacity. When markets attack sovereign debt—Greece in 2010, Argentina in 2001, Turkey in 2018—they're demanding the same assurance medieval creditors sought: can this government actually collect taxes to repay its debts?
+Greece's crisis wasn't caused by excessive spending—it was caused by borrowing in a currency it couldn't create. The eurozone recreated medieval Europe's problem: a monetary union without fiscal union, where member states are like medieval kingdoms—able to tax domestically but unable to create the currency their debts require. At 180% debt-to-GDP, Greece faced catastrophe. At 250%, Japan faces no crisis. The difference isn't fiscal responsibility—it's monetary sovereignty.
 
-The distinction between domestic and international credit remains fundamental. The United States can borrow in dollars at low rates because it controls the currency in which its debt is denominated—the same advantage England had with tally sticks domestically. But countries that borrow in foreign currencies face Edward III's problem: they must acquire someone else's money to repay debts, making them vulnerable to currency crises and default spirals.
-
-This explains why currency sovereignty matters so much in modern policy debates. Japan can sustain debt exceeding 250% of GDP because it borrows in yen and controls the Bank of Japan. Greece, borrowing in euros it cannot create, faced a devastating crisis at just 180% of GDP. The eurozone recreated medieval Europe's problem: a monetary union without fiscal union, where member states are like medieval kingdoms—able to tax domestically but unable to create the currency their debts require. Edward III would recognize the dilemma immediately. The institutional solution he couldn't achieve—credible commitment backed by representative government—remains the only answer. Technology changes, but the fundamental problem of making promises believable across borders endures.
+Edward III would recognize the dilemma immediately. The institutional solution he couldn't achieve—credible commitment backed by representative government and control over currency creation—remains the only answer. Technology changes, but the fundamental problem of making promises believable across borders endures. The lesson of 1340 still governs 2024: sovereignty over money matters more than any other economic power.
 
 ---
 
