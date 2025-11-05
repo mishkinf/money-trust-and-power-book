@@ -24,7 +24,7 @@ The smell of parchment and candle wax filled the counting room of a Florentine m
 
 As Europe emerged from the medieval twilight, its merchants discovered that trust could move wealth farther than any caravan. Italian city-states—Florence, Venice, Genoa—had become crossroads of Mediterranean and northern trade. From their ports, wool and silk flowed north; copper, grain, and furs flowed south. But moving treasure itself was perilous. Roads were infested with bandits, seas with pirates. Every shipment of coin required guards, insurance, and risk. The need for safer transfer created a quiet revolution: *paper promises* began to replace metal.
 
-The **bill of exchange** solved multiple problems at once. It allowed merchants to settle accounts across distance without transporting **specie** (physical coins made of precious metal like gold or silver)—and, crucially, to earn a return on capital without violating the Church's ban on usury. A Florentine exporter could sell cloth to a buyer in Bruges and draw a bill instructing his agent in London to pay the buyer's associate after a set period. The difference between the amount due and the local currency equivalent—a "rate of exchange"—functioned as disguised interest.²
+The **bill of exchange**—a written promise to pay a specified sum in another city at a future date, transferable between merchants—solved multiple problems at once. It allowed merchants to settle accounts across distance without transporting **specie** (physical coins made of precious metal like gold or silver)—and, crucially, to earn a return on capital without violating the Church's ban on usury. A Florentine exporter could sell cloth to a buyer in Bruges and draw a bill instructing his agent in London to pay the buyer's associate after a set period. The difference between the amount due and the local currency equivalent—a "rate of exchange"—functioned as disguised interest.²
 
 Because the bill was transferable, it circulated like money. One merchant could sell it to another, who might present it later to a correspondent for payment. The value lay not in metal but in *reputation*: a bill bearing the signature of the Medici or Bardi was as good as gold anywhere their name was known.³
 
@@ -40,7 +40,7 @@ Medieval theologians struggled to reconcile this new commerce with the morality 
 
 ### Networks of credit and faith
 
-The financial geography of Europe shifted from the fairs of Champagne to the countinghouses of Italy, Flanders, and southern Germany. Merchant families—Lombards, Peruzzi, Bardi, Medici, Fugger—wove a web of correspondence that spanned Christendom. Each branch of a house held accounts with others, balancing debts through *giro* transfers—direct transfers between accounts without physical money moving—in common ledgers. Trust replaced treasure.
+The financial geography of Europe shifted from the fairs of Champagne to the countinghouses of Italy, Flanders, and southern Germany. Merchant families—Lombards, Peruzzi, Bardi, Medici, Fugger—wove a web of **correspondent banking** relationships: partnerships between merchant houses in different cities that allowed them to clear transactions without shipping physical money. Each branch of a house held accounts with others, balancing debts through *giro* transfers—direct transfers between accounts without physical money moving—in common ledgers. Trust replaced treasure.
 
 At the great trade fairs of Bruges and later Antwerp, merchants gathered not merely to sell goods but to settle accounts. They exchanged bills, canceled debts, and adjusted balances with a few strokes of the pen. Money became **information**, transmitted by courier and codified in double-entry books. Every credit had its offsetting debit; the ledger itself became the world's first distributed database.⁶
 
@@ -108,7 +108,7 @@ Bookkeeping transformed not only business but mentality. It taught generations o
 
 ### From merchants to bankers
 
-By the sixteenth century, merchant houses had evolved into **proto-banks**. They accepted deposits, extended credit, and financed monarchs who could no longer rely on feudal dues. The Fugger family of Augsburg advanced funds to the Habsburgs for military campaigns and in return received mining concessions and tax revenues. Finance had become the hidden engine of empire.
+By the sixteenth century, merchant houses had evolved into **proto-banks**—institutions that performed banking functions like accepting deposits and extending credit, though not yet formally chartered as banks. They accepted deposits, extended credit, and financed monarchs who could no longer rely on feudal dues. The Fugger family of Augsburg advanced funds to the Habsburgs for military campaigns and in return received mining concessions and tax revenues. Finance had become the hidden engine of empire.
 
 To manage their far-flung operations, these houses developed systems of **clearing**—the process of settling mutual debts by offsetting claims rather than moving actual money. In Antwerp and later Amsterdam, merchant bankers met weekly to "strike the books," canceling debts against credits and paying only the residual difference. These were the ancestors of modern clearinghouses and interbank settlement systems. Money, once a tangible commodity, now existed as an abstract vector in an ever-expanding web of obligations.⁹
 

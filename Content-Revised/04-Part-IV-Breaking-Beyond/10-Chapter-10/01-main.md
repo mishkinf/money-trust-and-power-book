@@ -52,6 +52,28 @@ Keynes signed the agreement in December 1944, later admitting:
 
 > "We, all of us, had to sign, of course, before we had had a chance of reading through a clean and consecutive copy of the document. All we had seen of it was the dotted line. Our only excuse is the knowledge that our hosts had made final arrangements to throw us out of the hotel, unhouselled, disappointed, unaneled, within a few hours."⁴⁹
 
+### The conference: power disguised as negotiation
+
+The Mount Washington Hotel conference (July 1-22, 1944) took place one month after D-Day, with 730 delegates from 44 nations gathering in New Hampshire's White Mountains. The timing was no accident—the Allies were winning the war, and America was determined to win the peace. The conference was scheduled to conclude July 19 but extended three days as delegates argued over details already decided in Washington.⁴⁹ᵃ
+
+The power dynamics were brutally asymmetric. The United States held approximately 22 billion of the world's 28 billion in monetary gold—nearly 80 percent of global reserves. Britain owed £1.3 billion in sterling balances to India and other colonies, debts that undermined any negotiating position. When Keynes attempted to assert British influence, the numbers spoke louder than rhetoric. As the New York World-Telegram noted with characteristic American directness: "The kid who owns the ball is usually captain."⁴⁹ᵇ
+
+Harry Dexter White controlled proceedings with methodical precision. By July 1944, bancor had already been abandoned—not through conference debate but through prior Washington decisions. British delegates arrived to negotiate a system already designed in American interests. When Keynes protested an American draft in October 1943—"This is intolerable. It is yet another Talmud. We had better simply break off negotiations"—White's reply captured the power imbalance perfectly: "We will try to produce something which Your Highness can understand."⁴⁹ᶜ
+
+The Americans offered tactical compromises to create the appearance of negotiation. The Fund size increased from initial proposals to $8.5 billion. A "scarce currency clause" allowed rationing of currencies in short supply—theoretically applicable to dollars but never actually used. Exchange rates could adjust for "fundamental disequilibrium"—vague enough to mean anything or nothing. The World Bank was created for long-term development finance, sweetening the package for debtor nations.⁴⁹ᵈ
+
+But on core issues, American positions were non-negotiable: no bancor (only dollars as reserve currency), no unlimited credit mechanisms (only limited IMF quotas), no penalties on surplus countries (only pressure on deficit countries), no governance structure diluting American control (voting weighted by economic size, ensuring US veto power). These weren't negotiating positions—they were fait accompli disguised as proposals.⁴⁹ᵉ
+
+Why was Keynes's plan superior yet politically impossible? The International Clearing Union with bancor offered several advantages: **symmetrical adjustment** (pressure on both surplus and deficit countries, preventing creditor hoarding), **automatic liquidity** (no country could face dollar shortage when bancor was created for trade needs), **no reserve currency privilege** (no single nation gained "exorbitant privilege"), and **supranational governance** (decisions made by international authority, not dominant nation).⁴⁹ᶠ
+
+The problem was precisely these advantages. Symmetrical adjustment meant the United States—the primary surplus country—would face penalties for accumulating credits. Automatic liquidity meant America couldn't control when and how international money was created. No reserve currency privilege meant America sacrificed seigniorage profits and monetary autonomy. Supranational governance meant surrendering control to an institution where American interests wouldn't automatically prevail.⁴⁹ᵍ
+
+From America's perspective, Keynes was asking the creditor to finance a system where debtors could create unlimited claims on creditor resources. As White wrote in August 1942, a "universally accepted currency not redeemable in gold" seemed "incompatible with existence of national sovereignties"—meaning incompatible with American sovereignty specifically. Why would the United States, holding 80 percent of monetary gold and emerging as the world's dominant economy, agree to a system that constrained American power?⁴⁹ʰ
+
+The conference atmosphere reflected these tensions. Keynes, the celebrity economist whose 1919 Economic Consequences of the Peace had predicted Versailles Treaty disaster and whose General Theory had reshaped economics, arrived as something of a rock star. But celebrity meant nothing without gold reserves and military power. White, the less famous but more powerful Treasury official, controlled the proceedings. Documents were prepared in advance, voting procedures favored American positions, and the schedule ensured exhausted delegates would sign rather than continue arguing.⁴⁹ⁱ
+
+Keynes's December 1944 admission—signing before reading "a clean and consecutive copy," seeing only "the dotted line," excusing themselves because "hosts had made final arrangements to throw us out of the hotel"—captures the coercion disguised as cooperation. This was not negotiation between equals but capitulation by the weak to terms set by the strong. The Bretton Woods "agreement" was American monetary architecture accepted by nations with no alternative.⁴⁹ʲ
+
 ---
 
 ### The system in practice
@@ -60,7 +82,21 @@ The Bretton Woods system that emerged was not truly a gold standard but a **doll
 
 The mechanics worked smoothly at first. Countries maintained fixed exchange rates by buying or selling dollars. When imbalances emerged, the IMF provided short-term liquidity. When "fundamental disequilibrium" occurred, countries could devalue—as Britain did on **November 18, 1967**, reducing the pound from $2.80 to $2.40 (a 14.3 percent devaluation). Chancellor James Callaghan announced the decision on a Saturday evening at 9:30 PM. Prime Minister Harold Wilson's broadcast the next day—assuring citizens that "the pound here in Britain, in your pocket or purse...has been devalued"—was widely mocked, as the statement was technically false for domestic purchasing power.⁵¹
 
-The system facilitated postwar reconstruction and enabled unprecedented trade expansion. But it contained a fatal flaw that economist Robert Triffin had identified in his 1959-60 Congressional testimony: once "outstanding dollar liabilities to the rest of the world would eventually exceed the US monetary gold stock," a "classic bank run" would occur.⁵²
+The system facilitated postwar reconstruction and enabled unprecedented trade expansion. For 25 years (1946-1971), Bretton Woods delivered remarkable results: stable exchange rates provided certainty for international trade, global GDP grew at unprecedented rates, international trade expanded faster than at any prior period, and inflation remained moderate across most developed economies. The "Golden Age of Capitalism" rested on the foundation of the dollar-gold system.⁵²ᵃ
+
+### The success years: 1946-1971
+
+The Bretton Woods era represents one of the most successful periods in modern economic history. Between 1950 and 1973, global GDP grew at an average annual rate of 4.9 percent—significantly higher than the 3.0 percent average from 1973-1998 or the 1.3 percent average during the interwar gold standard period (1919-1939). The United States, Western Europe, and Japan all experienced rapid reconstruction and growth.⁵²ᵇ
+
+International trade expanded even faster than GDP. World exports grew at 8.2 percent annually from 1950-1973, compared to just 1.3 percent from 1913-1950 and 5.2 percent from 1973-1998. The system of fixed but adjustable exchange rates provided certainty for traders while allowing periodic realignments when imbalances became unsustainable. Major devaluations occurred (Britain 1949 and 1967, France 1958 and 1969), but these were managed through IMF coordination rather than competitive devaluation spirals that had plagued the 1930s.⁵²ᶜ
+
+Capital controls—restrictions on cross-border money movements—played a crucial but underappreciated role. Bretton Woods explicitly permitted and even encouraged countries to restrict capital flows while maintaining current account convertibility (the ability to exchange currency for trade purposes). This allowed governments to pursue full employment policies without fearing capital flight. Britain maintained extensive capital controls through the 1960s; France restricted capital movements until the 1980s. The system prioritized productive trade over speculative finance—a sharp contrast to the pre-1914 classical gold standard's commitment to free capital mobility.⁵²ᵈ
+
+The IMF provided stabilization loans when countries faced temporary balance-of-payments difficulties, offering an alternative to immediate deflationary adjustment. When Britain faced a payments crisis in 1961, the IMF assembled a $2 billion support package. When Italy experienced capital flight in 1964, IMF credit prevented forced devaluation. This "managed flexibility" prevented the rigid deflation the gold standard had imposed while maintaining exchange rate stability.⁵²ᵉ
+
+Why did it work so well for so long? Three factors: **American dominance** (U.S. held overwhelming gold reserves and productive capacity in 1945, making dollar confidence initially justified), **capital controls** (restricted speculative flows that might test convertibility), and **limited international finance** (most transactions were trade-related, not capital movements). As these conditions eroded—U.S. gold reserves declined, capital controls weakened, international finance expanded—the system's contradictions became unsustainable.⁵²ᶠ
+
+But it contained a fatal flaw that economist Robert Triffin had identified in his 1959-60 Congressional testimony: once "outstanding dollar liabilities to the rest of the world would eventually exceed the US monetary gold stock," a "classic bank run" would occur.⁵²ᵍ
 
 ---
 
@@ -201,3 +237,12 @@ Bretton Woods (1944) attempted to restore gold's discipline while preserving fia
 53. Wray, L. R. (1998). *Understanding Modern Money: The Key to Full Employment and Price Stability.* Edward Elgar.
 54. Goodhart, C. A. E. (1998). "The Two Concepts of Money: Implications for the Analysis of Optimal Currency Areas." *European Journal of Political Economy,* 14(3), 407–432.
 55. Ferguson, N. (2001). *The Cash Nexus: Money and Power in the Modern World, 1700–2000.* Basic Books.
+
+**Bretton Woods Conference Details and Success Period:**
+56. Federal Reserve History. (Various dates). "The Bretton Woods Conference, 1944." Federal Reserve Bank articles.
+57. Skidelsky, R. (2000). *John Maynard Keynes: Fighting for Freedom, 1937-1946.* New York: Viking.
+58. National WWII Museum. "The Bretton Woods Conference." Educational materials.
+59. IMF. (1969). "International Reserves and Liquidity." IMF Annual Report.
+60. Maddison, A. (2001). *The World Economy: A Millennial Perspective.* OECD Development Centre.
+61. Eichengreen, B. (2008). "The Global Imbalances and the Lessons of Bretton Woods." *NBER Working Paper* No. 10497.
+62. Obstfeld, M., & Taylor, A. M. (2004). *Global Capital Markets: Integration, Crisis, and Growth.* Cambridge University Press. [Data on trade expansion 1950-1973]

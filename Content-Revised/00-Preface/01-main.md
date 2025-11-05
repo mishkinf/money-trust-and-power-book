@@ -31,6 +31,20 @@ Yet within fifty years, it had become nearly unthinkable in respectable economic
 
 ---
 
+## Money and Power
+
+This book reveals how money works by tracing 5,000 years of history. But it also reveals something else: **monetary systems are never neutral**. They distribute wealth, power, and opportunity in systematic ways that advantage some groups while disadvantaging others.
+
+From Mesopotamian debt jubilees to medieval land concentration to modern housing unaffordability, the same pattern repeats: unchecked wealth accumulation destabilizes societies by converting productive assets into rent-extraction mechanisms. When new money flows primarily to asset owners through quantitative easing and bank lending, it inflates asset prices—housing, stocks, land—rather than wages, systematically advantaging those who already own over those who work. When creditors benefit from deflation while workers suffer unemployment, when homeownership becomes unattainable while rent extraction increases, these are not natural outcomes but design choices embedded in monetary architecture.
+
+These aren't ideological claims but empirical observations documented across millennia. The gold standard's deflation in 1821 destroyed farmers who borrowed during inflation, enriching creditors whose bonds appreciated in value. Churchill's 1925 return to gold cut miners' wages to maintain bankers' exchange rate. The 2008 quantitative easing rescued financial institutions while homeowners lost houses. The pattern is consistent: monetary orthodoxy, when it serves creditor interests over productive workers, gets presented as economic necessity rather than political choice.
+
+Understanding how money works means understanding whose interests prevail—and recognizing that technical monetary choices are fundamentally political decisions about resource distribution. When central banks claim to be "out of ammunition" or politicians insist "we can't afford" social programs while creating trillions for bank bailouts, they are making political choices about distribution and calling them technical constraints. The history reveals these claims as rhetoric, not reality.
+
+This book makes these patterns explicit without prescribing solutions. The goal is clarity about mechanisms and consequences, helping readers understand that when systems produce predictable distributional outcomes—creditors benefiting from deflation, asset owners from monetary expansion, workers bearing unemployment costs—these are design features, not natural laws. How societies choose to design their monetary systems reflects and reinforces their distributions of power. That power can be made visible, questioned, and potentially redesigned—but only if we first understand how the machinery actually works.
+
+---
+
 ## Six Essential Themes
 
 This book traces the evolution of money from ancient Mesopotamian grain credits to modern central bank digital currencies. It is not a technical history of monetary policy or a theoretical treatise on economics. It is the story of how societies learned—through crisis, war, and repeated failure—that value lies not in metal but in institutions.
@@ -72,3 +86,16 @@ The age of pure fiat is not the end of monetary history but its logical culminat
 *A note on sources*: This book draws on archaeological evidence, historical documents, economic analysis, and contemporary research. Where scholarly debates exist, I have tried to present multiple perspectives while distinguishing well-established facts from contested interpretations. The endnotes provide detailed citations for readers who wish to explore further.
 
 *A note on method*: This narrative synthesizes insights from economic history, anthropology, political science, and institutional economics. I have prioritized primary sources—parliamentary records, central bank archives, contemporary accounts—supplemented by modern scholarship. Where I use composite examples or representative cases to illustrate broader patterns, I have noted this explicitly. The human vignettes in Chapters 3, 7, and 8 are based on documented historical cases with proper citations. My aim is to make complex monetary history accessible without sacrificing accuracy, and to show how abstract economic concepts played out in real human lives.
+
+---
+
+### **Sources for Preface**
+
+**Money and Power - Distributional Consequences:**
+1. Piketty, Thomas. (2014). *Capital in the Twenty-First Century.* Harvard University Press. [Wealth concentration and monetary policy effects]
+2. Stiglitz, Joseph E. (2012). *The Price of Inequality: How Today's Divided Society Endangers Our Future.* W. W. Norton.
+3. Hudson, Michael. (2015). *Killing the Host: How Financial Parasites and Debt Bondage Destroy the Global Economy.* CounterPunch Books. [Money, power, and distributional effects]
+4. Saez, Emmanuel, & Zucman, Gabriel. (2016). "Wealth Inequality in the United States since 1913." *Quarterly Journal of Economics,* 131(2), 519-578. [Asset price inflation vs wage stagnation]
+5. Eichengreen, Barry. (1992). *Golden Fetters: The Gold Standard and the Great Depression, 1919-1939.* Oxford University Press. [Churchill's gold return as wage cuts]
+6. Board of Governors of the Federal Reserve System. (Various years). *Survey of Consumer Finances.* [Asset ownership and QE effects]
+7. Domanski, D., Scatigna, M., & Zabai, A. (2016). "Wealth Inequality and Monetary Policy." BIS Quarterly Review, March 2016.
