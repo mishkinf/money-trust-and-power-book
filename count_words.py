@@ -42,7 +42,7 @@ def count_words_excluding_sources(file_path):
         return 0
 
 def main():
-    base_path = Path("/Users/mishkinfaustini/workspace/Money, Trust, and Power Book/Content-Revised")
+    base_path = Path("/Users/mishkinfaustini/workspace/Money, Trust, and Power Book/Content")
     
     files = [
         "00-Preface/01-main.md",
