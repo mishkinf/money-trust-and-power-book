@@ -180,6 +180,8 @@ The colonial hut tax evidence is particularly relevant. At the exact moment Lond
 
 Understanding how this orthodoxy was constructed helps us see that our current monetary constraints are political choices, not economic laws. The Currency School lost the intellectual debate but won the policy war. Their ideas, proven wrong by events, still shape how we think about money today. The household budget metaphor isn't common sense—it's creditor-class ideology that outlived the gold standard that supposedly justified it.
 
+Yet the orthodoxy they built would face a test it could not survive: total war followed by catastrophic peace. The gold standard appeared triumphant in 1914, the foundation of international commerce and guarantor of monetary stability. But World War I would shatter gold's automatic adjustment. When Britain suspended convertibility in 1914, paper money again proved it could function without metal—just as it had during the Bank Restriction of 1797-1821. The disastrous attempt to restore gold at pre-war parities in the 1920s would vindicate every warning Thomas Attwood had made a century earlier. Churchill's 1925 return to gold would impose deflation on coal miners who had done nothing wrong except live under a monetary system serving creditor interests over human welfare. France and the United States would hoard gold, creating the deflationary shock that triggered the Great Depression. And when countries finally abandoned gold—Roosevelt in 1933, Britain in 1931—recovery would begin almost immediately. The breaking, when it came, would reveal what the gold standard's century of success had obscured: gold was never the foundation of monetary value. Trust was. And trust could be built without gold.
+
 ---
 
 ### **Chapter Summary**

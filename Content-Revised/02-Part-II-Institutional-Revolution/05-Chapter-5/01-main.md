@@ -222,6 +222,8 @@ The Bank of England proved that the future belonged not to the richest states bu
 
 The institutional revolution was complete. England had created a system where money could be manufactured through lending, backed not by gold but by parliamentary taxation and legal obligation. The two-tier structure—Bank of England notes as base money, country bank notes as credit expansion—would become the template for modern monetary systems worldwide. But this very success would create a new problem: as the system worked so well, people would forget how it actually functioned, replacing institutional understanding with gold fetishism. That forgetting, and its consequences, would shape the next two centuries of monetary history.
 
+Ironically, the Bank's very success would bury the truth about how it worked. What had been explicit in 1694—that the Bank created money "out of nothing" through lending, backed by parliamentary taxation—would become unthinkable in respectable economics within a century. Isaac Newton's accidental creation of the gold standard in 1717, followed by Britain's global dominance, would make gold seem essential to monetary stability. The century of apparent prosperity under gold (1717-1914) would convince generations that metal backed money's value, obscuring the institutional credibility that actually made the system function. Economists who understood money as a social relationship—that taxation drove currency demand, that unemployment represented wasted capacity not natural equilibrium—would be dismissed as cranks. The creditor class would promote "sound money" doctrine serving their material interests while claiming to serve universal principles. By 1850, the great forgetting would be complete.
+
 ---
 
 ### **Chapter Summary**
