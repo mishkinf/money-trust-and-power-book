@@ -166,13 +166,9 @@ Money, then, is not a thing but a **relationship**—a ledger of mutual recognit
 
 The birth of credit in the temples of Mesopotamia was therefore not a primitive stage on the road to coin but the first expression of a deeper truth: economies are systems of faith organized through record-keeping. From sacred accounting to sovereign finance, every regime of money has been an attempt to balance two imperatives—**the freedom to create credit** and **the need to make it credible**. That tension, first written in clay five millennia ago, still defines the world's monetary order.
 
-And that brings us back to Bitcoin. When cryptocurrency advocates argue for algorithmic scarcity, they're essentially taking the metallist position: that money needs an anchor independent of state power. But five thousand years of evidence suggests otherwise. Even when gold circulated, its monetary value came from governments accepting it for taxes and stamping it into coins. The temples of Uruk didn't need scarce commodities to create functioning money—they needed institutional credibility and taxation authority.
+The temples of Uruk didn't need scarce commodities to create functioning money—they needed institutional credibility and taxation authority. As we will see in Chapter 5, this principle would remain constant for the next five thousand years.
 
-Today's debates about Modern Monetary Theory, central bank digital currencies, and government spending are asking the same question those ancient temples answered: does money derive value from the material itself, or from the institution that issues it? The answer shapes everything. If money is fundamentally credit backed by taxation authority—as the historical evidence suggests—then governments that issue their own currency face different constraints than households. They can create money to mobilize unused resources, limited only by productive capacity, not by prior tax collection. This is not a radical modern insight but a recognition of how money has actually worked throughout most of human history.
-
-The technology changes—from clay tablets to blockchain—but the fundamental question remains: do we want money systems that serve human needs flexibly, or systems constrained by arbitrary scarcity? The temples of Uruk chose flexibility. We're still debating that choice.
-
-As we will see in the next chapter, medieval merchants would extend this logic across borders, creating international credit networks that operated independently of metal currency. Their innovations—bills of exchange, double-entry bookkeeping, clearing systems—would demonstrate that credit could function globally when backed by reputation and institutional trust. But they would also reveal the limits of private credit networks, setting the stage for the fiscal crisis that would drive the creation of central banks.
+The next chapter examines how medieval merchants extended credit across borders through bills of exchange and double-entry bookkeeping—and how these private networks' limits would ultimately drive the creation of central banks.
 
 ---
 

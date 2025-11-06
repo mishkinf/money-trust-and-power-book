@@ -18,9 +18,7 @@ The implication is profound: money did not arise spontaneously from market excha
 
 **2. Taxation drives currency demand**
 
-Why does fiat money have value? Not because of the paper it's printed on or the electrons that represent it, but because governments require taxes be paid in it. This creates baseline demand independent of the currency's purchasing power or convertibility to commodities.
-
-This principle was implicit in ancient grain credits (which could satisfy temple obligations), explicit in medieval tally sticks (which discharged tax debts), and formalized in modern fiat currency (where legal tender laws require acceptance for public obligations). The state's power to tax—and its requirement that taxes be paid in its currency—is what makes money valuable.
+From Mesopotamian grain credits to medieval tally sticks to modern fiat currency, governments created demand for their money by requiring tax payment in it. Chapter 5 traced how this principle sustained the Bank of England's notes; Chapter 8 showed colonial hut taxes proving it through force.
 
 **3. Institutions matter more than metal**
 
@@ -84,9 +82,9 @@ The 2020s present a rare moment when multiple monetary futures seem possible sim
 
 Central Bank Digital Currencies represent the most significant monetary innovation since Nixon closed the gold window. By 2024, over 100 countries were exploring CBDCs, with China's digital yuan already deployed at scale, Europe's digital euro in advanced development, and the Federal Reserve studying digital dollar feasibility. The technology differs fundamentally from both physical cash and cryptocurrency: CBDCs are direct liabilities of central banks, programmable through smart contracts, and potentially offering real-time monetary policy transmission.
 
-The promise is compelling: financial inclusion for the unbanked (1.7 billion adults globally lack bank accounts), elimination of payment system inefficiencies, real-time tax collection, precision fiscal transfers during crises, and reduced dependence on private payment monopolies. Sweden's e-krona pilot demonstrates transaction speeds impossible with traditional banking. China's digital yuan trials show government capacity to distribute stimulus payments instantly during COVID lockdowns—far faster than the delayed checks and bureaucratic transfers that plagued Western responses.
+The promise: financial inclusion (1.7 billion unbanked globally), payment efficiency, precision fiscal transfers, reduced dependence on private monopolies. Sweden's e-krona demonstrates instant transaction speeds; China's digital yuan enabled immediate COVID stimulus distribution.
 
-But the risks are equally profound. **Surveillance**: every transaction recorded, analyzed, and potentially controlled by government authorities. China's system already integrates with social credit scoring. **Disintermediation**: if citizens hold accounts directly with central banks, commercial banks lose deposit funding, potentially collapsing the credit creation system that finances productive investment. **Programmability**: money that can be programmed to expire (encouraging spending), restricted to certain purchases (preventing "undesirable" transactions), or frozen instantly without judicial process. **Cyber vulnerability**: concentrating monetary infrastructure creates single points of failure that state and criminal actors could exploit.
+The risks: **Surveillance** (every transaction recorded, China already integrates social credit scoring), **Disintermediation** (direct central bank accounts could collapse commercial credit creation), **Programmability** (money that expires, restricts purchases, or freezes without judicial process), **Cyber vulnerability** (concentrated infrastructure creates single points of failure).
 
 History offers warnings. Medieval English monarchs who directly controlled coinage debased it whenever fiscal pressures mounted. The Bank of England succeeded precisely because it was independent from direct crown control. CBDCs threaten to reverse this separation, giving governments unprecedented monetary power. Whether that power serves public interest or enables authoritarianism depends entirely on institutional quality—precisely the lesson of the past 5,000 years.
 

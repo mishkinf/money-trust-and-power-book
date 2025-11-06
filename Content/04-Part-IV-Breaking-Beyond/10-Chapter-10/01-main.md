@@ -348,52 +348,15 @@ Both required the U.S. to run balance-of-payments deficits (exporting more dolla
 
 The actual numbers prove the impossibility. Triffin predicted in 1959-60 that once "outstanding dollar liabilities to the rest of the world would eventually exceed the US monetary gold stock," a "classic bank run" would occur. Here's how it played out:⁵³ᵇ
 
-**Year 1 (1949-50): The Peak**
-- U.S. gold reserves: **$24.6 billion** (all-time high)
-- Foreign dollar liabilities: Relatively modest
-- System appears sustainable
-- Confidence in convertibility justified by massive gold backing⁵³ᶜ
+**1949-50:** U.S. gold reserves peaked at **$24.6 billion** with modest foreign dollar liabilities—system appeared sustainable.⁵³ᶜ As world trade expanded, dollar demand grew exponentially, but gold mining couldn't keep pace.⁵³ᵈ
 
-**The Problem Emerges:**
+**1962:** Liabilities to foreign **official holders** (who could convert at $35/ounce) exceeded gold reserves—convertibility became fiction.⁵³ᵉ⁻ᶠ
 
-As world trade expanded post-war, dollar demand grew exponentially. Countries needed dollars for trade and wanted to hold dollars as reserves. The U.S. had to supply those dollars through balance-of-payments deficits. But gold mining is slow—reserves couldn't grow fast enough to keep pace.⁵³ᵈ
+**1966:** Gold reserves **$13.2 billion**, central bank dollar holdings **$14 billion**—only 94% backing. America couldn't honor all conversion requests simultaneously.⁵³ᵍ⁻ʰ
 
-**1958: First Warning Signal**
-- Overall U.S. external liabilities first exceeded gold stock
-- The ratio began its inexorable decline
-- Triffin's warnings started appearing in Congressional testimony⁵³ᵉ
+**March 1968:** Reserves crashed to **$10.7 billion** after London Gold Pool lost $3 billion. Two-tier market created—implicit admission $35/ounce unsustainable.⁵³ⁱ
 
-**1962: The Critical Threshold**
-- Liabilities to foreign **official holders** exceeded gold reserves
-- This mattered because only official holders (central banks and governments) could convert dollars to gold at $35/ounce
-- Private holders couldn't demand gold, so their dollar holdings didn't threaten the system
-- But once foreign central banks held more dollars than America had gold, convertibility became fiction⁵³ᶠ
-
-**1964: Approaching Parity**
-- Gold reserves: **$15.5 billion**
-- Foreign official dollar holdings: Approximately **$15.5 billion** (excluding eurodollars)
-- Ratio: **1:1**—full backing, but only barely
-- Gold reserves had declined 37% from peak while dollar liabilities surged⁵³ᵍ
-
-**1966: The Crossing Point**
-- Gold reserves: **$13.2 billion**
-- Central bank dollar holdings: **$14 billion**
-- Ratio: **0.94:1**—only 94% backing
-- For the first time, America couldn't honor all conversion requests simultaneously
-- The bank run logic became inescapable⁵³ʰ
-
-**March 1968: Crisis Hemorrhage**
-- Gold reserves crashed to **$10.7 billion** (crisis low)
-- London Gold Pool disbanded after losing nearly $3 billion in five months
-- Two-tier gold market created—implicit admission $35/ounce was unsustainable
-- Official convertibility maintained, but private market gold traded at $38-$42⁵³ⁱ
-
-**August 15, 1971: The End**
-- Gold reserves: Approximately **$10 billion**
-- Foreign dollar liabilities: Approximately **$80 billion**
-- Ratio: **0.125:1**—only **12.5% backing**
-- Four days earlier, Britain requested $3 billion conversion
-- Paul Volcker: "If the British...were going to take gold for their dollars, it was clear the game was indeed over."⁵³ʲ
+**August 15, 1971:** Reserves **$10 billion**, liabilities **$80 billion**—only **12.5% backing**. Four days earlier, Britain's $3 billion conversion request proved "the game was indeed over" (Volcker).⁵³ʲ
 
 **Why This Was STRUCTURALLY Unsolvable:**
 
@@ -549,30 +512,15 @@ But by 1971, all three factors were exhausted:
 
 **The Question for Our Era:**
 
-The pure fiat dollar standard that emerged after 1971 perpetuates Triffin's logic without gold convertibility as breaking point:
+The pure fiat dollar standard perpetuates Triffin's logic without gold as breaking point: the world needs dollars for trade and reserves, requiring U.S. deficits that raise questions about dollar stability—but with no automatic breaking point like gold exhaustion.⁵⁶ʲ
 
-- World still needs dollars for trade and reserves (same as 1944-1971)
-- U.S. still must run deficits to supply them (same mechanism)
-- Persistent deficits still raise questions about dollar stability (similar concern)
-- No automatic breaking point like gold exhaustion (new difference)⁵⁶ʲ
-
-**How long can this continue?** Keynes's 1944 bancor proposal solved these problems through supranational currency and symmetric adjustment. The same solution exists today—IMF Special Drawing Rights (SDRs) could evolve into bancor-like reserve asset, reducing dollar dependence.⁵⁶ᵏ
-
-But American power still resists surrendering privilege, just as White resisted in 1944. Bancor would solve the Triffin dilemma but cost America seigniorage profits, monetary autonomy, strategic leverage, and veto power. The calculation remains: short-term national advantage versus long-term systemic stability.⁵⁶ˡ
+Keynes's bancor proposal could solve this through IMF Special Drawing Rights evolving into supranational reserve asset. But American power resists surrendering seigniorage profits, monetary autonomy, and strategic leverage. The calculation remains: short-term national advantage versus long-term systemic stability.⁵⁶ᵏ⁻ˡ
 
 **History's Lesson:**
 
-Only crisis forces change. Bretton Woods didn't end because policymakers chose wisely—it ended because contradictions became unbearable. Nixon closed the gold window not as optimal policy but as desperate response when Britain's conversion request proved the game was over.⁵⁶ᵐ
+Only crisis forces change. Bretton Woods ended not from wise choices but unbearable contradictions—Nixon's desperate response to Britain's conversion request.⁵⁶ᵐ Current strains echo this: persistent U.S. deficits ($800+ billion annually), rising debt, dollar weaponization driving alternatives, and China's $3+ trillion creating modern Triffin trap.⁵⁶ⁿ
 
-The current system shows similar strains:
-- Persistent U.S. trade deficits ($800+ billion annually)
-- Rising federal debt (creating fiscal sustainability questions)
-- Dollar weaponization (sanctions driving countries to seek alternatives)
-- China's accumulation creating modern Triffin trap ($3+ trillion dollar assets)⁵⁶ⁿ
-
-The lesson of 1944-1971: **Systems designed to preserve dominant power rather than systemic stability eventually break**. The question is whether we'll design better architecture before crisis forces it upon us—or repeat history's pattern of learning through catastrophe rather than foresight.⁵⁶ᵒ
-
-Keynes understood in 1944 that bancor was economically superior. White understood too, but chose American advantage. That choice gave us 27 years of growth followed by crisis and an ongoing Triffin trap in pure fiat form. The challenge for our era is whether we can learn from 1944-1971 without repeating it.⁵⁶ᵖ
+**Systems designed to preserve dominant power rather than systemic stability eventually break.** Keynes understood bancor was superior; White chose American advantage. That gave us 27 years of growth, then crisis and ongoing Triffin trap in fiat form. The challenge: learning from 1944-1971 before repeating it.⁵⁶ᵒ⁻ᵖ
 
 ---
 
