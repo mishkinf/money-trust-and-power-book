@@ -46,23 +46,38 @@ Medici, Bardi, and Peruzzi banking houses create bills of exchange—paper instr
 ### 1609: Amsterdam Wisselbank Founded
 Amsterdam city council establishes public bank to solve currency chaos (500+ coins circulating). Introduces bank money (banco guilder) and book-entry transfers—revolutionary payment system that makes Dutch guilder European reserve currency for two centuries.
 
+### 1640: Charles I Seizes Royal Mint
+Charles I seizes £200,000 from Royal Mint to finance escalating conflicts with Parliament and Scotland. Destroys confidence in government storage, forcing wealthy Londoners to store bullion with private goldsmiths instead. Accidental catalyst for private banking revolution.
+
+### 1642–1651: English Civil War
+Parlamentarians vs. Royalists. War financing needs drive goldsmith innovation. During this period, goldsmiths begin issuing "payable to bearer" receipts rather than to named individuals—creating England's first true private paper money that circulates independently.
+
 ### 1640–1672: English Goldsmith Banking
-After Charles I seizes £200,000 from Royal Mint (1640), London goldsmiths pivot to banking. Issue bearer receipts that circulate as currency. Discover fractional reserve banking, creating money "out of thin air." System ends catastrophically with Stop of the Exchequer (1672).
+London goldsmiths transform from storage to banking. Issue bearer receipts that circulate as currency. Discover fractional reserve banking, creating money "out of thin air." System works brilliantly until confidence collapses.
+
+### 1666: Great Fire of London (September 2-6)
+Inferno destroys Lombard Street's physical infrastructure, including goldsmith establishments. But goldsmiths save their ledgers—records of obligations prove more valuable than buildings. System survives, demonstrating that banking depends on institutional memory, not physical assets. Backwell and others rebuild within five years.
 
 ### 1668: Swedish Riksbank Established
 World's oldest surviving central bank, founded after Stockholms Banco's collapse from over-issuing banknotes. Placed under parliamentary (Riksdag) control, not royal authority—early model of central bank independence.
 
-### 1672: Stop of the Exchequer
-Charles II suspends £1.3 million in debt repayments to goldsmith-bankers, bankrupting five major banks and ruining over 10,000 families. Proves goldsmith receipts had become true money; demonstrates fatal flaw of unregulated private currency.
+### 1672–1674: Third Anglo-Dutch War
+Charles II wages war against Dutch Republic. Desperate for funds, facing empty Treasury. War costs drive sovereign default.
+
+### 1672: Stop of the Exchequer (January 2)
+Charles II suspends £1.3 million in debt repayments to goldsmith-bankers to finance Third Anglo-Dutch War. Five major banks fail immediately (Backwell, Vyner, three others). Over 10,000 families financially ruined. Proves goldsmith receipts had become true money; demonstrates fatal flaw of unregulated private currency without lender of last resort.
 
 ### 1688: Glorious Revolution
 William III and Mary II take English throne under strengthened Parliament. Bill of Rights (1689) forbids Crown from suspending laws or levying taxes without parliamentary consent. Sovereignty shifts from monarch to Parliament.
 
+### 1688–1697: Nine Years' War (War of the Grand Alliance)
+William III's war against Louis XIV's France. Massive military costs create urgent need for reliable government financing. Britain's war spending drains Treasury, making traditional tax-and-spend impossible. War financing crisis drives creation of Bank of England in 1694—Parliament needs credible way to borrow for military campaigns.
+
 ### 1690: Commission of Public Accounts
 Parliament creates oversight body and inserts appropriations into supply bills. Government spending becomes accountable to elected representatives, not royal discretion.
 
-### 1694: Bank of England Founded
-Parliament charters joint-stock Bank to lend £1.2 million to government at 8%. Critically, new taxes are earmarked to service debt. Investors confident loans backed by parliamentary taxation. England pioneers modern funded state bond.
+### 1694: Bank of England Founded (July 27)
+War financing breakthrough: Parliament charters joint-stock Bank to lend £1.2 million to government at 8% for Nine Years' War. Critically, new taxes are earmarked to service debt. Investors confident loans backed by parliamentary taxation, not royal whim. England pioneers modern funded state bond. Bank solves goldsmith catastrophe problems: stable institutional framework, uniform currency, parliamentary backing, crisis liquidity. War drives monetary innovation.
 
 ### 1696: Great Recoinage
 Parliament appoints Isaac Newton as Master of the Mint. Undertakes massive recoinage to restore debased silver currency.
@@ -80,14 +95,17 @@ Scottish financier John Law's experiment with paper money and central banking in
 
 ## THE AGE OF GOLD (1797 – 1914)
 
+### 1793–1815: French Revolutionary and Napoleonic Wars
+Britain's 22-year war against revolutionary and Napoleonic France. Largest military mobilization in British history drains Bank of England's gold reserves from £8 million (1791) to £1 million (1797). War spending necessitates suspension of gold convertibility—proving paper money can function without metal backing when institutions are credible. Britain finances entire war on fiat currency.
+
 ### 1787: Country Banks Proliferate
 Thomas Fox establishes Fox, Fowler & Company in Wellington—one of 700+ private banks that will issue their own currency across England by 1810. These unchartered partnerships create most of Britain's money supply, financing the Industrial Revolution through private note issuance.
 
 ### 1789–1797: French Assignats
 Revolutionary France prints assignats backed by confiscated church lands. Initial 400 million livres swells to hyperinflation. By 1796 replaced at 30:1 ratio; France reverts to metallic money under Napoleon. Cautionary tale of unbacked paper in wartime.
 
-### 1797: Bank Restriction Act
-Facing Napoleonic invasion threat, Parliament suspends Bank of England's gold convertibility. Notes outstanding double gold reserves. "Restriction" lasts 24 years, proving paper money can function in wartime without metal backing if institutions remain credible.
+### 1797: Bank Restriction Act (February 26)
+French troops land at Fishguard, Wales—panic triggers bank run. Facing Napoleonic invasion threat and war-depleted reserves, Parliament suspends Bank of England's gold convertibility (announced as "temporary until six weeks after peace"). Notes outstanding (£10.9M) double gold reserves (£5.3M). "Restriction" lasts 24 years through entire Napoleonic Wars, proving paper money can function without metal backing if institutions remain credible. War forces recognition of money's true nature.
 
 ### 1802: Henry Thornton's *Paper Credit*
 Bank of England director publishes first systematic analysis of monetary policy, demolishing the Real Bills Doctrine by showing interest rates matter more than "real" backing. Anticipates modern central banking theory by over a century.
@@ -104,6 +122,9 @@ Seventy-one country banks fail (10% of all banks) following Latin American debt 
 ### 1844: Bank Charter Act (Peel's Act)
 Parliament prohibits new note-issuing banks and requires 100% gold backing for Bank of England notes above £14 million. Intended to end fractional reserve banking, but Currency School makes fatal error: ignores bank deposits. Private money creation continues invisibly through checking accounts.
 
+### 1861–1865: American Civil War
+U.S. government issues "greenbacks"—fiat currency not backed by gold—to finance war. Legal Tender Acts (1862-63) make greenbacks acceptable for all debts except customs duties and interest on government bonds. Demonstrates sovereign money creation in wartime. After war, contentious debate over whether to retire greenbacks and return to gold standard.
+
 ### 1866: Overend-Gurney Crisis
 Major discount house fails, triggering panic. Bank of England holds discount rate at 10% for 95 days—longest period of high rates after any crisis. Marks Bank's evolution toward modern lender-of-last-resort role.
 
@@ -113,30 +134,39 @@ Major economies peg currencies to specified quantities of gold. Fixed exchange r
 ### 1890: Baring Crisis
 Bank of England orchestrates rescue with £3 million gold loan from Banque de France and £1.5 million from Bank of Russia. Demonstrates international cooperation and lender-of-last-resort function despite minimal reserves (under 5% of liabilities).
 
-### 1913: Federal Reserve Act
-U.S. creates hybrid public-private central bank after Panic of 1907. Enshrines Real Bills Doctrine in law, requiring Fed to discount only "real" commercial paper—a theoretical error that will deepen the Great Depression.
+### 1907: Panic of 1907 (October)
+New York banking crisis triggered by failed speculation. J.P. Morgan personally organizes rescue, but reveals U.S. financial system's vulnerability without central bank. Crisis demonstrates need for lender of last resort. Directly leads to Federal Reserve creation.
+
+### 1913: Federal Reserve Act (December 23)
+U.S. creates hybrid public-private central bank after Panic of 1907 exposed system fragility. Enshrines Real Bills Doctrine in law, requiring Fed to discount only "real" commercial paper—a theoretical error that will deepen the Great Depression. Decentralized structure (12 regional banks) reflects American distrust of concentrated financial power.
 
 ---
 
 ## THE ERA OF UPHEAVAL (1914 – 1971)
 
-### 1914: WWI Breaks Gold Standard
-European powers suspend gold convertibility to finance war. Germany, France, Austria-Hungary abandon gold payments. Britain and U.S. initially maintain links but strain under deficits. Governments issue vast notes and debt, often at cost of inflation.
+### 1914–1918: World War I
+European powers suspend gold convertibility to finance war. Germany, France, Austria-Hungary abandon gold payments immediately. Britain maintains gold link but strains under war deficits. War spending dwarfs tax revenue—governments create money through central banks and debt issuance. Inflation follows in most belligerent nations. Gold standard's rigidity incompatible with total war financing needs. War proves fiat currency necessary for modern warfare.
 
 ### 1920s: Weakened Gold Returns
 Partial return to gold standard, but system undermined by war debts and economic instability.
 
 ### 1929–1933: Great Depression
-Gold standard rigidity contributes to deflation spiral. Fed raises rates in October 1931 to defend gold, worsening crisis. Nine thousand banks fail (one-third of system). Countries that leave gold earlier recover faster—Britain (1931) sees production above 1929 levels by 1934; France (stays until 1936) remains 26% below. System's inflexibility catastrophically exposed.
+Gold standard rigidity contributes to deflation spiral. Fed raises rates in October 1931 to defend gold, worsening crisis. Nine thousand banks fail (one-third of system). Countries that leave gold earlier recover faster—Britain (1931) sees production above 1929 levels by 1934; France (stays until 1936) remains 26% below. Gold standard transforms recession into depression by preventing monetary response. System's inflexibility catastrophically exposed.
 
 ### 1943: Abba Lerner's Functional Finance
 Economist articulates principles that government should keep spending at level to buy all producible goods, can create money to meet obligations, and policy should be judged by effects not deficit size. Keynes privately endorses but warns "heaven help anyone who tries to put it across to the plain man."
 
+### 1939–1945: World War II
+Global conflict reshapes international monetary order. War financing and post-war reconstruction needs drive Allied powers to design new system. U.S. emerges as dominant creditor nation with world's largest gold reserves. War's end creates opportunity for institutional reset.
+
 ### 1944: Bretton Woods Conference (July 1-22)
-Allied nations meet at Mount Washington Hotel. Keynes proposes "bancor" supranational currency; U.S. Treasury's Harry Dexter White insists on dollar-based system. July 13: decisive moment when Indian delegation forces definition of "gold-convertible exchange"—U.S. admits it means dollars. System emerges: currencies pegged to dollar (±1%), dollar alone convertible to gold at $35/oz.
+War-driven monetary redesign: Allied nations meet at Mount Washington Hotel while WWII still rages. Keynes proposes "bancor" supranational currency; U.S. Treasury's Harry Dexter White insists on dollar-based system. July 13: decisive moment when Indian delegation forces definition of "gold-convertible exchange"—U.S. admits it means dollars. System emerges: currencies pegged to dollar (±1%), dollar alone convertible to gold at $35/oz. War creates conditions for dollar's reserve currency status.
 
 ### 1946: Beardsley Ruml's "Taxes for Revenue are Obsolete"
 Fed Chairman declares that after leaving gold standard, government has "final freedom from the money market" and no longer needs taxes to get money. Articulates functional finance for policy audience, but ideas soon marginalized.
+
+### 1950–1953: Korean War
+U.S. military spending surges. War demonstrates Bretton Woods system working under strain—dollar outflows increase but gold convertibility maintained. Post-war reconstruction spending plus military costs begin slow drain on U.S. gold reserves.
 
 ### 1950–1958: European Payments Union
 OEEC creates multilateral clearing system through BIS in Basel. Transforms bilateral trade gridlock into efficient settlement. "Progressive hardening" requires increasing gold/dollar settlement as deficits grow. Intra-European trade more than doubles; dissolves in 1958 when goal achieved.
@@ -147,8 +177,11 @@ Bretton Woods currencies fully convertible. Dollar becomes reserve currency. Int
 ### 1961–1968: London Gold Pool
 Eight central banks contribute $270 million to stabilize gold price at $35/oz. Initially successful (1962-65 surplus), but loses $3.7 billion (1965-68). France withdraws 1967. March 1968: Emergency closure after losing $3 billion in five months.
 
+### 1955–1975: Vietnam War (U.S. Involvement 1965–1973)
+U.S. military spending in Vietnam accelerates dollar creation and outflows. "Guns and butter"—Johnson finances war while expanding Great Society programs without raising taxes. War spending contributes to dollar overhang problem. By 1971, $80 billion in foreign dollar liabilities vs. only $10 billion U.S. gold reserves. War costs make gold convertibility unsustainable. Vietnam demonstrates limits of reserve currency maintaining both domestic spending and gold backing.
+
 ### 1965–1967: France Converts Dollars to Gold
-Following de Gaulle's February 4, 1965 press conference attacking dollar "exorbitant privilege," France aggressively converts dollars. Between 1962-1966, France reduces dollar reserves by $2.8 billion—most of U.S.'s $3.3 billion gold decline.
+Following de Gaulle's February 4, 1965 press conference attacking dollar "exorbitant privilege," France aggressively converts dollars. Between 1962-1966, France reduces dollar reserves by $2.8 billion—most of U.S.'s $3.3 billion gold decline. Vietnam War spending accelerates pressure on U.S. gold reserves.
 
 ### 1968: Two-Tier Gold Market
 March 17 Washington communiqué creates official tier ($35/oz for central banks only) and private tier (free market). Private market reopens April 1 at $38/oz, peaks at $42.60 in May. System acknowledges gold standard is dying.

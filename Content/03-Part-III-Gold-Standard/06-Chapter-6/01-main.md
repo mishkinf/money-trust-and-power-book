@@ -203,6 +203,25 @@ None of it was planned. All of it was presented as natural law.
 
 Exchange rates were fixed by gold content. The pound sterling's $4.8665 parity could fluctuate within narrow bands called **gold points** (±1%). When rates breached these limits, arbitrageurs shipped gold, theoretically creating automatic correction. The system appeared **self-regulating**—or so the theory claimed.²²⁻²⁴
 
+**How gold points actually worked—a concrete example:**
+
+Think of the gold standard like a chain connecting two water tanks (currencies) with a valve (the exchange rate). The water level can vary slightly, but if one tank gets too high or too low, the valve automatically opens to restore balance—or so the theory went.
+
+Here's the mechanism in practice. Suppose the pound-dollar exchange rate was $4.8665 per pound (both currencies defined by specific gold weights). The **gold export point** was typically $4.90—the rate where it became profitable to ship physical gold from New York to London. The **gold import point** was $4.83—where shipping gold from London to New York became profitable.
+
+**Example: Autumn 1890 banking crisis:**
+
+American investors panicked and wanted to convert British securities to dollars. Heavy selling of sterling pushed the exchange rate toward $4.83. At that point, arbitrageurs in London calculated:
+
+1. Buy £1,000 worth of gold from the Bank of England
+2. Shipping + insurance cost: approximately 0.7% (about $3.40 per £1,000)
+3. Sell gold in New York for dollars
+4. Profit margin: if the exchange rate fell below $4.83, the arbitrage covered shipping costs
+
+This gold shipment drained Bank of England reserves, forcing the Bank to raise interest rates (to 6% in November 1890), which made British assets more attractive, reversing the sterling sell-off. Within weeks, the exchange rate stabilized.²²ᵃ
+
+The "automatic" adjustment actually required active Bank management—raising rates, managing reserves, and sometimes borrowing gold from the Bank of France. It was self-regulating only in the sense that a car with power steering is self-driving—the mechanism works, but someone must grip the wheel.²³⁻²⁴
+
 ---
 
 ### The reality: Active management, not automaticity

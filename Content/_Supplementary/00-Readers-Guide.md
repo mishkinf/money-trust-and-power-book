@@ -72,7 +72,7 @@ This is not just history. Every chapter illuminates current debates:
 
 **Inflation Concerns and Central Bank Independence** (Chapters 7, 8, 11): The "household budget" metaphor—that governments must "find money" before spending—was manufactured in the 1810s-1820s to serve creditor interests. Understanding this history reveals that many current monetary "constraints" are political choices, not economic laws.
 
-**International Monetary System Reform** (Chapters 9, 10, 11): The Triffin dilemma that destroyed Bretton Woods persists today. The dollar's role as reserve currency creates the same contradictions: the world needs dollar liquidity, but persistent U.S. deficits undermine confidence. History suggests solutions require institutional innovation, not commodity backing.
+**International Monetary System Reform** (Chapters 9, 10, 11): The Triffin dilemma was specific to gold-backed reserve currency systems, where supply and convertibility were materially incompatible. The post-1971 fiat dollar system faces different challenges—geopolitical tensions over dollar dominance, concerns about monetary discipline without commodity constraints, and asymmetric adjustment burdens. Understanding this distinction prevents applying gold-standard logic to contemporary monetary debates. History suggests solutions require institutional innovation and symmetric adjustment rules, not commodity backing.
 
 ## Why This Matters
 
