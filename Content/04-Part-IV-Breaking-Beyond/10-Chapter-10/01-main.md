@@ -332,6 +332,22 @@ But it contained a fatal flaw that economist Robert Triffin had identified in hi
 
 ---
 
+### Understanding International Payments: A Brief Primer
+
+Before examining the Triffin dilemma, we need to understand how money flows between countries—concepts that seem technical but determine whether monetary systems succeed or fail.
+
+When countries trade, they track two accounts. The **current account** records trade in goods and services: exports (money flowing in) minus imports (money flowing out). If you export more than you import, you run a **surplus**—more money coming in than going out. If you import more than you export, you run a **deficit**—more money going out than coming in.
+
+The **balance of payments** is the full accounting, including not just trade but also financial flows: investments, loans, and reserve holdings. When the U.S. runs a current account deficit (importing more than exporting), dollars flow abroad. Foreign holders can either: (1) buy American goods/services (closing the deficit), (2) invest in American assets (stocks, bonds, real estate), or (3) hold dollars as reserves (for their own currency backing or trade settlement).
+
+Under Bretton Woods, these dollar outflows created the global money supply. When America imported French wine, dollars flowed to France. The French could convert those dollars to gold at $35 per ounce (official convertibility) or hold them as reserves (backing francs). Most chose reserves—more convenient than gold, still convertible if needed.
+
+This worked beautifully at first. But as dollar outflows accumulated year after year, foreign dollar holdings eventually exceeded American gold reserves. At that point, if every foreign central bank demanded gold simultaneously, America couldn't honor the $35 promise. The system rested on confidence that most holders wouldn't convert—a confidence that proved fragile.
+
+This is the foundation for understanding the Triffin dilemma: the world needed dollar outflows for liquidity, but those same outflows undermined the gold convertibility that gave dollars credibility.
+
+---
+
 ### The Triffin Dilemma: The Impossible Math
 
 Robert Triffin's 1959-60 Congressional testimony identified a structural contradiction that made Bretton Woods' collapse inevitable. The dilemma wasn't a policy mistake that could be corrected—it was **mathematical impossibility** built into the system's architecture.⁵³

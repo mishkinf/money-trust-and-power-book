@@ -88,6 +88,24 @@ The archaeological evidence from Mesopotamia admits alternative interpretations.
 
 Metallists argue that even temple "credits" were ultimately claims on actual stored commodities, not pure abstractions. The requirement that temple notes be convertible to grain or silver means they differed fundamentally from modern fiat currency. The unit of account may have been abstract, but the settlement medium was tangible. This interpretation suggests that credit and commodity money coevolved rather than credit preceding commodity entirely.⁶ᵈ
 
+### The Ancient Debate That Shapes Modern Policy
+
+Before we can understand how temple credits and tally sticks worked, we need to address a fundamental disagreement that has raged for centuries—one that directly shapes today's debates about government spending, inflation, and cryptocurrency.
+
+The question is deceptively simple: **where does money get its value?** Is it valuable because of what it's made from (like gold coins valuable for the metal itself), or is it valuable because of the institutions that issue it and the obligations it can discharge (like tax payments)? This isn't merely academic—it determines whether governments can create money to respond to crises, whether Bitcoin's fixed supply makes sense, and whether the Federal Reserve "printing money" causes inevitable inflation.
+
+Economists call this the **metallist-chartalist debate**, and it's been contested since at least the 18th century. But the question is actually five thousand years old, embedded in the very first monetary systems. Understanding this debate is essential because it shapes everything that follows—how we interpret the historical evidence, how we understand modern central banking, and what constraints we believe governments face when spending money.
+
+The two positions are fundamentally incompatible:
+
+**The metallist view** says money must be backed by something with intrinsic value—precious metals, commodities, or assets. Money is valuable because of what it *is*. Paper currency works only when convertible to gold or silver; otherwise it's a dangerous fiction that will eventually collapse. This view underpins cryptocurrency logic (fixed supply creates value), gold standard nostalgia, and warnings that government "printing money" will cause hyperinflation.
+
+**The chartalist view** says money derives value from the authority that issues it and the obligations it can discharge—especially taxes. Money is valuable because of the *relationship* it represents. Credit and taxation create monetary demand independent of commodity backing. Fiat currency works perfectly well when institutions are credible, and government spending is constrained by real resources (available workers, factories, materials), not by finance.
+
+The stakes are enormous. If metallists are correct, modern central banking is built on unsustainable foundations—we abandoned gold backing in 1971, and catastrophe may be inevitable. If chartalists are correct, most "common sense" about government budgets is wrong—governments that issue currency face fundamentally different constraints than households, and much contemporary fiscal anxiety is misplaced.
+
+This chapter presents evidence supporting the chartalist interpretation. But intellectual honesty requires acknowledging the metallist challenge seriously before demonstrating why the historical record favors chartalism. Let's examine both positions carefully.
+
 The debate matters because it shapes how we understand money's essential nature. **Metallism** is the theory that money must originate from commodity value—that gold or silver coins are "real" money because the metal itself has intrinsic worth. If metallists are correct, then fiat currency is a recent deviation from money's natural form—a deviation that might prove unsustainable. **Chartalism** is the opposing theory: money derives its value from government authority and taxation, not from commodity backing. If chartalists are correct that money originated as credit backed by institutional authority, then commodity money was merely a transitional phase, and fiat currency represents a return to money's original form.
 
 This debate directly informs today's policy choices. When the Federal Reserve created trillions in COVID relief, critics invoked the metallist position: "You can't just print money!" But chartalists pointed to 5,000 years of history showing that governments with taxation authority can create money to mobilize unused resources, limited by productive capacity, not by gold reserves.
