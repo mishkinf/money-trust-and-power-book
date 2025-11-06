@@ -41,6 +41,9 @@ Currency whose value derives from the material it contains (gold, silver, etc.).
 ### **Country Banks**
 Private partnerships (1700-1844) that issued their own banknotes across England. Over 700 existed by 1810, creating most of Britain's money supply and financing Industrial Revolution. Prohibited from issuing new notes by Bank Charter Act 1844; last private note issued 1921.
 
+### **Currency Sovereignty**
+Ability of a government to issue and control its own currency, denominate debts in that currency, and maintain independent monetary policy. Japan possesses full currency sovereignty (yen-denominated debt, floating exchange rate); Argentina lacks it (dollar-denominated external debt). MMT emphasizes this as more important than debt ratios for fiscal sustainability. Countries with sovereignty cannot involuntarily default on own-currency obligations; those without face hard external constraints.
+
 ### **Deposit Creation**
 Process by which commercial banks create money when making loans. Bank credits borrower's account with new deposit without transferring existing funds—"loans create deposits." Confirmed empirically by Richard Werner (2014) and Bank of England (2014), refuting money multiplier theory.
 
@@ -59,11 +62,17 @@ Term for England's late 17th-century transformation of public finance following 
 ### **Endogenous Money**
 Theory that money supply is determined by demand for credit, not by central bank control of reserves. Banks create deposits when making loans; central banks accommodate by supplying reserves at target interest rate. Articulated by Post-Keynesian economists (Kaldor, Moore, Minsky); confirmed by Bank of England 2014.
 
+### **Exorbitant Privilege**
+Term coined by French Finance Minister Valéry Giscard d'Estaing (1965) for advantages U.S. enjoys from dollar's reserve currency status. Includes ability to sustain persistent current account deficits ($819 billion in 2023), borrow at artificially low rates (46-50 basis points suppression per Federal Reserve research), and print currency accepted globally. Foreign holders of $9.05 trillion in Treasuries effectively subsidize U.S. consumption. Barry Eichengreen's research shows net benefit approximately 1% of U.S. GDP.
+
 ### **Florin**
 Gold coin first minted by Florence in 1252 at 3.5 grams pure gold. Never debased; became trusted international currency alongside Venetian ducat. Example of how stable currencies spread through market competition.
 
 ### **Fractional Reserve Banking**
 System where banks hold only fraction of deposits as reserves, lending out remainder. Creates money through credit expansion. Discovered accidentally by English goldsmith-bankers (1640s-1670s). Modern banks create deposits directly through lending, not by "multiplying" reserves.
+
+### **Foreign Currency Trap**
+Situation where countries borrow in currencies they cannot print (typically dollars), creating hard external constraints. When export revenue falls or currency devalues, real debt burden increases while government cannot create the foreign currency needed for service. Argentina's nine crises since 1980 demonstrate pattern: peso devaluation doubles dollar-denominated debt burden, forcing painful deflation or default. Contrast with currency sovereignty where governments borrow in own currency.
 
 ### **Functional Finance**
 Economic doctrine (Abba Lerner, 1943) that government should judge fiscal policy by economic effects, not budget balance. Government should spend enough to buy all producible goods, can create money to meet obligations, and taxes control inflation rather than "fund" spending. Briefly influential 1940s-1960s; marginalized after stagflation.
@@ -196,6 +205,9 @@ Economists believing money must originate from commodity value. Mises's Regressi
 
 ### **Procyclical Policy**
 Policy amplifying economic cycles rather than dampening them. Real Bills Doctrine prescribed procyclical monetary policy: as production fell during Great Depression, "needs of trade" legitimately declined, so Fed contracted money supply—deepening the crisis catastrophically.
+
+### **Productive Capacity**
+Economy's ability to produce real goods and services given available labor, capital, technology, and resources. Modern Monetary Theory emphasizes this as the real constraint on government spending, not nominal money supply. Hyperinflation results from destruction of productive capacity (Venezuela oil -77%, Weimar coal/steel -80%, Zimbabwe agriculture -50%), not money creation per se. When capacity intact, massive monetary expansion produces minimal inflation (Japan, US 2008-2020, UK 1797-1821).
 
 ### **Regression Theorem**
 Ludwig von Mises's 1912 argument that money's value today depends on yesterday's value, traced back to original commodity use. Presents logical challenge to chartalist theory: how does purely abstract money acquire initial value? Chartalist answer: state power to tax creates value from start.

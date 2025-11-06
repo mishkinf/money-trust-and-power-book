@@ -8,7 +8,7 @@
 
 ### The Gold Standard Nostalgia
 
-"We need to return to the gold standard." The phrase echoes through political debates, cryptocurrency manifestos, and economic commentary. Gold, advocates argue, would discipline governments, prevent inflation, and restore monetary sanity. Bitcoin's fixed supply of 21 million coins explicitly mimics gold's scarcity. Ron Paul's "End the Fed" campaign called for gold-backed currency. The nostalgia is powerful: a time when money meant something real, when governments couldn't just print at will.
+"We need to return to the gold standard." The phrase echoes through political debates, cryptocurrency manifestos, and economic commentary. Gold, advocates argue, would discipline governments, prevent inflation, and restore monetary sanity. Bitcoin's fixed supply of 21 million coins explicitly mimics gold's scarcity. Ron Paul's "End the Fed" campaign called for gold-backed currency. The nostalgia is powerful: a time when money meant something real, when governments couldn't just print at will.³
 
 But what if the gold standard was never the natural monetary system its advocates imagine? What if it emerged not from economic logic but from a scientist's miscalculation? And what if its century of apparent success concealed a deflationary bias that redistributed wealth from debtors to creditors, from workers to bondholders, from periphery to core?
 
@@ -276,23 +276,24 @@ Yet the gold standard's century of success would create a dangerous amnesia. Peo
 
 1. Westfall, R. S. (1980). *Never at Rest: A Biography of Isaac Newton.* Cambridge University Press.
 2. Newton, I. (1717). "Report to the Lords Commissioners of His Majesty's Treasury." Royal Mint Archives, T 1/208, no. 43.
-3. Frisby, D. (2024). "The Accidental Gold Standard." *The Flying Frisby.* [https://theflyingfrisby.com](https://theflyingfrisby.com)
-4. Li, M. (2013). "The 'Not So Great' Recoinage of 1696." Federal Reserve Bank of New York. *Liberty Street Economics.*
-5. Challis, C. E. (1992). *A New History of the Royal Mint.* Cambridge University Press.
-6. Hall, A. R. (1992). *Isaac Newton: Adventurer in Thought.* Cambridge University Press.
-7. Levenson, T. (2009). *Newton and the Counterfeiter: The Unknown Detective Career of the World's Greatest Scientist.* Houghton Mifflin Harcourt.
-8. Craig, J. (1953). *The Mint: A History of the London Mint from A.D. 287 to 1948.* Cambridge University Press.
-9. Redish, A. (1990). "The Evolution of the Gold Standard in England." *Journal of Economic History,* 50(4), 789–805.
-10. Rolnick, A. J., & Weber, W. E. (1986). "Gresham's Law or Gresham's Fallacy?" *Journal of Political Economy,* 94(1), 185–199.
-11. Selgin, G. (1996). "Salvaging Gresham's Law: The Good, the Bad, and the Illegal." *Journal of Money, Credit and Banking,* 28(4), 637–649.
-12. Officer, L. H. (2008). "Gold Standard." *EH.net Encyclopedia,* edited by Robert Whaples.
-13. Feavearyear, A. (1963). *The Pound Sterling: A History of English Money.* 2nd ed. Oxford University Press.
-14. Sargent, T. J., & Velde, F. R. (2002). *The Big Problem of Small Change.* Princeton University Press.
-15. Vilar, P. (1976). *A History of Gold and Money, 1450–1920.* Verso.
-16. Clapham, J. (1945). *The Bank of England: A History, Vol. 2, 1797–1914.* Cambridge University Press.
-17. Eichengreen, B. (1992). *Golden Fetters: The Gold Standard and the Great Depression, 1919–1939.* Oxford University Press.
-18. Bordo, M. D., & Kydland, F. E. (1995). "The Gold Standard as a Rule: An Essay in Exploration." *Explorations in Economic History,* 32(4), 423–464.
-19. Flandreau, M. (2004). *The Glitter of Gold: France, Bimetallism, and the Emergence of the International Gold Standard, 1848–1873.* Oxford University Press.
+3. The "fiat always fails" narrative overlooks that hyperinflation results from productive capacity destruction and foreign currency traps, not money creation per se. Venezuela's oil production collapsed 77% before hyperinflation peaked. Weimar's mark stabilized at 320:1 through mid-1922 despite continued printing, collapsing only after France occupied the Ruhr (eliminating 80% of coal/steel production). Zimbabwe's agricultural output fell 50% seven years before 2007-2008 hyperinflation. Counter-examples prove the opposite: Japan sustains 250% debt-to-GDP with deflation, the US created $8 trillion (2008-2022) with minimal inflation, and Britain's 1797-1821 Bank Restriction (24 years, 226% debt-to-GDP) produced only 22.3% total inflation. The constraint is real resources and institutional capacity, not nominal money supply. Japan can sustain unprecedented debt because it's yen-denominated; Argentina defaults at 75% because it borrows dollars it cannot print. See Epilogue and Appendix A for detailed analysis.
+4. Frisby, D. (2024). "The Accidental Gold Standard." *The Flying Frisby.* [https://theflyingfrisby.com](https://theflyingfrisby.com)
+5. Li, M. (2013). "The 'Not So Great' Recoinage of 1696." Federal Reserve Bank of New York. *Liberty Street Economics.*
+6. Challis, C. E. (1992). *A New History of the Royal Mint.* Cambridge University Press.
+7. Hall, A. R. (1992). *Isaac Newton: Adventurer in Thought.* Cambridge University Press.
+8. Levenson, T. (2009). *Newton and the Counterfeiter: The Unknown Detective Career of the World's Greatest Scientist.* Houghton Mifflin Harcourt.
+9. Craig, J. (1953). *The Mint: A History of the London Mint from A.D. 287 to 1948.* Cambridge University Press.
+10. Redish, A. (1990). "The Evolution of the Gold Standard in England." *Journal of Economic History,* 50(4), 789–805.
+11. Rolnick, A. J., & Weber, W. E. (1986). "Gresham's Law or Gresham's Fallacy?" *Journal of Political Economy,* 94(1), 185–199.
+12. Selgin, G. (1996). "Salvaging Gresham's Law: The Good, the Bad, and the Illegal." *Journal of Money, Credit and Banking,* 28(4), 637–649.
+13. Officer, L. H. (2008). "Gold Standard." *EH.net Encyclopedia,* edited by Robert Whaples.
+14. Feavearyear, A. (1963). *The Pound Sterling: A History of English Money.* 2nd ed. Oxford University Press.
+15. Sargent, T. J., & Velde, F. R. (2002). *The Big Problem of Small Change.* Princeton University Press.
+16. Vilar, P. (1976). *A History of Gold and Money, 1450–1920.* Verso.
+17. Clapham, J. (1945). *The Bank of England: A History, Vol. 2, 1797–1914.* Cambridge University Press.
+18. Eichengreen, B. (1992). *Golden Fetters: The Gold Standard and the Great Depression, 1919–1939.* Oxford University Press.
+19. Bordo, M. D., & Kydland, F. E. (1995). "The Gold Standard as a Rule: An Essay in Exploration." *Explorations in Economic History,* 32(4), 423–464.
+20. Flandreau, M. (2004). *The Glitter of Gold: France, Bimetallism, and the Emergence of the International Gold Standard, 1848–1873.* Oxford University Press.
 20. Gallarotti, G. M. (1995). *The Anatomy of an International Monetary Regime: The Classical Gold Standard, 1880–1914.* Oxford University Press.
 21. Eichengreen, B. (1996). *Globalizing Capital: A History of the International Monetary System.* Princeton University Press.
 22. Neal, L. (1990). *The Rise of Financial Capitalism: International Capital Markets in the Age of Reason.* Cambridge University Press.

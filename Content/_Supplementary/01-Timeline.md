@@ -150,6 +150,9 @@ European powers suspend gold convertibility to finance war. Germany, France, Aus
 ### 1920s: Weakened Gold Returns
 Partial return to gold standard, but system undermined by war debts and economic instability.
 
+### 1923: Weimar Hyperinflation
+Germany's mark stabilizes at 320:1 through mid-1922 despite continued money printing. Hyperinflation erupts only after France occupies the Ruhr (January 1923), eliminating 80% of coal and steel production. Foreign currency obligations (132 billion gold marks from London Schedule) force Germany to print marks to buy gold, creating death spiral. Peak: 4.2 trillion marks per dollar (November 1923). Pattern demonstrates hyperinflation results from productive capacity destruction plus foreign currency traps, not money creation alone.
+
 ### 1929–1933: Great Depression
 Gold standard rigidity contributes to deflation spiral. Fed raises rates in October 1931 to defend gold, worsening crisis. Nine thousand banks fail (one-third of system). Countries that leave gold earlier recover faster—Britain (1931) sees production above 1929 levels by 1934; France (stays until 1936) remains 26% below. Gold standard transforms recession into depression by preventing monetary response. System's inflexibility catastrophically exposed.
 
@@ -161,6 +164,9 @@ Global conflict reshapes international monetary order. War financing and post-wa
 
 ### 1944: Bretton Woods Conference (July 1-22)
 War-driven monetary redesign: Allied nations meet at Mount Washington Hotel while WWII still rages. Keynes proposes "bancor" supranational currency; U.S. Treasury's Harry Dexter White insists on dollar-based system. July 13: decisive moment when Indian delegation forces definition of "gold-convertible exchange"—U.S. admits it means dollars. System emerges: currencies pegged to dollar (±1%), dollar alone convertible to gold at $35/oz. War creates conditions for dollar's reserve currency status.
+
+### 1946: Hungarian Hyperinflation (Worst in History)
+World War II destroys 50% of industrial capacity, damages 90% total. Hungary prints pengő to cover occupation costs and war reparations. Peak: 4.19×10²⁷% monthly inflation (July 1946). When production restored in August 1946, new forint stabilizes immediately despite continued deficits—proving productive capacity constrains inflation more than monetary aggregates.
 
 ### 1946: Beardsley Ruml's "Taxes for Revenue are Obsolete"
 Fed Chairman declares that after leaving gold standard, government has "final freedom from the money market" and no longer needs taxes to get money. Articulates functional finance for policy audience, but ideas soon marginalized.
@@ -189,11 +195,17 @@ March 17 Washington communiqué creates official tier ($35/oz for central banks 
 ### 1971: Nixon Closes Gold Window (August 15)
 U.S. gold reserves fallen to ~$10 billion vs. $80 billion foreign dollar liabilities. Britain requests $3 billion transfer August 11. Nixon ends dollar-gold convertibility, calling it "temporary" (it's permanent). Bretton Woods dismantled. By 1973, major currencies float.
 
+### 1974: Petrodollar System Established
+Following 1973 oil crisis, U.S. Treasury Secretary William Simon negotiates secret agreements with Saudi Arabia: Saudis price oil in dollars and recycle petrodollars into U.S. Treasuries; U.S. provides military protection and arms. Agreement creates structural demand for dollars independent of trade flows, cementing dollar's reserve currency status post-Bretton Woods. By 2024, 80% of oil remains dollar-denominated despite dedollarization efforts.
+
 ### 1971–1978: The 1970s Inflation Crisis
 OPEC oil shocks (1973, 1979) quadruple energy prices, creating supply-driven inflation. Global commodity shortages and wage-price spirals follow. Fed Chairman Arthur Burns correctly diagnoses "cost-push" inflation but lacks tools to address supply constraints—raising interest rates can't produce more oil. Inflation reaches 14.8% by March 1980. Crisis demonstrates that inflation stems from real resource bottlenecks, not simply "too much money," and that monetary policy alone cannot solve supply-side problems.
 
 ### 1979–1983: Volcker Breaks Inflation Through Recession
 Fed Chairman Paul Volcker raises federal funds rate to 20% (June 1981), deliberately engineering worst recession since Great Depression. Unemployment reaches 10.8%. Inflation falls from 14.8% (March 1980) to 3.8% (1983)—not by solving supply constraints but by crushing demand through mass unemployment. Demonstrates that central banks can suppress inflation through sufficient economic pain, establishing "credibility" model that prioritizes price stability over employment. Human cost: years of lost output, destroyed careers, communities never fully recovered.
+
+### 1982: Mexico Default Triggers Latin American Lost Decade
+Mexico announces it cannot service $80 billion foreign debt (August 12), triggering regional crisis. Volcker's interest rate shock makes dollar-denominated debt unsustainable across Latin America. Argentina's external debt reaches $45 billion, accumulated during 1976-1983 military dictatorship. Lost Decade follows: negative per capita income growth through 1980s, Argentina suffers 325% average inflation, real wages fall to half 1974 levels. Pattern demonstrates how Fed policy spillovers create asymmetric adjustment burdens on emerging markets with foreign currency debt.
 
 ---
 
@@ -211,6 +223,12 @@ Hedge fund manager independently develops chartalist ideas from monetary operati
 ### 1997: Asian Financial Crisis
 Thailand floats baht July 2; currencies collapse across Asia (Indonesian rupiah -80%, Thai baht -50%). Crisis demonstrates how foreign currency debt creates vulnerabilities distinct from domestic money creation—external constraints bind non-reserve currencies differently.
 
+### 2000–2009: Zimbabwe Land Reform and Hyperinflation
+Land reform (2000) destroys commercial agriculture—output falls 50% over nine years. Yet hyperinflation only erupts in 2007-2008, seven years after productive shock. Peak: 79.6 billion percent monthly (November 2008). Timeline confirms pattern: productive capacity destruction precedes monetary collapse. Dollar-denominated external debt prevents monetary solutions.
+
+### 2001–2002: Argentina Convertibility Crisis
+Currency board pegging peso 1:1 to dollar (since 1991) proves unsustainable during recession. Unable to devalue or print dollars for debt service, only adjustment mechanism is painful deflation. Economy contracts 20%, unemployment reaches 25%, poverty explodes to 54%. Capital flight: $29 billion (2001), with 47% of defaulted bonds held by domestic elites who moved assets abroad while poor bore adjustment. Default on $81-93 billion demonstrates currency sovereignty matters more than debt ratios—Argentina defaults at lower debt-to-GDP than countries with own-currency debt.
+
 ### 2008: Global Financial Crisis
 Shadow banking system (repo markets, asset-backed commercial paper, money market funds) implodes after subprime mortgage defaults. Fed expands balance sheet from $870 billion to $4.5 trillion through quantitative easing. Despite massive monetary expansion, core inflation remains below 2%—demonstrating productive capacity, not money quantity, constrains inflation.
 
@@ -226,8 +244,17 @@ Alexandria Ocasio-Cortez cites MMT for Green New Deal funding. Chicago Booth sur
 ### 2020–2021: COVID Fiscal Response
 Governments deploy unprecedented spending: U.S. passes $5+ trillion in relief. Initially no inflation (supply and demand both collapsed), but by 2021-22 inflation reaches 9.1% as supply chains disrupt and demand surges. Fed raises rates from 0% to 5.25% in 18 months. Inflation falls to ~3% by 2024 without severe recession—demonstrating fiat system's flexibility when institutions respond.
 
+### 2013: Venezuela's Productive Collapse Begins
+Oil production peaks at 3.2 million barrels daily (2013), then collapses to 700,000 bpd (2020)—77% decline. Inflation begins accelerating (56% in 2013, 274% by 2016). Heavy monetary expansion only begins late 2016 in response to vanished export revenue. Dollar-denominated debt ($60 billion) prevents monetary solutions. By 2019: hyperinflation peaks. Pattern replicates Weimar, Zimbabwe—productive capacity destruction precedes money printing.
+
+### 2018–2019: Argentina's Largest-Ever IMF Bailout
+Drought decimates soybean exports (crucial dollar earner) as Fed rate increases trigger capital outflows. Peso devalues 100%, doubling real burden of foreign currency debt (55-57% of total). Interest rates reach 60-75%—world record—yet inflation hits 47% as import costs surge. IMF loan: $57 billion (largest in history). Poverty: 27% → 35% (10 million people). Nine crises since 1980 at average 75% debt-to-GDP versus Japan's zero crises at 260% debt-to-GDP demonstrates currency denomination determines sustainability, not ratios.
+
 ### 2020s: Digital Currency Experiments
 Central banks explore CBDCs (Central Bank Digital Currencies). Cryptocurrencies offer decentralized alternatives, but state-backed currencies remain dominant based on taxing power and institutional stability.
+
+### 2010–2024: BRICS Dedollarization Fails to Dent Dominance
+Despite ambitious initiatives since 2010, dollar reserve share declines glacially from 63.3% to 57.8% over 14 years (0.4 percentage points annually). Dollar remains involved in 88% of FX transactions, 80% of oil trade. Russia-China achieve 99% local currency trade only under sanctions duress. India-Russia oil trade dysfunctional (Russia accumulates unusable rupees). Network effects and path dependency maintain dollar primacy despite political will for alternatives.
 
 ---
 
