@@ -148,7 +148,7 @@ The confusion stems from treating money as a "thing" rather than a "relationship
 
 The chartalist principle works through three mechanisms:
 
-**First, taxation creates baseline demand.** If the government requires you to pay taxes in its currency, you must obtain that currency somehow. This creates demand independent of the currency's purchasing power or convertibility. Medieval English peasants accepted tally sticks not because wood had intrinsic value but because tally sticks discharged tax obligations. Modern Americans accept dollars for the same reason—they're legally required to pay federal taxes in dollars.
+**First, tax obligations drive adoption.** Government requirements to pay in specific currency force acquisition of that currency, creating demand independent of purchasing power or convertibility. Medieval English peasants needed tally sticks to satisfy tax collectors, not because wood held value. Modern Americans need dollars for the same reason—federal obligations must be discharged in government-issued currency.
 
 **Second, legal tender laws reinforce acceptance.** Once a critical mass of transactions use the currency for taxes, it becomes convenient for private transactions too. The network effect takes over: stores accept dollars because employees need dollars for taxes, landlords accept dollars because tenants pay in dollars, and so on.
 

@@ -21,7 +21,7 @@ People accepted Bank notes because **they needed them to pay taxes**. This was n
 
 Suddenly the farmer **needed** those notes. He had to sell something for notes, work for someone who paid in notes, or borrow notes. The government created demand for its paper by requiring subjects to pay taxes with it.
 
-This principle—that taxation creates currency demand—explains why money works without commodity backing. It's why Mesopotamian grain credits circulated for centuries, why English tally sticks functioned as money from 1100-1826, why Bank of England notes held value during twenty-four years without gold convertibility, and why modern fiat currency works today despite having no metal backing whatsoever.
+Tax obligations create baseline currency demand—the mechanism linking Mesopotamian grain credits, English tally sticks (1100-1826), Bank of England notes during 24 years without gold, and modern fiat systems. Money works not because of commodity backing but because governments require it for discharging obligations.
 
 Adam Smith understood this. In *The Wealth of Nations* (1776), he wrote explicitly that "a prince, who should enact that a certain proportion of his taxes should be paid in a paper money of a certain kind, might thereby give a certain value to this paper money." The insight was not controversial in 1776. It was common knowledge.
 

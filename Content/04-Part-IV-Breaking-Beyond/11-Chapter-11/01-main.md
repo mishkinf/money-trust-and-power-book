@@ -10,7 +10,7 @@
 
 In March 2020, as COVID-19 shut down the global economy, Congress passed a $2.2 trillion stimulus package. Within months, another $900 billion. By March 2021, an additional $1.9 trillion. Total: over $5 trillion in emergency spending—roughly 25% of U.S. GDP—created without raising taxes, without selling bonds to private investors, without "finding the money" first.
 
-Critics warned of disaster. "Where will the money come from?" they demanded. "This will cause hyperinflation!" "We're bankrupting our grandchildren!" The rhetoric invoked household budget metaphors: governments must live within their means, balance budgets, not spend money they don't have.
+Critics warned of disaster. "Where will the money come from?" they demanded. "This will cause hyperinflation!" "We're bankrupting our grandchildren!" The rhetoric treated sovereign currency issuers as if they were currency users—households that must acquire money before spending it.
 
 But the money appeared. The Federal Reserve credited bank accounts with new reserves. Treasury spent the money into the economy. Checks arrived in mailboxes, unemployment benefits flowed, businesses received loans. The money existed because the government created it—the same way governments have created money for five thousand years.
 
@@ -178,27 +178,11 @@ By the 2020s, cryptocurrencies promised to return money to commodity basis—not
 
 **Bitcoin: Digital Gold = Digital Problems**
 
-Bitcoin's 21 million coin cap deliberately mimics gold scarcity. Satoshi Nakamoto's whitepaper positioned Bitcoin as "an electronic payment system based on cryptographic proof instead of trust," explicitly rejecting institutional backing.²⁶
+Bitcoin's 21 million coin cap deliberately mimics gold scarcity, explicitly rejecting institutional backing. The result mirrors gold: fixed supply → deflationary bias → hoarding ("HODL" culture). Gold became too valuable to spend; Bitcoin exhibits the same pattern—$50+ transaction fees, 7 transactions/second, fewer transactions in 2024 than 2017 despite price increases. Money requires elastic supply matching economic activity.²⁶ ²⁷
 
-**The parallel to gold standard:**
-- Gold: Fixed supply → Deflationary bias → Hoarding incentive → Crisis transmission
-- Bitcoin: Fixed supply → Deflationary bias → Hoarding incentive ("HODL" culture)
+**Stablecoins and DeFi: Medieval Bills of Exchange Redux**
 
-**The result:** Gold became too valuable to spend, hoarded in vaults. Bitcoin exhibits the same pattern—$50+ transaction fees during peaks, 7 transactions/second, fewer transactions in 2024 than 2017 despite price increases. Money requires elastic supply matching economic activity. Fixed supply + growing economy = deflation + hoarding. This is why both failed as currency.²⁷
-
-**Stablecoins: Medieval Bills of Exchange Redux**
-
-Tether, USDC, and other stablecoins promise "$1 value" backed by reserves. This is identical to medieval bills of exchange: Private credit instruments claiming sovereign currency backing.
-
-Medieval bills required sovereign coins and legal framework; stablecoins require dollar banking (Tether holds $113 billion in Treasuries as of December 2024).²⁸ Medieval sovereign defaults collapsed bill networks; banking exclusion or reserve failure collapses stablecoins—Terra/Luna's $40 billion destruction (May 2022) proved code can't create value. When regulators restricted Signature and Silvergate Banks (2023), stablecoin issuers faced existential threat.²⁸ᵃ
-
-**The fundamental error:** Stablecoins don't replace the dollar system—they depend entirely on it. When U.S. regulators restricted Signature Bank and Silvergate Bank in 2023, stablecoin issuers faced immediate existential threat. The "decentralized" system collapsed the moment centralized banking access was threatened, exactly as medieval bills collapsed without sovereign backing.
-
-**DeFi: Goldsmith Banking Without Even Reputation**
-
-Decentralized Finance platforms offer "yield farming" and leverage—identical to 17th century goldsmith banking.
-
-DeFi replicates goldsmith banking (1640-1672) but without even reputation at stake—anonymous developers, frequent "rug pulls." The 2022 collapse: Three Arrows Capital, Celsius, BlockFi, Voyager—all borrowed short, lent long at high leverage. When Terra/Luna collapsed (May 2022), it triggered cascading failures identical to 1672's Stop of Exchequer. The 350-year-old pattern repeated precisely.²⁸ᵇ
+Stablecoins promise "$1 value" backed by reserves—identical to medieval bills claiming sovereign currency backing. They don't replace the dollar system; they depend entirely on it (Tether holds $113 billion in Treasuries). Terra/Luna's $40 billion destruction (May 2022) proved code can't create value. When regulators restricted Signature and Silvergate Banks (2023), stablecoin issuers faced existential threat. DeFi platforms replicate goldsmith banking but without reputation at stake—the 2022 cascade (Three Arrows Capital, Celsius, BlockFi, Voyager) repeated the 1672 Stop of Exchequer pattern.²⁸ ²⁸ᵃ ²⁸ᵇ
 
 **The Fundamental Error:**
 

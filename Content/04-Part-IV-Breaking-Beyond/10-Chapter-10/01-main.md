@@ -54,46 +54,7 @@ Keynes signed the agreement in December 1944, later admitting:
 
 > "We, all of us, had to sign, of course, before we had had a chance of reading through a clean and consecutive copy of the document. All we had seen of it was the dotted line. Our only excuse is the knowledge that our hosts had made final arrangements to throw us out of the hotel, unhouselled, disappointed, unaneled, within a few hours."⁴⁹
 
-### What America Would Have Sacrificed
-
-To understand why bancor failed requires understanding precisely what adopting it would have cost the United States—and why those costs were unacceptable to American policymakers regardless of systemic benefits.⁴⁹ᵃ
-
-#### Loss 1: Seigniorage Profits
-
-Under the dollar standard, America gained "exorbitant privilege"—the ability to borrow from the world at near-zero real cost. Foreign central banks held dollars as reserves, earning minimal interest on Treasury securities. But the U.S. could create those dollars costlessly through accounting entries. The net effect: America financed deficits by printing money the world was forced to accept.⁴⁹ᵇ
-
-Under bancor, this privilege would vanish. Everyone would use supranational currency; no nation would earn the reserve currency premium. America would have to borrow at market rates like everyone else—a massive transfer of wealth from the United States to the international system.⁴⁹ᶜ
-
-#### Loss 2: Monetary Autonomy
-
-Under the dollar standard, the U.S. could set monetary policy independently. The Federal Reserve raised or lowered interest rates based on American economic conditions. Other countries had to adjust to American decisions—"When America sneezes, the world catches a cold." The Fed faced no external constraint from international rules.⁴⁹ᵈ
-
-Under bancor, the International Clearing Union could impose penalties on persistent deficits **or surpluses**. White's objection was explicit: if America accumulated large surpluses (as expected in 1944), the ICU would charge 5-10% interest and eventually force currency appreciation. America might face mandatory policy adjustments imposed by international authority. Symmetric rules meant even powerful countries would be constrained.⁴⁹ᵉ
-
-This was intolerable from Washington's perspective. Why should the United States—emerging as the world's dominant economy—submit to constraints imposed by an international institution where American interests might not prevail?⁴⁹ᶠ
-
-#### Loss 3: Strategic Leverage
-
-Under the dollar standard, dollar access became a strategic weapon. The modern SWIFT system, denominated in dollars, gives the United States surveillance and control over global financial flows. Countries need dollars to trade internationally, giving America geopolitical leverage. Financial sanctions demonstrate this power—cutting adversaries off from dollar payments cripples their economies.⁴⁹ᵍ
-
-Under bancor, no single nation would control the reserve currency. The supranational authority would limit American strategic leverage. Monetary policy would become international cooperation, not national choice serving American interests.⁴⁹ʰ
-
-While these strategic considerations may not have been explicitly discussed in 1944 (the SWIFT system wouldn't exist for decades), American policymakers understood implicitly that controlling the reserve currency meant controlling international commerce. White's insistence on dollar centrality reflected this awareness.⁴⁹ⁱ
-
-#### Loss 4: Veto Power
-
-Under the dollar standard, the U.S. contributed the largest quota to the IMF. Voting was weighted by contributions. America effectively had veto power over major decisions. IMF policy would never contradict fundamental American interests because American representatives could block any proposal.⁴⁹ʲ
-
-Under bancor, international governance wouldn't guarantee American veto. Keynes envisioned democratic international authority where decisions reflected collective interests, not the dominant power's preferences. From Washington's perspective, this meant American interests might lose when they conflicted with international consensus.⁴⁹ᵏ
-
-#### The Calculation
-
-From the American perspective in 1944, bancor asked the United States to:
-
-- Give up seigniorage profits worth potentially billions annually
-- Submit to international monetary constraints even when running surpluses
-- Surrender strategic leverage from dollar privilege
-- Accept decisions where American interests might not prevail⁴⁹ˡ
+Bancor would have cost America its exorbitant privilege. Instead of financing consumption with printed dollars, the U.S. would have faced symmetric adjustment—running surpluses when bancor reserves ran low, just like any other country. The power to sustain persistent deficits, borrow at artificially low rates, and control the reserve currency would disappear. America would lose seigniorage profits, monetary autonomy, strategic leverage through dollar access, and IMF veto power. American negotiators understood this perfectly. White told his delegation the U.S. position was "absolutely no" on surplus country penalties.⁴⁹ᵃ⁻ˡ
 
 **In exchange for:**
 
@@ -126,25 +87,7 @@ The conference atmosphere reflected these tensions. Keynes, the celebrity econom
 
 Keynes's December 1944 admission—signing before reading "a clean and consecutive copy," seeing only "the dotted line," excusing themselves because "hosts had made final arrangements to throw us out of the hotel"—captures the coercion disguised as cooperation. This was not negotiation between equals but capitulation by the weak to terms set by the strong. The Bretton Woods "agreement" was American monetary architecture accepted by nations with no alternative.⁴⁹ʲ
 
-### Britain on its knees: Lionel Robbins's diary
-
-The most brutally honest admission of British humiliation came not from Keynes, whose celebrity commanded attention, but from **Lionel Robbins**, Head of the Economic Section of the War Cabinet and senior member of the British delegation. In his private diary, Robbins confessed to American vice-chairman Fred Vinson: **"We know we will be beaten and we hope to avoid being humiliated."**⁴⁹ʲ⁻¹ The distinction proved meaningless. Britain experienced both.
-
-When Robbins arrived at the Mount Washington Hotel on July 1, 1944, he found what he described as "glorious confusion." The Americans, despite their "virtues as technicians," were "not good organisers of international conferences. The administration here is quite incredibly bad."⁴⁹ʲ⁻² But the disorganization served American purposes perfectly—it gave them control while appearing merely incompetent. Robbins predicted that if a peace conference followed this pattern, "it will be very considerably worse than Versailles."
-
-The real humiliation came from Britain's financial desperation. Robbins understood the power dynamic with painful clarity. In his diary, he acknowledged that "however much we resent it," the Americans had linked Article VII and Lend-Lease, creating brutal leverage. **"We need the cash," Robbins wrote, "and we shan't get it if we go back on our written obligations."**⁴⁹ʲ⁻³ This wasn't diplomacy—it was extortion dressed as international cooperation. The British couldn't defend sterling, couldn't protect imperial preference, couldn't even argue for locating the institutions anywhere but Washington.
-
-On July 19, Keynes collapsed on the hotel stairs from a heart attack. Robbins wrote: **"I now feel that it is a race between the exhaustion of his powers and the termination of the conference."**⁴⁹ʲ⁻⁴ German newspapers published adulatory obituaries. Keynes survived, but the Americans extended the conference three more days—forcing the medically compromised British delegation to continue from maximum weakness.
-
-The final indignity came in those last hours. Treasury Secretary Henry Morgenthau threatened that "we may have to get the President to get out an order to seize the hotel as of Wednesday night, and put troops in here to run it."⁴⁹ʲ⁻⁵ Under this pressure, delegates signed documents they hadn't read. Keynes's Shakespearean reference—dying "unhouselled, disappointed, unaneled" (without last rites)—captured Britain's unceremonious exit from financial leadership.
-
-Other delegations watched Britain's abasement with dismay. Belgian delegation head Georges Theunis confronted Robbins directly: **"It is a disgrace. The Americans give way to the Russians every time. And you too, you British, are just as bad. You are on your knees to them."**⁴⁹ʲ⁻⁶ Robbins couldn't deny it. His diary reveals a man caught between diplomatic necessity and personal shame, forced to watch his country accept terms contradicting both economic logic and British interests.
-
-The Americans made no secret of their dominance. Harry Dexter White told his delegation that U.S. gold reserves in Fort Knox were "why the United States is in an enviable position...why we dominate practically the financial world, because we have the where-with-all to buy any currency we want."⁴⁹ʲ⁻⁷ When discussing whether to press their advantage on institutional location, Morgenthau told White: "Now the advantage is ours here, and I personally think we should take it." White agreed: "If the advantage was theirs, they would take it."⁴⁹ʲ⁻⁸
-
-Keynes continued fighting for better terms until his death in April 1946, just 21 months after Bretton Woods. His final international appearance at Savannah in March 1946 brought more defeats. British Treasury official Paul Bareau described how "we lost on every issue, not by the process of rational argument in debate but by the solid massing of the cohorts which voted automatically with America."⁴⁹ʲ⁻⁹ **"I went to Savannah to meet the world," Keynes said, "and all I met was a tyrant."**⁴⁹ʲ⁻¹⁰ Two months later he was dead from a second heart attack, aged 62. Some contemporaries attributed it to the exhaustion of securing a grudging postwar loan from the Americans—negotiations Keynes himself described as "absolute hell."
-
-Robbins's diary matters because it documents the precise mechanism by which American power, not economic merit, established the dollar standard. Keynes's bancor proposal died not because White's dollar-based plan was superior, but because the Americans controlled the gold, the votes, and the logistics. They even controlled the hotel.
+Lionel Robbins, Head of the Economic Section of the War Cabinet, confessed in his diary to Fred Vinson: **"We know we will be beaten and we hope to avoid being humiliated."**⁴⁹ʲ⁻¹ Britain experienced both. On July 19, Keynes collapsed from a heart attack. Robbins wrote: **"I now feel that it is a race between the exhaustion of his powers and the termination of the conference."**⁴⁹ʲ⁻⁴ Morgenthau threatened to seize the hotel and force delegates out. Under this pressure, they signed documents they hadn't read. **"I went to Savannah to meet the world," Keynes said later, "and all I met was a tyrant."**⁴⁹ʲ⁻¹⁰ He died in April 1946, aged 62. Robbins's diary documents how American power, not economic merit, established the dollar standard.
 
 ---
 
