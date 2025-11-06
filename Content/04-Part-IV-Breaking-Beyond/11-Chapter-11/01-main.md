@@ -152,6 +152,16 @@ Contrast: When the Fed created $3 trillion in 2020, it worked because the U.S. h
 - Rule of law (independent Fed, transparent policy, judicial oversight)
 - Technical competence (matched money creation to output gap, not arbitrary targets)
 
+**Japan's Decisive Evidence:**
+
+Japan's three-decade experience provides perhaps the most definitive proof of fiat money's workings. Since the 1990 asset bubble collapse, Japan has maintained government debt exceeding **260% of GDP**—the highest ratio among major economies. The Bank of Japan holds over 50% of government bonds and implemented unprecedented monetary easing: negative interest rates, unlimited quantitative easing, direct equity purchases. Critics predicted imminent hyperinflation and currency collapse.
+
+None of this happened. Instead, Japan faced the opposite problem: **persistent deflation**. From 1995-2013, inflation averaged negative 0.3% despite massive money creation. The yen strengthened rather than collapsed. Government bond yields remained near zero—investors eagerly lent to a government supposedly heading for bankruptcy.
+
+Why? Because Japan demonstrates the principle proven during Britain's Bank Restriction Act (1797-1821): the constraint is productive capacity, not money quantity. Japan operated below capacity for decades—aging demographics, weak demand, underutilized resources. The economy had room to absorb money creation without inflation. Unlike Weimar (destroyed industrial base), Zimbabwe (collapsed agriculture), or Venezuela (failed oil production), Japan maintained robust productive capacity. The Bank of Japan could—and did—create unlimited yen because all debt was yen-denominated and Japanese taxation created yen demand.
+
+Japan's "problem" was deflation despite money creation, not inflation because of it. This validates everything this book has documented: monetary sovereignty (own currency, floating rate, domestic debt) allows unlimited money creation constrained only by productive capacity and inflation, not by arbitrary debt ratios or gold reserves. The lesson applies universally—it's not unique to Japan but demonstrates what the Bank of England proved in 1797: fiat money works when institutions are credible and productive capacity exists.²¹ᵃ
+
 **The 1970s Inflation Reconsidered:**
 
 The 1970s inflation stemmed from supply shocks—OPEC quadrupled oil prices, reducing productive capacity. This wasn't institutional failure; Arthur Burns correctly diagnosed "cost-push" inflation and recognized monetary policy couldn't produce oil. The "resolution" through Volcker's recession didn't solve supply constraints—it suppressed demand through mass unemployment until wage-price dynamics reset. This was a political choice to prioritize price stability over employment, protecting creditors at workers' expense, not proof that fiat money requires "discipline."²²

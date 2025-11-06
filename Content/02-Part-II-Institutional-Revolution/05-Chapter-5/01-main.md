@@ -38,7 +38,7 @@ Parliamentary control solved the credibility problem, but England still needed a
 
 Yet even with parliamentary backing, England's war finance remained chaotic. Loans were negotiated piecemeal, with different creditors holding different instruments at different rates. What the government needed was a **bank**—not a private goldsmith's shop but a public corporation chartered to serve the state.¹⁹
 
-The idea came from a group of London merchants and financiers, led by William Paterson and Michael Godfrey. Their proposal, presented to Parliament in 1694, was audacious: create a joint-stock company that would lend **£1.2 million** to the government at **8 percent interest**. In return, the company would receive a royal charter and the exclusive right to issue **banknotes**.²⁰
+The idea came from a group of London merchants and financiers, led by William Paterson and Michael Godfrey. Their proposal, presented to Parliament in 1694, was audacious: create a **joint-stock company** that would lend **£1.2 million** to the government at **8 percent interest**. In return, the company would receive a royal charter and the exclusive right to issue **banknotes**.²⁰
 
 The scale was unprecedented. The £1.2 million loan represented approximately **2.0-2.4% of English GDP** and equaled **100% of annual government revenue**. In today's terms, this would be equivalent to roughly **$635 million to $1 billion** in purchasing power. The loan could have paid 60,000 skilled craftsmen for a year or purchased 146 small warships.²¹
 
@@ -61,7 +61,7 @@ The loan was the asset; the notes were the liability. When the government spent 
 
 Let's be clear about what just happened: **The Bank did not have £1.2 million in a vault**. It did not hand over someone else's deposit. It created brand new money by making two accounting entries: one recording the loan to government (what the Bank is owed) and one recording the notes issued (what the Bank owes). The notes appeared into existence through the act of lending.
 
-This seems impossible. How can you create purchasing power from nothing? The answer is that money is not a physical thing—it's a claim, a promise, a relationship. The Bank promised to exchange its notes for gold on demand (**convertibility**—the ability to exchange paper money for precious metal at a fixed rate). But more importantly, the government promised to accept those notes for taxes. That combination—convertibility plus tax acceptability—gave the notes value.
+This seems impossible. How can you create purchasing power from nothing? The answer is that money is not a physical thing—it's a claim, a promise, a relationship. The Bank promised to exchange its notes for gold on demand (**convertibility**—the ability to exchange paper money for precious metal at a fixed rate). But more importantly, the government promised to accept those notes for taxes. That combination—**convertibility** plus tax acceptability—gave the notes value.
 
 ### How Money Multiplication Works
 
@@ -111,6 +111,8 @@ KEY INSIGHT: Both entries created simultaneously through accounting.
 The Bank didn't need existing deposits to make the loan.
 It created the money by making the loan.
 ```
+
+> **Understanding Check:** If the balance sheet mechanics feel confusing, that's completely normal—this is the chapter's most technical concept. The key insight is simple: **banks create money by making accounting entries, not by lending out deposits**. The Bank of England didn't need £1.2 million sitting in a vault to lend £1.2 million to the government. It created that money through the act of lending itself. If you're unclear on the accounting details, continue forward—the implications matter more than the mechanics. You can always return to the Thomas Fletcher example above for a concrete illustration.
 
 ---
 
@@ -277,6 +279,25 @@ The institutional revolution was complete. England had created a system where mo
 The Bank of England had solved the impossible problem. By tying money creation to parliamentary taxation, it created institutional credibility that transcended metal. Paper notes circulated because they discharged obligations, not because gold sat in vaults.
 
 This success would prove dangerously seductive. Within a generation, a scientist's arithmetic error would lock Britain—and eventually the world—into a monetary system that obscured this truth for 150 years. The error began with Isaac Newton and a request he considered trivial.
+
+---
+
+### **Key Concepts—Chapter 5**
+
+**Core Mechanisms:**
+- Banks create money through lending (not by lending out deposits)
+- Taxation creates demand for currency (not funding for spending)
+- Government spending comes first; taxation ensures value
+- **Convertibility** (exchangeability for gold) maintained confidence but wasn't the source of value
+
+**Critical Distinctions:**
+- **Fiscal capacity** = government's ability to collect taxes and manage finances
+- **Perpetual obligation** = debt that pays interest indefinitely without principal repayment
+- Two-tier system: Bank of England money (accepted for taxes) vs. country bank notes (convertible to Bank money)
+- Domestic vs. international functions: taxation creates internal demand AND external credibility
+
+**The Essential Insight:**  
+The Bank of England succeeded by linking money creation to Parliament's power to tax, not to gold reserves. This 1694 mechanism still governs how modern central banks operate. Money is a human institution sustained by institutional credibility, not a commodity backed by metal.
 
 ---
 

@@ -89,6 +89,34 @@ The endnotes provide detailed citations for all claims. The "Sources & Further R
 - **Key Figures** - Biographical entries for major historical actors
 - **Further Reading** - Annotated bibliography organized by topic
 
+## Using This Book's Learning Aids
+
+This book includes several features designed to help you understand complex concepts without becoming overwhelmed:
+
+**Glossary Term Signaling:** Technical terms that appear in the Glossary are **bolded** on first use in each chapter. This signals that a definition exists if you need it. For example, when you see **fractional reserve banking** or **convertibility**, you can reference the Glossary for precise definitions and context.
+
+**Understanding Checkpoints:** Chapter 5 (the most technical chapter) includes "Understanding Check" boxes that normalize confusion and offer guidance. If balance sheet mechanics or money creation processes feel confusing, these checkpoints remind you: the core insights matter more than the accounting details. You can continue forward and return later for deeper understanding.
+
+**Key Concepts Boxes:** Technical chapters include visual "Key Concepts" summaries that distill the essential takeaways. These serve as:
+- Quick reference before reading (to preview what's coming)
+- Study aids after reading (to reinforce learning)
+- Review tools when returning to the book later
+
+**Chapter Summaries:** Every chapter ends with a 200-300 word summary that captures the essential narrative and argument. If you find yourself lost in details, read the summary first to understand where the chapter is heading, then return to the full text.
+
+**Visual Aids:** Complex mechanisms (like money creation in Chapter 5 and the two-tier banking system) include simple diagrams. These complement the prose explanations without replacing them. If text-only explanation feels abstract, study the visual first, then read the detailed narrative.
+
+**"Why This Matters Now" Connections:** Each chapter links historical patterns to contemporary policy debates. These sections show why 17th-century banking history or 19th-century monetary controversies remain directly relevant to current issues like government spending, cryptocurrency, or central bank policy.
+
+**If You Get Stuck:**
+1. Check the Glossary for unfamiliar terms
+2. Read the chapter summary to grasp the main argument
+3. Review the Key Concepts box (if the chapter includes one)
+4. Continue forward—later chapters often clarify earlier ones through application and example
+5. Consider reading challenging sections twice; the material rewards careful attention
+
+**Remember:** This book challenges conventional wisdom, which means some concepts will feel counterintuitive initially. That's normal. The evidence is presented systematically, building from historical examples to theoretical insights. Give the arguments time to develop across chapters rather than expecting immediate clarity from individual sections.
+
 ## A Final Note
 
 This book challenges conventional wisdom about money. You may find some arguments surprising or even unsettling. That's intentional. The conventional wisdom—that money must be backed by commodities, that governments must "balance budgets like households," that fiscal discipline requires external constraints—was manufactured to serve specific interests and has persisted long after the conditions that created it disappeared.
