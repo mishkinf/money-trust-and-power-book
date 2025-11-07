@@ -331,6 +331,13 @@ The world needed dollars for two purposes:
 
 Both required the U.S. to run balance-of-payments deficits (exporting more dollars than importing). But the dollar's gold convertibility depended on deficits remaining small enough that gold reserves could cover dollar liabilities. These requirements contradicted each other.⁵³ᵃ
 
+**The Triffin dilemma is like being the designated driver at a party where your car is also the only transportation home.** Everyone needs you to stay sober (maintain currency credibility through gold convertibility) so you can drive them home safely. But they also keep pressuring you to drink (run deficits to provide liquidity) because the party can't continue without you participating. Eventually, you either:
+
+1. **Stay sober** and everyone complains the party is dying (liquidity shortage causing global deflation), or
+2. **Drink to keep the party going** and eventually can't drive anyone home safely (dollar convertibility collapses)
+
+The United States faced exactly this: the world needed dollar outflows (U.S. deficits) for trade and reserves, but persistent deficits eventually undermined confidence in dollar-gold convertibility. Nixon's 1971 decision to close the gold window was like the designated driver finally saying, "Find another way home—I'm done being stuck in this impossible position."
+
 **The Math That Doesn't Work:**
 
 The actual numbers prove the impossibility. Triffin predicted in 1959-60 that once "outstanding dollar liabilities to the rest of the world would eventually exceed the US monetary gold stock," a "classic bank run" would occur. Here's how it played out:⁵³ᵇ

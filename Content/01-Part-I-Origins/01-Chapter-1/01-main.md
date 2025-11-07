@@ -88,6 +88,44 @@ This is exactly how modern central bank digital currencies work. When China's ce
 
 ---
 
+### Visual: Five Millennia of Monetary Innovation
+
+The history of money reveals gold as a brief anomaly, not the natural foundation of monetary systems.
+
+**TIMELINE DATA FOR VISUALIZATION:**
+
+```
+PERIOD          | SYSTEM                           | TYPE         | BACKING
+----------------|----------------------------------|--------------|------------------
+3000 BCE - 600 BCE | Mesopotamian Temple Credits   | Credit Money | Taxation/Temple Authority
+1100 BCE - 1826 CE | English Tally Sticks          | Credit Money | Taxation Authority
+960 CE - 1279 CE   | Chinese Jiaozi (paper notes)  | Credit Money | Government Authority
+1694 CE - 1717 CE  | Bank of England (early)       | Hybrid       | Parliamentary Taxation + Gold
+1717 CE - 1797 CE  | Accidental Gold Standard      | Gold Era     | Gold (de facto)
+1797 CE - 1821 CE  | Bank Restriction Act          | Credit Money | Taxation (proof fiat works!)
+1821 CE - 1971 CE  | Gold Standard Era             | Gold Era     | Gold Backing
+1971 CE - Present  | Pure Fiat Era                 | Credit Money | Taxation/Institutional Credibility
+```
+
+**VISUAL REPRESENTATION:**
+```
+━━━━━━━━━━━━━━━━ CREDIT MONEY (5,000 years) ━━━━━━━━━━━━━━━━
+3000 BCE                                               600 BCE
+    Temple Credits, Tally Sticks, Early Paper Money
+
+            ╔═══ GOLD ANOMALY (254 years) ═══╗
+         1717 CE                           1971 CE
+            (Newton's Accident → Nixon's Break)
+
+━━━━━━━━━━━━━━━ RETURN TO CREDIT/FIAT ━━━━━━━━━━━━━━━
+                1971 CE → Present
+            Pure Fiat, No Commodity Backing
+```
+
+**KEY INSIGHT:** Credit money dominated ~4,750 of the last 5,000 years. The gold standard (1717-1971) was a 254-year deviation that required active institutional management despite claims of being "natural" or "automatic." Pure fiat since 1971 represents a return to money's original form as social institution backed by taxation authority, not commodity value.
+
+---
+
 ### The metallist challenge
 
 The credit-first interpretation faces a serious intellectual challenge from the **metallist** school, which argues that money must have originated from commodity exchange. The strongest version of this argument comes from Ludwig von Mises's **Regression Theorem** (1912), which presents what appears to be a logical proof that credit money is impossible without prior commodity money.
@@ -126,7 +164,13 @@ The debate matters because it shapes how we understand money's essential nature.
 
 This debate directly informs today's policy choices. When the Federal Reserve created trillions in COVID relief, critics invoked the metallist position: "You can't just print money!" But chartalists pointed to 5,000 years of history showing that governments with taxation authority can create money to mobilize unused resources, limited by productive capacity, not by gold reserves.
 
-The evidence presented in this chapter supports the chartalist interpretation: sophisticated credit systems operated for centuries before widespread commodity money, and taxation authority—not commodity backing—drove currency acceptance. But intellectual honesty requires acknowledging the metallist challenge. The Regression Theorem identifies a real puzzle: how does purely abstract money acquire initial value? The chartalist answer—that state power to tax creates value from the start—is theoretically coherent but historically difficult to prove for the earliest monetary systems.
+The evidence presented in this chapter supports the chartalist interpretation: sophisticated credit systems operated for centuries before widespread commodity money, and taxation authority—not commodity backing—drove currency acceptance. But intellectual honesty requires acknowledging the metallist challenge. The Regression Theorem identifies a real puzzle: how does purely abstract money acquire initial value?
+
+**Think of it like a chain letter that supposedly has no beginning.** Mises argues money works like this: Today, I accept a dollar because I know others will accept it tomorrow. But why will they accept it tomorrow? Because they expect others will accept it the next day. And so on, backwards through time. Mises insists this chain of expectations must ultimately anchor in something—commodity value—the same way a chain letter must have started somewhere with an actual letter, not just references to previous letters.
+
+But Mesopotamian evidence shows money worked more like a **library card**: valuable not because the plastic card itself is precious, but because the institution (library) accepts it for services (borrowing books). The card's value comes from the library's authority to lend and demand returns. Similarly, temple credits had value because temples accepted them for taxes—no commodity backing needed, just institutional authority.
+
+The chartalist answer—that state power to tax creates value from the start—is theoretically coherent but historically difficult to prove for the earliest monetary systems.
 
 What the evidence does show conclusively is that once monetary systems were established, **institutional credibility mattered more than commodity backing**. Temple credits worked when temples were powerful; they failed when temples weakened. Tally sticks worked when the English crown could enforce taxation; they were worthless abroad where that power didn't reach. The pattern holds across millennia: trust in institutions, not faith in metal, determined whether money functioned.⁶ᵉ
 

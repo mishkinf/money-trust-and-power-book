@@ -67,6 +67,10 @@ This seems impossible. How can you create purchasing power from nothing? The ans
 
 Understanding how the Bank created money explains why government spending doesn't work like household budgets. Think of the Bank's ledger having two columns: assets (what others owe the Bank) and liabilities (what the Bank owes others). When these balance, the system works.
 
+**Double-entry accounting works like a seesaw that must always balance.** When the Bank lends £1.2 million to the government (left side goes up: assets increase), the Bank simultaneously creates £1.2 million in notes (right side goes up: liabilities increase). Both sides rise together—the seesaw stays level. This is why the Bank can create money "out of nothing"—it's not creating something from nothing, but rather creating a matched pair: an asset (loan to government) and a liability (notes promised to holders). The magic isn't defying physics; it's using accounting.
+
+Think of it in simpler terms: **Imagine you write an IOU: "I owe you $20."** That IOU is now an asset to the holder (they can collect $20 from you) and a liability to you (you must pay $20). You created both simultaneously by writing one note. Banks do the same thing at scale, and because their IOUs (bank notes) are accepted as payment, their IOUs function as money. The Bank of England's innovation was getting everyone to accept its IOUs because Parliament required them for taxes.
+
 **Stage 1: The Initial Loan**
 The Bank lends £1,000 to government by creating £1,000 in notes.
 - Left column: "Government owes us £1,000"
@@ -111,6 +115,58 @@ KEY INSIGHT: Both entries created simultaneously through accounting.
 The Bank didn't need existing deposits to make the loan.
 It created the money by making the loan.
 ```
+
+### Visual: How Money Creation Actually Works (Complete Cycle)
+
+The following diagram shows the full cycle of money creation through lending, backed by taxation authority.
+
+**FLOW DIAGRAM FOR GRAPHIC GENERATION:**
+
+```
+STEP 1: GOVERNMENT NEEDS £1.2 MILLION
+        ↓
+STEP 2: BANK OF ENGLAND CREATES LOAN
+        [Balance Sheet Created Simultaneously]
+        Assets: Loan to Government £1.2M  |  Liabilities: Notes Issued £1.2M
+        ↓
+STEP 3: GOVERNMENT SPENDS NOTES INTO ECONOMY
+        → Soldiers' wages
+        → Military supplies  
+        → Diplomatic payments
+        → Naval construction
+        ↓
+STEP 4: NOTES CIRCULATE IN PRIVATE ECONOMY
+        Merchants → Workers → Landlords → Shopkeepers → Farmers
+        (Thomas Fletcher receives notes, deposits them, cycle continues)
+        ↓
+STEP 5: TAXATION CREATES DEMAND
+        Everyone needs notes to pay taxes:
+        - Land tax (farmers, landlords)
+        - Customs duties (merchants)
+        - Window tax (property owners)
+        - Excise taxes (manufacturers)
+        ↓
+STEP 6: TAXES RETURN NOTES TO GOVERNMENT
+        Notes withdrawn from circulation
+        Government pays Bank interest on loan
+        ↓
+STEP 7: CYCLE REPEATS
+        Government spends notes back into economy
+        (New expenditures on ongoing operations)
+
+KEY PRINCIPLES:
+→ Money created "out of nothing" by accounting entry
+→ Sustained by taxation requirement (creates demand)
+→ NOT backed by pre-existing gold reserves
+→ "Spend first, tax later" sequence (not "tax to fund spending")
+→ Constraint is REAL RESOURCES (productive capacity), not finance
+```
+
+**Why this diagram matters:**
+
+This is the mechanism that mainstream economics obscured. When politicians say "we're out of money" or "we must raise taxes to afford programs," they're reversing the causal sequence. The government creates money by spending—the Bank's notes entered circulation through government expenditure, not through prior taxation. Taxes don't fund spending; **taxes create demand for what government spends**.
+
+The constraint isn't finance but real resources: inflation occurs when spending exceeds productive capacity, not when it exceeds tax revenue. This was working in 1694 England, and it's how modern sovereign currency-issuing governments operate today (U.S., U.K., Japan)—though the mechanism is systematically misrepresented in public discourse.
 
 > **Understanding Check:** If the balance sheet mechanics feel confusing, that's completely normal—this is the chapter's most technical concept. The key insight is simple: **banks create money by making accounting entries, not by lending out deposits**. The Bank of England didn't need £1.2 million sitting in a vault to lend £1.2 million to the government. It created that money through the act of lending itself. If you're unclear on the accounting details, continue forward—the implications matter more than the mechanics. You can always return to the Thomas Fletcher example above for a concrete illustration.
 

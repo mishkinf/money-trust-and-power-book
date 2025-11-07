@@ -64,6 +64,64 @@ Modern economists recognize this principle as the "fiscal theory of the price le
 
 **The twenty-four-year proof**: From February 1797 to May 1821—twenty-four years—Bank of England notes functioned as fiat currency without gold backing. This wasn't a temporary emergency measure lasting weeks or months; it was a generation. Children born at the suspension grew to adulthood having never known convertible currency. Businesses operated, workers received wages, farmers sold crops, merchants traded internationally—all using paper money whose value derived from institutional credibility and taxation authority, not metal reserves. The system worked. Britain financed the largest military mobilization in its history, defeated Napoleon, and emerged as Europe's dominant power—all on fiat currency. This was empirical proof that the gold backing metallists claimed essential was actually optional.¹²ᵃ
 
+### Visual: Prices During Bank Restriction vs. Gold Resumption
+
+The price data reveals a striking pattern: paper money without gold (1797-1821) worked better than the return to gold (1821-1824).
+
+**PRICE DATA FOR CHART GENERATION:**
+
+*Source: Research/British Price Indices and Inflation During Bank Restriction 1790-1824.md; Clark (2005) cost of living index; O'Brien & Palma (2020)*
+
+**WHEAT PRICES (Shillings per Quarter):**
+
+```
+Year | Wheat (s/quarter) | Monetary Regime        | Economic Context
+-----|-------------------|------------------------|------------------------------------------
+1790 | 54.0              | Gold Standard          | Pre-war baseline
+1795 | 75.2              | Gold Standard          | Scarcity year; +39% above 1790
+1797 | 53.9              | BANK RESTRICTION BEGINS| Post-scarcity decline; gold suspended
+1800 | 113.1             | Paper Money (Fiat)     | Wartime peak; Continental Blockade
+1805 | 89.9              | Paper Money            | Mid-war volatility
+1810 | 106.5             | Paper Money            | Bullionist Controversy period
+1815 | 65.7              | Paper Money            | Post-Waterloo collapse (-40% from 1813)
+1818 | 86.3              | Paper Money            | Partial recovery
+1821 | 56.1              | GOLD RESUMPTION (May)  | Convertibility restored at pre-war parity
+1822 | 44.7              | Gold Standard          | Deflation (-20% from 1821)
+1823 | 53.4              | Gold Standard          | Slight uptick
+1824 | 63.9              | Gold Standard          | Stabilization but 18% above 1790
+```
+
+**GENERAL PRICE LEVEL (Decadal Averages, 1790s=100):**
+
+```
+Decade  | Price Index | Change from Prior | Notes
+--------|-------------|-------------------|--------------------------------
+1790-9  | 100         | —                 | Baseline period (1790s=100)
+1800-9  | 134         | +34%              | War inflation under Bank Restriction
+1810-9  | 150         | +12%              | Peak inflation; gold resumed 1821
+1820-9  | 123         | -18%              | Post-resumption deflation
+```
+
+**CHART DESCRIPTION FOR GENERATION:**
+- X-axis: Years 1790-1830
+- Y-axis: Wheat price (shillings per quarter) OR decadal price index (1790s=100)
+- Shaded period (1797-1821): Bank Restriction / Fiat Currency (light gray)
+- Shaded period (1821-1824): Gold Resumption (darker gray)
+- Vertical line markers: 1797 (Restriction starts), 1821 (May 1 resumption), 1813 peak (126.6s)
+- Peak annotation: 1813 at 109.9-126.6 shillings; Collapse to 44.7s by 1822
+
+**KEY DATA VERIFIED:**
+- **1813 wheat price**: 109.9 shillings (confirms manuscript's cited "108s" within 2%)
+- **1822 wheat price**: 44.7 shillings (confirms manuscript's cited "45s" within 1%)
+- **Cumulative inflation 1797-1815**: 22.3% using GRS index (1.1-1.3% per year) ✓
+- **Post-war deflation 1815-1821**: Prices began falling before gold resumption
+- **1813-1822 decline**: 59.3% (confirms manuscript's "58%" decline) ✓
+
+**DATA CITATIONS:**
+- Clark, Gregory. "The Condition of the Working-Class in England, 1209-2004." *Journal of Political Economy* 113, no. 6 (2005): 1307-1340.
+- Clark, Gregory. "The Price History of English Agriculture, 1209-1914." October 9, 2003. https://faculty.econ.ucdavis.edu/faculty/gclark/papers/Agprice.pdf
+- O'Brien, Patrick K., and Nuno Palma. "Danger to the Old Lady of Threadneedle Street? The Bank Restriction Act and the Regime Shift to Paper Money, 1797–1821." *European Review of Economic History* 24, no. 2 (2020): 390-426.
+
 Yet this twenty-four-year success would be systematically forgotten, erased from collective memory by powerful interests who benefited from commodity-backed money. The return to gold in 1821 would be presented as restoring "natural" monetary order, when in fact it was imposing artificial constraints that served creditor interests at workers' and debtors' expense. Understanding why this forgetting happened—and how it was accomplished—is crucial for recognizing similar erasures in our own time.¹²ᵇ
 
 ---
@@ -130,7 +188,11 @@ The doctrine originated with Adam Smith's *Wealth of Nations* (1776): banks shou
 
 The logic seemed airtight. A merchant borrows to buy inventory. When goods sell, the loan is repaid. Money creation tied to real production, with automatic limitation. What could go wrong?
 
-**Everything**, as Thornton demonstrated in 1802. The fatal flaw: real bills are **nominal** instruments. A bill for $1,000 of wheat at $10 per bushel represents 100 bushels. If prices double, the same 100 bushels generate a bill for $2,000. The "real bills" backing expands with the price level—providing **no constraint** on monetary expansion. It creates a positive feedback loop: more money → higher prices → larger nominal value of bills → more money creation. The doctrine promised automatic limitation but delivered unlimited expansion.²³
+**The Real Bills Doctrine sounds sensible: banks should only lend against real goods in production, so money supply automatically matches "needs of trade."** It's like saying movie theaters should print exactly as many tickets as there are seats—no more, no less—so you can't have empty theaters or overcrowding.
+
+**But here's the fatal flaw:** Imagine ticket prices double because of high demand. Now the "value" of those same seats has doubled, so the theater prints twice as many tickets (because each represents a more valuable seat). But they haven't added any seats! The Real Bills Doctrine makes the same error: when prices rise, the nominal value of "real bills" rises proportionally, justifying more money creation, which pushes prices higher, which justifies more bills... The supposed automatic limit provides no limit at all.
+
+**Everything** went wrong, as Thornton demonstrated in 1802. The fatal flaw: real bills are **nominal** instruments. A bill for $1,000 of wheat at $10 per bushel represents 100 bushels. If prices double, the same 100 bushels generate a bill for $2,000. The "real bills" backing expands with the price level—providing **no constraint** on monetary expansion. It creates a positive feedback loop: more money → higher prices → larger nominal value of bills → more money creation. The doctrine promised automatic limitation but delivered unlimited expansion.²³
 
 Thornton identified a second flaw: the doctrine ignored **interest rates**. If the Bank's lending rate remained at 5 percent while profit expectations rose to 7 percent, borrowing demand would become unlimited. Merchants would borrow not for commerce but to profit from the spread. The doctrine promised automatic limitation but delivered perpetual inflation.²⁴
 

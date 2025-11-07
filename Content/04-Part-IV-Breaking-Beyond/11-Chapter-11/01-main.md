@@ -46,6 +46,85 @@ This explains why QE inflated **asset prices** (stocks, bonds, real estate) with
 
 Between 2008 and 2014, the Fed's balance sheet expanded from **$900 billion** to **$4.5 trillion**—a five-fold increase representing growth from **6.2% of US GDP** in 2007 to **25.9% of GDP** by 2014.⁶ The European Central Bank, Bank of England, and Bank of Japan followed similar paths. Together, major central banks created roughly **$10 trillion** in new money—an amount that would have been physically impossible under a gold standard and politically unthinkable under Bretton Woods.
 
+### Visual: Federal Reserve Balance Sheet Expansion (2007-2022)
+
+The Fed's balance sheet growth from 2008-2022 represents the most dramatic monetary expansion in U.S. history—proving fiat money's flexibility in crisis.
+
+**BALANCE SHEET DATA FOR CHART GENERATION:**
+
+*Source: Research/Federal Reserve Balance Sheet Expansion 2007-2023.md; FRED series WALCL; Federal Reserve H.4.1 releases*
+
+```
+DATE      | FED ASSETS ($ Trillions) | % OF GDP | KEY EVENT
+----------|--------------------------|----------|------------------------------------------
+Dec 2007  | 0.891                    | 6.05%    | Pre-crisis baseline
+Dec 2008  | 2.240                    | 15.33%   | Bear Stearns, Lehman collapse, TARP
+Dec 2009  | 2.234                    | 15.25%   | QE1 completed ($1.75T purchases)
+Dec 2010  | 2.421                    | 15.81%   | QE2 begins
+Dec 2012  | 2.907                    | 17.71%   | QE3 begins (open-ended)
+Dec 2014  | 4.498                    | 25.11%   | QE3 ends, balance sheet peaks
+Dec 2016  | 4.452                    | 23.31%   | "Normalization" policy announced
+Dec 2019  | 4.166                    | 19.00%   | Pre-COVID levels
+Mar 2020  | 5.254                    | 24.16%   | COVID crisis begins
+Dec 2020  | 7.363                    | 33.33%   | Massive COVID response
+Jun 2022  | 8.965                    | 34.67%   | Peak (before QT begins)
+Dec 2022  | 8.632                    | 32.25%   | Quantitative tightening underway
+```
+
+**Data Citations:**
+- Board of Governors of the Federal Reserve System (US), Assets: Total Assets [WALCL], retrieved from FRED, Federal Reserve Bank of St. Louis
+- U.S. Bureau of Economic Analysis, Gross Domestic Product [GDP], retrieved from FRED
+- Stella, Peter. "The Federal Reserve System Balance Sheet: What Happened and Why it Matters." IMF Working Paper No. WP/09/120 (May 2009)
+
+**CHART TYPE: Area Chart with Annotations**
+- X-axis: Years 2007-2023
+- Y-axis (left): Fed Assets in $ Trillions
+- Y-axis (right): % of GDP
+- Shaded areas showing QE periods (QE1, QE2, QE3, COVID response)
+- Vertical lines marking major events (Lehman collapse, COVID, etc.)
+
+**KEY PHASES:**
+
+1. **2008-2014: Crisis Response & QE**
+   - $0.9T → $4.5T (5x increase)
+   - Largest expansion: QE1 (2008-2010)
+   - $1.75T Treasury & mortgage-backed securities purchased
+   - Critics warned: "Hyperinflation inevitable!"
+   - Reality: Inflation averaged 1.4% (2010-2014)
+
+2. **2015-2019: "Normalization" Attempt**
+   - Balance sheet reduction from $4.5T to $4.2T
+   - Proved Fed could shrink balance sheet without crisis
+   - Economy continued expanding throughout
+
+3. **2020-2022: COVID Response**
+   - $4.2T → $8.9T (2.1x increase in 2 years)
+   - Faster expansion than 2008 crisis
+   - Direct purchases of corporate bonds (unprecedented)
+   - $3.5-7 trillion created depending on accounting
+
+4. **2022+: Inflation Finally Arrives**
+   - CPI peaked at 9.1% (June 2022)
+   - But driven by: Supply chain disruptions, energy shocks, fiscal stimulus
+   - Not purely monetary (2008's $3T didn't cause inflation, why did 2020's?)
+   - Timing matters: 2008 had slack capacity; 2020-21 had supply constraints
+
+**CRITICAL COMPARISONS:**
+
+| Era | Balance Sheet | Inflation Result | Economic Context |
+|-----|---------------|------------------|------------------|
+| Pre-2008 | $0.9T | 2-3% stable | Normal capacity |
+| 2008-2014 | +$3.6T | 1.4% avg (LOW!) | Below capacity, unemployment 10% |
+| 2020-2022 | +$4.7T | 9.1% peak | Supply constrained, demand surge |
+
+**THE LESSON:**
+
+Money creation causes inflation ONLY when it exceeds productive capacity. The 2008 expansion happened during deep recession (10% unemployment, idle factories)—the money mobilized unused resources. The 2020 expansion happened when supply chains were disrupted and demand surged—classic demand-pull inflation with supply constraints.
+
+This proves the book's core principle: **real resources constrain monetary policy, not gold reserves or government revenues**. Fiat money works when institutions understand this constraint and act accordingly.
+
+**Caption:** "Fed balance sheet grew from $0.9T (2007) to $8.9T (2022)—a 10x increase that would have been impossible under gold standard. The 2008-2014 expansion ($3.6T) caused minimal inflation because economy had slack capacity. The 2020-2022 expansion ($4.7T) contributed to inflation because supply was constrained. Constraint is real resources, not money itself."
+
 Critics predicted disaster. Creating money on such a scale, they argued, would trigger hyperinflation, destroy the dollar's value, and collapse the international monetary system. None of this happened. Inflation remained low—in some countries, dangerously low, threatening deflation. The dollar strengthened against most currencies. The system absorbed trillions in new money without breaking.⁷
 
 Why? Because the money was created to replace money that had been destroyed. When banks failed, deposits vanished. When asset prices collapsed, wealth evaporated. When businesses cut spending, demand contracted. The economy was experiencing a massive **deflationary shock**—exactly the scenario Henry Thornton had warned about in 1802. Central banks' money creation offset this shock, preventing a repeat of the Great Depression.⁸
