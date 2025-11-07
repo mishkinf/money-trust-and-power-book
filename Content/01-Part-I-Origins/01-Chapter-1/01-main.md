@@ -198,15 +198,15 @@ The confusion stems from treating money as a "thing" rather than a "relationship
 
 The chartalist principle works through three mechanisms:
 
-**First, tax obligations drive adoption.** Government requirements to pay in specific currency force acquisition of that currency, creating demand independent of purchasing power or convertibility. Medieval English peasants needed tally sticks to satisfy tax collectors, not because wood held value. Modern Americans need dollars for the same reason—federal obligations must be discharged in government-issued currency.
+**First, tax obligations drive adoption.** Government requirements to pay in specific currency force acquisition of that currency, creating demand independent of purchasing power or convertibility. Medieval English peasants needed tally sticks to satisfy tax collectors, not because wood held value. Modern Americans need dollars because federal obligations must be discharged in government-issued currency.
 
-**Second, legal tender laws reinforce acceptance.** Once a critical mass of transactions use the currency for taxes, it becomes convenient for private transactions too. The network effect takes over: stores accept dollars because employees need dollars for taxes, landlords accept dollars because tenants pay in dollars, and so on.
+**Second, legal tender laws reinforce acceptance.** Once a critical mass uses the currency for taxes, it becomes convenient for private transactions. The network effect takes over: stores accept dollars because employees need dollars for taxes, and vice versa.
 
-**Third, the sequence matters.** Households must earn before spending: income → spending → saving. Currency-issuing governments must spend before taxing: spending creates currency → currency pays taxes → taxes withdraw currency. This isn't because governments are irresponsible—it's a logical necessity. The currency cannot exist to be taxed until the government first spends it into existence.
+**Third, the sequence matters.** Households must earn before spending. Currency-issuing governments must spend before taxing—the currency cannot exist to be taxed until the government first spends it into existence.
 
-The constraint on government spending isn't financial—it's real resources. A government can always create currency to purchase whatever is for sale in that currency. The limit is whether the economy has workers, factories, and materials available to produce what the government wants to buy. Creating money when resources are fully employed causes inflation—more money bidding for the same goods. Creating money when resources are idle mobilizes unused capacity without inflation—which is exactly what happened with COVID relief spending in 2020 when unemployment was 14%.
+The constraint on government spending isn't financial—it's real resources. A government can always create currency to purchase whatever is for sale in that currency. The limit is whether the economy has idle capacity or is fully employed. Creating money when resources are fully employed causes inflation. Creating money when resources are idle mobilizes unused capacity without inflation.
 
-This principle seems impossible because we're trained to think in household terms. But households are **currency-users**; governments are **currency-issuers**. The difference is fundamental. Recognizing it transforms how we understand fiscal policy, inflation, and government debt—which is why the metallist orthodoxy persists despite historical evidence to the contrary.
+This principle seems impossible because we're trained to think in household terms. But households are **currency-users**; governments are **currency-issuers**. The difference is fundamental, and Chapter 5 explores the full mechanics of how taxation creates currency demand.
 
 The remainder of this book traces how this principle operated across five millennia, how it was repeatedly proven, periodically forgotten, and eventually vindicated in the modern era of pure fiat currency.
 

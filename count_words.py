@@ -13,7 +13,8 @@ def count_words_excluding_sources(file_path):
             content = f.read()
         
         # Find the position of Sources section (case-insensitive)
-        sources_match = re.search(r'^##?\s+Sources\s*$', content, re.MULTILINE | re.IGNORECASE)
+        # Matches patterns like "### **Sources & Further Reading**" or "## Sources"
+        sources_match = re.search(r'^#{1,6}\s+\*?\*?Sources', content, re.MULTILINE | re.IGNORECASE)
         
         if sources_match:
             # Only count words before the Sources section
@@ -54,9 +55,10 @@ def main():
         "03-Part-III-Gold-Standard/06-Chapter-6/01-main.md",
         "03-Part-III-Gold-Standard/07-Chapter-7/01-main.md",
         "03-Part-III-Gold-Standard/08-Chapter-8/01-main.md",
-        "04-Part-IV-Breaking-Beyond/09-Chapter-9/01-main.md",
+        "03-Part-III-Gold-Standard/09-Chapter-9/01-main.md",
         "04-Part-IV-Breaking-Beyond/10-Chapter-10/01-main.md",
         "04-Part-IV-Breaking-Beyond/11-Chapter-11/01-main.md",
+        "04-Part-IV-Breaking-Beyond/12-Chapter-12/01-main.md",
         "05-Epilogue/01-main.md",
     ]
     
