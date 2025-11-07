@@ -81,10 +81,14 @@ From temple ledgers and tally sticks to the Bank of England and modern central b
 
 This is the story of how we learned—again and again—that value does not lie in gold, but in trust. And trust, as history repeatedly demonstrates, is built through institutions, maintained through competence, and destroyed through abuse.
 
-The age of pure fiat is not the end of monetary history but its logical culmination—a recognition that money has always been a human institution, created by law and sustained by collective belief. The challenge ahead is to build institutions worthy of that trust and to maintain them across generations. The challenge is to remember what the temple scribes of Ur, the medieval clerks of the Exchequer, and the founders of the Bank of England all understood: money is a creature of law and custom, not nature.
+The age of pure fiat is not the end of monetary history but its logical culmination—a recognition that money has always been a human institution, created by law and sustained by collective belief. The challenge ahead is to build institutions worthy of that trust and to maintain them across generations.
 
----
+This book traces that evolution—not as a linear progression but as a series of institutional experiments, each revealing something fundamental about the relationship between money, trust, and power.
 
-*A note on sources*: This book draws on archaeological evidence, historical documents, economic analysis, and contemporary research. Where scholarly debates exist, I have tried to present multiple perspectives while distinguishing well-established facts from contested interpretations. The endnotes provide detailed citations for readers who wish to explore further.
+The story begins in 3200 BCE, in a temple in Uruk, when a priest made a discovery that would change human civilization: you could create money from nothing—if you had the power to make people believe in it. That priest's clay tablet, recording a debt that would never be repaid in grain, was the first act of monetary creation. Every central bank governor since—from the founders of the Bank of England to Jerome Powell at the Federal Reserve—has been repeating the same trick.
 
-*A note on method*: This narrative synthesizes insights from economic history, anthropology, political science, and institutional economics. I have prioritized primary sources—parliamentary records, central bank archives, contemporary accounts—supplemented by modern scholarship. Where I use composite examples or representative cases to illustrate broader patterns, I have noted this explicitly. The human vignettes in Chapters 3, 7, and 8 are based on documented historical cases with proper citations. My aim is to make complex monetary history accessible without sacrificing accuracy, and to show how abstract economic concepts played out in real human lives.
+The question is: why does it still work? And why, across five thousand years, does each generation forget the answer and have to relearn it at devastating cost—through bank runs, depressions, and economic collapse that ruins millions of lives?
+
+This book traces how that lesson was learned, forgotten, and relearned across fifty centuries. From Mesopotamian temples to medieval exchequers to modern central banks, the pattern repeats: money works when institutions are credible, and institutions earn credibility through demonstrated competence, not through commodity backing. Yet every generation mistakes the confidence mechanism for the foundation—and pays the price when the system breaks.
+
+The first chapter examines where this all began: not with coins or gold, but with clay tablets and the radical idea that obligations could be recorded, transferred, and made credible through institutional design.

@@ -384,3 +384,23 @@ It would take just one year to shatter that illusion. And when politicians tried
 ⁴⁴ European Central Bank statute (Treaty on the Functioning of the European Union, Article 123) prohibits monetary financing, embedding creditor interests into law exactly as the Bank Charter Act did. Modern "central bank independence" legislation serves similar functions.
 
 ⁴⁵ The manufactured orthodoxy pattern operates across centuries: specific class interests develop theoretical frameworks claiming universal benefit, embed them in institutions and law, and present distributional choices as technical necessities. Recognition of this pattern is the first step toward democratic monetary policy.
+
+---
+
+The Bank Charter Act of 1844 represented the triumph of manufactured orthodoxy. Despite intellectual refutation by the Banking School, despite warnings from *The Economist* and prominent theorists, despite the Act's repeated suspension during crises, gold orthodoxy became embedded in British law and economic thought. The Currency School won not through superior evidence but through institutional power—controlling Parliament, shaping legislation, and presenting creditor-serving policies as natural economic law.
+
+This orthodoxy would govern British monetary policy for the next 70 years. The automatic gold mechanism would contract the money supply during crises, trigger deflation during downturns, and prioritize currency stability over employment—all while claiming to be neutral and scientific. The human cost would be measured in millions of lives disrupted by unemployment, wage cuts, and economic hardship that could have been prevented.
+
+But the system's greatest test still lay ahead. The gold standard that seemed eternal in 1844 would face catastrophic failure in the 20th century. The orthodoxy that claimed gold prevented crises would instead cause the worst economic collapse in modern history. And the lesson that private money needs public backing—proven by the goldsmith catastrophe, embedded in the Bank of England's design, forgotten during the gold standard era—would have to be relearned at devastating cost.
+
+---
+
+## PART IV: THE BREAKING AND BEYOND
+
+The gold standard's contradictions, embedded in law through the Bank Charter Act and replicated globally, would accumulate for decades before exploding in catastrophic failure. What seemed like eternal truth in 1844 would prove to be manufactured orthodoxy serving creditor interests.
+
+The breaking would come in stages—each more devastating than the last. First, Churchill's 1925 decision to restore gold at the pre-war parity, triggering mass unemployment and the General Strike. Then the Great Depression, caused not by monetary excess but by gold hoarding that drained the world economy of liquidity. Then Bretton Woods' doomed attempt to preserve gold at the system's core, creating mathematical contradictions that would force Nixon's hand in 1971.
+
+Each crisis would prove the same lesson: gold was constraint, not foundation. Money worked through institutional credibility, not commodity backing. The evidence would become undeniable. The human cost would be measured in millions of lives destroyed. And finally—after 150 years of forgetting—the world would remember what the Mesopotamian scribes, the medieval clerks, and the Bank of England's founders had always known.
+
+Part IV traces this unraveling—and asks whether we've truly learned the lesson, or whether the next generation will forget again.

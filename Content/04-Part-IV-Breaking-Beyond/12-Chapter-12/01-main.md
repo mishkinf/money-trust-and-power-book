@@ -315,6 +315,16 @@ Keynes's bancor proposal—updated as expanded IMF Special Drawing Rights or sup
 
 **History's Lesson:**
 
-Only crisis forces change. Bretton Woods ended not from wise choices but unbearable contradictions—Nixon's desperate response to Britain's conversion request.⁵⁶ᵐ Current strains are different but create political tensions: persistent U.S. deficits ($800+ billion annually), dollar weaponization driving alternatives (China's CIPS payment system, euro diversification), and geopolitical resistance to dollar dominance.⁵⁶ⁿ
+Only crisis forces change. Bretton Woods ended not from wise choices but unbearable contradictions—Nixon's desperate response to Britain's conversion request. Current strains are different but create political tensions: persistent U.S. deficits ($800+ billion annually), dollar weaponization driving alternatives (China's CIPS payment system, euro diversification), and geopolitical resistance to dollar dominance.
 
-**Systems designed to preserve dominant power rather than systemic stability face ongoing challenges.** Keynes understood bancor was superior for systemic stability; White chose American advantage. That gave us 27 years of growth under Bretton Woods, then crisis when material constraints broke the system. The post-1971 fiat system lacks that breaking point but faces the political challenge of managing power responsibly. The question: can we learn from 1944-1971 to reform before political crisis forces change?⁵⁶ᵒ⁻ᵖ
+**Systems designed to preserve dominant power rather than systemic stability face ongoing challenges.** Keynes understood bancor was superior for systemic stability; White chose American advantage. That gave us 27 years of growth under Bretton Woods, then crisis when material constraints broke the system. The post-1971 fiat system lacks that breaking point but faces the political challenge of managing power responsibly.
+
+Nixon's August 1971 decision ended the gold standard forever. What he called a "temporary" suspension became permanent. The last link between major currencies and precious metal was severed—not through careful planning but through crisis and necessity.
+
+The world entered uncharted territory: pure fiat money, backed by nothing but institutional credibility and governmental fiscal power. No commodity anchor. No automatic constraints. No historical precedent at this scale.
+
+Milton Friedman warned that governments would print without restraint, destroying currencies through inflation. Gold bugs predicted the dollar would collapse within a decade—Peter Schiff's father, Irwin Schiff, wrote *The Biggest Con: How the Government Is Fleecing You* in 1977, insisting fiat currency would inevitably fail. Keynesian economists worried that without the gold anchor, nothing would prevent runaway deficits. The debate was fierce, the stakes existential.
+
+For the first time in history, the world's reserve currency was backed by nothing but trust. Would the Federal Reserve exercise discipline without gold's constraint? Would Congress resist the temptation to print money for every political priority? Could institutional credibility alone sustain a global monetary system?
+
+The next chapter examines what actually happened over the next fifty years—the 2008 crisis that tested fiat money to its limits, the trillions created without causing hyperinflation, and whether the evidence has settled the debate or simply created new questions about money's true constraints.

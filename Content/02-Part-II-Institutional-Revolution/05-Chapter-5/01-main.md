@@ -403,5 +403,18 @@ This success would prove dangerously seductive. Within a generation, a scientist
 - Two-tier system: Bank notes vs. country bank notes
 - Domestic vs. international: taxation creates both internal demand and external credibility
 
-**The Essential Insight:**  
-The Bank of England succeeded by linking money creation to Parliament's power to tax, not to gold reserves. This 1694 mechanism still governs how modern central banks operate. Money is a human institution sustained by institutional credibility, not a commodity backed by metal.
+---
+
+The Bank of England's success proved a fundamental truth: money works through institutional credibility backed by taxation, not through commodity reserves. For 103 years before the Bank Restriction Act, the Bank had maintained gold convertibility—but that convertibility was a confidence mechanism, not the source of value. The real foundation was Parliament's power to tax and the Bank's demonstrated competence in managing the currency.
+
+This 1694 mechanism—linking money creation to sovereign fiscal capacity—still governs how modern central banks operate. The Federal Reserve, the European Central Bank, the Bank of Japan all create money through the same basic principle: institutional credibility sustained by governmental fiscal power. Money is a human institution, not a commodity backed by metal.
+
+Yet within a generation of the Bank's founding, this truth would be systematically obscured. The very success of the system would lead people to mistake the confidence mechanism (gold convertibility) for the actual foundation (institutional credibility and taxation). By the early 19th century, respectable economists would insist that money *must* be backed by gold—that paper currency without metal reserves was inherently unstable and dangerous.
+
+This wasn't the discovery of economic truth. It was the beginning of a great forgetting—an erasure so complete that what William Paterson had stated explicitly in 1694 would become literally unspeakable in respectable economics by 1850.
+
+What was forgotten? Paterson's founding principle: the Bank creates money "out of nothing"—not by lending out deposits, not by accumulating gold, but through the simple act of making loans backed by Parliament's power to tax. Adam Smith had written it plainly in 1776: princes give value to paper money through taxation. The Bank Restriction period (1797-1821) had proven it empirically: Britain financed the Napoleonic Wars on pure fiat currency with no gold backing.
+
+Yet within a generation, these facts became unthinkable. Respectable economists would insist that money *must* be backed by gold, that governments cannot create purchasing power, that taxation funds spending rather than creating currency demand. The beneficiaries were bondholders who profited from deflation—every percentage point of price decline transferred wealth from debtors to creditors. The human cost would be measured in millions of foreclosed farms, starving families, and economic collapse that could have been prevented.
+
+The gold standard era would last from 1821 to 1971—150 years during which this manufactured orthodoxy governed policy. Part III examines how it happened: how gold orthodoxy was embedded in law despite contrary evidence, who profited from the forgetting, and why proof that should have shattered the myth was instead systematically ignored. The story begins with the gold standard's rise to dominance—and the hidden costs that contemporaries couldn't see but that we can measure precisely.

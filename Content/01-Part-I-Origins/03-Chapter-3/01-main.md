@@ -154,3 +154,15 @@ The distinction between domestic and international credit remains fundamental. T
 Greece's crisis wasn't caused by excessive spending—it was caused by borrowing in a currency it couldn't create. The eurozone recreated medieval Europe's problem: a monetary union without fiscal union, where member states are like medieval kingdoms—able to tax domestically but unable to create the currency their debts require. At 180% debt-to-GDP, Greece faced catastrophe. At 250%, Japan faces no crisis. The difference isn't fiscal responsibility—it's monetary sovereignty.
 
 Edward III would recognize the dilemma immediately. The institutional solution he couldn't achieve—credible commitment backed by representative government and control over currency creation—remains the only answer. Technology changes, but the fundamental problem of making promises believable across borders endures. The lesson of 1340 still governs 2024: sovereignty over money matters more than any other economic power.
+
+---
+
+## PART II: THE INSTITUTIONAL REVOLUTION
+
+The Bank of England succeeded not despite being a private institution but because it operated within a framework of parliamentary oversight and fiscal capacity. The lesson wasn't that private enterprise couldn't create money—it was that money creation required institutional credibility backed by sovereign power.
+
+That lesson would be forgotten and relearned repeatedly over the next three centuries. Each generation would rediscover that private money can exist but cannot provide systemic stability. Each crisis would reveal the same truth: when credit networks collapse, only institutions backed by sovereign fiscal power can restore confidence.
+
+The pattern repeats with remarkable consistency. In 1672, the Stop of the Exchequer destroyed goldsmith-bankers who lacked sovereign backing. In 2008, shadow banking collapsed when Lehman Brothers failed, requiring central bank intervention on an unprecedented scale. In 2022, cryptocurrency exchanges imploded—FTX, Celsius, Three Arrows Capital—proving once again that private money without institutional backing cannot survive systemic stress.
+
+Understanding this pattern requires examining how the institutional solution was built—and how each generation forgets the lesson. Part II traces three iterations of this cycle: the goldsmith catastrophe that proved private money's limits, the Bank of England's creation that solved the sovereign's dilemma, and the modern shadow banking crisis that replayed the same dynamics with digital instruments. The technology changes. The fundamental problem—and its solution—remains constant.
