@@ -168,9 +168,9 @@ James Woodforde, rector of Weston Longeville in Norfolk, recorded in his diary o
 
 This ordinariness is precisely the point. For a country clergyman in rural Norfolk—far from London's financial sophistication—paper money simply worked. When Woodforde paid his maidservant Betty Dade her wages in notes, she could spend them at the grocer's. When the grocer paid his suppliers, they accepted the notes. The circulation continued, uninterrupted by the absence of gold backing, because everyone believed everyone else would continue accepting them.
 
-The mechanism sustaining this confidence was taxation authority (see Chapter 5 for the full explanation of this principle). Starting in 1799, Pitt's income tax required payment in Bank notes. Woodforde grumbled—"Very unjust"—but paid: £6 6s in 1799, rising as his income rose. Every taxpayer in Britain faced the same obligation, creating guaranteed demand for notes. Even skeptical shopkeepers accepted notes knowing they needed them for taxes—and knowing others needed them too.²²ᵇ
+The mechanism sustaining this confidence was taxation authority—the principle established in Chapter 5 that tax obligations create currency demand. Starting in 1799, Pitt's income tax required payment in Bank notes. Woodforde grumbled—"Very unjust"—but paid: £6 6s in 1799, rising as his income rose. This created the guaranteed demand that made paper money circulate.²²ᵇ
 
-Woodforde's experience from 1797 until his death in 1803 demonstrates the principle working in practice: notes circulated without gold backing because tax obligations created demand. This simple mechanism would be systematically erased from economic theory over the next century, replaced by metallism's insistence that only gold gives money value. Yet it worked, documentable in a Norfolk rector's daily accounts.²²ᵈ
+Woodforde's daily accounts from 1797-1803 document this principle in practice—proof that would be systematically erased from economic theory over the next century, replaced by metallism's insistence that only gold gives money value.²²ᵈ
 
 ---
 

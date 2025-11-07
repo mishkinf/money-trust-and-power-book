@@ -92,9 +92,7 @@ By the time Attwood died in 1856 at age 73, the forgetting was complete. Economi
 
 #### Modern Vindication—Too Late
 
-A century later, economic historians would recognize that "**the theories of the Birmingham School are now recognized as embryonic versions of the Keynesian economics of the 1930s.**" Attwood had articulated the multiplier effect before it had a name. He understood that unemployment represented wasted capacity, not natural equilibrium. He grasped that paper money could function without gold backing if institutions were credible and taxation created currency demand.²⁷ᵏ
-
-He was **right**. The deflation he warned against did cause unnecessary suffering. The monetary expansion he advocated would have prevented mass unemployment. The flexible paper currency he proposed would have allowed Britain to maintain full employment while managing inflation through policy rather than gold constraints. Every warning he made about the gold standard's deflationary bias would be vindicated by the disasters of 1873-1896 and 1925-1931.
+A century later, economic historians would recognize that "**the theories of the Birmingham School are now recognized as embryonic versions of the Keynesian economics of the 1930s.**" Attwood had articulated the multiplier effect before it had a name, understood unemployment as wasted capacity rather than equilibrium, and grasped that paper money could function without gold backing. He was **right**—vindicated by the disasters of 1873-1896 and 1925-1931.²⁷ᵏ
 
 But being right was insufficient. Those who held government bonds—whose real returns increased with deflation—had concentrated political influence. The economic orthodoxy that emerged aligned systematically with their material interests, framing creditor-protecting deflation as sound monetary policy while dismissing employment-supporting monetary expansion as dangerous quackery. Attwood's marginalization followed a pattern that would repeat whenever economic theories threatened powerful interests: dismiss the dissenter as mentally unsound, exclude him from serious discourse, and erase his ideas from the historical record.²⁷ˡ
 

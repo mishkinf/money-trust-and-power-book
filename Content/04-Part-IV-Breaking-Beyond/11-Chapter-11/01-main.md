@@ -32,6 +32,44 @@ The central figures were John Maynard Keynes, the celebrity British economist wh
 
 White held the leverage. The United States possessed approximately $22 billion of the world's $28 billion in monetary gold—nearly 80 percent of global reserves. Britain owed £1.3 billion in sterling balances to India and other colonies, debts that undermined any negotiating position. The power asymmetry was brutal and inescapable. As the New York World-Telegram noted with characteristic American directness: "The kid who owns the ball is usually captain."⁴⁹ᵇ
 
+### Inside the Conference: Power Disguised as Negotiation
+
+The conference opened July 1 with Secretary of the Treasury Henry Morgenthau's welcoming remarks emphasizing "cooperation" and "mutual benefit." But the real message came when American officials distributed working documents: pre-drafted proposals for the International Monetary Fund already reflecting American positions on voting weights, governance structure, and reserve currency status.⁴⁹ᶜ
+
+British delegate Sir George Bolton later recalled his shock: "We arrived expecting to negotiate. Instead we found ourselves presented with faits accomplis dressed up as 'discussion drafts.'"⁴⁹ᵈ
+
+**The Keynes-White Dynamic**
+
+While Keynes commanded intellectual attention—delegates still quoted his 1919 prediction of Versailles disaster—White controlled the procedural machinery: committee assignments, working group agendas, document drafting schedules. The power dynamic became visible in small moments.
+
+When Keynes protested an American draft in October 1943—"This is intolerable. It is yet another Talmud. We had better simply break off negotiations"—White's reply dripped with condescension: "We will try to produce something which Your Highness can understand."⁴⁹ᵉ
+
+When Keynes proposed significant changes to voting weights, American delegates scheduled discussions for late-night sessions when British participants were exhausted, then called for votes before opposition could organize.⁴⁹ᶠ
+
+**The Bancor's Procedural Death**
+
+Keynes's International Clearing Union proposal—the bancor system with symmetric adjustment—never received a formal floor vote. Instead, it died through procedural suffocation: American drafts consistently used "dollar" as placeholder for reserve currency, working groups discussed IMF (White's plan) not ICU (Keynes's plan), and the three-week deadline prevented full consideration of alternatives. Smaller nations, eager for Marshall Plan aid, hesitated to antagonize American hosts.⁴⁹ᵍ
+
+By mid-conference, Keynes recognized the battle was lost. In a private letter to his wife, Lydia Lopokova: "I can influence the footnotes but not the text."⁴⁹ʰ
+
+**July 13: The Decisive Moment**
+
+The turning point came when India's A.D. Shroff asked a clarifying question about "gold-convertible exchange": "I think it is high time that the USA delegation give us a definition of gold and gold convertible exchange."⁴⁹ⁱ
+
+Edward Bernstein of the U.S. delegation replied with careful vagueness: "Mr Chairman, it might be possible to give a definition...but it would involve a long discussion...it would be easier for this purpose to regard the United States dollar as what was intended when we speak of gold convertible exchange."⁴⁹ʲ
+
+Dennis Robertson of the British delegation—notably, not Keynes—then proposed the text read: "payment of official gold and subscription should be expressed official holdings of gold and United States dollars."⁴⁹ᵏ
+
+The irony was profound: It was not Americans who placed the dollar at the system's center but a fissure within the British Empire (India seeking protection from sterling weakness) and a British economist acknowledging that only the dollar had sufficient strength.
+
+**What "Compromise" Actually Meant**
+
+American negotiators offered tactical concessions to create appearance of give-and-take: Fund size increased to $8.5 billion (Keynes had wanted $26 billion), and a "scarce currency clause" allowed rationing currencies in short supply—theoretically applicable to dollars but never actually used.⁴⁹ˡ
+
+These concessions cost America nothing while allowing other nations to claim negotiating victories to sell domestically. The core architecture remained unchanged: dollar-centered, American-controlled, designed to prevent the symmetric adjustment that Keynes's bancor would have imposed.
+
+By conference end, 730 delegates had debated, voted, and signed agreements. The appearance of democratic negotiation was complete. The reality was that American gold reserves had dictated outcomes before the first delegate arrived.
+
 ---
 
 ### The Battle of Systems: Bancor vs. Dollar

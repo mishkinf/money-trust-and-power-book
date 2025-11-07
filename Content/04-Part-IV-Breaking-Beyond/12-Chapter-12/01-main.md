@@ -195,7 +195,7 @@ The Triffin dilemma was specific to commodity-backed reserve currency systems. P
 
 **Structural dollar demand**: Global commodities (oil, copper, wheat) are priced in dollars. International trade contracts are denominated in dollars. This creates inherent, persistent demand for dollar reserves—independent of any commodity backing. When China buys oil from Saudi Arabia, both parties need dollars for the transaction, creating continuous demand regardless of US fiscal policy.
 
-**Different risks**: The fiat system faces inflation risk if money creation exceeds productive capacity, political pressure to use monetary policy for narrow interests, and coordination challenges in a multipolar world. But these are fundamentally different from the Triffin dilemma's mathematical impossibility of supplying global liquidity while maintaining gold convertibility.
+**Different risks**: The fiat system faces inflation risk (when money creation exceeds productive capacity), political pressures, and coordination challenges—fundamentally different from the Triffin dilemma's mathematical impossibility.
 
 China's accumulation of dollar assets creates **political vulnerability** (exposure to Fed policy decisions, potential sanctions, exchange rate fluctuations) but not a replay of France's 1960s position. There's no material constraint to test, no convertibility promise that can break like the $35/ounce peg. The question isn't whether America can supply dollars—it always can—but whether institutions manage monetary policy to maintain dollar credibility without commodity backing. That's the fiat era's challenge: political discipline, not material limits.⁵³ʳ
 

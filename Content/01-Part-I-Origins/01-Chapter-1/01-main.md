@@ -158,9 +158,7 @@ The two positions are fundamentally incompatible:
 
 The stakes are enormous. If metallists are correct, modern central banking is built on unsustainable foundations—we abandoned gold backing in 1971, and catastrophe may be inevitable. If chartalists are correct, most "common sense" about government budgets is wrong—governments that issue currency face fundamentally different constraints than households, and much contemporary fiscal anxiety is misplaced.
 
-This chapter presents evidence supporting the chartalist interpretation. But intellectual honesty requires acknowledging the metallist challenge seriously before demonstrating why the historical record favors chartalism. Let's examine both positions carefully.
-
-The debate matters because it shapes how we understand money's essential nature. **Metallism** is the theory that money must originate from commodity value—that gold or silver coins are "real" money because the metal itself has intrinsic worth. If metallists are correct, then fiat currency is a recent deviation from money's natural form—a deviation that might prove unsustainable. **Chartalism** is the opposing theory: money derives its value from government authority and taxation, not from commodity backing. If chartalists are correct that money originated as credit backed by institutional authority, then commodity money was merely a transitional phase, and fiat currency represents a return to money's original form.
+This chapter presents evidence supporting the chartalist interpretation while acknowledging the metallist challenge seriously.
 
 This debate directly informs today's policy choices. When the Federal Reserve created trillions in COVID relief, critics invoked the metallist position: "You can't just print money!" But chartalists pointed to 5,000 years of history showing that governments with taxation authority can create money to mobilize unused resources, limited by productive capacity, not by gold reserves.
 

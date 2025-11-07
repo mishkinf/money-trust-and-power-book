@@ -65,15 +65,31 @@ This seems impossible. How can you create purchasing power from nothing? The ans
 
 ### How Money Multiplication Works
 
-**Understanding Bank Balance Sheets: The Simplest Version**
+**Understanding How Banks Create Money: A Modern Example First**
 
-Before diving into how the Bank of England created money, you need to understand one accounting concept that seems complicated but is actually simple: balance sheets.
+Before examining the Bank of England's 1694 innovation, let's see how money creation works using a familiar modern example.
 
-Think of your personal finances. On one side, you have things you own (car, savings account, your friend's IOU for $20). On the other side, you have things you owe (credit card bill, student loan). These two sides must always balance—if you own $10,000 in stuff and owe $3,000 in debts, your net worth is $7,000.
+You walk into a bank and get approved for a $10,000 loan. Where does that $10,000 come from? Many people assume the bank is lending out money other customers deposited—like a financial middleman. This is incorrect.
 
-Banks work the same way, but with one twist: when a bank makes a loan, it creates BOTH sides simultaneously. The loan is something the bank owns (you owe them). The deposit or note they give you is something the bank owes (they promise to pay you). Both sides go up together, keeping the balance.
+**What actually happens:**
 
-That's the "magic" of money creation: it's not magic at all—it's accounting. Now let's see how this worked for the Bank of England in 1694.
+1. **The bank creates $10,000** by typing numbers into your account. This money didn't exist seconds earlier.
+2. **You now owe the bank $10,000** (your debt to them—this is an *asset* from the bank's perspective because you'll pay it back with interest)
+3. **The bank owes you $10,000** in your account (this is a *liability* from the bank's perspective because you can withdraw it)
+
+The bank's "balance sheet" (its accounting of what it owns and owes) looks like this:
+
+**BANK'S ASSETS** (what others owe them):
+- Your loan: $10,000
+
+**BANK'S LIABILITIES** (what bank owes others):  
+- Your deposit account: $10,000
+
+Assets ($10,000) = Liabilities ($10,000). The books balance, even though the bank created this money from nothing.
+
+**The key insight:** Banks don't lend out existing money. They create new money by making loans. Your debt to the bank IS the backing for the money in your account.
+
+Now let's see how the Bank of England pioneered this same system in 1694, using paper notes instead of digital entries but following identical logic.
 
 Understanding how the Bank created money explains why government spending doesn't work like household budgets. Think of the Bank's ledger having two columns: assets (what others owe the Bank) and liabilities (what the Bank owes others). When these balance, the system works.
 
@@ -178,6 +194,36 @@ This is the mechanism that mainstream economics obscured. When politicians say "
 
 The constraint isn't finance but real resources: inflation occurs when spending exceeds productive capacity, not when it exceeds tax revenue. This was working in 1694 England, and it's how modern sovereign currency-issuing governments operate today (U.S., U.K., Japan)—though the mechanism is systematically misrepresented in public discourse.
 
+### Money Creation in Practice: A Merchant's Experience
+
+To see how this worked in practice, consider Thomas Fletcher—a representative example based on documented Bank of England lending practices.²⁵ᵃ Fletcher was a London cloth merchant seeking to expand his business in 1703.
+
+Fletcher needed £500 to purchase raw wool from Yorkshire and hire additional weavers. Traditional moneylenders charged 15-20% interest—rates that would consume any profit margin. But the Bank of England, holding the government charter and Parliament's backing, could lend at 6%.
+
+Fletcher presented his books to the Bank, demonstrating regular sales and creditworthiness. The Bank's clerk examined his accounts, verified his existing property as collateral, and approved the loan. What happened next would have seemed miraculous to medieval merchants:
+
+**The Bank created £500 by writing it into their ledger.**
+
+On the Bank's books:
+- ASSETS side: "Loan to Thomas Fletcher, £500" (Fletcher owes the Bank)
+- LIABILITIES side: "Bank notes issued, £500" (Bank owes bearer these notes)
+
+Fletcher received £500 in Bank of England notes—paper slips promising to pay the bearer on demand. These notes were not backed by £500 in gold sitting in the vault. The Bank held perhaps £100-150 in reserves against this £500 in notes (consistent with documented reserve ratios). The rest was credit—created by the lending process itself.
+
+Fletcher used these notes to:
+1. Pay Yorkshire wool suppliers (notes circulated to Yorkshire)
+2. Hire weavers (notes circulated to working-class London)
+3. Purchase equipment (notes circulated to manufacturers)
+
+Each recipient accepted the notes as money because they knew:
+- They could discharge tax obligations with them
+- The Bank of England would redeem them for gold if needed (though most never bothered)
+- Other merchants would accept them in turn
+
+Fletcher repaid the £500 plus £30 interest (6% annually) over two years. The £500 in notes remained in circulation, now backed by new loans to other merchants. The £30 interest compensated the Bank for default risk and covered operating costs.
+
+**This was money creation through credit extension**—the same process modern banks use today when they make loans by typing numbers into accounts. No gold mine needed, no government printing press, just double-entry bookkeeping backed by institutional credibility.
+
 > **Understanding Check:** If the balance sheet mechanics feel confusing, that's completely normal—this is the chapter's most technical concept. The key insight is simple: **banks create money by making accounting entries, not by lending out deposits**. The Bank of England didn't need £1.2 million sitting in a vault to lend £1.2 million to the government. It created that money through the act of lending itself. If you're unclear on the accounting details, continue forward—the implications matter more than the mechanics. You can always return to the Thomas Fletcher example above for a concrete illustration.
 
 ---
@@ -219,11 +265,7 @@ This transforms fiscal debates. When politicians claim "we must raise taxes to a
 
 > **Note on Modern Monetary Theory (MMT):** The principles described here—that currency-issuing governments spend money into existence and face real resource constraints rather than financial constraints—form the foundation of what contemporary economists call Modern Monetary Theory. MMT isn't a new invention but a formalization of how monetary systems have always worked, as documented throughout this book. We'll explore MMT's contemporary policy implications more fully below and in Chapter 11, but understanding that this 1694 mechanism still governs modern central banking helps explain why MMT describes reality rather than proposing radical reform.
 
-The Bank of England's founding demonstrates this sequence. The government spent £1.2 million into existence by borrowing from the Bank. Those notes circulated because tax obligations created demand. As the economy grew and the money supply needed to expand, the government created more money through additional borrowing and spending. Taxes didn't fund this spending—taxes made this spending valuable by ensuring everyone needed the notes. When modern politicians claim "taxpayer money" funds government programs, they reverse the actual sequence and obscure how monetary systems work.³⁰ᵍ
-
-**Modern Monetary Theory (MMT)** is the contemporary framework that makes these historical insights explicit for policy. MMT economists—Stephanie Kelton, L. Randall Wray, Warren Mosler—observe that governments issuing their own currency face different constraints than households. They can create money to fund spending, limited by inflation (productive capacity), not by prior tax collection. MMT isn't a new theory but recognition of historical reality documented in this chapter and throughout this book. The Bank of England's 1694 founding, the Bank Restriction Act (1797-1821), Roosevelt's New Deal, the 2008 crisis response, and COVID-19 spending all demonstrated the same principle: currency-issuing governments constrained by real resources, not financial ones.
-
-Critics argue MMT ignores inflation risks, but MMT explicitly identifies productive capacity as the constraint—governments can spend freely when resources are idle but must withdraw purchasing power through taxation when capacity is reached. The question isn't whether governments face constraints (they do—inflation and productive capacity) but whether those constraints are financial (they're not). Understanding this distinction—between real economic limits and fictional accounting limits—is essential for effective policy.³⁰ʰ
+The Bank of England's founding demonstrates this sequence. The government spent £1.2 million into existence by borrowing from the Bank. Those notes circulated because tax obligations created demand. As the economy grew and the money supply needed to expand, the government created more money through additional borrowing and spending. Taxes didn't fund this spending—taxes made this spending valuable by ensuring everyone needed the notes. When modern politicians claim "taxpayer money" funds government programs, they reverse the actual sequence and obscure how monetary systems work.³⁰ᵍ⁻ʰ
 
 ---
 
@@ -351,16 +393,15 @@ This success would prove dangerously seductive. Within a generation, a scientist
 ### **Key Concepts—Chapter 5**
 
 **Core Mechanisms:**
-- Banks create money through lending (not by lending out deposits)
-- Taxation creates demand for currency (not funding for spending)
-- Government spending comes first; taxation ensures value
-- **Convertibility** (exchangeability for gold) maintained confidence but wasn't the source of value
+- Banks create money through lending (not lending out deposits)
+- Taxation creates currency demand (not funding)
+- Convertibility maintained confidence but wasn't the value source
 
 **Critical Distinctions:**
-- **Fiscal capacity** = government's ability to collect taxes and manage finances
-- **Perpetual obligation** = debt that pays interest indefinitely without principal repayment
-- Two-tier system: Bank of England money (accepted for taxes) vs. country bank notes (convertible to Bank money)
-- Domestic vs. international functions: taxation creates internal demand AND external credibility
+- **Fiscal capacity**: government's ability to collect taxes
+- **Perpetual obligation**: debt paying interest indefinitely
+- Two-tier system: Bank notes vs. country bank notes
+- Domestic vs. international: taxation creates both internal demand and external credibility
 
 **The Essential Insight:**  
 The Bank of England succeeded by linking money creation to Parliament's power to tax, not to gold reserves. This 1694 mechanism still governs how modern central banks operate. Money is a human institution sustained by institutional credibility, not a commodity backed by metal.

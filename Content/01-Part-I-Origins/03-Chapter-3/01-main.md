@@ -71,7 +71,7 @@ Today's equivalent is dollar reserves. Emerging market countries hoard dollars n
 
 ### The alchemy of coinage
 
-If foreign creditors demanded metal, kings needed a way to concentrate it in their hands. The solution was **coinage mandates**—laws requiring that taxes, fines, and debts be paid in the king's own coin. By monopolizing the right to mint—the exclusive authority to produce official currency—and requiring its use for all obligations to the crown, a monarch could create demand for his currency even when the realm's economy ran on barter, credit, and foreign coins.¹¹
+If foreign creditors demanded metal, kings needed a way to concentrate it in their hands. The solution was **coinage mandates**—laws requiring that taxes be paid in the king's own coin. By monopolizing minting and requiring its use for crown obligations, monarchs created demand for their currency (a principle we'll examine fully in Chapter 5).¹¹
 
 The logic was elegant: the state **spent first**, issuing coins to pay soldiers and suppliers. Those coins entered circulation, changing hands in markets and taverns. Eventually, they returned to the crown through taxes. The cycle created a perpetual demand for the king's money, because everyone who owed taxes needed to acquire it. As long as the king could enforce tax collection, his coins held value—not because of the metal content alone, but because of the **obligation** they satisfied.¹²
 
