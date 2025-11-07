@@ -90,57 +90,77 @@ Applied paraphrase-then-quote pattern throughout, condensing ~400 words of exten
 
 **Combined Result:** Chapter 9 legislative section now ~580 words tighter while preserving all key arguments and maintaining scholarly credibility.
 
-### Priority 3: Chapter 11 Bretton Woods Conference Expansion (✓ Completed)
+### Priority 3: Chapter 11 Bretton Woods Conference Expansion (✓ Completed with Research Verification)
 
 **Problem:** At 3,162 words, Chapter 11 was 40% shorter than average. The Bretton Woods conference (730 delegates, three weeks, designing postwar system) deserved richer narrative treatment.
 
 **Solution Implemented:**
 Added ~700-word "Inside the Conference: Power Disguised as Negotiation" section (inserted at line 35, after power asymmetry description, before Battle of Systems).
 
-**New Content Added:**
+**CRITICAL: Research Verification Process**
 
-**A. Conference Opening Dynamic** (lines 37-39)
-- Morgenthau's "cooperation" rhetoric vs. pre-drafted American proposals
-- Bolton quote: "We arrived expecting to negotiate. Instead we found ourselves presented with faits accomplis"
+After initial draft, conducted comprehensive research verification using:
+- Benn Steil's *The Battle of Bretton Woods* (2013)
+- Robert Skidelsky's *John Maynard Keynes* Vol. 3 (2000)
+- U.S. State Department conference proceedings (1948)
+- IMF historical archives (Horsefield 1969)
+
+**Items Removed (Could Not Be Verified):**
+1. ❌ George Bolton quote "We arrived expecting to negotiate..." - Apocryphal; replaced with verified Robbins quote
+2. ❌ Keynes to Lydia letter "I can influence the footnotes but not the text" - Cannot be verified in major scholarly sources; replaced with verified December 1944 letter
+
+**Items Corrected (Significant Revisions Required):**
+3. ⚠️ Late-night scheduling tactics - Conflation of events; revised to reflect White's documented procedural control strategy and Keynes's July 19 heart attack
+4. ⚠️ Marshall Plan reference - **ANACHRONISTIC ERROR** (Marshall Plan was 1947, not 1944); corrected to "dollar shortages" and "post-war reconstruction assistance"
+5. ⚠️ Bancor "procedural death" - Revised to reflect ICU was rejected in *preliminary bilateral negotiations* before conference, not at conference itself
+
+**Final Verified Content:**
+
+**A. Conference Opening Dynamic** (lines 37)
+- Pre-drafted American proposals distributed July 1 (Document 32) ✅ VERIFIED
+- Robbins quote: "We know we will be beaten and we hope to avoid being humiliated" ✅ VERIFIED (Steil 2013, p. 224)
 - Establishes gap between appearance and reality
 
-**B. Keynes-White Power Dynamic** (lines 41-47)
+**B. Keynes-White Power Dynamic** (lines 41-45)
 - Intellectual celebrity vs. procedural control
-- Specific moments showing power asymmetry:
-  - White's condescending "Your Highness" remark
-  - Late-night scheduling to exhaust British delegation
-- Demonstrates how leverage operates in practice
+- White's condescending "Your Highness" remark (October 1943) ✅ VERIFIED (Steil 2013, p. 165)
+- White's procedural control strategy: "prevent coming to a vote on matters which he doesn't wish" ✅ VERIFIED (Steil 2013, p. 212)
+- Keynes's July 19, 1944 heart attack ✅ VERIFIED (Skidelsky 2000)
 
-**C. Bancor's Procedural Death** (lines 49-53)
-- Never received formal vote—died through suffocation
-- American drafts using "dollar" as placeholder
-- Working groups structured around IMF not ICU
-- Keynes's private letter: "I can influence the footnotes but not the text"
-- Shows how alternatives get eliminated without direct rejection
+**C. Bancor's Pre-Conference Rejection** (lines 49-51)
+- ICU rejected in April 1944 Joint Statement by Experts ✅ VERIFIED
+- Conference agenda focused on IMF/World Bank finalization ✅ VERIFIED
+- White chaired Commission I (Fund), Keynes relegated to Commission II (Bank) ✅ VERIFIED
+- Smaller nations motivated by dollar shortages, not Marshall Plan ✅ CORRECTED
+- Keynes December 1944 letter: "had to sign...before we had had a chance of reading" ✅ VERIFIED (Steil 2013, p. 251)
 
 **D. July 13 Decisive Moment** (lines 55-63)
-- India's Shroff asking about "gold-convertible exchange"
-- Bernstein's vague reply defaulting to dollars
-- British delegate Robertson (not Keynes) proposing dollar language
-- Irony: British Empire fissure, not American pressure, placed dollar at center
+- India's Shroff: "I think it is high time that the USA delegation give us a definition" ✅ VERIFIED (Comprehensive Monetary History Research Report)
+- Bernstein's reply: "easier...to regard the United States dollar as what was intended" ✅ VERIFIED
+- Robertson proposing dollar language ✅ VERIFIED
+- Irony of British/Indian delegates, not Americans, making dollar central ✅ VERIFIED
 
 **E. What "Compromise" Meant** (lines 65-71)
-- Tactical concessions (fund size, scarce currency clause)
-- Concessions cost nothing, preserved core architecture
-- Appearance of negotiation vs. reality of gold-backed power
-- Final line: "American gold reserves had dictated outcomes before first delegate arrived"
+- Fund size $8.5 billion (Keynes wanted $26 billion) ✅ VERIFIED
+- Scarce currency clause ✅ VERIFIED
+- Tactical concessions costing America nothing ✅ ANALYSIS SUPPORTED
 
 **Impact:**
-- Readers see HOW power operates in international negotiations
-- Conference feels real (specific dates, quotes, moments)
-- Human texture shows history being made, not just described
-- Matches richer narrative style of other chapters
-- ~700 words added brings chapter to ~3,860 words (closer to 4,500-5,000 average)
+- Readers see HOW power operates in international negotiations through verified historical moments
+- Conference narrative grounded in primary sources and definitive scholarship
+- Human texture maintained while ensuring scholarly accuracy
+- ~700 words added brings chapter to ~3,860 words
 
-**Sourcing:**
-- All details properly footnoted (⁴⁹ᶜ through ⁴⁹ˡ)
-- Bolton quote, Keynes-White exchange, Shroff-Bernstein dialogue all sourced
-- Maintains scholarly rigor while improving narrative engagement
+**Sourcing - All Chicago 17th Edition:**
+- Footnote 49c: U.S. State Dept proceedings, Horsefield IMF history, Steil (2013)
+- Footnote 49d: Robbins quote (Steil 2013, p. 224)
+- Footnote 49e: Keynes-White "Your Highness" exchange (Steil 2013, p. 165)
+- Footnote 49f: White procedural control, Keynes heart attack (Steil 2013, pp. 212, 224; Skidelsky 2000)
+- Footnote 49g: ICU pre-conference rejection, Joint Statement, smaller nations' motivations (Steil 2013; Federal Reserve History)
+- Footnote 49h: Keynes December 1944 letter on rushed signing (Steil 2013, p. 251)
+
+**Lessons Learned:**
+This verification process demonstrates the importance of rigorous sourcing even for narrative expansions. Initial draft included compelling details from PROMPT-8 template, but research revealed some were apocryphal or conflated. The final version maintains narrative power while ensuring every claim is documentable. This is the standard for scholarly trade nonfiction.
 
 ## Net Word Count Impact
 

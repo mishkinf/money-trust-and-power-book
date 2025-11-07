@@ -34,9 +34,7 @@ White held the leverage. The United States possessed approximately $22 billion o
 
 ### Inside the Conference: Power Disguised as Negotiation
 
-The conference opened July 1 with Secretary of the Treasury Henry Morgenthau's welcoming remarks emphasizing "cooperation" and "mutual benefit." But the real message came when American officials distributed working documents: pre-drafted proposals for the International Monetary Fund already reflecting American positions on voting weights, governance structure, and reserve currency status.⁴⁹ᶜ
-
-British delegate Sir George Bolton later recalled his shock: "We arrived expecting to negotiate. Instead we found ourselves presented with faits accomplis dressed up as 'discussion drafts.'"⁴⁹ᵈ
+On July 1, American officials distributed pre-drafted proposals for the International Monetary Fund already reflecting American positions on voting weights, governance structure, and reserve currency status—documents finalized at the Atlantic City preliminary conference just days earlier.⁴⁹ᶜ British delegates arrived expecting genuine negotiation but found, as Lionel Robbins confided to U.S. Treasury official Fred Vinson, "We know we will be beaten and we hope to avoid being humiliated."⁴⁹ᵈ
 
 **The Keynes-White Dynamic**
 
@@ -44,13 +42,13 @@ While Keynes commanded intellectual attention—delegates still quoted his 1919 
 
 When Keynes protested an American draft in October 1943—"This is intolerable. It is yet another Talmud. We had better simply break off negotiations"—White's reply dripped with condescension: "We will try to produce something which Your Highness can understand."⁴⁹ᵉ
 
-When Keynes proposed significant changes to voting weights, American delegates scheduled discussions for late-night sessions when British participants were exhausted, then called for votes before opposition could organize.⁴⁹ᶠ
+Harry Dexter White exercised strategic control over conference proceedings, stating his intent "to prevent coming to a vote on matters which he doesn't wish to come to a vote on." The rushed final proceedings, combined with Keynes's heart attack on July 19, further weakened the British negotiating position.⁴⁹ᶠ
 
 **The Bancor's Procedural Death**
 
-Keynes's International Clearing Union proposal—the bancor system with symmetric adjustment—never received a formal floor vote. Instead, it died through procedural suffocation: American drafts consistently used "dollar" as placeholder for reserve currency, working groups discussed IMF (White's plan) not ICU (Keynes's plan), and the three-week deadline prevented full consideration of alternatives. Smaller nations, eager for Marshall Plan aid, hesitated to antagonize American hosts.⁴⁹ᵍ
+Keynes's International Clearing Union proposal—the bancor system with symmetric adjustment—had been rejected in preliminary bilateral negotiations before delegates even arrived at Bretton Woods. The April 1944 Joint Statement by Experts already reflected a compromise much closer to White's IMF proposal. The conference agenda focused exclusively on finalizing IMF and World Bank details, with White chairing Commission I (The Fund) and Keynes relegated to Commission II (The Bank). Smaller nations supported the American-dominated agreements, aware of anticipated dollar shortages and hoping for access to American credit and post-war reconstruction assistance.⁴⁹ᵍ
 
-By mid-conference, Keynes recognized the battle was lost. In a private letter to his wife, Lydia Lopokova: "I can influence the footnotes but not the text."⁴⁹ʰ
+By conference end, Keynes recognized defeat was complete. In December 1944, he explained to the Foreign Office that delegates "had to sign, of course, before we had had a chance of reading through a clean and consecutive copy of the document. All we had seen of it was the dotted line."⁴⁹ʰ
 
 **July 13: The Decisive Moment**
 
@@ -303,6 +301,19 @@ The next chapter examines how the compromise unraveled—how mathematical imposs
 45. White, H. D. (1943). "Preliminary Draft Proposal for a United Nations Stabilization Fund." U.S. Treasury Department.
 46. Various conference proceedings and transcripts from Bretton Woods, July 1944.
 47-49. [Detailed references for conference dynamics, gold holdings, negotiating positions]
+
+**Chapter 11 Inside the Conference Section (Lines 35-72):**
+49c. U.S. Department of State. *Proceedings and Documents of the United Nations Monetary and Financial Conference, Bretton Woods, New Hampshire, July 1-22, 1944*. Vol. 1. Washington, DC: U.S. Government Printing Office, 1948. Document 32, "Preliminary Draft of Suggested Articles of Agreement for the Establishment of an International Monetary Fund," July 1, 1944. Federal Reserve Archival System for Economic Research, https://fraser.stlouisfed.org/title/proceedings-documents-united-nations-monetary-financial-conference-bretton-woods-new-hampshire-july-1-22-1944-430/volume-i-7570/fulltext; Horsefield, J. Keith. *The International Monetary Fund 1945-1965: Twenty Years of International Monetary Cooperation*. Vol. 1, *Chronicle*. Washington, DC: International Monetary Fund, 1969. Chapter 4, "Atlantic City (June 1944)"; Steil (2013), 202-15.
+
+49d. Lionel Robbins, member of the British delegation, reportedly told U.S. Treasury official Fred Vinson during the Bretton Woods Conference, "We know we will be beaten and we hope to avoid being humiliated." Steil (2013), 224.
+
+49e. Keynes-White exchange, October 1943. Keynes: "This [American draft] is intolerable. It is yet another Talmud. We had better simply break off negotiations." White: "We will try to produce something which Your Highness can understand." Steil (2013), 165.
+
+49f. Harry Dexter White exercised strategic control over conference proceedings, telling Treasury Secretary Henry Morgenthau Jr. that as chairman he aimed "to prevent coming to a vote on matters which he doesn't wish to come to a vote on, and in general arranging the discussion in such a way that we are never caught with an agreement among the Commission on something we don't want." Keynes's heart attack on July 19, 1944, further weakened the British negotiating position. Steil (2013), 212, 224; Skidelsky (2000).
+
+49g. Keynes's International Clearing Union proposal was effectively rejected before the Bretton Woods Conference convened. The April 21, 1944 "Joint Statement by Experts on the Establishment of an International Monetary Fund" already reflected a compromise much closer to Harry Dexter White's IMF proposal. The May 25, 1944 U.S. invitation specified the conference was "for the purpose of formulating definite proposals for an International Monetary Fund," with no mention of the ICU. Smaller nations supported the American-dominated agreements primarily due to anticipated dollar shortages and the need for access to American credit and post-war reconstruction assistance. Steil (2013); Federal Reserve History, "Creation of the Bretton Woods System," accessed November 7, 2025, https://www.federalreservehistory.org/essays/bretton-woods-created.
+
+49h. Reflecting on the rushed final proceedings, Keynes wrote to the Foreign Office in December 1944: "We, all of us [delegates], had to sign, of course, before we had had a chance of reading through a clean and consecutive copy of the [Bretton Woods Articles of Agreement] document. All we had seen of it was the dotted line." Steil (2013), 251.
 50. James, H. (1996). *International Monetary Cooperation Since Bretton Woods.* Oxford University Press.
 51. Eichengreen, B. (1996). *Globalizing Capital: A History of the International Monetary System.* Princeton University Press.
 52. Bordo, M. D., & Eichengreen, B. (Eds.). (1993). *A Retrospective on the Bretton Woods System.* University of Chicago Press.
