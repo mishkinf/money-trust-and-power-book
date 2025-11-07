@@ -176,6 +176,16 @@ Woodforde's experience from 1797 until his death in 1803 demonstrates the princi
 
 ### The seductive fallacy: Real Bills and its consequences
 
+**Why Smart People Believed a Fallacy for 150 Years**
+
+Imagine a rule that sounds perfectly reasonable: "Movie theaters should print exactly as many tickets as they have seats—no more, no less." This prevents empty theaters (too few tickets) and overcrowding (too many tickets). Self-regulating! Automatic!
+
+But here's the fatal flaw: What if ticket prices double because of high demand? Now each seat is "worth" twice as much in dollar terms. Do you print twice as many tickets because the total dollar value doubled? Of course not—you still only have the same number of seats!
+
+The Real Bills Doctrine made exactly this error with money and goods. It sounded logical. Smart economists believed it for over a century. And it helped cause the Great Depression.
+
+Here's how it worked—and why it failed catastrophically.
+
 The **Real Bills Doctrine** deserves attention not as an obscure historical curiosity but because this seemingly logical theory would contribute directly to the Great Depression. Understanding why intelligent people believed it—and why it was catastrophically wrong—helps explain how monetary policy disasters happen.
 
 The doctrine was perhaps the most dangerous economic fallacy in history, surviving for 150 years despite repeated refutations.
@@ -183,10 +193,6 @@ The doctrine was perhaps the most dangerous economic fallacy in history, survivi
 The doctrine originated with Adam Smith's *Wealth of Nations* (1776): banks should lend only against legitimate commercial bills backed by goods in production. Smith argued the money supply would automatically adjust to the "needs of trade" and could never cause inflation—like a self-regulating pond where outflows equaled inflows.²²
 
 The logic seemed airtight. A merchant borrows to buy inventory. When goods sell, the loan is repaid. Money creation tied to real production, with automatic limitation. What could go wrong?
-
-**The Real Bills Doctrine sounds sensible: banks should only lend against real goods in production, so money supply automatically matches "needs of trade."** It's like saying movie theaters should print exactly as many tickets as there are seats—no more, no less—so you can't have empty theaters or overcrowding.
-
-**But here's the fatal flaw:** Imagine ticket prices double because of high demand. Now the "value" of those same seats has doubled, so the theater prints twice as many tickets (because each represents a more valuable seat). But they haven't added any seats! The Real Bills Doctrine makes the same error: when prices rise, the nominal value of "real bills" rises proportionally, justifying more money creation, which pushes prices higher, which justifies more bills... The supposed automatic limit provides no limit at all.
 
 **Everything** went wrong, as Thornton demonstrated in 1802. The fatal flaw: real bills are **nominal** instruments. A bill for $1,000 of wheat at $10 per bushel represents 100 bushels. If prices double, the same 100 bushels generate a bill for $2,000. The "real bills" backing expands with the price level—providing **no constraint** on monetary expansion. It creates a positive feedback loop: more money → higher prices → larger nominal value of bills → more money creation. The doctrine promised automatic limitation but delivered unlimited expansion.²³
 

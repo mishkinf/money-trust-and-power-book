@@ -65,6 +65,16 @@ This seems impossible. How can you create purchasing power from nothing? The ans
 
 ### How Money Multiplication Works
 
+**Understanding Bank Balance Sheets: The Simplest Version**
+
+Before diving into how the Bank of England created money, you need to understand one accounting concept that seems complicated but is actually simple: balance sheets.
+
+Think of your personal finances. On one side, you have things you own (car, savings account, your friend's IOU for $20). On the other side, you have things you owe (credit card bill, student loan). These two sides must always balance—if you own $10,000 in stuff and owe $3,000 in debts, your net worth is $7,000.
+
+Banks work the same way, but with one twist: when a bank makes a loan, it creates BOTH sides simultaneously. The loan is something the bank owns (you owe them). The deposit or note they give you is something the bank owes (they promise to pay you). Both sides go up together, keeping the balance.
+
+That's the "magic" of money creation: it's not magic at all—it's accounting. Now let's see how this worked for the Bank of England in 1694.
+
 Understanding how the Bank created money explains why government spending doesn't work like household budgets. Think of the Bank's ledger having two columns: assets (what others owe the Bank) and liabilities (what the Bank owes others). When these balance, the system works.
 
 **Double-entry accounting works like a seesaw that must always balance.** When the Bank lends £1.2 million to the government (left side goes up: assets increase), the Bank simultaneously creates £1.2 million in notes (right side goes up: liabilities increase). Both sides rise together—the seesaw stays level. This is why the Bank can create money "out of nothing"—it's not creating something from nothing, but rather creating a matched pair: an asset (loan to government) and a liability (notes promised to holders). The magic isn't defying physics; it's using accounting.
