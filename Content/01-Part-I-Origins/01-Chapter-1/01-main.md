@@ -46,15 +46,15 @@ In Year 21 of King Rīm-Sîn I of Larsa—approximately 1801 BCE—Amat-Sîn and
 
 The scribe prepared a clay tablet, pressing wedge-shaped marks into the damp surface with his reed stylus. The loan: **2 gur 22 sila of barley**—about 622 liters, roughly 465 kilograms. Enough to feed a family through the lean months and provide seed for planting. The tablet specified that this was "property of Gula" (NIĜ2.GA dGU.LA), meaning the goddess herself was the creditor. Repayment would be due in Month III—Simanu, corresponding to April-May—when the barley harvest came in.
 
-The scribe did not need to state the interest rate. Everyone knew: **33.33 percent annually**, the standard rate for barley loans codified in the laws. If they repaid after the harvest, the debt would be 2 gur 296 sila—about 829 liters total. The contract included a joint liability clause: both women were responsible for the entire debt. If one could not pay, the other must. Three witnesses watched the transaction, including one named Apil-Enlil, and pressed their seals into the clay as authentication. The tablet was set aside to dry in the sun, then placed in the temple archive alongside thousands of others.
+The scribe did not need to state the interest rate. Everyone knew it: **33.33 percent annually**, the standard rate for barley loans that the laws codified. If they repaid after the harvest, the debt would be 2 gur 296 sila—about 829 liters total. The contract included a joint liability clause: both women were responsible for the entire debt. If one could not pay, the other must. Three witnesses watched the transaction, including one named Apil-Enlil, and pressed their seals into the clay as authentication. The scribe set the tablet aside to dry in the sun, then placed it in the temple archive alongside thousands of others.
 
 Amat-Sîn and Šāt-Sîn walked home with the barley. They had what they needed to survive until harvest. But the debt was real, recorded in clay, and it would be collected.
 
-What happened next, the tablet does not say. Separate receipts would have documented repayment, but these are rarely preserved. If the harvest was good, they would deliver the barley to the temple in Simanu, and the obligation would be discharged. The tablet would remain in the archive as a closed account, a memory of a transaction completed.
+What happened next, the tablet does not say. Separate receipts would have documented repayment, but scribes rarely preserved these. If the harvest was good, they would deliver the barley to the temple in Simanu, and the obligation would be discharged. The tablet would remain in the archive as a closed account, memorializing the completed transaction.
 
-But if the harvest failed? If drought or flood or locusts destroyed the crop? Then the debt would extend, with additional interest accumulating. The temple might accept partial payment and carry the balance forward. Or they might demand payment in another form: land, livestock, or labor. Debt servitude was not uncommon—family members working in the temple fields until the obligation was satisfied. The system had mechanisms for this. It needed to. Agricultural debt was the foundation of the economy, and the temple needed farmers to keep farming.
+But if the harvest failed? If drought or flood or locusts destroyed the crop? Then the debt would extend, with additional interest accumulating. The temple might accept partial payment and carry the balance forward. Or they might demand payment in another form: land, livestock, or labor. Debt servitude was common—family members working in the temple fields until they satisfied the obligation. The system had mechanisms for this. It needed to. Agricultural debt was the foundation of the economy, and the temple needed farmers to keep farming.
 
-There was another possibility. If debts accumulated across the kingdom, if too many farmers faced insolvency, if social stability was threatened, the king might proclaim *andurarum*—a debt cancellation edict, a "clean slate" that wiped away agricultural debts and allowed the system to reset. This had happened before in Larsa. It would happen again. But no such edict is recorded for Year 21 of Rīm-Sîn I. For Amat-Sîn and Šāt-Sîn, the debt stood.
+There was another possibility. If debts accumulated across the kingdom, if too many farmers faced insolvency, if social stability was threatened, the king might proclaim *andurarum*—a debt cancellation edict, a "clean slate" that wiped away agricultural debts and allowed the system to reset. This had happened before in Larsa. It would happen again. But scribes recorded no such edict for Year 21 of Rīm-Sîn I. For Amat-Sîn and Šāt-Sîn, the debt stood.
 
 What this transaction reveals, 3,800 years later, is how **obligations created value** in the ancient world. The barley itself was just grain—it could be eaten, planted, or left to rot. But the tablet transformed it into something more: a unit of account, a medium of obligation, a tool of economic coordination. The temple's power to record debts, to demand repayment, to mobilize labor when grain fell short—this was what made the system work.
 
@@ -62,7 +62,7 @@ Money, in its earliest form, was not a thing but a **relationship of power**, re
 
 And it worked for women as well as men. Amat-Sîn and Šāt-Sîn could borrow, contract, and bear legal obligations independently. Economic agency extended beyond male household heads in Old Babylonian society. The debt was theirs, jointly and severally. The obligation was real.
 
-The tablet survives today as Kress 83, catalog number P370944 in the Cuneiform Digital Library Initiative, preserved in a private collection in Bochum, Germany. Purchased from the antiquities market, its exact findspot within Larsa is unknown. But the linguistic and prosopographic features confirm its origin. The reverse is partially damaged, leaving some witness names incomplete. Yet enough remains to reconstruct the transaction in detail—the names, the amount, the date, the terms, the witnesses, the seals.
+The tablet survives today as Kress 83, catalog number P370944 in the Cuneiform Digital Library Initiative, preserved in a private collection in Bochum, Germany. The market origins make its exact findspot within Larsa unknown. But the linguistic and prosopographic features confirm its origin. Partial damage to the reverse leaves some witness names incomplete. Yet enough remains to reconstruct the transaction in detail—the names, the amount, the date, the terms, the witnesses, the seals.
 
 For Amat-Sîn and Šāt-Sîn, the tablet was an obligation that shaped their lives for months, perhaps years. For us, it is a window into the origins of money—not as metal or commodity, but as credit, recorded by institutions powerful enough to enforce their claims.³ᵃ
 
@@ -98,7 +98,7 @@ The history of money reveals gold as a brief anomaly, not the natural foundation
 PERIOD          | SYSTEM                           | TYPE         | BACKING
 ----------------|----------------------------------|--------------|------------------
 3000 BCE - 600 BCE | Mesopotamian Temple Credits   | Credit Money | Taxation/Temple Authority
-1100 BCE - 1826 CE | English Tally Sticks          | Credit Money | Taxation Authority
+1100 CE - 1826 CE  | English Tally Sticks          | Credit Money | Taxation Authority
 960 CE - 1279 CE   | Chinese Jiaozi (paper notes)  | Credit Money | Government Authority
 1694 CE - 1717 CE  | Bank of England (early)       | Hybrid       | Parliamentary Taxation + Gold
 1717 CE - 1797 CE  | Accidental Gold Standard      | Gold Era     | Gold (de facto)
@@ -212,7 +212,7 @@ The remainder of this book traces how this principle operated across five millen
 
 ### From temple to marketplace
 
-As trade expanded across political boundaries, trust in any single ruler's IOU waned. A Mesopotamian merchant sending tin to Anatolia or a Greek trader buying grain in Egypt needed a medium others would accept without knowing him. Gold and silver—rare, durable, divisible—fit that role. They were *neutral collateral*, a kind of universal passport of value. Coins, first struck in Lydia around 600 BCE, stamped that neutrality with royal authority: the image of a lion or king guaranteed weight and purity. Metal money thus emerged not to replace credit but to bridge **zones of unfamiliarity**—the space between temples, cities, and empires.⁷
+As trade expanded across political boundaries, trust in any single ruler's IOU waned. A Mesopotamian merchant sending tin to Anatolia or a Greek trader buying grain in Egypt needed a medium others would accept without knowing him. Gold and silver—rare, durable, divisible—fit that role. They were *neutral collateral*, a kind of universal passport of value. Lydian mints first struck coins around 600 BCE, stamping that neutrality with royal authority: the image of a lion or king guaranteed weight and purity. Metal money thus emerged not to replace credit but to bridge **zones of unfamiliarity**—the space between temples, cities, and empires.⁷
 
 Within each realm, however, credit persisted. Greek city-states maintained public ledgers; Rome's *aerarium* kept accounts of taxes and expenditures; local bankers issued transfer orders recorded on wax tablets. The coexistence of credit and coin became a permanent feature of monetary life.
 
@@ -247,32 +247,3 @@ The birth of credit in the temples of Mesopotamia was therefore not a primitive 
 The temples of Uruk didn't need scarce commodities to create functioning money—they needed institutional credibility and taxation authority. As we will see in Chapter 5, this principle would remain constant for the next five thousand years.
 
 The next chapter examines how medieval merchants extended credit across borders through bills of exchange and double-entry bookkeeping—and how these private networks' limits would ultimately drive the creation of central banks.
-
----
-
-### **Chapter Summary**
-
-Money began not as commodity but as credit—recorded obligations managed by central institutions. From Mesopotamian temple ledgers to Chinese paper notes to English tally sticks, societies created money through accounting systems backed by taxation authority. Credit preceded coin by millennia. The medium mattered less than the institutional capacity to impose and enforce obligations. This pattern—credit instruments circulating domestically based on tax authority—worked within sovereign borders but failed across them, setting up the fiscal crisis that would drive the creation of central banks.
-
----
-
-### **Sources & Further Reading**
-
-1. Hudson, M. (1993). *The Lost Tradition of Biblical Debt Cancellations.* Economy and Society. [https://michael-hudson.com](https://michael-hudson.com)
-2. Graeber, D. (2011). *Debt: The First 5000 Years.* Brooklyn: Melville House.
-3. Innes, A. M. (1913). *What is Money?* *Banking Law Journal,* 30(5).
-3a. Cuneiform Digital Library Initiative. Tablet P370944 (Kress 83). Old Babylonian loan contract, Year 21 of Rīm-Sîn I. [https://cdli.mpiwg-berlin.mpg.de/](https://cdli.mpiwg-berlin.mpg.de/)
-4. Finley, M. I. (1973). *The Ancient Economy.* University of California Press.
-4a. Sharlach, T. (2004). *Provincial Taxation and the Ur III State.* Leiden: Styx/Brill. Also: Van De Mieroop, M. (2007). *A History of the Ancient Near East, ca 3000-323 B.C.* 2nd ed. Massachusetts: Blackwell Publishing. [Ur III Bala taxation system documentation with 10,000+ tablets from Puzrish-Dagan]
-5. Kohn, M. (1999). *Medieval and Early Modern Coinage and Its Problems.* [https://gwern.net/doc/economics/1999-kohn.pdf](https://gwern.net/doc/economics/1999-kohn.pdf)
-6. Palma, N. (2016). "Money and Modernization in Early Modern England." EHES Working Paper 147. [https://ehes.org/wp/EHES_147.pdf](https://ehes.org/wp/EHES_147.pdf)
-6a-d. Mises, L. von. (1912). *The Theory of Money and Credit.* [Regression Theorem]; Menger, C. (1892). "On the Origins of Money." *Economic Journal* 2; Schmandt-Besserat, D. (1992). *Before Writing.* University of Texas Press. [Clay tokens and commodity accounting]
-6e. Palley, T. I. (2018). "The Evolution of Money Debate: Functionalism versus Chartalism, Schumpeterian Dynamics, Gresham's Fallacy, and How History Constrains Public Finance." FMM Working Paper No. 34. Hans-Böckler-Stiftung. [https://d-nb.info/1169877796/34](https://d-nb.info/1169877796/34)
-6f. Semenova, A. (2014). "Carl Menger's Theory of Money's Origins: Responding to Revisionism." *The European Journal of the History of Economic Thought* 21(1): 16-44. [https://doi.org/10.1080/09672567.2012.683017](https://doi.org/10.1080/09672567.2012.683017)
-6g. Davis, A. M., ed. (1964). *Colonial Currency Reprints, 1682-1751.* 4 vols. New York: Augustus M. Kelley. [Massachusetts 1690-1691 first paper money]; Rabushka, A. E. "The Colonial Roots of American Taxation, 1607-1700." Hoover Institution. [5% tax premium to establish confidence]; Humpage, O. F. (2015). "Paper Money and Inflation in Colonial America." Federal Reserve Bank of Cleveland *Economic Commentary*, May 13. [Burning of retired bills]
-6h. Hening, W. W., ed. (1820). *The Statutes at Large: Being a Collection of all the Laws of Virginia.* Vol. 7. Richmond. [Virginia 1760 Act]; Grubb, F. (2016). "Is Paper Money Just Paper Money?" *Research in Economic History* 32: 147-224. [Comprehensive colonial currency analysis]
-7. Clapham, J. (1945). *The Bank of England: A History.* Cambridge University Press.
-8. O'Brien, P. & Palma, N. (2023). *The Financial Revolution in England.* Cambridge University Press.
-9. Bank of England Museum. (2024). *Early Banknotes Collection.* [https://www.bankofengland.co.uk/museum/online-collections](https://www.bankofengland.co.uk/museum/online-collections); "A History Lost – The English Tally." The Gower Initiative for Modern Money Studies, March 8, 2019. [https://gimms.org.uk/2019/03/08/history-english-tally/](https://gimms.org.uk/2019/03/08/history-english-tally/) ["Anticipated tax revenues" quote and spend-first mechanism]; Jenkinson, H. (1911). "Exchequer Tallies." *Archaeologia* 62(2): 367-380. [Primary analysis of tally stick system]
-9a. Shenton, C. (2012). *The Day Parliament Burned Down.* Oxford: Oxford University Press. [1834 tally stick fire]; Dickens, C. (1855). "Administrative Reform." Speech at Theatre Royal, Drury Lane, June 27. [Contemporary account of burning ceremony]
-10. Parliament of Great Britain (1717). *Mintage Proclamation on the Value of Gold Coin.* UK National Archives. [https://www.nationalarchives.gov.uk](https://www.nationalarchives.gov.uk)

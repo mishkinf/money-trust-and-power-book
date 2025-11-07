@@ -98,6 +98,9 @@ Official price at which mint exchanges gold for silver (or vice versa). Isaac Ne
 ### **Open Market Operations**
 Central bank buying/selling of government securities to influence money supply and interest rates. Primary tool of modern monetary policy under fiat currency regime.
 
+### **Output Gap**
+Difference between economy's actual GDP and potential GDP at full capacity. Central to understanding when money creation causes inflation. When output gap is negative (recession, unemployment, idle factories), money creation mobilizes unused resources without inflation—as occurred during 2008 crisis when Fed created $3.6 trillion with minimal price increases. When output gap is positive (economy at/above capacity), additional money creation bids up prices for scarce goods, causing inflation. Explains why WWII federal spending rose from 10% to 44% of GDP without uncontrollable inflation (14% unemployment in 1940 meant vast unused capacity) while 2021-2022 expansion contributed to inflation (supply chains constrained, less slack). The constraint on government spending is productive capacity and inflation, not nominal budget balance.
+
 ### **Parliamentary Sovereignty**
 Principle that Parliament is supreme lawmaking authority. In British context, established by Glorious Revolution; crucial for credible public debt because lenders knew Parliament controlled taxation.
 
@@ -128,6 +131,9 @@ Economic framework synthesizing chartalist tradition (Knapp, Mitchell-Innes, Key
 ### **Monetary Sovereignty**
 Condition where government issues its own currency, sets tax obligations in that currency, and faces no external convertibility requirement. Sovereign issuers (U.S., Japan, UK) face different constraints than currency users or countries with foreign-currency debt. Central to MMT framework.
 
+### **Nixon Shock**
+President Richard Nixon's August 15, 1971 announcement suspending dollar convertibility to gold, ending Bretton Woods system. Presented as "temporary" measure but became permanent. Triggered by Britain's August 11 request to convert $3 billion in reserves—Paul Volcker recalled "the game was indeed over." U.S. gold reserves had fallen to $10 billion while foreign dollar liabilities reached $80 billion (12.5% backing). Marked final break from gold standard and beginning of pure fiat era. Dollar initially fell 10% but ultimately strengthened as reserve currency under floating rates.
+
 ### **Money Multiplier**
 Discredited theory that banks "multiply" central bank reserves through sequential lending. Taught in textbooks for decades despite being empirically false. Bank of England (2014) confirmed banks create deposits directly when lending, not by multiplying reserves. Reserves supplied by central bank to accommodate lending, not constrain it.
 
@@ -142,6 +148,9 @@ Financial institutions and instruments creating money-like liabilities outside t
 
 ### **Triffin Dilemma**
 Contradiction in reserve currency system identified by Robert Triffin (1959): reserve currency country must run deficits to supply global liquidity, but those deficits eventually undermine confidence in currency. Predicted Bretton Woods collapse; U.S. dollar liabilities exceeded gold reserves by 1960s, leading to Nixon's 1971 decision.
+
+### **Two-Tier Gold Market**
+System created March 1968 after London Gold Pool collapse. Official tier: central banks traded gold among themselves at $35/ounce, agreed not to supply private markets from official stocks. Private tier: market forces determined price (opened April 1 at $38/ounce, reached $42.60 by May). Tacit admission that Bretton Woods' $35 price was unsustainable. Central banks' commitment not to intervene in private market meant official price became increasingly fictional. System limped along until Nixon closed gold window August 1971, ending pretense of convertibility.
 
 ### **Unit of Account**
 Function of money as standard measure of value. Can exist independently of physical medium; ancient societies measured value in silver shekels by weight long before coinage.
@@ -197,8 +206,14 @@ Principle that overvalued money drives undervalued money out of circulation. Whe
 ### **In Kind**
 Payment with goods or services rather than money. Medieval peasants paid taxes in kind (grain, wool, labor). Demonstrates money's function as unit of account can exist independently of physical currency.
 
+### **Impossible Trinity (Trilemma)**
+Fundamental constraint in international finance: a country can have any TWO of the following, but not all THREE: (1) Fixed exchange rate, (2) Independent monetary policy, (3) Free capital flows. Britain's 1967 devaluation crisis demonstrated this brutally—even with capital controls, the UK couldn't maintain both fixed sterling rate and domestic policy autonomy when speculators attacked. Also called the "trilemma" or Mundell-Fleming framework. Explains why Bretton Woods collapsed (countries chose policy flexibility over fixed rates) and why eurozone design created structural problems (gave up monetary independence for currency union).
+
 ### **Liquidity**
 Readily available money or assets quickly convertible to cash. Central banks act as lender of last resort, providing emergency liquidity during crises to prevent bank runs from becoming systemic failures.
+
+### **London Gold Pool**
+Arrangement among eight central banks (1961-1968) to defend gold's $35/ounce official price by coordinating sales. U.S. contributed 50% ($135 million initially), seven European central banks split remainder. Bank of England executed all transactions in London market. Accumulated $1.4 billion surplus 1962-1965, then suffered $3.7 billion deficit 1965-1968 as speculators tested the system. France withdrew June 1967; Pool lost nearly $3 billion November 1967-March 1968. Disbanded March 1968 after hemorrhaging reserves, replaced by two-tier gold market. Collapse foreshadowed Bretton Woods' end three years later.
 
 ### **Metallist School**
 Economists believing money must originate from commodity value. Mises's Regression Theorem presents logical argument that credit money impossible without prior commodity money. Contradicts chartalist view that state authority creates money through taxation.

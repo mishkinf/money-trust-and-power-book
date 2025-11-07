@@ -3,7 +3,7 @@
 > Money has always been more than a medium of exchange.  
 > It is a mirror of power, law, and collective belief.
 
-In 1797, the Bank of England suspended gold convertibility—the ability to exchange paper money for a fixed amount of gold—to finance a war. The suspension was supposed to last six weeks. It lasted twenty-four years. During that time, Britain fought and won the Napoleonic Wars, proving that paper money could function without metal backing—if the institutions behind it were credible enough.
+In 1797, the Bank of England suspended gold convertibility—the ability to exchange paper money for a fixed amount of gold—to finance a war. Officials expected the suspension to last six weeks [VERIFY - check Bank Restriction Act for original duration expectation]. It lasted twenty-four years. During that time, Britain fought and won the Napoleonic Wars, proving that paper money could function without metal backing—if the institutions behind it were credible enough.
 
 In 1971, President Nixon closed the gold window—the system where foreign governments could exchange dollars for gold at a fixed rate—ending the last link between major currencies and precious metal. Critics predicted disaster. Instead, the world economy grew faster over the next fifty years than it had under the gold standard. The age of pure fiat—money backed by government decree rather than commodity value—had begun.
 
@@ -25,7 +25,7 @@ Tax obligations create baseline currency demand—the mechanism linking Mesopota
 
 Adam Smith understood this. In *The Wealth of Nations* (1776), he wrote explicitly that "a prince, who should enact that a certain proportion of his taxes should be paid in a paper money of a certain kind, might thereby give a certain value to this paper money." The insight was not controversial in 1776. It was common knowledge.
 
-Yet within fifty years, it had become nearly unthinkable in respectable economics. The gold standard's century of success (1821-1914) buried this truth so thoroughly that even its collapse in the 20th century did not fully resurrect it. Today, politicians still claim "we're out of money" and "must raise taxes to afford programs"—as if governments must find money before they can spend, when the historical record shows governments create money by spending and use taxation to create demand for what they've created.
+Yet within fifty years, respectable economics found this truth nearly unthinkable. The gold standard's century of success (1821-1914) buried this truth so thoroughly that even its collapse in the 20th century did not fully resurrect it. Today, politicians still claim "we're out of money" and "must raise taxes to afford programs"—as if governments must find money before they can spend, when the historical record shows governments create money by spending and use taxation to create demand for what they've created.
 
 **This inversion—this systematic forgetting of how money actually works—is not an accident.** It served powerful interests and was deliberately constructed through intellectual and political campaigns. Understanding this history is essential for understanding contemporary debates about government spending, inflation, fiscal sustainability, and the proper role of the state in economic management.
 
@@ -35,9 +35,11 @@ Yet within fifty years, it had become nearly unthinkable in respectable economic
 
 This book reveals how money works by tracing 5,000 years of history. But it also reveals something else: **monetary systems are never neutral**. They distribute wealth, power, and opportunity in systematic ways that advantage some groups while disadvantaging others.
 
-From Mesopotamian debt jubilees to medieval land concentration to modern housing unaffordability, the same pattern repeats: unchecked wealth accumulation destabilizes societies by converting productive assets into rent-extraction mechanisms. When new money flows primarily to asset owners through quantitative easing and bank lending, it inflates asset prices—housing, stocks, land—rather than wages, systematically advantaging those who already own over those who work. When creditors benefit from deflation while workers suffer unemployment, when homeownership becomes unattainable while rent extraction increases, these are not natural outcomes but design choices embedded in monetary architecture.
+From Mesopotamian debt jubilees to medieval land concentration to modern housing unaffordability, the same pattern repeats: unchecked wealth accumulation destabilizes societies by converting productive assets into rent-extraction mechanisms.
 
-These aren't ideological claims but empirical observations documented across millennia. The gold standard's deflation in 1821 destroyed farmers who borrowed during inflation, enriching creditors whose bonds appreciated in value. Churchill's 1925 return to gold cut miners' wages to maintain bankers' exchange rate. The 2008 quantitative easing rescued financial institutions while homeowners lost houses. The pattern is consistent: monetary orthodoxy, when it serves creditor interests over productive workers, gets presented as economic necessity rather than political choice.
+When new money flows primarily to asset owners through quantitative easing—central bank purchases of government bonds and other assets to inject money into the economy—it inflates asset prices like housing, stocks, and land rather than wages. This systematically advantages those who already own assets over those who work for wages. When creditors benefit from deflation while workers suffer unemployment, when homeownership becomes unattainable while rent extraction increases, these are not natural outcomes but design choices embedded in monetary architecture.
+
+These aren't ideological claims but empirical observations documented across millennia. The gold standard's deflation in 1821 destroyed farmers who borrowed during inflation, enriching creditors whose bonds appreciated in value. Churchill's 1925 return to gold cut miners' wages to maintain bankers' exchange rate. The 2008 quantitative easing rescued financial institutions while homeowners lost houses. The pattern is consistent: when monetary orthodoxy serves creditor interests over productive workers, elites present it as economic necessity rather than political choice.
 
 Understanding how money works means understanding whose interests prevail—and recognizing that technical monetary choices are fundamentally political decisions about resource distribution. When central banks claim to be "out of ammunition" or politicians insist "we can't afford" social programs while creating trillions for bank bailouts, they are making political choices about distribution and calling them technical constraints. The history reveals these claims as rhetoric, not reality.
 
@@ -71,7 +73,7 @@ The "taxes fund spending" story is backwards. It emerged not from evidence but f
 
 ## The Journey Ahead
 
-This book traces this history across four parts. Part I (Chapters 1-3) shows how credit systems operated for millennia before widespread commodity money. Part II (Chapters 4-5) reveals how the Bank of England solved the credibility problem through institutional innovation. Part III (Chapters 6-8) examines the gold standard era and how it buried earlier understandings of money. Part IV (Chapters 9-11) chronicles gold's breaking (1914-1971) and the fiat era that followed (1971-present).
+This book traces this history across four parts. Part I (Chapters 1-3) shows how credit systems operated for millennia before widespread commodity money. Part II (Chapters 4-5) reveals how the Bank of England solved the credibility problem through institutional innovation. Part III (Chapters 6-8) examines the gold standard era and how it buried earlier understandings of money. Part IV (Chapters 9-13) chronicles gold's breaking (1914-1971) and the fiat era that followed (1971-present).
 
 Each chapter reveals the same pattern: money works when institutions are credible, and institutions earn credibility through demonstrated competence, not through commodity backing. From temple ledgers to digital currencies, the fundamental challenge remains constant: maintaining trust in a social technology that has no intrinsic value but enables all economic cooperation.
 
@@ -86,16 +88,3 @@ The age of pure fiat is not the end of monetary history but its logical culminat
 *A note on sources*: This book draws on archaeological evidence, historical documents, economic analysis, and contemporary research. Where scholarly debates exist, I have tried to present multiple perspectives while distinguishing well-established facts from contested interpretations. The endnotes provide detailed citations for readers who wish to explore further.
 
 *A note on method*: This narrative synthesizes insights from economic history, anthropology, political science, and institutional economics. I have prioritized primary sources—parliamentary records, central bank archives, contemporary accounts—supplemented by modern scholarship. Where I use composite examples or representative cases to illustrate broader patterns, I have noted this explicitly. The human vignettes in Chapters 3, 7, and 8 are based on documented historical cases with proper citations. My aim is to make complex monetary history accessible without sacrificing accuracy, and to show how abstract economic concepts played out in real human lives.
-
----
-
-### **Sources for Preface**
-
-**Money and Power - Distributional Consequences:**
-1. Piketty, Thomas. (2014). *Capital in the Twenty-First Century.* Harvard University Press. [Wealth concentration and monetary policy effects]
-2. Stiglitz, Joseph E. (2012). *The Price of Inequality: How Today's Divided Society Endangers Our Future.* W. W. Norton.
-3. Hudson, Michael. (2015). *Killing the Host: How Financial Parasites and Debt Bondage Destroy the Global Economy.* CounterPunch Books. [Money, power, and distributional effects]
-4. Saez, Emmanuel, & Zucman, Gabriel. (2016). "Wealth Inequality in the United States since 1913." *Quarterly Journal of Economics,* 131(2), 519-578. [Asset price inflation vs wage stagnation]
-5. Eichengreen, Barry. (1992). *Golden Fetters: The Gold Standard and the Great Depression, 1919-1939.* Oxford University Press. [Churchill's gold return as wage cuts]
-6. Board of Governors of the Federal Reserve System. (Various years). *Survey of Consumer Finances.* [Asset ownership and QE effects]
-7. Domanski, D., Scatigna, M., & Zabai, A. (2016). "Wealth Inequality and Monetary Policy." BIS Quarterly Review, March 2016.
