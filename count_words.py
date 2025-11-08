@@ -1,13 +1,21 @@
 #!/usr/bin/env python3
 """
-Count words in the book manuscript, excluding Sources sections.
+Count words in the book manuscript, excluding non-prose elements:
+- Sources sections
+- Chapter Premise statements (editorial metadata)
+- Part titles (e.g., "PART I: THE ORIGINS OF CREDIT MONEY")
+- Visual aids (ASCII charts, diagrams in code blocks)
+- Guide posts (blockquoted Understanding Check sections)
+- Data tables and metadata sections
+- Organizational headers (ALL CAPS section markers)
+- Footnote markers (¹, ², ³, superscript letters)
 """
 
 import re
 from pathlib import Path
 
 def count_words_excluding_sources(file_path):
-    """Count words in a markdown file, excluding everything after '## Sources' or '# Sources'."""
+    """Count words in a markdown file, excluding non-prose elements like visual aids, guide posts, and metadata."""
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
@@ -20,19 +28,52 @@ def count_words_excluding_sources(file_path):
             # Only count words before the Sources section
             content = content[:sources_match.start()]
         
-        # Remove markdown formatting for accurate word count
-        # Remove code blocks
+        # Remove Chapter Premise sections (editorial metadata, not narrative)
+        content = re.sub(r'^\*{0,2}Chapter Premise:\*{0,2}.*?(?=\n\n|\n---|\Z)', '', content, flags=re.MULTILINE | re.DOTALL | re.IGNORECASE)
+        
+        # Remove Part titles (e.g., "# PART I: THE ORIGINS OF CREDIT MONEY")
+        content = re.sub(r'^#\s+PART\s+[IVX]+:.*?$', '', content, flags=re.MULTILINE | re.IGNORECASE)
+        
+        # Remove organizational section headers (ALL CAPS headers like "FAILED FIAT SYSTEMS:")
+        content = re.sub(r'^\*{0,2}[A-Z][A-Z\s]+[A-Z]:\*{0,2}\s*$', '', content, flags=re.MULTILINE)
+        
+        # Remove visual aids and guide posts (blockquoted sections)
+        # These are marked with > at the start of lines
+        content = re.sub(r'^>.*?(?=\n[^>]|\n*$)', '', content, flags=re.MULTILINE | re.DOTALL)
+        
+        # Remove code blocks (includes ASCII charts and data tables)
         content = re.sub(r'```.*?```', '', content, flags=re.DOTALL)
+        
+        # Remove metadata sections (lines starting with common metadata markers)
+        # Matches: *Source:, *Data Citations:, **Figure, **CHART TYPE:, **KEY PHASES:, etc.
+        content = re.sub(r'^\*{1,2}(Source|Data Citation|Figure|CHART TYPE|KEY PHASES|BALANCE SHEET DATA|KEY INSIGHT|Caption|CRITICAL COMPARISONS|The Pattern|The Critical Insight|THE LESSON)[:\s].*?(?=\n\n|\n#|\Z)', '', content, flags=re.MULTILINE | re.DOTALL | re.IGNORECASE)
+        
+        # Remove markdown table syntax (| and separators)
+        # First remove table separator lines (---|---|---)
+        content = re.sub(r'^\|?[\s\-\|:]+\|?\s*$', '', content, flags=re.MULTILINE)
+        # Then remove table cell markers but keep content
+        content = re.sub(r'\|', ' ', content)
+        
         # Remove inline code
         content = re.sub(r'`[^`]+`', '', content)
+        
         # Remove links but keep link text
         content = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', content)
-        # Remove images
+        
+        # Remove images completely (including alt text for charts)
         content = re.sub(r'!\[([^\]]*)\]\([^\)]+\)', '', content)
-        # Remove headers markdown
+        
+        # Remove headers markdown (but keep the text)
         content = re.sub(r'^#+\s+', '', content, flags=re.MULTILINE)
+        
         # Remove bold/italic markers
         content = re.sub(r'[*_]{1,3}', '', content)
+        
+        # Remove horizontal rules
+        content = re.sub(r'^-{3,}$', '', content, flags=re.MULTILINE)
+        
+        # Remove footnote markers (¹, ², ³, etc. and superscript letters)
+        content = re.sub(r'[¹²³⁴⁵⁶⁷⁸⁹⁰ᵃᵇᶜᵈᵉᵍʰⁱʲ]+', '', content)
         
         # Count words (split on whitespace)
         words = content.split()
@@ -65,7 +106,9 @@ def main():
     
     total_words = 0
     print("\n" + "="*70)
-    print("WORD COUNT REPORT (Excluding Sources)")
+    print("WORD COUNT REPORT - Narrative Prose Only")
+    print("Excludes: Chapter premises, visual aids, guide posts, tables,")
+    print("          metadata, organizational headers, footnotes, sources")
     print("="*70 + "\n")
     
     for file_rel_path in files:
