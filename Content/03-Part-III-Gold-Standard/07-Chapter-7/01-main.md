@@ -220,6 +220,45 @@ Prices collapsed. The general price index fell from **150** at the end of 1818 t
 
 The human cost was staggering. Wheat prices had averaged 108 shillings per quarter in 1813; by 1822 they had collapsed to 45 shillings—a 60 percent drop.²⁵ᵃ A farmer who borrowed £500 during the war years to expand his acreage faced a debt burden that had effectively doubled in real terms. His income had been cut in half, yet his obligations remained fixed. In February 1822, MP John Gooch reported to Parliament that petitions from Suffolk showed "one unusual scene of distress" among farmers.²⁵ᵇ David Ricardo, writing from Paris in December 1821, observed that "the farmers—theirs is a pitiable situation" with no relief except "the liberality of their landlords" who were themselves "in a state of suffering."²⁵ᶜ
 
+**Figure 7.1: The Deflationary Collapse (1813-1824)**
+
+```
+WHEAT PRICES: BRITAIN 1813-1824 (Shillings per Quarter)
+
+130s │ ┌─ 1813: 109.9s (wartime peak)
+     │ │   Farmers borrow at these prices
+120s │ │
+     │ │
+110s │ │
+     │ │
+100s │ │
+     │ │
+ 90s │ │
+     │ │
+ 80s │ │  
+     │ │
+ 70s │ │    ┌── 1815: 65.7s (Post-Waterloo)
+     │ │    │
+ 60s │ │    │   ┌─────────────────────────
+     │ │    │   │ 1821: Gold resumption
+ 50s │ │    │   │
+     │ │    │   │    ┌── 1822: 44.7s
+ 40s │ └────┴───┴────┘    (59% DECLINE)
+     │                    Farmers must repay
+ 30s └──────────────────────────────────────────────
+     1813  1815  1818  1821  1822  1824
+
+Samuel Gigney borrowed when wheat = 108s/quarter
+By 1823, wheat = 53s/quarter
+Same £100 debt now requires 2X as much wheat to repay
+
+This wasn't bad weather. This wasn't bad farming.
+This was policy—a choice to restore gold that
+transferred wealth from farmers to creditors.
+```
+
+*Source: Research/British Price Indices 1790-1824.md; Clark (2005) agricultural prices. The 59% price collapse from 1813 to 1822 made debts contracted during the war years mathematically impossible to repay at peacetime prices. When Samuel Gigney's name appeared in the London Gazette's bankruptcy notices in October 1823, he joined thousands of English farmers destroyed by monetary policy, not by agricultural failure.*
+
 The London Gazette's insolvency lists tell the story in names: John Griffin, "formerly of Ogbourn St. George, farmer" in Wiltshire; John Wiltshire of Warboys, "farmer and labourer" in Huntingdonshire.²⁵ᵈ These were men who had done nothing wrong—had worked harder than ever—but monetary policy had made their debts unpayable.
 
 **Samuel Gigney of Latchington, Essex, went bankrupt in October 1823.**²⁵ᵈ⁻¹ While his specific debt amounts are not recorded in surviving London Gazette notices, he faced the crushing conditions documented for Essex farmers in Parliamentary testimony that same year. In May 1822, the Member of Parliament for Essex told the House of Commons that **two-thirds of the entire tenantry of Essex** were insolvent, "not possessed of a shilling," with all their capital "confiscated by the deflation."²⁵ᵈ⁻² The mechanism was brutally simple: farmers who had borrowed £500 in 1818—when wheat fetched 108 shillings per quarter and Bank of England notes circulated freely—found themselves repaying that debt in 1823 when wheat sold for only 53 shillings per quarter. **Their real debt burden had effectively doubled while their income was cut in half.**²⁵ᵈ⁻³

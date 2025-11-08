@@ -92,25 +92,13 @@ This is exactly how modern central bank digital currencies work. When China's ce
 
 The history of money reveals gold as a brief anomaly, not the natural foundation of monetary systems.
 
-**TIMELINE DATA FOR VISUALIZATION:**
+**Figure 1.1: The Dominance of Credit Money Across 5,000 Years**
 
 ```
-PERIOD          | SYSTEM                           | TYPE         | BACKING
-----------------|----------------------------------|--------------|------------------
-3000 BCE - 600 BCE | Mesopotamian Temple Credits   | Credit Money | Taxation/Temple Authority
-1100 CE - 1826 CE  | English Tally Sticks          | Credit Money | Taxation Authority
-960 CE - 1279 CE   | Chinese Jiaozi (paper notes)  | Credit Money | Government Authority
-1694 CE - 1717 CE  | Bank of England (early)       | Hybrid       | Parliamentary Taxation + Gold
-1717 CE - 1797 CE  | Accidental Gold Standard      | Gold Era     | Gold (de facto)
-1797 CE - 1821 CE  | Bank Restriction Act          | Credit Money | Taxation (proof fiat works!)
-1821 CE - 1971 CE  | Gold Standard Era             | Gold Era     | Gold Backing
-1971 CE - Present  | Pure Fiat Era                 | Credit Money | Taxation/Institutional Credibility
-```
+THE MONETARY SYSTEM TIMELINE (3000 BCE - 2024 CE)
 
-**VISUAL REPRESENTATION:**
-```
-━━━━━━━━━━━━━━━━ CREDIT MONEY (5,000 years) ━━━━━━━━━━━━━━━━
-3000 BCE                                               600 BCE
+3000 BCE ████████████████ Mesopotamian grain credits
+         ████████████████ (Temple accounting, no coins exist)
     Temple Credits, Tally Sticks, Early Paper Money
 
             ╔═══ GOLD ANOMALY (254 years) ═══╗
@@ -185,6 +173,16 @@ Before exploring how chartalism works, we need to understand the fundamental deb
 The distinction matters profoundly. If metallists are correct, fiat currency is a deviation from money's natural form that may prove unsustainable—gold backing was the foundation, and removing it was dangerous folly. If chartalists are correct, commodity money was merely a historical accident, and fiat currency works perfectly well when backed by credible institutions and effective taxation.
 
 This book demonstrates through five millennia of evidence that chartalists are correct. The gold standard worked not because of gold but because of the institutions managing it. And when we understand that, modern debates about "sound money" and government debt look very different.
+
+> **Understanding Check**
+>
+> If the metallist vs. chartalist debate feels abstract or academic, that's understandable—this is heady theoretical territory. Here's what matters for the narrative ahead:
+>
+> **Metallists** think money needs commodity backing (gold, silver) to have value. **Chartalists** think money gets value from taxation authority and institutions. The historical evidence—Mesopotamian temple credits, medieval tally sticks, centuries of paper currency before widespread commodity money—supports the chartalist view.
+>
+> Why does this matter? Because if chartalists are right, most "common sense" about government budgets is wrong. Governments that issue their own currency aren't like households. They face real resource constraints (available workers, factories), not financial constraints (finding gold or revenue).
+>
+> The rest of this chapter provides concrete examples. If you're still unsure about the theory, the evidence will clarify it.
 
 ---
 

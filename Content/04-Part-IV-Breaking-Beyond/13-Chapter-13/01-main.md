@@ -46,11 +46,44 @@ This explains why QE inflated **asset prices** (stocks, bonds, real estate) with
 
 Between 2008 and 2014, the Fed's balance sheet expanded from **$900 billion** to **$4.5 trillion**—a five-fold increase representing growth from **6.2% of US GDP** in 2007 to **25.9% of GDP** by 2014.⁶ The European Central Bank, Bank of England, and Bank of Japan followed similar paths. Together, major central banks created roughly **$10 trillion** in new money—an amount that would have been physically impossible under a gold standard and politically unthinkable under Bretton Woods.
 
-### Visual: Federal Reserve Balance Sheet Expansion (2007-2022)
+**Figure 13.1: Federal Reserve Balance Sheet Expansion (2007-2022)**
 
 The Fed's balance sheet growth from 2008-2022 represents the most dramatic monetary expansion in U.S. history—proving fiat money's flexibility in crisis.
 
-**BALANCE SHEET DATA FOR CHART GENERATION:**
+```
+FEDERAL RESERVE TOTAL ASSETS (Trillions of Dollars)
+
+$9T │                                        ┌─── Jun 2022: $9.0T
+    │                                       │    (COVID response peak)
+$8T │                                      │
+    │                                     │
+$7T │                                    │
+    │                                   │     Dec 2020: $7.4T
+$6T │                                  │
+    │                                 │
+$5T │                                │
+    │                               │
+$4T │                  ┌────────────┘        Dec 2014: $4.5T
+    │                 │                      (QE1, QE2, QE3 complete)
+$3T │                │
+    │               │
+$2T │              │                         Dec 2008: $2.2T
+    │             │                          (Initial crisis response)
+$1T │ ───────────┘                           Dec 2007: $0.9T
+    │                                        (Pre-crisis baseline)
+$0T └──────────────────────────────────────────────────────────
+    2007  2009  2011  2013  2015  2017  2019  2021  2023
+
+KEY INSIGHT: Despite creating $8 trillion in new money, inflation
+remained low until 2021—and 2021-2022 inflation stemmed from supply
+chain disruptions, not monetary expansion. This proves the book's
+thesis: money creation doesn't cause inflation when the economy
+operates below productive capacity.
+```
+
+*Source: Federal Reserve Statistical Release H.4.1 (Factors Affecting Reserve Balances), FRED series WALCL. All figures represent Wednesday levels for the week ending on or nearest each specified date. See Research/Federal Reserve Balance Sheet Expansion 2007-2023.md for complete quarterly data.*
+
+**BALANCE SHEET DATA FOR VERIFICATION:**
 
 *Source: Research/Federal Reserve Balance Sheet Expansion 2007-2023.md; FRED series WALCL; Federal Reserve H.4.1 releases*
 
@@ -168,6 +201,14 @@ If government can create money to solve crises, why can't it create money withou
 Think of the economy as a concert hall with 100 seats. Money is tickets. Government can print unlimited tickets but cannot create more seats. Print 200 tickets for 100 seats, and prices double. When money creation exceeds productive capacity, inflation results—more money chasing the same goods. When money creation matches or falls short of capacity, it mobilizes unused resources without inflation. The **output gap** determines how much money can be created without triggering inflation.
 
 World War II proved this: Federal spending rose from 10% to 44% of GDP (1940-1944), yet inflation averaged just 3.5% annually because unemployment was 14% in 1940—vast unused capacity absorbed the money.¹⁹ The 2008 QE demonstrated the same: the Fed's balance sheet grew from $900 billion to $4.5 trillion, but unemployment stayed elevated through 2015 and the output gap absorbed expansion without inflation.²⁰ This constraint differs fundamentally from gold, which imposed limits unrelated to productive capacity. Fiat money can adjust to economic conditions: loose during recessions, tight during booms.
+
+> **Understanding Check**
+>
+> If the productive capacity explanation feels abstract, the concert hall analogy captures it: **You can print unlimited tickets, but you can't create more seats**. Money is just tickets to claim real goods and services.
+>
+> When the economy has unused capacity (high unemployment, idle factories, empty offices), creating money mobilizes those resources without inflation. The 2008 Fed created trillions because unemployment was 10%—we had empty seats. When the economy is at full capacity, creating more money just bids up prices for the same goods—too many tickets for available seats causes inflation.
+>
+> The key insight: **Real resources (workers, factories, materials) are the constraint, not money itself**. Governments that issue their own currency can always create money—the question is whether the economy can produce enough goods to absorb it. That's why fiat money works during recessions but causes inflation when overused during booms.
 
 ---
 

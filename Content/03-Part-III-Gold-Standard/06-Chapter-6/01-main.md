@@ -18,6 +18,18 @@ The gold standard's origins reveal an uncomfortable truth: the system that domin
 
 ---
 
+### From Paper Success to Bimetallic Problem
+
+The Bank of England had solved the domestic money problem. By 1717, twenty-three years after its founding, Bank notes circulated freely across England. Merchants, farmers, and shopkeepers accepted paper backed by parliamentary taxation authority. The institutional innovation of 1694—linking currency creation directly to the state's fiscal capacity—had succeeded beyond William Paterson's expectations.
+
+But Britain still operated on a **bimetallic monetary system**. Both gold and silver served as legal tender, with the government setting the official exchange ratio between them. The guinea (gold coin) and the shilling (silver) both circulated as money, their relative values fixed by royal proclamation. This dual-metal system created constant friction. When the official ratio diverged from market prices abroad, arbitrage opportunities emerged. Merchants would ship whichever metal was undervalued in Britain and import the metal overvalued, draining the country of one type of coin while flooding it with the other.
+
+This wasn't merely a technical problem—it was undermining England's monetary stability. Silver kept vanishing from circulation despite the Great Recoinage's success in restoring full-weight coins. The question was why.
+
+In 1717, the Crown turned to Isaac Newton—already immortal for the *Principia* but now serving as Master of the Royal Mint—to solve this problem. He was asked to determine the proper gold-to-silver ratio that would keep both metals in circulation. His answer, submitted in a modest technical report on September 21, 1717, would accidentally transform Britain's monetary system and eventually the world's.
+
+---
+
 ### The Master of the Mint's Miscalculation
 
 On a spring morning in 1717, Isaac Newton—74 years old, Master of the Royal Mint for twenty-one years—stood in his private laboratory at the Tower of London. The room smelled of quicksilver and coal smoke. On the workbench before him lay samples of coins from across Europe: Spanish pieces of eight, French louis d'or, Dutch guilders, Portuguese moidores. Beside them: crucibles, scales precise to a fraction of a grain, and sheets of calculations covered in his meticulous hand.
@@ -334,6 +346,45 @@ PATTERN: Radiates outward from London as financial center
 ### The gold points mechanism
 
 Exchange rates were fixed by gold content. The pound sterling's $4.8665 parity could fluctuate within narrow bands called **gold points** (±1%). When rates breached these limits, arbitrageurs shipped gold, theoretically creating automatic correction. The system appeared **self-regulating**—or so the theory claimed.²²⁻²⁴
+
+**Figure 6.1: The Gold Points Mechanism**
+
+```
+HOW SHIPPING COSTS LIMITED EXCHANGE RATE FLUCTUATIONS
+
+                  $4.90/£ ← GOLD EXPORT POINT
+                           (Ship gold TO London; sell for pounds)
+                           (Arbitrage profitable above this rate)
+                     ↑
+                     │  Exchange rate fluctuates
+                     │  within this range
+                     │  ("automatic" limits set
+                     │   by shipping + insurance)
+                     ↓
+                  $4.87/£ ← Official Parity ($4.8665)
+                     │
+                     ↓
+                  $4.83/£ ← GOLD IMPORT POINT
+                           (Ship gold FROM London; buy with pounds)
+                           (Arbitrage profitable below this rate)
+
+
+If dollar weakens beyond $4.90/£:
+→ Cheaper to buy gold in New York, ship to London, sell for pounds
+→ Arbitrage brings rate back toward $4.87-4.90 range
+
+If dollar strengthens beyond $4.83/£:
+→ Cheaper to buy gold in London, ship to New York, sell for dollars
+→ Arbitrage brings rate back toward $4.83-4.87 range
+
+The "automatic" mechanism was actually:
+• Costly (0.5-1% of value for shipping, insurance, risk)
+• Slow (weeks for gold to cross Atlantic by steamship)
+• Relied on private arbitrageurs, not magic
+• Failed completely during crises when confidence collapsed
+```
+
+*Note: The gold points mechanism appeared self-regulating because shipping costs created natural limits on exchange rate movements. But this wasn't automatic monetary management—it was arbitrage within narrow bands, enabled by stable political conditions, reliable transatlantic shipping, and convertibility confidence. When any of these conditions broke (war, banking crisis, gold drain), the "automatic" system required active central bank intervention.*
 
 **How gold points actually worked—a concrete example:**
 

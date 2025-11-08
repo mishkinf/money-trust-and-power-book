@@ -18,6 +18,16 @@ This wasn't a new lesson. It was a lesson England learned in 1672, when Charles 
 
 ---
 
+### From Sovereign Dilemma to Private Innovation
+
+The sovereign's dilemma—domestic credit easy, foreign credit impossible—drove England's seventeenth-century political crisis to breaking point. The resolution came through revolution. Parliament executed Charles I in 1649, fought a bloody civil war, established the Commonwealth under Cromwell, then restored the monarchy under Charles II in 1660. Through these upheavals, one principle gradually hardened into constitutional law: Parliament, not the king, controlled taxation. This made parliamentary taxation credible for the first time.
+
+But the institutional solution—the Bank of England linking paper currency directly to parliamentary authority—would not arrive until 1694. In the intervening decades, private innovation filled the vacuum. After Charles I's 1640 seizure of deposits from the Royal Mint destroyed trust in government storage, London's goldsmiths began accepting wealthy merchants' gold for safekeeping. These goldsmiths, originally metalworkers who happened to have secure vaults, accidentally invented England's first paper money system through fractional reserve lending.
+
+The experiment would fail catastrophically. Charles II's Stop of the Exchequer in 1672—the king's unilateral decision to suspend debt payments—destroyed the goldsmith banking system overnight, wiping out depositors and proving that private money creation, however ingenious, cannot provide systemic stability without sovereign backing. The lesson would be forgotten and relearned repeatedly: in the 2008 shadow banking collapse, in the 2022 Terra/Luna implosion, in every financial crisis where private credit creation exceeds public backstops.
+
+---
+
 A cold rain fell on London as William of Orange rode through the city gates in December 1688. He had crossed the Channel with an army, but he would take the throne without a battle. King James II, abandoned by his own officers and nobles, had fled to France. What followed was not merely a change of monarchs but a **constitutional revolution**—a fundamental restructuring of government that permanently transferred power from crown to Parliament, reshaping not just England's government but its entire financial system.¹
 
 The settlement was explicit: William and Mary would rule, but only if they accepted Parliament's supremacy. The Bill of Rights (1689) declared that the monarch could not suspend laws, levy taxes, or maintain a standing army without parliamentary consent. For the first time in English history, the power to spend and the power to tax were **legally inseparable**. A king could no longer borrow on his personal credit and leave Parliament to clean up the mess. Every loan, every expenditure, every military campaign would require legislative approval.²

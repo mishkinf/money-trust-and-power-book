@@ -224,7 +224,51 @@ Fletcher repaid the £500 plus £30 interest (6 percent annually) over two years
 
 **This was money creation through credit extension**—the same process modern banks use today when they make loans by typing numbers into accounts. No gold mine needed, no government printing press, just double-entry bookkeeping backed by institutional credibility.
 
-> **Understanding Check:** If the balance sheet mechanics feel confusing, that's completely normal—this is the chapter's most technical concept. The key insight is simple: **banks create money by making accounting entries, not by lending out deposits**. The Bank of England didn't need £1.2 million sitting in a vault to lend £1.2 million to the government. It created that money through the act of lending itself. If you're unclear on the accounting details, continue forward—the implications matter more than the mechanics. You can always return to the Thomas Fletcher example above for a concrete illustration.
+> **Understanding Check**
+>
+> If you found the balance sheet mechanics above challenging, you're not alone—this is where most economics textbooks lose general readers. Here's what matters:
+>
+> **The key insight**: When banks make loans, they don't move existing money from savers to borrowers. They create new money by making entries in ledgers. Thomas Fletcher walked in with no money and walked out with £500 that didn't exist before. The Bank's asset (Fletcher's IOU) and Fletcher's deposit both appeared simultaneously.
+>
+> This isn't magic or fraud—it's how money creation works. Your own bank does this every time it issues a mortgage. The money to buy your house wasn't sitting in a vault somewhere. It was created when you signed the loan documents.
+>
+> **If this still feels confusing, stay with the narrative**. The following chapters will show this principle at work in historical crises. Sometimes understanding comes from seeing the consequences rather than the mechanics.
+
+**Figure 5.1: How the Bank of England Created Money (1703)**
+
+```
+Before Thomas Fletcher's Loan:
+┌────────────────────────────────────────────────────────────┐
+│            BANK OF ENGLAND BALANCE SHEET                   │
+├───────────────────────────┬────────────────────────────────┤
+│  ASSETS                   │  LIABILITIES                   │
+│  (What others owe Bank)   │  (What Bank owes others)       │
+├───────────────────────────┼────────────────────────────────┤
+│  Government loans         │  Bank notes in circulation     │
+│  Other loans              │  Deposits                      │
+│  Gold reserves            │                                │
+└───────────────────────────┴────────────────────────────────┘
+
+After £500 Loan to Fletcher:
+┌────────────────────────────────────────────────────────────┐
+│            BANK OF ENGLAND BALANCE SHEET                   │
+├───────────────────────────┬────────────────────────────────┤
+│  ASSETS                   │  LIABILITIES                   │
+│  (What others owe Bank)   │  (What Bank owes others)       │
+├───────────────────────────┼────────────────────────────────┤
+│  Government loans         │  Bank notes in circulation     │
+│  Other loans              │  Deposits                      │
+│  + Fletcher's IOU: £500   │  + Fletcher's notes: £500      │
+│  Gold reserves            │                                │
+└───────────────────────────┴────────────────────────────────┘
+
+                         ↓
+             KEY INSIGHT: Both sides grew
+             The Bank didn't move existing money—
+             it created £500 that didn't exist before
+```
+
+*Note: This is the fundamental mechanism of credit money creation. The Bank created purchasing power by making simultaneous ledger entries—an asset (Fletcher's promise to repay) and a liability (notes Fletcher could spend). No gold mine, no savers' deposits, just double-entry bookkeeping backed by institutional credibility.*
 
 ---
 

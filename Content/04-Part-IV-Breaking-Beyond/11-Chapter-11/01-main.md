@@ -184,6 +184,41 @@ You're trapped: the party needs your IOUs to work, but providing enough IOUs to 
 
 This was the United States' position under Bretton Woods. The world needed dollars for trade, but providing enough dollars required deficits that undermined the gold backing. The contradiction was structural, not solvable.
 
+**Figure 11.1: The Triffin Dilemma Visualization**
+
+```
+THE STRUCTURAL CONTRADICTION OF BRETTON WOODS
+
+World needs dollars for:          BUT confidence in dollar requires:
+• International trade             • Limited dollar supply
+• Reserve holdings                • US doesn't run deficits
+• Development finance             • Gold backing stays credible
+• Liquidity in crises             • $35/oz parity maintained
+
+         ↓                                    ↓
+
+    US MUST                              US MUST NOT
+  run deficits                          run deficits
+  (supply dollars                     (maintain confidence
+   to the world)                       in gold convertibility)
+
+                    ↓
+              CONTRADICTION
+            System must fail
+
+What actually happened (1944-1971):
+├─ 1944-1958: Dollar shortage (world desperately needs more dollars)
+├─ 1959-1965: Dollar glut begins (too many dollars issued)
+├─ 1965-1968: Gold drain accelerates (foreign claims > US reserves)
+├─ 1968: Gold Pool collapses, two-tier gold market created
+└─ Aug 15, 1971: Nixon closes gold window (system collapses)
+
+The dilemma was structural—no policy could solve it.
+Bancor would have eliminated this contradiction entirely.
+```
+
+*Note: Robert Triffin identified this paradox in 1960, warning that Bretton Woods contained the seeds of its own destruction. He was right: by 1971, foreign dollar claims ($80B+) far exceeded US gold reserves ($10B), making the $35/oz promise mathematically impossible to keep. The system didn't fail due to policy errors—it failed due to design flaws that were visible from the start.*
+
 **The Triffin Dilemma:**
 
 - **SOLVED**: No single currency needed for reserves

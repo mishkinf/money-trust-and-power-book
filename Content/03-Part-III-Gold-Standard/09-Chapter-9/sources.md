@@ -128,6 +128,40 @@ The paradox of intellectual defeat and legislative victory: James Wilson's *The 
 ³⁷ **Durham University Special Collections:**
 - Harold Heslop Papers (GB-0033-HES).
 
+### Human Stories: Banker and Worker
+
+**Samuel Gurney (1786-1856) - Norwich Banker:**
+³¹ **Gurney Biographical Details:**
+- "Gurney, Samuel," *Dictionary of National Biography, 1885-1900*. Norwich & Norfolk Bank (founded 1775), Overend, Gurney & Company (London bill-broking house).
+- Barclays Group Archives, GB2044-A03. [Gurney's Bank records]
+
+³² **Gurney's 1847 Crisis Testimony:**
+- Great Britain, Parliament, House of Commons. *Reports from the Secret Committee on Commercial Distress*. Parliamentary Papers 1847-48 (395) VIII, Pt. I. [Samuel Gurney testimony on October 1847 crisis]
+- Hansard, Commons, November 30, 1847, "Commercial Distress" debate.
+
+³³ **The October 25, 1847 Quotation:**
+- Great Britain, Parliament. *Reports from the Secret Committee on Commercial Distress*. Parliamentary Papers 1847-48 (395) VIII, Pt. I. Gurney testified: "Those [customers] who had sent notice for their money in the morning sent us word that they did not [need it]."
+- The effect was immediate upon suspension of the Bank Charter Act restrictions.
+
+**Rodger Cantwell (1816-c.1850) - Irish Farm Laborer:**
+²⁷ⁱ **Cantwell Family Details:**
+- Kelly, J. (2017). "A great-grandfather's account of the Irish potato famine (1845–1850)." *PMC (PubMed Central)*, PMC5468053. Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC5468053/
+- Family records combined with historical sources. Rodger Cantwell, age 30 in 1846, farm laborer on George Fawcett's estate, Toomyvara, County Tipperary.
+
+²⁷ʲ **Cantwell's Wages and Family:**
+- Kelly (2017). Earned 5 pence daily farming (1846), 10 pence daily public works. Wife Mary (McDonald), five children: Bridget (8), Thomas (7), Michael (4), Julia (2), Mary (1) in 1846.
+
+²⁷ᵏ **1849 Mass Eviction:**
+- Kelly (2017). June 1849: George Fawcett's agent Richard Wilson destroyed all 30 tenant cabins overnight. Mass eviction driven by landlord's inability to pay Poor Law rates under monetary contraction.
+
+²⁷ˡ **Cantwell Family Emigration:**
+- Kelly (2017). Family emigrated to America 1850. Children on ship *Princeton* (April), Rodger on ship *Waterton* (six months later).
+- Ship manifests: *Princeton* and *Waterton*, 1850. [Confirming emigration records]
+
+²⁷ᵐ **Connection to Bank Charter Act:**
+- 1847 credit contraction affected Irish estates through multiple channels: English merchants stopped advancing credit for grain purchases, landlords faced falling rents and increased Poor Law rates, banks restricted agricultural lending.
+- British monetary system operated uniformly across England and Ireland under 1844 Act.
+
 ³⁸ **Banking School Intellectual Sophistication:**
 - Tooke, Thomas. (1844). *An Inquiry into the Currency Principle*. 2nd ed. London: Longman, Brown, Green, and Longmans.
 - Fullarton, John. (1845). *On the Regulation of Currencies*. London: John Murray.
