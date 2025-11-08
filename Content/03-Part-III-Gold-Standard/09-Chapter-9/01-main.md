@@ -122,6 +122,34 @@ But the Currency School made a "tragic error": they assumed bank deposits weren'
 
 The intellectual blind spot was profound. Victorian economists could see physical banknotes as money but viewed deposit entries as merely records of money. They were wrong. When a bank wrote "+£5" next to a customer's name, that accounting entry *was* money—identical in function to a £5 note. Money had to be tangible, they believed. This blindness led to history's greatest regulatory failure: meticulously controlling visible banknotes while ignoring functionally identical invisible deposits.²⁶
 
+**[VISUAL-AID-9.1] Figure 9.1: Notes vs. Deposits — Functionally Identical Money**
+
+The Currency School's fatal error was treating these as different:
+
+```
+BANK NOTE (Visible)              |  BANK DEPOSIT (Invisible)
+─────────────────────────────────┼─────────────────────────────────
+Physical paper printed by bank   |  Ledger entry in bank's books
+                                 |
+Promises to pay £5 on demand     |  Promises to pay £5 on demand
+                                 |
+Bearer can transfer to others    |  Holder can transfer by check
+                                 |
+Accepted as payment for debts    |  Accepted as payment for debts
+                                 |
+Created when bank makes loan     |  Created when bank makes loan
+                                 |
+REGULATED BY 1844 ACT            |  NOT REGULATED (workaround)
+─────────────────────────────────┴─────────────────────────────────
+
+RESULT BY 1900:
+• Bank notes: 0.09% of transactions
+• Bank deposits: 99.91% of transactions
+
+The Act meticulously controlled what became irrelevant while 
+ignoring what became dominant. Form changed, function identical.
+```
+
 Even brilliant economists missed this. **John Stuart Mill** (1848) denied credit could "make something out of nothing"—yet loans literally create deposits. **Walter Bagehot** (1873) believed "banks cannot create money."²⁷ Not until **Keynes's *Treatise on Money* (1930)** was the truth stated explicitly: "banks can safely create" money "provided they move forward in step." But even Keynes retreated in his 1936 *General Theory*. The full articulation awaited Post-Keynesian economists—**Basil Moore's 1988** *Horizontalists and Verticalists* finally explained: "loans create deposits," not the reverse.²⁸
 
 Why did it take so long? **Deposit creation was invisible**. When a country bank printed a £5 note, everyone could see new money. When a bank created a £5 deposit by writing in a ledger, nothing physical changed. Victorian economists couldn't grasp that accounting could create purchasing power as effectively as printing.²⁹
@@ -138,7 +166,7 @@ The irony is complete: the Act designed to establish state control over money cr
 
 The transformation was complete. Within 50 years of Adam Smith's explicit statement that princes could give value to paper money through taxation, such ideas had become nearly unspeakable. The gold standard's success—its century of apparent stability from 1821 to 1914—would cement this false narrative so deeply that even its collapse in the 20th century would not fully dislodge it. The household budget metaphor, the idea that governments must "find the money" before they can spend, would persist long after the gold that supposedly justified it had disappeared from the monetary system.²⁷ʰ
 
-> **Understanding Check**
+> **[UNDERSTANDING-CHECK-9] Understanding Check**
 >
 > If the Bank Charter Act mechanics felt complex, here's the essential point: **Peel tried to control money by regulating bank notes, but banks just switched to creating deposits instead**. It's like trying to stop water by plugging one hole while ignoring five others—the water just flows through different channels.
 >
@@ -221,3 +249,7 @@ But the system's apparent success concealed structural fragilities. It worked be
 When war came in August 1914, gold's constraints became intolerable. Every combatant—Britain, France, Germany, Russia—abandoned the gold standard within days to finance mass mobilization. The system that had seemed eternal collapsed in a week. Paper money again proved it could function without gold backing, just as it had during the Bank Restriction of 1797-1821.
 
 By 1918, the question facing the world's central bankers was not whether to return to gold, but whether return was even possible. Prices had doubled or tripled during the war. Gold reserves were depleted. Yet the men who controlled monetary policy—raised on Peel's orthodoxy, educated in Currency School economics—could imagine no alternative. In 1925, Winston Churchill would make the fateful choice to restore Britain's prewar gold parity. The consequences would be catastrophic, vindicating every warning Thomas Attwood had made a century earlier.
+
+---
+
+The manufactured orthodoxy was now complete. What had been controversial in 1821, contested in 1844, had become unquestionable by 1918. The Banking School's warnings were forgotten. Attwood's insights were dismissed as the ravings of cranks. Gold was treated not as policy choice but as natural law—the only conceivable foundation for monetary order. And when the system's contradictions finally exploded, the human cost would be measured not in thousands but in millions. Coal miners would starve while defending an overvalued currency. Farmers would lose land their families had worked for generations, foreclosed by deflation that served distant creditors. France would cling to gold while workers froze in métro entrances. The orthodoxy that claimed to prevent crises would instead cause the worst economic collapse in modern history. Part IV traces how the breaking happened—and what it revealed about the lies we'd been told about money's true nature.

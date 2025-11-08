@@ -347,7 +347,7 @@ PATTERN: Radiates outward from London as financial center
 
 Exchange rates were fixed by gold content. The pound sterling's $4.8665 parity could fluctuate within narrow bands called **gold points** (±1%). When rates breached these limits, arbitrageurs shipped gold, theoretically creating automatic correction. The system appeared **self-regulating**—or so the theory claimed.²²⁻²⁴
 
-**Figure 6.1: The Gold Points Mechanism**
+**[VISUAL-AID-6.1] Figure 6.1: The Gold Points Mechanism**
 
 ```
 HOW SHIPPING COSTS LIMITED EXCHANGE RATE FLUCTUATIONS

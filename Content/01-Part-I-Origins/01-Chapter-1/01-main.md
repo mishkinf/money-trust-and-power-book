@@ -92,7 +92,7 @@ This is exactly how modern central bank digital currencies work. When China's ce
 
 The history of money reveals gold as a brief anomaly, not the natural foundation of monetary systems.
 
-**Figure 1.1: The Dominance of Credit Money Across 5,000 Years**
+**[VISUAL-AID-1.1] Figure 1.1: The Dominance of Credit Money Across 5,000 Years**
 
 ```
 THE MONETARY SYSTEM TIMELINE (3000 BCE - 2024 CE)
@@ -174,7 +174,7 @@ The distinction matters profoundly. If metallists are correct, fiat currency is 
 
 This book demonstrates through five millennia of evidence that chartalists are correct. The gold standard worked not because of gold but because of the institutions managing it. And when we understand that, modern debates about "sound money" and government debt look very different.
 
-> **Understanding Check**
+> **[UNDERSTANDING-CHECK-1] Understanding Check**
 >
 > If the metallist vs. chartalist debate feels abstract or academic, that's understandable—this is heady theoretical territory. Here's what matters for the narrative ahead:
 >

@@ -167,7 +167,7 @@ When workers resisted wage cuts or debtors defaulted on loans whose real burden 
 
 The Bank Charter Act of 1844 institutionalized this distribution into law, making creditor interests automatic through gold constraints while presenting this as neutral monetary management. The marginalizing of Attwood and the Birmingham School wasn't about technical economics—their analysis proved more accurate than Ricardo's in predicting depression and unemployment. It was about power: maintaining a system that transferred wealth upward while claiming this transfer was natural economic law.²⁷ᵍ⁻⁷
 
-> **Understanding Check**
+> **[UNDERSTANDING-CHECK-8] Understanding Check**
 >
 > If the distributional analysis above felt complex, here's the core mechanism: **Deflation transfers wealth from people who owe money to people who hold money**. When prices fall 20%, debts stay the same in nominal terms but become 20% harder to repay—you need to sell more wheat, work more hours, or produce more goods to pay back the same £100. Meanwhile, creditors get paid back in money that buys 20% more.
 >

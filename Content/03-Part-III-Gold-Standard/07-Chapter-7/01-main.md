@@ -220,7 +220,7 @@ Prices collapsed. The general price index fell from **150** at the end of 1818 t
 
 The human cost was staggering. Wheat prices had averaged 108 shillings per quarter in 1813; by 1822 they had collapsed to 45 shillings—a 60 percent drop.²⁵ᵃ A farmer who borrowed £500 during the war years to expand his acreage faced a debt burden that had effectively doubled in real terms. His income had been cut in half, yet his obligations remained fixed. In February 1822, MP John Gooch reported to Parliament that petitions from Suffolk showed "one unusual scene of distress" among farmers.²⁵ᵇ David Ricardo, writing from Paris in December 1821, observed that "the farmers—theirs is a pitiable situation" with no relief except "the liberality of their landlords" who were themselves "in a state of suffering."²⁵ᶜ
 
-**Figure 7.1: The Deflationary Collapse (1813-1824)**
+**[VISUAL-AID-7.1] Figure 7.1: The Deflationary Collapse (1813-1824)**
 
 ```
 WHEAT PRICES: BRITAIN 1813-1824 (Shillings per Quarter)

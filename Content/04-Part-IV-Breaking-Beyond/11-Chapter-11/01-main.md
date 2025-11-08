@@ -184,7 +184,7 @@ You're trapped: the party needs your IOUs to work, but providing enough IOUs to 
 
 This was the United States' position under Bretton Woods. The world needed dollars for trade, but providing enough dollars required deficits that undermined the gold backing. The contradiction was structural, not solvable.
 
-**Figure 11.1: The Triffin Dilemma Visualization**
+**[VISUAL-AID-11.1] Figure 11.1: The Triffin Dilemma Visualization**
 
 ```
 THE STRUCTURAL CONTRADICTION OF BRETTON WOODS

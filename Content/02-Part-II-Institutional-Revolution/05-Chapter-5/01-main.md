@@ -234,7 +234,7 @@ Fletcher repaid the £500 plus £30 interest (6 percent annually) over two years
 >
 > **If this still feels confusing, stay with the narrative**. The following chapters will show this principle at work in historical crises. Sometimes understanding comes from seeing the consequences rather than the mechanics.
 
-**Figure 5.1: How the Bank of England Created Money (1703)**
+**[VISUAL-AID-5.1] Figure 5.1: How the Bank of England Created Money (1703)**
 
 ```
 Before Thomas Fletcher's Loan:

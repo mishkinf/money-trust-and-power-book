@@ -1,5 +1,9 @@
 # Epilogue: From Gold to Governance
 
+We've traced money's evolution across five thousand years—from Mesopotamian grain credits recorded on clay tablets to Federal Reserve keystrokes creating trillions in electronic reserves. We've watched how monetary orthodoxy was manufactured in 1820s-1840s Britain to serve creditor interests, witnessed the gold standard's catastrophic collapse, and seen pure fiat money vindicated in the crucible of the 2008 and 2020 crises.
+
+This journey reveals essential lessons about money's true nature—lessons that were once explicit (William Paterson's 1694 candor), became unthinkable (Currency School orthodoxy by 1850), and must now be recovered if we're to build monetary institutions worthy of democratic societies.
+
 The story of money is the story of trust—how it is built, how it is maintained, and how it is lost. Across five millennia, from Mesopotamian grain credits to digital central bank currencies, the forms have changed but the fundamental challenge has remained constant: how to create a medium of exchange that people will accept, not because of its intrinsic value but because they trust the institutions behind it.
 
 This book has traced that evolution through eight distinct phases, each revealing the same underlying truth: **money is not a thing but a relationship**. It is a social technology, created by human institutions and sustained by collective belief. The clay tablets of ancient Sumer, the tally sticks of medieval England, the gold coins of Newton's mint, the paper notes of the Bank of England, and the electronic entries of modern central banks—all were valuable for the same reason. They represented claims on real resources, backed by institutions that could enforce those claims.

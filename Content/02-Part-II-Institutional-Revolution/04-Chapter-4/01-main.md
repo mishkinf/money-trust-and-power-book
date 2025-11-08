@@ -20,6 +20,12 @@ This wasn't a new lesson. It was a lesson England learned in 1672, when Charles 
 
 ### From Sovereign Dilemma to Private Innovation
 
+The medieval merchant networks we examined in Part I relied on bilateral trust and reputation—Datini tracking his Avignon debts in double-entry ledgers, bills of exchange clearing at Lyon's fairs. But these private credit networks, however sophisticated, ultimately rested on sovereign currencies backed by taxation authority. The Bardi and Peruzzi collapse when Edward III defaulted in 1340 demonstrated that private credit networks cannot survive sovereign failures.
+
+By the mid-1600s, England was attempting something different: creating a domestic credit system that could rival the merchant networks' international reach. The goldsmith-bankers of London would accidentally invent fractional reserve banking when Charles I's seizure of merchant deposits at the Royal Mint (1640) forced goldsmith safes to become the de facto banking system. For the first time, private institutions were creating money domestically at scale—not just facilitating international trade settlements, but expanding England's money supply through lending.
+
+This chapter examines why that private money creation failed catastrophically—and why the failure proved that money creation requires public institutional backing, not just private ingenuity.
+
 The sovereign's dilemma—domestic credit easy, foreign credit impossible—drove England's seventeenth-century political crisis to breaking point. The resolution came through revolution. Parliament executed Charles I in 1649, fought a bloody civil war, established the Commonwealth under Cromwell, then restored the monarchy under Charles II in 1660. Through these upheavals, one principle gradually hardened into constitutional law: Parliament, not the king, controlled taxation. This made parliamentary taxation credible for the first time.
 
 But the institutional solution—the Bank of England linking paper currency directly to parliamentary authority—would not arrive until 1694. In the intervening decades, private innovation filled the vacuum. After Charles I's 1640 seizure of deposits from the Royal Mint destroyed trust in government storage, London's goldsmiths began accepting wealthy merchants' gold for safekeeping. These goldsmiths, originally metalworkers who happened to have secure vaults, accidentally invented England's first paper money system through fractional reserve lending.
