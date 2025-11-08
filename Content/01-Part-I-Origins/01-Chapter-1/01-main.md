@@ -208,6 +208,20 @@ The remainder of this book traces how this principle operated across five millen
 
 ---
 
+### The Real Constraint (Preview)
+
+The chartalist principle raises an obvious question: if governments that issue currency can create money at will, what prevents unlimited creation? Why doesn't every currency-issuing government simply print money to fund all desired spending?
+
+The answer lies in understanding what money actually represents: **claims on real goods and services**. A government can create unlimited currency, but it cannot create unlimited cars, houses, food, or healthcare. Think of money as tickets to a concert and real resources as seats in the hall. You can print unlimited tickets, but you cannot create more seats. When tickets exceed seats, you don't get more people watching the concert—you just get inflation as ticket holders bid against each other for the limited seats available.
+
+This distinction explains seemingly contradictory outcomes across history. In 2008, the Federal Reserve created $3.5 trillion through quantitative easing without causing significant inflation. Why? Because unemployment peaked at 10%, factories sat idle, and offices emptied. The economy had massive unused capacity—empty seats in the concert hall. The money mobilized these idle resources without bidding up prices.
+
+Contrast this with Weimar Germany in 1923. The Reichsbank printed money at unprecedented rates, yet the economy experienced catastrophic hyperinflation. The difference? Allied occupation of the Ruhr had destroyed approximately 80% of Germany's productive capacity—eliminating coal mines, steel mills, and industrial production. When the government printed marks, they chased goods that no longer existed. Money multiplied while the concert hall burned down.
+
+Understanding this distinction—between monetary aggregates and real productive capacity—is essential to understanding why fiat money works when properly managed and fails catastrophically when states collapse. We'll return to this principle throughout the book, examining how it operated in the Bank of England's 18th-century credit creation, Japan's decades of quantitative easing without inflation, and the 2021-22 inflation that occurred when monetary expansion hit supply chain constraints rather than filling unused capacity. For now, remember: the constraint is real resources, not money itself.
+
+---
+
 ### From temple to marketplace
 
 As trade expanded across political boundaries, trust in any single ruler's IOU waned. A Mesopotamian merchant sending tin to Anatolia or a Greek trader buying grain in Egypt needed a medium others would accept without knowing him. Gold and silver—rare, durable, divisible—fit that role. They were *neutral collateral*, a kind of universal passport of value. Lydian mints first struck coins around 600 BCE, stamping that neutrality with royal authority: the image of a lion or king guaranteed weight and purity. Metal money thus emerged not to replace credit but to bridge **zones of unfamiliarity**—the space between temples, cities, and empires.⁷

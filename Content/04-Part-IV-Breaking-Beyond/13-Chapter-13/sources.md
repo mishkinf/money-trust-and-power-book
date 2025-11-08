@@ -37,11 +37,26 @@ The modern fiat system, born from the gold standard's collapse, represents the c
 21e. Victor Klemperer, *I Will Bear Witness: A Diary of the Nazi Years, 1933-1941*, trans. Martin Chalmers (New York: Random House, 1998).
 21f. Adam Fergusson, *When Money Dies: The Nightmare of Deficit Spending, Devaluation, and Hyperinflation in Weimar Germany* (New York: PublicAffairs, 2010).
 
-**Kono and Japan's Lost Generation:**
-21g. Bloomberg News, "Japan's Lost Generation Is Still Jobless and Living With Their Parents," *Bloomberg Businessweek*, 2020, accessed November 7, 2025, https://www.bloomberg.com/features/2020-japan-lost-generation/.
-21h. Ibid. [Direct quotes from Kono interview]
-21i. Wikipedia, "Employment Ice Age," accessed November 7, 2025, https://en.wikipedia.org/wiki/Employment_Ice_Age; Nippon.com, "The Lingering Effects of Japan's 'Employment Ice Age,'" May 2018, accessed November 7, 2025, https://www.nippon.com/en/currents/d00406/.
-21j. Mary C. Brinton, *Lost in Transition: Youth, Work, and Instability in Postindustrial Japan* (Cambridge: Cambridge University Press, 2011).
+**Michinao Kono and Japan's Employment Ice Age Generation:**
+21a. Federal Reserve Bank of San Francisco, "Did Quantitative Easing by the Bank of Japan 'Work'?" *FRBSF Economic Letter* 2006-28 (October 2006), https://www.frbsf.org/economic-research/publications/economic-letter/2006/october/did-quantitative-easing-by-the-bank-of-japan-work/. [BOJ QE program details: March 2001-March 2006, ¥5 trillion to ¥30-35 trillion expansion, 6-7% of GDP]
+
+21g. Shiho Fukada, "Japan's Lost Generation Is Still Jobless and Living With Their Parents," *Bloomberg Businessweek*, October 5, 2020, https://www.bloomberg.com/features/2020-japan-lost-generation/. [Primary source for Michinao Kono profile]
+
+21h. Ibid. [Kono personal details: age 45, Kyoto University 8 years, 1,815 applicants for 3 jobs, direct quotes including "It was in the employment ice age. I thought even if I tried, it would be in vain," 3 million yen debt, father's trading house career, ramen restaurant job 150,000 yen/month, "It wiped me out physically," Kawasaki attack context, "I'm not going to be a criminal," motivation "I want to get up and let them feel secure about me while they're alive"]
+
+21i. Wikipedia contributors, "Employment Ice Age," *Wikipedia, The Free Encyclopedia*, accessed November 8, 2025, https://en.wikipedia.org/wiki/Employment_Ice_Age. [Historical context and unemployment rates]
+
+21j. Cabinet Office, Government of Japan, *Survey on the Awareness and Lifestyles of People Aged 40 to 64* (Tokyo: Cabinet Office, 2019), cited in Nippon.com, "Survey Findings Suggest Japan Has More than 1 Million Hikikomori," https://www.nippon.com/en/japan-data/h00463/. [613,000 hikikomori aged 40-64 in 2019; 1.46 million total by 2022]
+
+21k. Tamaki Saito, "The Reality of 1 Million 'Middle-aged and Elderly Hikikomori'—The Aging of Hikikomori Is a Major Issue for All of Society," *Discuss Japan—Japan Foreign Policy Forum*, no. 52 (July 22, 2019), https://www.japanpolicyforum.jp/society/pt201907221700489609.html. [Professor Saito's estimate of over 2 million total hikikomori]
+
+21l. Yukie Hori, "Japan's 'Employment Ice-age Generation' Today: Investigating the Impact of Instability in the School-to-work Transition," *Japan Labor Issues* 4, no. 20 (December 2019-January 2020): 3-14, https://www.jil.go.jp/english/jli/documents/2020/020-01.pdf. [55.1% employment rate in 2003]
+
+21m. Japan Institute for Labour Policy and Training (JILPT), *The Employment Situation, Careers and Vocational Skills Development of Young People at Present 3: Based on the 2017 Employment Status Survey*, JILPT Research Material Series no. 217 (Tokyo: JILPT, 2019). [University graduate employment rates: late ice age 1999-2004 only 57.4% men, 54.7% women secured regular employment]
+
+21n. Nippon.com, "An End in Sight for the Employment Ice Age?" December 16, 2019, https://www.nippon.com/en/in-depth/d00518/an-end-in-sight-for-the-employment-ice-age.html. [At least 500,000 ice age generation members still seek permanent employment as of 2025]
+
+21o. Mary C. Brinton, *Lost in Transition: Youth, Work, and Instability in Postindustrial Japan* (Cambridge: Cambridge University Press, 2011). [Academic context on employment ice age generation]
 
 22. Goodfriend, M. (2007). "How the World Achieved Consensus on Monetary Policy." *Journal of Economic Perspectives,* 21(4), 47–68.
 23. Hanke, S. H., & Krus, N. (2013). "World Hyperinflations." In R. Parker & R. Whaples (Eds.), *Handbook of Major Events in Economic History.* Routledge.
@@ -83,6 +98,43 @@ The modern fiat system, born from the gold standard's collapse, represents the c
 37e. Feyrer, J., & Sacerdote, B. (2013). "Does the US Fiscal Union Help Stabilize State Government Finances?" *American Economic Review Papers and Proceedings*, 103(3), 354-359 (25% US federal redistribution vs. 1% EU budget).
 37f. Varoufakis, Y. (2013). "From Contagion to Incoherence: Towards a Model of the Unfolding Eurozone Crisis." *Contributions to Political Economy*, 32(1), 51-71; Keynes, J.M. (1925). "The Economic Consequences of Mr. Churchill." In *Collected Writings*, Volume IX, pp. 207-230.
 37g. Hodson, D. (2020). "EU's Most Influential Economic Policy-maker: Mario Draghi at the European Central Bank." *European Journal of International Law*, 31(1), 345-366 (Draghi "whatever it takes" July 26, 2012).
+
+**2021-22 Inflation: Supply-Side Analysis:**
+40a. Center on Budget and Policy Priorities, "Tracking the Post-Great Recession Economy," accessed November 8, 2025, https://www.cbpp.org/research/economy/tracking-the-post-great-recession-economy. [2008 output gap: -7.6% Q4 2008; core inflation 1.4% average 2010-2014]
+
+40b. U.S. Bureau of Labor Statistics, "Unemployment Rate [UNRATE]," retrieved from FRED, Federal Reserve Bank of St. Louis, accessed November 8, 2025, https://fred.stlouisfed.org/series/UNRATE. [Unemployment 10.0% October 2009; 3.9% December 2021]
+
+40c. Board of Governors of the Federal Reserve System (US), "Capacity Utilization: Total Index [TCU]," retrieved from FRED, Federal Reserve Bank of St. Louis, accessed November 8, 2025, https://fred.stlouisfed.org/series/TCU. [2021 output gap -0.5%, turned positive 2022]
+
+40d. S&P Global Mobility, "The Semiconductor Shortage Is – Mostly – Over for the Auto Industry," June 2023, https://www.spglobal.com/mobility/en/research-analysis/the-semiconductor-shortage-is-mostly-over-for-the-auto-industry.html. [11.3 million vehicles removed from 2021 production, lead times 3-4 months to 12+ months]
+
+40e. Wikipedia contributors, "2020–2023 Global Chip Shortage," *Wikipedia, The Free Encyclopedia*, accessed November 8, 2025, https://en.wikipedia.org/wiki/2020–2023_global_chip_shortage. [$110 billion lost output by May 2021; GM, Toyota, Stellantis shutdowns; 1,300 Eisenach workers laid off]
+
+40f. NASA Earth Observatory, "Waiting to Unload," October 14, 2021, https://earthobservatory.nasa.gov/images/148956/waiting-to-unload. [73 ships waiting September 19, 2021; 10-day average wait times]
+
+40g. United Nations Conference on Trade and Development, "Case Study 1: Ports of Los Angeles and Long Beach, United States," accessed November 8, 2025, https://resilientmaritimelogistics.unctad.org/guidebook/case-study-1-ports-los-angeles-and-long-beach-united-states. [China-US transit times increased 82% from July 2020 to December 2021: 44 to 80 days]
+
+40h. CNN Business, "Everything You're Waiting for Is in These Containers," October 20, 2021, https://www.cnn.com/2021/10/20/business/la-long-beach-port-congestion-problem-national-impact/index.html. [87 ships October 2021; $238 billion freight immobilized]
+
+40i. U.S. Energy Information Administration, "Crude Oil Prices Rise Above $100 Per Barrel After Russia's Further Invasion into Ukraine," *Today in Energy*, March 4, 2022, https://www.eia.gov/todayinenergy/detail.php?id=55020. [February 24, 2022 invasion; WTI $110/barrel March 4]
+
+40j. U.S. Energy Information Administration, "Energy Commodity Prices in 2022 Showed Effects of Russia's Full-Scale Invasion of Ukraine," *Today in Energy*, February 21, 2023, https://www.eia.gov/todayinenergy/detail.php?id=55059. [45% oil price increase in 2 months; Russia 12% global oil production]
+
+40k. Federal Reserve Bank of St. Louis, "The Ukraine War's Effects on US Commodity Prices," *FRED Blog*, October 2023, https://fredblog.stlouisfed.org/2023/10/the-ukraine-wars-effects-on-us-commodity-prices/. [Diesel PPI 109% higher June 2022 vs. June 2021; gasoline 85% higher]
+
+40l. Federal Reserve Board, "Excess Savings During the COVID-19 Pandemic," *FEDS Notes*, October 21, 2022, https://www.federalreserve.gov/econres/notes/feds-notes/excess-savings-during-the-covid-19-pandemic-20221021.html. [$2.1-2.5 trillion excess savings by mid-2021; services spending down 20%]
+
+40m. U.S. Government Accountability Office, "Stimulus Checks: Direct Payments to Individuals During the COVID-19 Pandemic," GAO-22-106044, April 2022, https://www.gao.gov/products/gao-22-106044. [$814 billion in stimulus checks distributed April 2020-March 2021]
+
+40n. Federal Reserve Bank of San Francisco, "The Rise and Fall of Pandemic Excess Savings," *Economic Letter* 2023-11, May 8, 2023, https://www.frbsf.org/research-and-insights/publications/economic-letter/2023/05/rise-and-fall-of-pandemic-excess-savings/. [Excess savings distribution; wealth effects]
+
+40o. Federal Reserve Bank of Dallas, "How Did Federal Stimulus Recipients Use Their Checks?" *Economic Letter* 17, no. 2 (2022), https://www.dallasfed.org/research/economics/2022/0111. [Furniture 34.5% increase in wallet share; spending patterns by income]
+
+40p. Zheng Liu and Thuy Lan Nguyen, "Global Supply Chain Pressures and U.S. Inflation," *FRBSF Economic Letter* 2023-14, June 5, 2023, https://www.frbsf.org/research-and-insights/publications/economic-letter/2023/06/global-supply-chain-pressures-and-us-inflation/. [Supply disruptions 60% of above-trend inflation; GSCPI 4+ standard deviations]
+
+40q. Federal Reserve Board, "Supply Chain Constraints and Inflation," *FEDS Working Paper* 2023-075, 2023, https://www.federalreserve.gov/econres/feds/supply-chain-constraints-and-inflation.htm. [Binding capacity constraints explained 50% of inflation increase]
+
+40r. Federal Reserve Bank of Cleveland, "The Impacts of Supply Chain Disruptions on Inflation," *Economic Commentary* 2023-08, August 8, 2023, https://www.clevelandfed.org/publications/economic-commentary/2023/ec-202308-impacts-supply-chain-disruptions-on-inflation. [Supply and demand shocks each ~50% of 2021 PPI inflation]
 
 **QE Distributional Analysis:**
 36. Board of Governors of the Federal Reserve System. (Various years). *Flow of Funds Accounts* and *Survey of Consumer Finances.* [Asset ownership distribution data]

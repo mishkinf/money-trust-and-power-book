@@ -54,5 +54,33 @@ In July 1944, 730 delegates from 44 nations gathered at Mount Washington Hotel t
 51. Eichengreen, B. (1996). *Globalizing Capital: A History of the International Monetary System.* Princeton University Press.
 52. Bordo, M. D., & Eichengreen, B. (Eds.). (1993). *A Retrospective on the Bretton Woods System.* University of Chicago Press.
 52a-g. [Detailed economic statistics and analysis of Bretton Woods success period]
+
+**Triffin Dilemma Sidebar - Gold Reserve and Dollar Liability Figures:**
+
+53. Triffin, R. (1960). *Gold and the Dollar Crisis: The Future of Convertibility.* Yale University Press. [Original identification of the structural contradiction]
+
+53b. U.S. gold reserves 1949-50: **$24.6 billion** (peak holdings)
+- Source: U.S. Department of the Treasury, Annual Report of the Secretary of the Treasury (1950)
+- Federal Reserve historical statistics via FRED database
+
+53c-e. Foreign dollar claims exceeded U.S. gold reserves by 1962
+- Source: Triffin, R. (1960). *Gold and the Dollar Crisis*, pp. 47-68
+- International Monetary Fund, *International Financial Statistics* (1962)
+
+53g-h. 1966 gold reserves: **$13.2 billion**; Central bank dollar holdings: **$14 billion** (94% backing ratio)
+- Source: Federal Reserve Bulletin, March 1967, "U.S. International Transactions"
+- Board of Governors of the Federal Reserve System statistical releases
+
+53i. March 1968 gold reserves: **$10.7 billion** (after London Gold Pool hemorrhaged $3 billion)
+- Source: Bordo, M. D., Monnet, E., & Naef, A. (2017). "The Gold Pool (1961–1968) and the Fall of the Bretton Woods System." NBER Working Paper No. 24016
+
+53j. August 15, 1971 final figures: **$10 billion** gold reserves vs. **$80 billion** foreign dollar liabilities (12.5% backing ratio)
+- Source: Nixon, R. M. (1971). "Address to the Nation Outlining a New Economic Policy." August 15, 1971
+- Federal Reserve Bulletin, September 1971
+- Gowa, J. (1983). *Closing the Gold Window: Domestic Politics and the End of Bretton Woods.* Ithaca: Cornell University Press, pp. 67-92
+
+53g. Britain's **$3 billion** conversion request (August 11, 1971) and Volcker quote: "If the British…were going to take gold for their dollars, it was clear the game was indeed over."
+- Source: Volcker, P. A., & Gyohten, T. (1992). *Changing Fortunes: The World's Money and the Threat to American Leadership.* New York: Times Books, p. 76
+
 56. Federal Reserve History. (Various dates). "The Bretton Woods Conference, 1944." Federal Reserve Bank articles.
 57. Skidelsky, R. (2000). *John Maynard Keynes: Fighting for Freedom, 1937-1946.* New York: Viking.

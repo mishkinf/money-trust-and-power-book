@@ -457,3 +457,21 @@ Then, in 1821, Britain chose to return to gold anyway. The decision triggered a 
 The evidence was undeniable: twenty-four years of successful fiat currency followed immediately by catastrophic deflation when gold was restored. The lesson was clear: gold was the problem, not the solution. Yet within a generation, this empirical proof would be completely erased from economic memory. Respectable economists would insist that the 1821 return to gold had been necessary and wise, that the deflation was a painful but inevitable adjustment, that paper money without gold backing was inherently dangerous.
 
 Understanding how that forgetting happened—who benefited from it, how contrary evidence was suppressed, and why economists chose theory over empirical proof—is the subject of the next chapter.
+
+---
+
+### Gold's First Crisis
+
+The gold standard that Newton accidentally created in 1717 would dominate monetary thinking for two centuries. By 1900, every major economy had adopted it—Germany in 1871, France through the Latin Monetary Union, the United States with the Coinage Act of 1873. The system appeared triumphant, vindicated by decades of economic growth and price stability. Classical economists celebrated gold as the natural monetary order, self-regulating through the price-specie flow mechanism, requiring no human intervention beyond maintaining convertibility.
+
+But within eighty years of Newton's mint adjustment, Britain would face a test that exposed gold's fundamental limitation: war.
+
+When revolutionary France threatened invasion in February 1797, Britain confronted an impossible choice. The Bank of England's gold reserves were draining away—partly to finance war operations on the Continent, partly from domestic panic as merchants and landowners scrambled to convert notes into gold. Maintaining convertibility would mean exhausting reserves within weeks, leaving the nation defenseless. Yet suspending convertibility meant abandoning the system that underlay Britain's financial credibility.
+
+Parliament chose survival over orthodoxy. On February 26, 1797, the Bank Restriction Act suspended gold payments. What was announced as a temporary measure "for the duration of the emergency" would last twenty-four years—longer than the Napoleonic Wars themselves, longer than the Restriction Period's architects could have imagined, and long enough to prove something revolutionary about money's true nature.
+
+This unintentional experiment would demonstrate that paper currency worked without gold backing, that institutional credibility mattered more than commodity backing, and that economies could function—indeed, could wage and win the largest war in European history—on pure fiat money. The evidence was empirical, undeniable, and systematic. For twenty-four years, Britain operated the world's largest economy without a gold standard. Prices remained relatively stable. Trade continued. Credit functioned. The currency held domestic and international value.
+
+Then Britain chose to return to gold anyway. The decision triggered deflation so catastrophic that wheat prices fell 50% in three years, destroying farmers who had expanded during wartime prosperity and workers whose wages collapsed along with prices. The human cost was devastating—and entirely preventable.
+
+The next chapter traces this forgotten episode—how paper money vindicated itself during the greatest test imaginable, how the evidence was systematically erased from economic memory, and how the choice to restore gold revealed who the monetary system truly served.

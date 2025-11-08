@@ -181,6 +181,14 @@ Critics called it default. The Supreme Court, in the *Consolidated Gold Clause C
 
 Roosevelt's policies were controversial and remain so. But they demonstrated a crucial truth: **gold was not necessary for monetary stability**. What mattered was the government's ability to manage the money supply, maintain employment, and restore confidence. Gold had been a constraint, not a foundation.
 
+Yet Roosevelt's break from gold solved America's immediate crisis while creating a future dilemma economist Robert Triffin would identify in 1959. If the dollar became the world's reserve currency—as it would after World War II—America would face an impossible contradiction: **The world would need dollars for trade and reserves, requiring America to run balance-of-payments deficits. But persistent deficits would undermine confidence in the dollar's gold backing.**
+
+This wasn't policy error but structural impossibility—like being asked to simultaneously sit and stand. Supply enough dollars for global trade, and gold reserves become inadequate. Restrict dollars to maintain gold backing, and the world economy deflates for lack of liquidity. The mathematics were inexorable: once foreign dollar liabilities exceeded U.S. gold reserves, the system could survive only on confidence, not convertibility.
+
+We'll examine this "Triffin dilemma" in detail when we reach the Bretton Woods era in Chapter 11. For now, understand that Roosevelt's liberation from gold created new constraints—not material limits but coordination challenges that would define the next 70 years of international monetary politics. The gold window Nixon closed in 1971 was never sustainable; the only question was how long confidence would delay the inevitable collapse.
+
+But in 1933, as farmers regained their land and unemployment fell from 25% to 14.3% within Roosevelt's first year, these future contradictions seemed distant indeed. The immediate vindication was unmistakable: break from gold, and recovery begins. Cling to gold, and depression persists.
+
 ---
 
 ### Bretton Woods: the dollar's triumph

@@ -272,6 +272,38 @@ After £500 Loan to Fletcher:
 
 ---
 
+> **[UNDERSTANDING MECHANISM] How a £100 Loan Creates £100 of New Money**
+>
+> If the balance sheet diagrams above felt abstract, here's the same mechanism with simple numbers showing exactly how money appears:
+>
+> **Step 1: Before the Loan**
+> ```
+> Bank's Balance Sheet:
+>   Assets: £0  |  Liabilities: £0
+>
+> Merchant's Account:
+>   Balance: £0
+> ```
+>
+> **Step 2: Bank Makes £100 Loan (March 15, 1703)**
+> ```
+> Bank's Balance Sheet:
+>   Assets: £100 (merchant's IOU)  |  Liabilities: £100 (merchant's notes)
+>
+> Merchant's Account:
+>   Balance: £100 ← NEW MONEY, created by the loan
+> ```
+>
+> **Step 3: Key Insights**
+> - **No existing money was transferred** from depositors to borrower
+> - **The Bank didn't lend out anyone's savings**
+> - **The loan created the deposit** simultaneously
+> - **Total money supply increased by £100**
+>
+> This is why economists say "loans create deposits"—the act of lending literally creates new purchasing power that didn't exist before. When you get a mortgage today, your bank does exactly this: it creates money by making a ledger entry. The constraint isn't "where does the bank get the money?" but rather "does the economy have productive capacity to absorb this new purchasing power without inflation?"
+
+---
+
 ### Why It Worked Domestically: Taxation Creates Demand
 
 The Bank's notes circulated in England because **everyone eventually owed the government something**. Thomas Fletcher, our Bristol wool merchant, paid customs duties on his exports. A farmer in Yorkshire paid land tax every year. A gentleman in Bath paid window tax. All these obligations could be satisfied with Bank of England notes.²⁶
@@ -292,6 +324,12 @@ Think of it this way: if the government had to collect money before spending, wh
 Imagine you are a farmer in 1700s England. You grow wheat, raise sheep, make your own clothes. You could live entirely without money—except for one thing: the tax collector comes every year demanding £5 in Bank of England notes. Not wheat, not sheep, not labor—specifically those paper notes. Suddenly you **need** those notes. You must sell something for notes, or work for someone who pays in notes. The government created demand for its paper by requiring you to pay taxes with it.²⁹
 
 The principle was not new. Adam Smith had articulated it in *The Wealth of Nations* (1776), writing that "a prince, who should enact that a certain proportion of his taxes should be paid in a paper money of a certain kind, might thereby give a certain value to this paper money."³⁰
+
+The Bank of England's money creation worked because 18th-century Britain had **unused productive capacity**. When the Bank created money through lending to government or merchants, that money mobilized idle resources—workers seeking employment, ships awaiting cargo, workshops needing orders. Modern economists call this the **"output gap"**—the difference between what an economy is producing and what it could produce at full capacity. When money creation fills an output gap, it causes employment without inflation. When money creation exceeds capacity, it causes inflation without additional production.
+
+This principle explains why the Bank could expand credit during commercial booms without causing runaway inflation, and why restricting credit during panics caused deflation rather than stability. Money is not neutral—its quantity matters for mobilizing real resources. A tradesman in Bristol seeking work, a farmer with land lying fallow, a merchant with inventory unsold—all represented productive capacity ready to be activated by credit. The Bank's notes, backed by taxation authority, could mobilize these resources without bidding up prices because the resources existed but sat idle.
+
+The Currency School economists we'll meet in Chapter 8 missed this entirely, believing money supply should be rigidly tied to gold regardless of economic conditions. Their error—confusing monetary aggregates with real productive capacity—would cost millions their livelihoods when they imposed gold restrictions during periods of high unemployment.
 
 ---
 

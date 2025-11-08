@@ -219,6 +219,48 @@ Bancor would have eliminated this contradiction entirely.
 
 *Note: Robert Triffin identified this paradox in 1960, warning that Bretton Woods contained the seeds of its own destruction. He was right: by 1971, foreign dollar claims ($80B+) far exceeded US gold reserves ($10B), making the $35/oz promise mathematically impossible to keep. The system didn't fail due to policy errors—it failed due to design flaws that were visible from the start.*
 
+---
+
+> **[UNDERSTANDING MECHANISM] The Triffin Dilemma in Numbers**
+>
+> If the structural contradiction above feels abstract, here are the actual figures showing how the mathematics made collapse inevitable:
+>
+> **Starting Position (1949-50):**
+> - U.S. gold reserves: **$24.6 billion** (peak holdings)
+> - Foreign dollar claims: **~$8-10 billion** (modest)
+> - Gold backing ratio: **~250%** (comfortable surplus)
+> - System appears sustainable
+>
+> **Ten Years Later (1962):**
+> - World trade doubled, requiring more dollar liquidity
+> - U.S. ran deficits to supply dollars for global commerce
+> - Foreign dollar claims: **Exceeded gold reserves** for first time
+> - Gold backing ratio: **Below 100%** (convertibility becomes fiction)
+>
+> **Four Years Later (1966):**
+> - U.S. gold reserves: **$13.2 billion** (declining)
+> - Central bank dollar holdings: **$14 billion** (growing)
+> - Gold backing ratio: **94%** (can't honor all claims simultaneously)
+>
+> **After London Gold Pool Collapse (March 1968):**
+> - U.S. gold reserves: **$10.7 billion** (hemorrhaged $3 billion in crisis)
+> - Two-tier gold market created (implicit admission $35/oz unsustainable)
+>
+> **The Breaking Point (August 15, 1971):**
+> - U.S. gold reserves: **$10 billion**
+> - Foreign dollar liabilities: **$80 billion**
+> - Gold backing ratio: **12.5%** ← System mathematically insolvent
+>
+> **The Impossible Choice:**
+> - **Option A:** Stop running deficits to preserve gold backing
+>   → Result: Global deflation (world starved of dollar liquidity)
+> - **Option B:** Continue deficits to supply needed dollars
+>   → Result: Gold backing falls further → confidence collapses → run on dollar
+>
+> **Triffin's Proof:** This wasn't policy error but mathematical certainty. World trade grew exponentially; gold supply grew linearly. Eventually, dollar claims **must** exceed gold backing. Four days before Nixon closed the gold window, Britain requested conversion of **$3 billion**—proving the game was over.
+
+---
+
 **The Triffin Dilemma:**
 
 - **SOLVED**: No single currency needed for reserves
@@ -280,6 +322,21 @@ From pure economic design perspective, bancor solved problems the dollar standar
 4. **No "exorbitant privilege"** for any single nation—all countries operated under same rules⁴⁹ᵛ
 
 The system's economic logic was impeccable. White couldn't refute it on economic grounds. He opposed it on **political grounds**: it asked America to surrender advantages.⁴⁹ʷ
+
+> **[UNDERSTANDING-CHECK-11] Bancor vs. Dollar: The Fundamental Choice**
+>
+> If the bancor vs. dollar comparison feels complex, here's the essential difference presented as a simple table:
+>
+> | **Feature** | **Keynes's Bancor** | **White's Dollar Standard** |
+> |------------|---------------------|----------------------------|
+> | **Reserve Currency** | Supranational bancor (neutral) | U.S. dollar (American control) |
+> | **Liquidity** | Unlimited, expands with trade | Limited to U.S. deficits |
+> | **Adjustment Burden** | Symmetric (surplus & deficit countries) | Asymmetric (only deficit countries) |
+> | **Power Distribution** | Democratic international governance | U.S. veto power through IMF quotas |
+> | **Triffin Dilemma** | Eliminated by design | Structurally inevitable |
+> | **"Exorbitant Privilege"** | None—all nations equal | U.S. earns seigniorage on global reserves |
+>
+> **The Bottom Line:** Bancor was economically superior for the global system—preventing the mathematical contradictions that would break Bretton Woods in 1971. The dollar standard was politically superior for American power—allowing the U.S. to finance deficits by printing the world's reserve currency. America chose national advantage over systemic stability, gaining 27 years of dollar dominance (1944-1971) in exchange for eventual crisis.
 
 ---
 
@@ -450,3 +507,17 @@ Keynes bet that reason would defeat power. He lost. But he was right about the c
 ---
 
 The next chapter examines how the compromise unraveled—how mathematical impossibility transformed into political crisis, how allies became adversaries testing American promises, and how Nixon's "temporary" closure of the gold window became permanent, ending the gold standard forever and inaugurating the age of pure fiat.
+
+---
+
+### Why Bretton Woods' Design Mattered
+
+The system Harry White built at Bretton Woods appeared to vindicate American power. For 27 years—from 1946 until Nixon closed the gold window in 1971—it delivered unprecedented prosperity. Global GDP grew at 4.9% annually, international trade expanded at 8.2% per year, and inflation remained moderate across developed economies. This was the "Golden Age of Capitalism," and it rested on the foundation of the dollar-gold system.
+
+Yet the structural contradiction Robert Triffin identified in 1959 was always there, embedded in the system's architecture. The world needed growing dollar supplies to finance expanding trade, but dollar convertibility required limiting supply to match America's gold reserves. These requirements were mathematically incompatible. Once foreign dollar holdings exceeded U.S. gold reserves—which occurred around 1964—the system survived on confidence alone. Any major economy that chose to test America's convertibility promise could trigger collapse.
+
+This wasn't policy error or bad luck—it was structural design flaw. The tragedy is that it was avoidable. Keynes's bancor would have prevented the contradiction by creating a supranational reserve currency divorced from any single nation's gold holdings or domestic policy constraints. But America held 80% of the world's gold in 1944, and power trumped economic logic.
+
+What makes Bretton Woods' collapse instructive is not that it failed—Triffin proved failure was mathematically inevitable—but how it failed. When the crisis came, it came through specific actors testing specific promises at specific moments. France would demand gold conversion. Britain would face a sterling crisis requiring massive bailouts. Speculators would attack currencies knowing central banks couldn't defend fixed rates indefinitely. Each test would drain U.S. reserves, moving the crossover point closer until confidence finally broke.
+
+The next chapter traces that breaking—not as abstract policy failure but as diplomatic warfare, bank runs on the dollar, and Nixon's desperate August decision. The story is one of allies becoming adversaries, mathematical certainty becoming political crisis, and temporary emergency measures becoming permanent system transformation. Understanding how Bretton Woods died reveals why the pure fiat system that replaced it operates as it does today.

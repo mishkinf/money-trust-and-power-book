@@ -6,6 +6,7 @@ Count words in the book manuscript, excluding non-prose elements:
 - Part titles (e.g., "PART I: THE ORIGINS OF CREDIT MONEY")
 - Visual aids (ASCII charts, diagrams in code blocks)
 - Guide posts (blockquoted Understanding Check sections)
+- Pedagogical sidebars (blockquoted UNDERSTANDING MECHANISM sections)
 - Data tables and metadata sections
 - Organizational headers (ALL CAPS section markers)
 - Footnote markers (¹, ², ³, superscript letters)
@@ -37,8 +38,9 @@ def count_words_excluding_sources(file_path):
         # Remove organizational section headers (ALL CAPS headers like "FAILED FIAT SYSTEMS:")
         content = re.sub(r'^\*{0,2}[A-Z][A-Z\s]+[A-Z]:\*{0,2}\s*$', '', content, flags=re.MULTILINE)
         
-        # Remove visual aids and guide posts (blockquoted sections)
+        # Remove visual aids, guide posts, and pedagogical sidebars (blockquoted sections)
         # These are marked with > at the start of lines
+        # Includes: Understanding Check sections, UNDERSTANDING MECHANISM sidebars, etc.
         content = re.sub(r'^>.*?(?=\n[^>]|\n*$)', '', content, flags=re.MULTILINE | re.DOTALL)
         
         # Remove code blocks (includes ASCII charts and data tables)
@@ -107,8 +109,8 @@ def main():
     total_words = 0
     print("\n" + "="*70)
     print("WORD COUNT REPORT - Narrative Prose Only")
-    print("Excludes: Chapter premises, visual aids, guide posts, tables,")
-    print("          metadata, organizational headers, footnotes, sources")
+    print("Excludes: Chapter premises, visual aids, guide posts, sidebars,")
+    print("          tables, metadata, organizational headers, footnotes, sources")
     print("="*70 + "\n")
     
     for file_rel_path in files:
