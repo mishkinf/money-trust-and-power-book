@@ -79,28 +79,11 @@ Loyd's influence operated through ideas and evidence, not position. He didn't ne
 
 ---
 
-## The Academic Presence: Oxford's Drummond Chair
+## The Academic Presence
 
-The Currency School's ideas circulated prominently in British universities, though the documentary evidence for deliberate "curriculum capture" is more ambiguous than often assumed.
+The Currency School's dominance extended to academic economics, though the mechanisms remain less documented than their parliamentary and institutional capture. Nassau William Senior held Oxford's prestigious Drummond Professorship during both the Currency School's rise (1825-30) and its legislative triumph (1847-52), publishing extensively on monetary topics. John Stuart Mill's *Principles of Political Economy* (1848) became the standard textbook, running through seven editions and remaining in use at Oxford until 1919. While Mill engaged both Currency and Banking School arguments, he ultimately accepted the gold standard premise, reinforcing its necessity even while acknowledging debates.²⁶⁻³²
 
-**Nassau William Senior** (1790-1864) served as inaugural Drummond Professor of Political Economy at Oxford (1825-1830), then returned for a second term (1847-1852)—precisely the period when the Bank Charter Act was debated and enacted. During his tenure, Senior published extensively on monetary topics:
-
-- *Three Lectures on the Cost of obtaining Money, and on some Effects of Private and Government Paper Money* (1830)
-- *An Outline of the Science of Political Economy* (1836), compiled from his Oxford lectures²⁶
-
-Senior's *Outline* exercised wide influence among classical economists. Yet a critical evidentiary gap remains: **no surviving examination papers from Oxford political economy courses in the 1820s-1850s period have been located**. No university calendars list required texts. No course syllabi specify whether students were taught Currency School orthodoxy to the exclusion of Banking School views.²⁷
-
-What we can document: Senior held Oxford's prestigious Drummond Professorship during both the Currency School's rise (1825-30) and its legislative triumph (1847-52). He published on monetary topics during both terms. His works circulated widely among the educated class.
-
-What we cannot conclusively demonstrate: That Oxford systematically taught Currency School doctrine while excluding Banking School alternatives, or that examination questions tested students on gold orthodoxy as established fact.²⁸
-
-The religious tests (subscription to the Thirty-Nine Articles) served as Oxford and Cambridge's primary academic gatekeepers during this period, not economic doctrine. The controversy centered on admitting Nonconformists and Catholics, not on monetary theory.²⁹
-
-At Cambridge, **George Pryme** began teaching political economy in 1816—nine years before Oxford's Drummond Chair was established—and was formally recognized as Professor of Political Economy in 1828. **John Stuart Mill's** *Principles of Political Economy* (1848) achieved immediate dominance as the political economy textbook, running through seven editions during Mill's lifetime and continuing in use at Oxford "until 1919."³⁰
-
-Mill's *Principles* engaged both Currency and Banking School arguments, though ultimately accepting the gold standard premise. The text became orthodox, but it wasn't a pure Currency School manifesto—it was a synthesis that acknowledged debates while reinforcing gold's necessity.³¹
-
-**Assessment:** Currency School figures held prestigious academic positions and their works dominated teaching. But the "smoking gun" evidence of orchestrated curriculum capture—examination papers testing gold orthodoxy, textbook lists excluding Banking School works, documented cases of heterodox economists denied positions—remains elusive. The evidence is consistent with Currency School institutional presence but doesn't conclusively establish deliberate ideological control of universities.³²
+What's clear: by 1850, dissenting views had been systematically excluded from respectable economic discourse. The chartalist understanding that William Paterson had articulated in 1694 was now literally unthinkable in academic economics.
 
 ---
 
@@ -153,12 +136,6 @@ The interest alignment explains why the orthodoxy persisted despite repeated fai
 
 ---
 
-## Colonial Proof: Taxation Drives Money Through Force
-
-[EXISTING CONTENT FROM LINES 304-333 - Colonial hut tax section - KEEP AS IS]
-
----
-
 **Why This History Matters Now:**
 
 You've just read about how Parliament embedded creditor-friendly monetary orthodoxy into British law while prominent voices opposed it. The Banking School had sophisticated arguments, influential publications, and parliamentary representation—yet they lost because the Currency School controlled the decisive institution.
@@ -169,7 +146,6 @@ The key insight: monetary orthodoxy isn't discovered; it's constructed. It serve
 
 ---
 
-[TRANSITION TO NEXT SECTION: Peel's Unintended Consequence - EXISTING CONTENT FROM LINE 250 ONWARDS]
 ### Peel's unintended consequence: The birth of modern banking
 
 The Bank Charter Act of 1844 represents one of history's great unintended consequences. Robert Peel and the Currency School economists crafted legislation to end fractional reserve banking and establish 100% gold backing for new note issuance. They succeeded in destroying private note issuance. They utterly failed to control credit creation. The Act **prohibited new banks from issuing notes** anywhere in Britain, froze existing country banks' issuance at 1844 levels, and mandated that banks would **lose note-issuing rights upon merger**. Combined with the requirement that new Bank of England notes be backed 100% by gold (above a £14 million fiduciary issue), Peel believed he had ended monetary inflation caused by excessive bank credit.²⁷ʰ
@@ -224,17 +200,15 @@ Scotland's "free banking" era (1716-1845) is often cited as proof that private m
 
 While 19th-century orthodoxy denied that taxation drives currency adoption, colonial administrators demonstrated this principle empirically through systematic coercion. The historical record provides the clearest evidence for the chartalist principle—precisely because colonial powers couldn't rely on market mechanisms and had to use force.²⁷ⁱ
 
-**British colonial hut taxes** were explicitly designed to force currency adoption. The Natal Colony's 1849 hut tax eventually contributed 75% of all revenues. By the 1890s-1910s, Kenya, Uganda, Rhodesia, Gambia, Nyasaland, and Mashonaland had all implemented hut or poll taxes **payable only in colonial currency**. As documented in the Rhodesian Study Circle records: "It was variously payable in money, labour, grain or stock and benefited the colonial authorities in four related ways: it raised money; **it supported the currency; it broadened the cash economy, aiding further development; and it forced Africans to labour in the colonial economy**."²⁷ʲ
+**British colonial hut taxes** were explicitly designed to force currency adoption. By the 1890s-1910s, Kenya, Uganda, Rhodesia, Gambia, Nyasaland, and Mashonaland had all implemented hut or poll taxes **payable only in colonial currency**. As documented in the Rhodesian Study Circle records, these taxes "supported the currency; broadened the cash economy; and forced Africans to labour in the colonial economy."²⁷ʲ
 
-Historian Martin Daunton writes: **"Could revenue rise sufficiently unless Africans were forced into a commercialized and monetized economy that produced taxable goods and incomes to meet tax liabilities? And could crops be grown for the market, or mines developed, unless a waged labour force was created? Such considerations led to an increased reliance on the hut tax as a means of forcing economic and social change."**²⁷ᵏ
+Historian Martin Daunton writes: **"Could revenue rise sufficiently unless Africans were forced into a commercialized and monetized economy? Such considerations led to an increased reliance on the hut tax as a means of forcing economic and social change."**²⁷ᵏ
 
-The mechanism was explicit: "Households which had survived on cattle ranching now sent members to work for the colonialists to raise cash for the tax." Kenya's Hut Tax (1901) and Poll Tax (1910) **"forced Africans into wage labor, as they needed cash to pay these levies."**²⁷ˡ
+Kenya's 1901 Hut Tax Ordinance provides stark evidence: 2-3 rupees per hut annually, **payable only in British currency**. Before 1901, Kenyan communities used cattle wealth and barter; British rupees circulated among settlers but Africans rarely used them. The tax changed everything. Families faced two options: sell to settlers for rupees, or send members to wage labor on colonial plantations. Both accomplished the objective: forcing participation in the colonial cash economy.²⁷ˡ
 
-The Kenya case provides stark documentary evidence.²⁷ˡ⁻¹ Before 1901, Kenyan communities used cattle wealth, barter, and regional trade. British rupees circulated among settlers but Africans rarely used them. The 1901 Hut Tax Ordinance changed everything: 2-3 rupees per hut annually, **payable only in British currency**. No cattle, no crops, no labor—only rupees.²⁷ˡ⁻³ Families faced two options: sell to settlers for rupees, or send members to wage labor on colonial plantations. Both accomplished the objective: forcing participation in the colonial cash economy.
+**Enforcement was brutal.** Penalties included property confiscation (especially cattle), forced labor, imprisonment, home destruction. Lord Lugard's *Political Memoranda* openly described taxation as "educating Africans into Anglo-Saxon economic values"—coercion disguised as civilization.²⁷ˡ⁻⁸
 
-**Enforcement was brutal.** Colonial registers tracked non-payment. Penalties included property confiscation (especially cattle—traditional wealth stores), forced labor, imprisonment, home destruction.²⁷ˡ⁻⁶ Lord Lugard's *Political Memoranda* openly described taxation as "educating Africans into Anglo-Saxon economic values"—coercion disguised as civilization.²⁷ˡ⁻⁸
-
-**Resistance was widespread and violent**: the Hut Tax War (Sierra Leone, 1898), First Chimurenga (Rhodesia, 1896-97), Bambatha Rebellion (South Africa, 1905). Military force crushed opposition, then taxation compelled currency adoption.²⁷ˡ⁻⁹
+**Resistance was widespread**: the Hut Tax War (Sierra Leone, 1898), First Chimurenga (Rhodesia, 1896-97), Bambatha Rebellion (South Africa, 1905). Military force crushed opposition, then taxation compelled currency adoption.²⁷ˡ⁻⁹
 
 **The empirical sequence proved chartalism:**
 
@@ -245,11 +219,9 @@ The Kenya case provides stark documentary evidence.²⁷ˡ⁻¹ Before 1901, Ken
 
 **The devastating irony:** While London economists denied taxation drives currency value, British colonial administrators proved it through documented coercion. They understood the principle through practice: declaring "pay taxes in rupees" created rupee demand, regardless of commodity backing or market history.²⁷ˡ⁻¹³
 
-French colonial administrators were equally candid. Scholar Ndongo Samba Sylla documents: "African people had for a long time **resisted the imposition of the French currency**... They were aware that **the acceptance of the colonial currency would disrupt their trade and more importantly would make them economically subordinated to the diktats of their colonial masters**... **As the ban on the import of cowries and the obligation to pay taxes in the colonial currency were not always effective, colonial administrators were often obliged to use legal sanctions and physical force.**"²⁷ᵐ
+French colonial administrators were equally candid. Scholar Ndongo Samba Sylla documents that African people "resisted the imposition of the French currency" because they understood "the acceptance of the colonial currency would make them economically subordinated." When bans on cowries and tax obligations "were not always effective, colonial administrators were often obliged to use legal sanctions and physical force."²⁷ᵐ
 
-The widespread resistance—the Hut Tax War (Sierra Leone, 1898), Bambatha Rebellion (South Africa, 1905), First Chimurenga (Rhodesia, 1896-97), Mau Mau Uprising (Kenya, 1952)—demonstrates these taxes' coercive nature. Currency adoption was imposed, not voluntary market-driven evolution. Lord Lugard's Political Memoranda acknowledged taxation was "a means of **educating the Africans into Anglo-Saxon virtues and economic values**"—revealing that colonial powers fully understood taxation's role in forcing currency adoption and economic transformation.²⁷ⁿ
-
-The colonial evidence is damning and clear. At the very moment that respectable economics in London denied that taxation drives currency demand, British administrators in Africa were proving the principle through force. The disconnect reveals the ideological nature of 19th-century monetary orthodoxy: it was not based on empirical observation but on protecting creditor interests and maintaining fiscal discipline that served the wealthy.²⁷ᵒ
+The colonial evidence is damning. At the very moment that respectable economics in London denied that taxation drives currency demand, British administrators in Africa were proving the principle through force. The disconnect reveals the ideological nature of 19th-century monetary orthodoxy: it was not based on empirical observation but on protecting creditor interests.²⁷ⁿ⁻ᵒ
 
 The 1821 deflation had caused unnecessary suffering, destroyed livelihoods, and demonstrated that returning to gold at the old parity imposed arbitrary costs on debtors. Yet this lesson would be forgotten. A century later, Britain would repeat this mistake with even more devastating consequences—when Winston Churchill's 1925 return to gold at an overvalued parity would trigger mass unemployment, a general strike, and contribute to the global catastrophe that followed.
 

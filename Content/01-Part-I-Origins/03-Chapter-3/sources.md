@@ -27,6 +27,16 @@ Early modern monarchs faced an impossible dilemma: war required credit, but cred
 17. Roseveare, H. (1991). *The Financial Revolution 1660–1760.* Longman.
 17a. NatWest Group Heritage Hub. "Edward Backwell." [https://www.natwestgroup.com/heritage/people/edward-backwell.html](https://www.natwestgroup.com/heritage/people/edward-backwell.html)
 17b. Davies, G. (1994). *A History of Money: From Ancient Times to the Present Day.* University of Wales Press.
+17c. Horsefield, J. Keith. (1982). "The 'Stop of the Exchequer' Revisited." *Economic History Review* 35(4): 511-528. https://doi.org/10.2307/2595405
+17d. Price, F. G. Hilton. (1890). "Some Account of the Business of Alderman Edward Backwell, Goldsmith and Banker in the 17th Century." *Transactions of the London & Middlesex Archaeological Society* 6: 191-230.
+17e. Aylmer, G. E. (2004). "Vyner [Viner], Sir Robert, Baronet." *Oxford Dictionary of National Biography.* Oxford University Press. https://doi.org/10.1093/ref:odnb/28318
+17f. Kim, Jongchul. (2011). "How Modern Banking Originated: The London Goldsmith-Bankers' Institutionalisation of Trust." *Business History* 53(6): 939-959. https://doi.org/10.1080/00076791.2011.578132
+17g. Burnet, Gilbert. (1823). *History of His Own Time.* Edited by Martin Joseph Routh. 6 vols. Oxford: At the Clarendon Press.
+17h. *Calendar of Treasury Books, Volume 3, 1669-1672.* Edited by William A. Shaw. London: His Majesty's Stationery Office, 1908. British History Online. https://www.british-history.ac.uk/cal-treasury-books/vol3
+17i. *Calendar of Treasury Books, Volume 4, 1672-1675.* Edited by William A. Shaw. London: His Majesty's Stationery Office, 1909. British History Online. https://www.british-history.ac.uk/cal-treasury-books/vol4
+17j. Quinn, Stephen. (1997). "Goldsmith-Banking: Mutual Acceptance and Interbanker Clearing in Restoration London." *Explorations in Economic History* 34(4): 411-432. https://doi.org/10.1016/S0014-4983(97)90682-3
+17k. Melton, Frank T. (1986). *Sir Robert Clayton and the Origins of English Deposit Banking, 1658-1685.* Cambridge: Cambridge University Press.
+17l. Archives Hub. "Records of Edward Backwell (c.1618-83), Goldsmith Banker." https://archiveshub.jisc.ac.uk/search/archives/82a1e83d-8013-3e1c-ae72-a62d9275eb51
 18. Dickson, P. G. M. (1967). *The Financial Revolution in England: A Study in the Development of Public Credit, 1688–1756.* Macmillan.
 19. Bonney, R. (1981). *The King's Debts: Finance and Politics in France, 1589–1661.* Oxford University Press.
 20. Tracy, J. D. (1985). *A Financial Revolution in the Habsburg Netherlands.* University of California Press.

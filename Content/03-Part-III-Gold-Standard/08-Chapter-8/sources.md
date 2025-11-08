@@ -13,6 +13,11 @@ Between 1800-1850, earlier understandings of money creation were systematically 
 ²⁷ᵃ **Birmingham Political Union and Monetary Reform Context:**
 - Checkland, S. G. (1948). "The Birmingham Economists, 1815-1850." *Economic History Review*, New Series, 1(1), 1-19.
 - Money, L. G. Chiozza. (1920). *Riches and Poverty, 1910-1925: A Study of Present-Day Economics*. London: Methuen & Co. [Attwood biographical details and political organizing]
+- Wakefield, C. M. (1885). *Life of Thomas Attwood.* London: Privately printed. Available at Internet Archive. https://archive.org/stream/lifeofthomasattw00wakeuoft/lifeofthomasattw00wakeuoft_djvu.txt
+- Briggs, Asa. (1948). "Thomas Attwood and the Economic Background of the Birmingham Political Union." *Cambridge Historical Journal* 9(2): 190-216. JSTOR. https://www.jstor.org/stable/3020620
+- Moss, D. J. (1990). *Thomas Attwood: The Biography of a Radical.* Montreal: McGill-Queen's University Press.
+- Flick, Carlos. (1978). *The Birmingham Political Union and the Movements for Reform in Britain, 1830-1839.* Hamden, CT: Archon Books. Available at Internet Archive. https://archive.org/details/birminghampoliti0000flic
+- UK Parliament. "Thomas Attwood and the Birmingham Political Union." https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/case-study/the-right-to-vote/thomas-attwood-and-the-birmingham-political-union/birmingham-political-union/
 
 ²⁷ᵇ **Deflation's Impact on Birmingham Manufacturing:**
 - Taylor, A. J. P. (1965). *English History, 1914-1945.* Oxford: Clarendon Press. [Contextual analysis of industrial depression patterns]
@@ -84,10 +89,18 @@ Between 1800-1850, earlier understandings of money creation were systematically 
 
 ### Currency School vs. Banking School Debate
 
+**Currency School Institutional Capture:**
+- Eltis, Walter. (2001). "Lord Overstone and the Establishment of British Nineteenth-Century Monetary Orthodoxy." Discussion Papers in Economic and Social History 42. Oxford: University of Oxford. https://www.nuff.ox.ac.uk/Economics/History/paper42/42eltis.pdf
+- O'Brien, D. P., ed. (1971). *The Correspondence of Lord Overstone.* 3 vols. Cambridge: Cambridge University Press.
+- Fetter, Frank Whitson. (1965). *Development of British Monetary Orthodoxy, 1797-1875.* Cambridge, MA: Harvard University Press. Internet Archive: https://archive.org/details/developmentofbri0000fett_j0u3
+- History of Parliament Online. "LOYD, Samuel Jones (1796-1883)." https://www.historyofparliamentonline.org/
+- Great Britain. Parliament. *Parliamentary Papers* (PP). Select Committees on Bank Acts: 1832, 1840, 1848 (Commons), 1848 (Lords), 1857.
+
 **Currency School Publications:**
 - Ricardo, David. (1810). *The High Price of Bullion, a Proof of the Depreciation of Bank Notes.* London: John Murray.
 - Loyd, Samuel Jones [Lord Overstone]. (1840). *Remarks on the Management of the Circulation.* London: Pelham Richardson.
 - Loyd, Samuel Jones. (1844). *Thoughts on the Separation of the Departments of the Bank of England.* London: Pelham Richardson.
+- Overstone, Lord. (1837). "Reflections suggested by a perusal of Mr J. Horsley Palmer's Pamphlet." Reprinted in *Tracts and Other Publications on Metallic and Paper Currency*, edited by J. R. McCulloch. London, 1857; Clifton, NJ: Augustus Kelley, 1972.
 
 **Banking School Responses:**
 - Tooke, Thomas. (1844). *An Inquiry into the Currency Principle.* 2nd ed. London: Longman, Brown, Green, and Longmans.
