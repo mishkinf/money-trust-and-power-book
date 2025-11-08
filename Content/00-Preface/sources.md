@@ -1,5 +1,9 @@
 # Sources for Preface
 
+**Bank Restriction Act Duration:**
+
+1. O'Brien, Patrick K., and Nuno Palma. "Danger to the Old Lady of Threadneedle Street? The Bank Restriction Act and the Regime Shift to Paper Money, 1797–1821." *European Review of Economic History* 24, no. 2 (May 2020): 390–426. https://doi.org/10.1093/ereh/hez008.
+
 **Money and Power - Distributional Consequences:**
 
 1. Piketty, Thomas. (2014). *Capital in the Twenty-First Century.* Harvard University Press. [Wealth concentration and monetary policy effects]

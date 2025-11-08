@@ -3,7 +3,7 @@
 > Money has always been more than a medium of exchange.  
 > It is a mirror of power, law, and collective belief.
 
-In 1797, the Bank of England suspended gold convertibility—the ability to exchange paper money for a fixed amount of gold—to finance a war. Officials expected the suspension to last six weeks [VERIFY - check Bank Restriction Act for original duration expectation]. It lasted twenty-four years. During that time, Britain fought and won the Napoleonic Wars, proving that paper money could function without metal backing—if the institutions behind it were credible enough.
+In 1797, the Bank of England suspended gold convertibility—the ability to exchange paper money for a fixed amount of gold—to finance a war. The suspension was initially announced to last one year, though the statutory text specified an expiration date of June 24, 1797—approximately two months from passage.¹ It lasted twenty-four years. During that time, Britain fought and won the Napoleonic Wars, proving that paper money could function without metal backing—if the institutions behind it were credible enough.
 
 In 1971, President Nixon closed the gold window—the system where foreign governments could exchange dollars for gold at a fixed rate—ending the last link between major currencies and precious metal. Critics predicted disaster. Instead, the world economy grew faster over the next fifty years than it had under the gold standard. The age of pure fiat—money backed by government decree rather than commodity value—had begun.
 
