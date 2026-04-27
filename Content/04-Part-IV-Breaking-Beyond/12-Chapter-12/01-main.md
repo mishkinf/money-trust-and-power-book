@@ -85,78 +85,11 @@ The system facilitated postwar reconstruction and enabled unprecedented trade ex
 
 ---
 
-### The Triffin Dilemma: The Impossible Math
+### The Triffin Dilemma plays out
 
-Robert Triffin's 1959-60 Congressional testimony identified a structural contradiction that made Bretton Woods' collapse inevitable. The dilemma wasn't a policy mistake that could be corrected—it was **mathematical impossibility** built into the system's architecture.⁵³
+Triffin's 1959–60 Congressional testimony, introduced in the previous chapter, identified the mathematical impossibility built into Bretton Woods' design. Here the numbers track its progression. U.S. gold reserves peaked at **$24.6 billion** in 1949–50 against modest foreign liabilities. By **1962**, liabilities to foreign official holders — those who could actually demand gold at $35 an ounce — first exceeded reserves. By **1966**, reserves stood at $13.2 billion against $14 billion in central-bank dollar holdings. By **March 1968**, reserves had crashed to $10.7 billion after the London Gold Pool lost $3 billion in five months. By **August 1971**, reserves of $10 billion stood against foreign claims of $80 billion — a backing ratio of 12.5 percent.⁵³
 
-**The Simple Version:**
-
-The world needed dollars for two purposes:
-1. **Transaction demand**: Settling international trade
-2. **Reserve demand**: Central banks holding dollars as backing for their currencies
-
-Both required the U.S. to run balance-of-payments deficits (exporting more dollars than importing). But the dollar's gold convertibility depended on deficits remaining small enough that gold reserves could cover dollar liabilities. These requirements contradicted each other.⁵³ᵃ
-
-**The Math That Doesn't Work:**
-
-The actual numbers prove the impossibility. Triffin predicted in 1959-60 that once "outstanding dollar liabilities to the rest of the world would eventually exceed the US monetary gold stock," a "classic bank run" would occur. Here's how it played out:⁵³ᵇ
-
-**1949-50:** U.S. gold reserves peaked at **$24.6 billion** with modest foreign dollar liabilities—system appeared sustainable.⁵³ᶜ As world trade expanded, dollar demand grew exponentially, but gold mining couldn't keep pace.⁵³ᵈ
-
-**1962:** Liabilities to foreign **official holders** (who could convert at $35/ounce) exceeded gold reserves—convertibility became fiction.⁵³ᵉ⁻ᶠ
-
-**1966:** Gold reserves **$13.2 billion**, central bank dollar holdings **$14 billion**—only 94% backing. America couldn't honor all conversion requests simultaneously.⁵³ᵍ⁻ʰ
-
-**March 1968:** Reserves crashed to **$10.7 billion** after London Gold Pool lost $3 billion. Two-tier market created—implicit admission $35/ounce unsustainable.⁵³ⁱ
-
-**August 15, 1971:** Reserves **$10 billion**, liabilities **$80 billion**—only **12.5% backing**. Four days earlier, Britain's $3 billion conversion request proved "the game was indeed over" (Volcker).⁵³ʲ
-
-**Why This Was STRUCTURALLY Unsolvable:**
-
-The Triffin dilemma presented four options, **none of which worked**:⁵³ᵏ
-
-**Option A: Stop Running Deficits**
-- Result: Dollar shortage globally
-- Effect: Deflation, trade collapse, depression
-- Historical precedent: 1930s gold hoarding created exactly this scenario
-- Countries would compete for scarce dollars, triggering "beggar thy neighbor" policies
-- **Politically impossible**—would trigger global recession⁵³ˡ
-
-**Option B: Keep Running Deficits**
-- Result: Dollar liabilities eventually exceed gold reserves (which happened)
-- Effect: Convertibility becomes unsustainable fiction
-- Outcome: Eventually someone calls the bluff (France did, then Britain)
-- **Mathematically impossible**—gold reserves can't grow as fast as trade⁵³ᵐ
-
-**Option C: Increase Gold Reserves**
-- Problem: Gold mining far too slow
-- Annual gold production: ~40-50 million ounces globally in 1960s
-- U.S. share: Much less
-- Can't grow reserves fast enough to match 8%+ annual trade growth
-- **Arithmetically impossible**—mining can't keep pace with commerce⁵³ⁿ
-
-**Option D: Devalue Dollar (Raise Gold Price)**
-- Problem: Destroys confidence, triggers immediate conversion rush
-- Every holder would rush to convert before next devaluation
-- Expectations of further devaluation become self-fulfilling
-- Accelerates crisis rather than solving it
-- **Psychologically impossible**—devaluation triggers the bank run it's meant to prevent⁵³ᵒ
-
-**The Proof:**
-
-Triffin didn't predict what **might** happen. He provided mathematical proof that the system **MUST** collapse. The only question was timing—when would someone test the promise?
-
-France tested it systematically (1965-1968), converting $2.8 billion of the total $3.3 billion decline in U.S. gold stocks—85% of American gold losses. Spain converted $60 million. Then Britain requested $3 billion on August 11, 1971. The system broke because it was designed with an internal contradiction. Triffin showed this in 1959. Nixon confirmed it in 1971.⁵³ᵖ
-
-**Why the Fiat Era Is Different:**
-
-The Triffin dilemma was specific to commodity-backed reserve currency systems. Post-1971, the dynamics changed fundamentally:
-
-**No solvency constraint**: A sovereign currency issuer cannot run out of its own currency. The U.S. can always create dollars to meet obligations denominated in dollars—this is the core Modern Monetary Theory principle. Under Bretton Woods, the U.S. could run out of gold at $35/ounce. Under fiat, it cannot run out of dollars.⁵³ᵍ
-
-**Structural dollar demand**: Global commodities (oil, copper, wheat) are priced in dollars. International trade contracts are denominated in dollars. This creates inherent, persistent demand for dollar reserves—independent of any commodity backing. When China buys oil from Saudi Arabia, both parties need dollars for the transaction, creating continuous demand regardless of US fiscal policy.
-
-**Different risks**: The fiat system faces inflation risk (when money creation exceeds productive capacity), political pressures, and coordination challenges—fundamentally different from the Triffin dilemma's mathematical impossibility.
+The arithmetic constrained every available response. Stopping U.S. deficits would have created a global dollar shortage and triggered the deflationary collapse the gold hoarding of the 1930s had already shown the world. Continuing deficits guaranteed that liabilities would outrun gold, as they did. Increasing gold reserves was impossible because mining could not match the 8 percent annual growth of world trade. Devaluing the dollar would have been the orderly solution, but it would also have rewarded every holder who rushed to convert before the next adjustment, accelerating the bank run rather than preventing it. The system broke because it was designed with the contradiction inside it. Triffin had shown this in 1959. France tested it systematically between 1965 and 1968, converting $2.8 billion of the total $3.3 billion decline in U.S. gold stocks. Britain requested $3 billion on 11 August 1971. Nixon closed the gold window four days later.⁵³ᵃ⁻ᵖ
 
 China's accumulation of dollar assets creates **political vulnerability** (exposure to Fed policy decisions, potential sanctions, exchange rate fluctuations) but not a replay of France's 1960s position. There's no material constraint to test, no convertibility promise that can break like the $35/ounce peg. The question isn't whether America can supply dollars—it always can—but whether institutions manage monetary policy to maintain dollar credibility without commodity backing. That's the fiat era's challenge: political discipline, not material limits.⁵³ʳ
 

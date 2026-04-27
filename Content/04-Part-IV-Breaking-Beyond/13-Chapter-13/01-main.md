@@ -200,27 +200,9 @@ Gold didn't prevent the Great Depression. Silver didn't save Spain's economy des
 
 ---
 
-### Gold's catastrophic record
+### The cryptocurrency repetition
 
-Gold advocates claim that gold provided stability while fiat inevitably leads to crisis. The historical evidence categorically refutes this claim.
-
-From 1880 to 1933 under the gold standard, there were five major banking panics—one every 3.5 years. Since 1972 under fiat, there have been seven recessions—one every six years. Crisis frequency fell by 40 percent. Inflation volatility during the gold standard was nearly twice that of the post-1973 fiat era. Growth volatility under gold was more than twice that of fiat.²⁴
-
-The Great Depression provides the definitive verdict. The gold standard operated as a transmission belt for crisis. When the U.S. and France accumulated gold, other countries faced forced deflation. Countries that left gold earlier recovered faster. Britain left in September 1931 and saw production rise above 1929 levels by 1934. The U.S. left in March 1933 and saw GDP surge at 8 percent annually. France stayed until 1936 and saw production remain 26 percent below 1929 levels.²⁵
-
-The 2008 financial crisis settled the debate. Government money creation—enabled by fiat flexibility—prevented catastrophe. Unemployment peaked at 10 percent, not 25 percent. GDP fell 4 percent, not 29 percent. Ben Bernanke, who spent his career studying the Great Depression, knew exactly what the gold standard's rigidity had prevented in 1931. In 2008, with fiat money's flexibility, he could act.
-
----
-
-### The Cryptocurrency Challenge: Repeating History's Mistakes
-
-By the 2020s, cryptocurrencies promised to return money to commodity basis — not gold but mathematics, with supply limited by algorithm. The promise explicitly rejected fiat money's flexibility. The results demonstrated, again, why commodity money had failed before.
-
-Bitcoin's 21 million coin cap mimics gold scarcity, producing identical failures: deflationary bias and hoarding over spending. Stablecoins depend entirely on the dollar system they claim to replace. Terra/Luna's $40 billion collapse (May 2022) proved code can't create value—the algorithmic stablecoin death spiral replicated exactly what happens when private money loses backing. FTX's November 2022 implosion showed that even the largest crypto exchanges operated as unregulated fractional reserve banks, failing the moment depositors demanded their money simultaneously.²⁶ ²⁷ ²⁸
-
-Cryptocurrency advocates believe technology eliminates need for institutions. The 5,000-year history proves otherwise. Fixed supply money failed as the gold standard. Private money creation without sovereign backing failed with goldsmith banking in 1672. Algorithmic governance without human judgment helped cause the Great Depression when the Fed mechanically followed Real Bills Doctrine in 1929-1933. The technology is new. The economic failures replicate history with startling precision.
-
-Money is not a technology problem solved by better algorithms. It's a social coordination problem solved by credible institutions. Blockchain is double-entry bookkeeping with better cryptography, but it doesn't eliminate the need for institutions people trust, elastic supply matching productive capacity, or ultimate backing by entities with taxation power. **You can't code your way out of the fundamental social relationships that make money work.**²⁸ᵃ ²⁸ᵇ
+By the 2020s, cryptocurrencies were promising to return money to a commodity basis — not gold but mathematics, with supply limited by algorithm. The promise explicitly rejected fiat money's flexibility, and the failure modes that followed replicated history with unsettling precision. Bitcoin's 21-million-coin cap mimics gold's scarcity and produces the same deflationary bias toward hoarding. Stablecoins depend entirely on the dollar system they claim to replace. Terra/Luna's $40 billion collapse in May 2022 was an algorithmic-stablecoin death spiral indistinguishable in mechanism from the goldsmith-receipt crises of the seventeenth century. FTX's November 2022 implosion revealed that the largest crypto exchanges had been operating as unregulated fractional-reserve banks the whole time, and failed the moment their depositors all asked for their money at once. The technology was new; the economic failures were not. Money is not a technology problem to be solved with better cryptography. It is a social-coordination problem solved by credible institutions, and blockchain does not eliminate the need for institutions that elastic supply must match productive capacity and that ultimate backing must rest with entities possessing taxation power.²⁶ ²⁷ ²⁸ ²⁸ᵃ ²⁸ᵇ
 
 ---
 
@@ -252,15 +234,11 @@ Paul Volcker's appointment as Fed Chair in August 1979 marked a turning point—
 
 The Fed funds rate reached **20 percent** in June 1981—the highest in U.S. history. Unemployment peaked at **10.8 percent** in November 1982—the highest since the Great Depression. The recession was devastating: GDP contracted 2.9% in the year ending Q4 1982. But these aggregate numbers obscured the concentrated devastation in specific industries and regions.³⁵
 
-### The human wreckage: factories, farms, and foreclosures
+### The human wreckage
 
-**The industrial Midwest experienced collapse comparable to wartime destruction.** In Youngstown, Ohio, **40,000 steelworkers lost their jobs** between 1977 and 1983 as the Campbell Works, U.S. Steel, and Republic Steel all closed. With **20 percent interest rates**, laid-off workers couldn't buy homes, refinance, or sell—monthly payments on a $50,000 mortgage would exceed $900 versus $350 at 1970s rates. Unemployment benefits ended after 39 weeks. Families faced impossible choices between mortgage, heating, and food.³⁵ᵃ ³⁵ᵇ ³⁵ᶜ
+The aggregate numbers obscured concentrated devastation in specific industries and regions. Youngstown, Ohio, lost forty thousand steelworkers between 1977 and 1983 as the Campbell Works, U.S. Steel, and Republic Steel all closed; with twenty-percent interest rates, laid-off workers could neither buy nor refinance nor sell. Farmland values fell sixty percent between 1981 and 1986; Iowa farm foreclosures doubled, and rural Main Streets emptied across the Midwest. Housing starts fell forty-five percent — from 2.0 million to 1.1 million units — and construction lost eight hundred thousand jobs. Michigan's unemployment hit 16.9 percent; Flint's exceeded twenty. The auto industry lost three hundred thousand jobs. Detroit, Cleveland, and Pittsburgh entered long-term decline from which many neighborhoods never recovered. The Rust Belt was born.³⁵ᵃ⁻ᵍ
 
-**The agricultural sector faced parallel devastation.** Farmland values **fell 60 percent** (1981-1986). Farmers who borrowed against 1970s land prices watched collateral collapse while debt remained fixed. Iowa farm foreclosures doubled. Rural communities saw Main Streets empty, schools close, churches lose congregations. Farm auctions became community trauma events—the destruction of a way of life.³⁵ᵈ ³⁵ᵉ
-
-**The housing industry collapsed.** Housing starts fell 45 percent (2.0 million to 1.1 million units). Construction lost 800,000 jobs. Michigan's unemployment hit 16.9 percent; Flint exceeded 20 percent. The auto industry lost 300,000 jobs. Cities like Detroit, Cleveland, and Pittsburgh entered long-term decline from which many neighborhoods never recovered—the birth of the "Rust Belt."³⁵ᶠ ³⁵ᵍ
-
-Dean and Kaye Hagedorn's 100-year-old family farm near Spencer, Iowa, exemplified the human cost. They farmed 560 acres responsibly, borrowing to expand during the 1970s commodity boom when interest rates were in single digits. When Volcker raised rates to 21 percent by 1982, their manageable debt became impossible. Dean's September 1982 diary entry: "I've never been so terrified in my life...We owe over $18,000 just on interest for PCA for one year!" In 1985, the bank kept their entire $94,000 corn harvest—a full year's work—and it barely dented debt that had ballooned through accumulated interest. The Hagedorns filed for bankruptcy and lost the farm. They had done everything right, but monetary policy systematically destroyed productive enterprises to achieve price stability.³⁵ʰ ³⁵ⁱ ³⁵ᵏ ³⁵ˡ
+Dean and Kaye Hagedorn's hundred-year-old family farm near Spencer, Iowa, exemplified the human cost. They farmed 560 acres responsibly, borrowing to expand during the 1970s commodity boom when interest rates were in single digits. When Volcker raised rates to 21 percent by 1982, their manageable debt became impossible. Dean's September 1982 diary entry: "I've never been so terrified in my life...We owe over $18,000 just on interest for PCA for one year!" In 1985, the bank kept their entire $94,000 corn harvest—a full year's work—and it barely dented debt that had ballooned through accumulated interest. The Hagedorns filed for bankruptcy and lost the farm. They had done everything right, but monetary policy systematically destroyed productive enterprises to achieve price stability.³⁵ʰ ³⁵ⁱ ³⁵ᵏ ³⁵ˡ
 
 The Hagedorns' tragedy was replicated nationwide. The recession's costs fell on workers (12 million unemployed), farmers (200,000+ foreclosures), and industrial communities (Youngstown lost 40,000 steel jobs). The benefits protected bondholders and creditors, whose real returns were preserved as inflation fell from 13.5% to 3.2%. Unemployment was politically feasible because costs fell on dispersed, disorganized workers while benefits accrued to concentrated, powerful creditors. Better tools existed—incomes policy, coordinated energy policy, strategic reserves—but required political cooperation that unemployment didn't.³⁵ⁿ ³⁵ᵒ ³⁵ᵖ ³⁵ᑫ ³⁵ʳ
 
@@ -270,31 +248,15 @@ The Volcker episode revealed uncomfortable truths about fiat money management �
 
 ---
 
-### The eurozone: Fiat money without fiscal backing
+### Distributional consequences
 
-The euro's struggles demonstrate what happens when fiat currency lacks proper institutional backing. The Maastricht Treaty banned the ECB from acting as lender of last resort—a fatal design flaw that distinguished the eurozone from every successful currency union.³⁷ᵇ Prominent economists warned explicitly that asymmetric shocks without adjustment mechanisms or fiscal transfers would force unemployment as the only tool to restore balance.³⁷ᶜ
+The 2008 response revealed something the 1797 Bank Restriction's defenders had not had to confront in their own lifetimes: that fiat money's flexibility serves those who design the transmission mechanism. Quantitative easing inflated asset prices — the S&P 500 rose 186 percent between 2009 and 2015; housing prices were up 50 percent by 2019 — while median wages stagnated. The wealthiest 10 percent of households owned 84 percent of stocks; the bottom 50 percent owned essentially nothing. COVID-19's direct fiscal transfers ($1,200 payments, enhanced unemployment) produced a more equitable recovery than 2008's asset-purchase-only approach, demonstrating the same point in the other direction: the architecture of money creation determines who benefits, and that architecture is a political choice.³⁸ ³⁹ᵃ⁻ⁿ
 
-As Chapter 9 detailed, the 2010 Greek crisis proved their warnings correct. Greece faced the same impossible choice as Churchill's 1925 Britain: maintain currency credibility through deflation and unemployment, or exit the monetary union. Both cases involved fixed exchange rates without monetary sovereignty, forcing adjustment through unemployment rather than currency depreciation—exactly what Keynes condemned in 1925.³⁷ᶠ Only Mario Draghi's 2012 "whatever it takes" declaration belatedly established the lender-of-last-resort function that should have existed from inception.³⁷ᵍ
-
-The lesson: fiat money works when monetary and fiscal authority align within a sovereign framework backed by credible institutions. The euro succeeded as medium of exchange but struggled as a complete monetary system because it deliberately excluded the fiscal backing and crisis response capacity that make fiat currencies work.
+The eurozone is the contrasting case. The Maastricht Treaty banned the European Central Bank from acting as lender of last resort — a design choice that distinguished the eurozone from every successful currency union and forced adjustment through unemployment when asymmetric shocks hit. Greece in 2010 was Churchill's 1925 in a different vocabulary, as Chapter 10 traced. Only Mario Draghi's 2012 "whatever it takes" declaration belatedly established the lender-of-last-resort function that should have existed from inception. The euro succeeded as a medium of exchange but struggled as a complete monetary system because it deliberately excluded the fiscal backing that makes fiat currencies work.³⁷ᵇ ³⁷ᶜ ³⁷ᵍ
 
 ---
 
-### The 2008 crisis: Beyond the Fed's response
-
-The 2008 crisis response required unprecedented global coordination. The Fed established dollar swap lines with the ECB, Bank of England, Bank of Japan, and Swiss National Bank, peaking at $580 billion outstanding. Fiscal policy complemented monetary action: the U.S. injected $831 billion stimulus, China deployed 12.5% of GDP, preventing global demand collapse.³⁸
-
-The crisis also revealed fiat money's **distributional consequences**. Quantitative easing inflated asset prices—the S&P 500 rose 186% (2009-2015), housing prices 50% by 2019—while median wages stagnated. The wealthiest 10% owned 84% of stocks; gains flowed overwhelmingly upward. COVID-19's direct fiscal transfers ($1,200 payments, enhanced unemployment) produced more equitable recovery than 2008's asset-purchase-only approach, proving that **fiat money's flexibility serves those who design the transmission mechanism**.³⁹ᵃ ³⁹ᵇ ³⁹ᶜ ³⁹ᵈ ³⁹ᵉ ³⁹ᶠ ³⁹ʰ ³⁹ᵍ ³⁹ʲ ³⁹ᵏ ³⁹ˡ ³⁹ᵐ ³⁹ⁿ
-
----
-
-### COVID-19 and the validation of Modern Monetary Theory
-
-The COVID-19 pandemic provided the definitive test. The Federal Reserve's balance sheet expanded 71% in three months; global central banks created over $9 trillion in 2020 alone. Governments spent trillions without "finding the money" first through unprecedented fiscal-monetary coordination—effectively monetary financing that gold standard orthodoxy had prohibited.³⁹ ⁴⁰
-
-Yet inflation remained subdued through 2020-2021, validating the productive capacity principle: money creation causes inflation only when it exceeds the economy's ability to produce. The pandemic had destroyed demand while central banks replaced destroyed money. The 2021-2022 inflation surge stemmed from supply chain disruptions and energy shocks—real resource constraints, not monetary excess. Inflation proved transitory, peaking in 2022 and declining as supply normalized.
-
-This vindicated Modern Monetary Theory's core insight: governments issuing their own currency face real resource constraints, not financial ones.⁴¹ The Bank Restriction Act, Roosevelt's New Deal, the 2008 crisis, and COVID-19 all demonstrated the same principle—the constraint is productive capacity, not money. Countries with monetary sovereignty (U.S., Japan, UK) operate differently than those using foreign currency (Argentina, Greece in eurozone). Inflation results from spending beyond capacity, not from deficits per se.⁴²
+### The public-choice critique deserves an answer
 
 Critics raise concerns that deserve a serious answer. The strongest version of the case against discretionary fiscal policy was made by James Buchanan and Richard Wagner in *Democracy in Deficit* (1977), and it does not depend on metallism. Their argument is institutional. Once the technical constraint of solvency is removed, what stops a democratic government from running deficits — especially in election years — beyond what productive capacity can absorb? Voters tend to misperceive the cost of deficit finance, underestimating the future tax burden and the inflation tax. Politicians' time horizons are short. Tax cuts and spending increases have concentrated, salient beneficiaries; tax increases and spending cuts impose diffuse, painful losses. Surpluses in good times, which Keynesian theory requires, are politically unrewarding in a way that deficits in bad times are not. William Niskanen's analysis of bureaucratic incentives points in the same direction: agencies have structural reasons to expand budgets regardless of macroeconomic conditions, and information asymmetries let them. The 1970s, by Buchanan's reading, were not an aberration but a natural consequence of replacing the old "fiscal constitution" of balanced peacetime budgets with technocratic discretion.⁴²ᵃ
 
@@ -304,10 +266,4 @@ The honest reply is that the productive-capacity framework owes the public-choic
 
 ---
 
-### The Choice Ahead
-
-The 2008 crisis and the 2020 pandemic together proved that fiat money works when institutions are credible. Central banks created trillions without hyperinflation by matching money creation to productive capacity. The real constraint is not gold reserves or government revenues; it is the economy's ability to produce goods and services.
-
-This transforms what political debate is about. "Can we afford it?" becomes "do we have the resources, and do we choose to use them this way?" Zimbabwe's hyperinflation resulted from state collapse, not from fiat money itself. Japan has run debt above 250 percent of GDP for decades without inflation because its productive capacity remained intact and its institutions functioned. We can mobilize unused resources without inflation. We cannot print past resource scarcity.
-
-The verdict the age of pure fiat has delivered is narrow but decisive. Whether we use that knowledge well depends entirely on institutional quality and democratic wisdom — the lesson the next chapter, the epilogue of this story, takes up directly.
+The verdict the age of pure fiat has delivered is narrow but decisive. The real constraint is not gold reserves or government revenues; it is the economy's ability to produce goods and services. "Can we afford it?" becomes "do we have the resources, and do we choose to use them this way?" Whether we use that knowledge well depends entirely on institutional quality and democratic wisdom — the lesson the epilogue takes up directly.

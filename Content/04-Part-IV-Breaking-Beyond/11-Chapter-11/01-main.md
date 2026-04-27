@@ -118,108 +118,15 @@ By conference end, 730 delegates had debated, voted, and signed agreements. The 
 
 ### The Battle of Systems: Bancor vs. Dollar
 
-The conference presented a choice between two fundamentally different monetary architectures. Understanding what was rejected illuminates why what was accepted eventually failed.⁴⁹ᵏ
+The conference presented a choice between two fundamentally different monetary architectures.⁴⁹ᵏ
 
-**Think of it like choosing between two ways to organize neighborhood trade:**
+Keynes's International Clearing Union proposed a supranational currency — the **bancor**, defined in gold but not exchangeable for it — that would be created as needed to settle international trade through a clearing house. Liquidity would expand automatically with trade volume; no country would face dollar shortages because no country's currency was privileged. The adjustment mechanism was **symmetric**: surplus countries that hoarded bancor reserves would be charged interest, and persistent surpluses would trigger mandatory currency appreciation. The principle was use-it-or-lose-it. Creditor and debtor nations bore equal responsibility for correcting imbalances. Governance ran through an international board, not Washington.⁴⁹ˡ
 
-**Keynes's bancor** = A community credit system where everyone tracks debts in "neighborhood points." No one needs actual dollars. If you mow lawns, you get 10 points. When you need groceries, you spend 10 points. The system automatically balances—anyone accumulating too many points gets charged storage fees, encouraging them to spend. No one can hoard, no one gets special privileges, and the neighborhood never runs out of "money" because points are created as needed for trade.
+White's Stabilization Fund proposed the opposite: the U.S. dollar as the world's primary reserve currency, convertible to gold at $35 an ounce — but only for foreign central banks and governments, not for private citizens. IMF resources were finite ($8.5 billion initial quota); dollar shortages were not just possible but inevitable. The adjustment mechanism was **asymmetric**: deficit countries would face IMF conditionality, surplus countries faced nothing. White was explicit with his delegation about why: "We have been perfectly adamant on that point. We have taken the position of absolutely no, on that."⁴⁹ˢ Voting at the IMF was weighted by quota contributions, with the United States holding effective veto power.⁴⁹ᵘ
 
-**White's dollar standard** = Everyone must trade using actual U.S. dollars owned by your wealthy neighbor Bob. To trade with each other, you all need Bob's dollars. Bob lends them out, but eventually you owe Bob interest. If Bob stops lending or demands payment, the whole neighborhood's trade freezes. Bob accumulates wealth from interest payments while everyone else competes for his dollars. Bob gets special treatment because he owns the currency you all must use.
-
-The choice was between a neutral system (bancor) and one privileging American power (dollars). America chose its own advantage.⁴⁹ᵏ⁻¹
-
-#### Keynes's International Clearing Union (Bancor System)
-
-**Currency:**
-
-- Supranational bancor (from "banque or"—bank gold)
-- Defined in gold but **NOT exchangeable for gold**
-- No single nation's currency privileged
-- All international trade valued and cleared in bancor⁴⁹ˡ
-
-**Liquidity Provision:**
-
-- Unlimited overdraft facilities based on trade quotas
-- Quotas proportionate to trade volume
-- Automatic expansion as world trade grows
-- No country faces currency shortage
-- International Clearing Union functions as central bank for central banks⁴⁹ᵐ
-
-**Adjustment Mechanism:**
-
-- **SYMMETRIC**: Pressure on both surplus AND deficit countries
-- Surplus countries charged 5-10% interest on large excess credits
-- Persistent surpluses trigger mandatory currency appreciation
-- "Use it or lose it" mechanism prevents creditor hoarding
-- Both sides bear responsibility for correcting imbalances⁴⁹ⁿ
-
-**Governance:**
-
-- International Clearing Union with supranational authority
-- Decisions made by international board
-- No single country veto power
-- Democratic international institution⁴⁹ᵒ
-
-**The Triffin Dilemma: When Being the World's Banker Becomes Impossible**
-
-Imagine you're the only person at a party with cash when everyone wants to split the pizza bill. You hand out IOUs so people can settle up with each other: "I owe you $10" notes that people trade around.
-
-This works great initially. Your IOUs solve everyone's payment problems. But the more IOUs you write, the more people wonder: "Can this guy actually pay us all back if we all show up at once?" Too few IOUs and the party can't function. Too many and nobody trusts them.
-
-You're trapped: the party needs your IOUs to work, but providing enough IOUs to meet that need undermines confidence in your ability to redeem them.
-
-This was the United States' position under Bretton Woods. The world needed dollars for trade, but providing enough dollars required deficits that undermined the gold backing. The contradiction was structural, not solvable.
+The mathematical contradiction in White's design was the **Triffin dilemma**, and Robert Triffin would not formalize it until 1959 — but the arithmetic was visible to anyone in the conference rooms in 1944 who chose to see it. The world needed an expanding supply of dollars to settle a growing volume of trade. But every additional dollar held abroad as reserves was a dollar the United States had promised to redeem in gold at a fixed price. As world trade grew exponentially and the U.S. gold stock grew linearly, the ratio between outstanding dollar claims and underlying reserves had to deteriorate. Once foreign claims exceeded American gold, the convertibility promise became a target rather than a guarantee. Bancor would have eliminated the contradiction structurally; the dollar standard built it in.⁴⁹ᵖ
 
 *(See Figure 11.1: The Triffin Dilemma in Numbers — U.S. gold reserves peak at $24.6 billion in 1949 against $8–10 billion in foreign dollar claims; foreign claims first exceed reserves in 1962; reserves fall to $13.2 billion against $14 billion in claims by 1966; after the London Gold Pool collapse in March 1968, $10.7 billion against rising claims; by August 1971, $10 billion against $80 billion — a 12.5 percent backing ratio. World trade grew exponentially, gold supply grew linearly. Collapse was arithmetic, not policy error.)*
-
-**The Triffin Dilemma:**
-
-- **SOLVED**: No single currency needed for reserves
-- Bancor created as needed for trade settlement
-- No country must run deficits to supply world liquidity
-- Structural contradiction eliminated by design⁴⁹ᵖ
-
----
-
-#### White's Stabilization Fund (Dollar Standard)
-
-**Currency:**
-
-- U.S. dollar as primary reserve currency
-- Dollar convertible to gold at $35/ounce
-- **FOR OFFICIAL HOLDERS ONLY** (foreign central banks and governments, not private citizens)
-- Dollar privileged as "good as gold"
-- National currencies used, not supranational money⁴⁹ᵍ
-
-**Liquidity Provision:**
-
-- Limited IMF resources ($8.5 billion initial quota)
-- Finite pool, not automatic expansion
-- Countries can exhaust IMF borrowing capacity
-- Dollar shortages possible and inevitable
-- Subscriptions and quotas system, not clearing union⁴⁹ʳ
-
-**Adjustment Mechanism:**
-
-- **ASYMMETRIC**: Pressure only on deficit countries
-- Surplus countries face no penalties or interest charges
-- No requirement to appreciate currency or reduce surpluses
-- "Beggar thy neighbor" policies possible for surplus nations
-- White to American delegation: "We have been perfectly adamant on that point. We have taken the position of absolutely no, on that."⁴⁹ˢ
-
-**Governance:**
-
-- IMF voting weighted by quota contributions
-- U.S. contributes most, therefore effective veto power
-- Washington location ensures American influence
-- American interests control major decisions⁴⁹ᵗ
-
-**The Triffin Dilemma:**
-
-- **CREATED**: World needs dollars for trade and reserves
-- U.S. must run balance-of-payments deficits to supply dollars
-- Persistent deficits undermine gold convertibility promise
-- **STRUCTURAL CONTRADICTION** built into system design⁴⁹ᵘ
 
 ---
 
@@ -248,22 +155,6 @@ Dollar access would become a strategic weapon. Countries dependent on dollar res
 American control of the IMF, through weighted voting based on economic size and contributions, meant the U.S. could prevent any decisions contrary to American interests. No IMF loan to countries Washington opposed. No pressure on American policies. No symmetric adjustment requirements that would constrain U.S. deficits.
 
 White told the American delegation in July 1944 with remarkable candor: "Gold in Fort Knox is why the United States is in an enviable position...why we are in a powerful position in this Conference...why we dominate practically the financial world, because we have the where-with-all to buy any currency we want."⁴⁹ʸ When discussing whether to press American advantages on institutional location and governance, Treasury Secretary Morgenthau was explicit: "Now the advantage is ours here, and I personally think we should take it." White agreed without hesitation: "If the advantage was theirs, they would take it."
-
-**What Bancor Would Have Cost America**
-
-Bancor would have eliminated every one of these advantages. Instead of financing consumption with printed dollars, the U.S. would have faced symmetric adjustment—running surpluses when bancor reserves ran low, just like any other country. The power to sustain persistent deficits would disappear. The ability to borrow at artificially low rates (because foreign central banks needed dollar reserves) would vanish. Strategic leverage through dollar access would be impossible—bancor couldn't be weaponized because no single nation controlled it.
-
-On the specific issue of symmetric adjustment—penalties on surplus countries that hoarded reserves—White was adamant. When asked whether the U.S. would accept such provisions, he told his delegation: "We have been perfectly adamant on that point. We have taken the position of absolutely no."⁴⁹ˢ This wasn't negotiable. American surpluses would never face the same pressure as other countries' deficits.
-
-**What America Sacrificed**
-
-In exchange for these national advantages, America sacrificed:
-
-- A stable, sustainable international monetary system free of structural contradictions
-- Prevention of the Triffin dilemma that would eventually destroy dollar convertibility
-- Reduced risk of future dollar crises and gold runs
-- Long-term systemic benefits for global trade that come from symmetric adjustment
-- The opportunity to build genuine multilateral institutions not dominated by any single power
 
 American policymakers made this choice consciously. They understood that a dollar-centered system contained the seeds of its own destruction—that eventually, foreign dollar claims would exceed American gold reserves, making convertibility promises unsustainable. Robert Triffin would formalize this contradiction in 1960, but the problem was visible to anyone doing the arithmetic in 1944.
 

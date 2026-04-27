@@ -114,10 +114,12 @@ Source proposal: `Reviews/PHASE-5-SESSION-7-PROPOSAL.md`
 - [x] Nine new sources.md entries (19ᵃ–19ⁱ): Bannister 1858 (Paterson's writings), ODNB Paterson, Defoe 1697, Murphy 2009, Roseveare 1991, Paterson pamphlets via Bannister, Watt 2007 (Darien), Insh 1932, Prebble 1968.
 - Net: Ch.5 grew from 3,674 to 5,033 words (+1,359). Total post-Session-8 manuscript: ~68,400 words.
 
-### Session 9: Architectural decisions
-- [ ] Trim Part IV by ~4,000 words (especially Ch.11 bancor-vs-dollar redundancy after Phase 4).
-- [ ] Decide on Ch.8/9 merge (recommended yes by developmental editor).
-- [ ] Decide on Ch.13 split (into "The Verdict" + "Volcker's Choice"?).
+### Session 9: Architectural decisions ✓ DONE 2026-04-27
+Source proposal: `Reviews/PHASE-5-SESSION-9-PROPOSAL.md`
+- [x] Part IV trim: ~2,200 words cut across Chs.10–13. Ch.10 –445 (Roosevelt-revolution recap, Lebesque commentary, France-tragedy summary). Ch.11 –614 (neighborhood analogy, Bancor/Dollar bullet lists, "What America Sacrificed" recap). Ch.12 –425 (Triffin-dilemma structured exposition compressed to two paragraphs, Option A/B/C/D enumeration cut). Ch.13 –739 (Gold's-catastrophic-record duplicate, cryptocurrency section condensed, human-wreckage bullet trio compressed, eurozone recap, COVID/MMT validation duplication, Choice-Ahead trimmed). Short of the 4,000-word target; Phase 6 QA can pick up the remainder.
+- [x] Ch.8/9 merge applied. Merged chapter title: "The Great Forgetting." Premise updated to incorporate the 1844 Act explicitly. Merged structure: Attwood's defeat → Pattern → Session 7 household-budget coda → Lord Overstone hook → Bank Charter Act 1844 (Wilson, Hawes, Peel) → Lord Overstone's shadow → academic presence → Peel's tragic error / deposit banking → Samuel Gurney's October crisis → Heslop's testimony → why legislative capture worked → colonial proof / Cantwell → eighty-year-vindication-into-Churchill 1925 close. Ch.9 main.md now contains a redirect note. Ch.9 sources.md retained for citation continuity until Phase 6 renumbering. Net seam-tightening: ~800 words (merged file is 7,571; pre-merge sum was 8,367).
+- [x] Ch.13 split decision: NOT split. Internal redundancy was the real problem; trim addresses it. Ch.13 now 8,961 words (down from 9,700).
+- Net: ~3,000 words cut across Session 9. Total manuscript: 65,343 words (down from ~68,400 post-Session-8). Subsequent Phase 6 QA needs to renumber Chs.10–13 → 9–12 and update all cross-references.
 
 ---
 
@@ -131,9 +133,9 @@ Source proposal: `Reviews/PHASE-5-SESSION-7-PROPOSAL.md`
 ## Outstanding decisions / blocked items
 
 - [!] Klemperer attribution: Option B (named with diary citation) confirmed in Phase 1. ✓
-- [!] Title: keep "Money, Trust, and Power" + working subtitle, or change to "The Tally and the Vault"? Defer to Phase 5 or after.
-- [!] Ch.13 split: defer to Session 9.
-- [!] Chs.8–9 merge: defer to Session 9.
+- [!] Title: keep "Money, Trust, and Power" + working subtitle (author confirmed Session 9). "The Tally and the Vault" works as a section title rather than the book's spine.
+- [x] Ch.13 split: decided NOT split (Session 9). Trim handled the internal redundancy.
+- [x] Chs.8–9 merge: applied (Session 9). Renumbering of Chs.10–13 → 9–12 deferred to Phase 6.
 
 ---
 
@@ -169,3 +171,4 @@ Source proposal: `Reviews/PHASE-5-SESSION-7-PROPOSAL.md`
 | 2026-04-27 | 6 | Phase 4 — subtractive pass | ✓ Complete. ~5,100 net words cut across 13 manuscript files (5,741 removed, 624 added for transitions). HIGH-confidence cuts applied: chapter-opening recaps (Ch.4), bolded summary tags (Chs.5, 6, 8, 10), cross-chapter Triffin/Bretton Woods duplication, chapter-closing synthesis trios (Ch.11), deposit-banking redundancy (Ch.9), Pattern/Insight summary boxes (Ch.13), four-question Epilogue framings. Strong narrative-arc hooks preserved into Chs.6, 9, 12, 13 per author direction. Verified proposal at Reviews/PHASE-4-PROPOSAL.md. Earlier parallel-subagent attempt was discarded after agents fabricated content. |
 | 2026-04-27 | 7 | Phase 5 Session 7 — relocate contemporary hooks to codas | ✓ Complete. 11 chapters touched (1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 13). Opening contemporary parallels removed; tighter codas placed before each chapter's existing narrative-arc hook into the next chapter. Ch.5 and Ch.13 framing cut outright (duplicates and structural mismatch respectively). Mid-chapter intrusions cut: Ch.1 line 137, Ch.2 SWIFT one-liner, Ch.3 line 47. Ch.6 "From Paper Success to Bimetallic Problem" scaffolding trimmed; Ch.4 "From Sovereign Dilemma to Private Innovation" bridge cut. Each new chapter opening verified — historical scenes (Uruk temple, William of Orange, Newton at Tower of London, Westminster treasury, Fishguard 1797, Churchill at dispatch box, Mount Washington Hotel) lead. Total post-Session-7 manuscript: 67,003 words. Verified proposal at Reviews/PHASE-5-SESSION-7-PROPOSAL.md. |
 | 2026-04-27 | 8 | Phase 5 Session 8 — Paterson set piece for Ch.5 | ✓ Complete. ~1,360 new words inserted in Ch.5 as the "William Paterson and the projector's temperament" section: Lowland Scottish origins, West Indies wandering, return as London merchant and "projector," Defoe's *An Essay upon Projects* context, Charles Montagu and the 1694 Tonnage Act, the "out of nothing" formulation, Bank directorship resignation 1695, Darien catastrophe including the deaths of Paterson's wife and son, his role in the 1707 Act of Union and the Equivalent, death in 1719. Nine new sources.md entries (19ᵃ–19ⁱ): Bannister 1858, ODNB Paterson, Defoe 1697, Murphy 2009, Roseveare 1991, Watt 2007, Insh 1932, Prebble 1968. Ch.5 now 5,033 words (+1,359 from 3,674). Total manuscript: ~68,400 words. |
+| 2026-04-27 | 9 | Phase 5 Session 9 — Part IV trim + Ch.8/9 merge | ✓ Complete. Part IV: ~2,200 words cut across Chs.10–13 (Roosevelt recap, neighborhood analogy + bancor/dollar bullet lists, Triffin-dilemma compression, gold-catastrophic-record duplicate, cryptocurrency condensation, eurozone duplicate). Ch.8/9 merged into "The Great Forgetting": Attwood's defeat → 1844 Bank Charter Act → deposit-banking workaround → Heslop → eighty-year-vindication into Churchill 1925. Ch.9 main.md replaced with redirect note. Ch.13 NOT split (trim addressed redundancy). Title decision: "Money, Trust, and Power" stays. Total manuscript: 65,343 words. Phase 6 to renumber Chs.10–13 → 9–12 and refresh cross-references. Verified proposal at Reviews/PHASE-5-SESSION-9-PROPOSAL.md. |
