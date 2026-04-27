@@ -91,10 +91,22 @@ Source proposal: `Reviews/PHASE-4-PROPOSAL.md` (verified line-numbered cuts grou
 
 ## Phase 5 — Architectural moves (Sessions 7–9)
 
-### Session 7: Move chapter-opening contemporary hooks to codas
-- [ ] Subagent per chapter: identify the current opening hook, propose coda placement.
-- [ ] Author review and direct-edit pass.
-- [ ] Pick one parallel per chapter, eliminate mid-chapter intrusions.
+### Session 7: Move chapter-opening contemporary hooks to codas ✓ DONE 2026-04-27
+Source proposal: `Reviews/PHASE-5-SESSION-7-PROPOSAL.md`
+- [x] Ch.1 — Bitcoin Question hook removed; coda added before close. Cut line-137 mid-chapter intrusion.
+- [x] Ch.2 — SWIFT/credit-card hook removed; coda added after Peruzzi-collapse close. Cut SWIFT mid-chapter line.
+- [x] Ch.3 — Greek-tragedy hook removed; coda added before goldsmith bridge into Ch.4. Cut line-47 intrusion (kept line 67 dollar-reserves analytical aside).
+- [x] Ch.4 — Lehman/shadow-banks hook removed; "From Sovereign Dilemma to Private Innovation" bridge cut; coda added before Paterson hook into Ch.5.
+- [x] Ch.5 — March-2020 framing CUT outright (duplicate of Ch.7); no coda added.
+- [x] Ch.6 — Gold-Standard-Nostalgia hook removed; "From Paper Success to Bimetallic Problem" scaffolding trimmed; coda added before Ch.7 narrative bridge.
+- [x] Ch.7 — March-2020/Creating Trillions hook removed; coda added before Ch.8 narrative bridge.
+- [x] Ch.8 — Household-budget-metaphor hook removed; coda added before "Now Lord Overstone..." narrative-arc hook into Ch.9.
+- [x] Ch.10 — Tsipras/2015 hook removed; coda added before Ch.11 Bretton Woods narrative bridge.
+- [x] Ch.11 — China-Treasury-trap hook removed; coda added before "next chapter traces how the compromise unraveled" hook into Ch.12.
+- [x] Ch.13 — COVID Stimulus Debate framing CUT (no natural coda landing zone; chapter already has substantial COVID/MMT closing material at lines 297–309). Replaced with tighter analytical lead-in heading "Why Did 2008 and 2021 Produce Different Outcomes?" that goes straight to the comparison.
+- [x] Ch.9, Ch.12, Epilogue — skipped per proposal (no contemporary opening hook to relocate).
+- [!] Ch.12 mid-chapter China discussion at lines 161/181 KEPT (analytical work distinguishing France's gold-convertibility position from China's fiat trap; not redundant with Ch.11 coda).
+- Net: ~2,500 words of opening framing removed (or relocated as tighter codas). All preserved narrative-arc hooks into next chapter (Ch.5→6 scientist's arithmetic error, Ch.7→8 erasure, Ch.9→10 Churchill 1925 setup via Ch.10 coda, Ch.10→11 Bretton Woods, Ch.11→12 unraveling, Ch.12→13 fiat era) intact and unmoved. Total manuscript word count post-Session-7: 67,003.
 
 ### Session 8: Paterson set piece for Ch.5 (Part II expansion)
 - [ ] ~1,500 new words. Original writing.
@@ -154,3 +166,4 @@ Source proposal: `Reviews/PHASE-4-PROPOSAL.md` (verified line-numbered cuts grou
 | 2026-04-27 | 4 | Phase 3 Session 4 — Chs.8–9 reframe | ✓ Complete. Seven surgical edits across two chapters: Ch.8 premise rewritten to lead with Currency School steelman; Ch.8 lines 101 and 170 cooled to evidence-led framings; Ch.9 retitled "The Orthodoxy Becomes Law"; Ch.9 lines 9, 11, 95, 169 cooled. All polemical "manufactured orthodoxy" verbs removed. Ch.8/Ch.9 merge deferred to Session 9. |
 | 2026-04-27 | 5 | Phase 3 Session 5 — Ch.13 steelman | ✓ Complete. Five main.md edits totaling ~900 new words: three-paragraph public-choice engagement (Buchanan-Wagner, Niskanen, Sargent-Wallace, Cochrane FTPL) replacing the one-sentence wave-at; demand-side 2021–22 (Shapiro/Bernanke-Blanchard/IMF/NY Fed/Blanchard-Summers) qualifying the 60-percent-supply claim as one method's reading and showing the productive-capacity framework is sharpened; Volcker softening at three locations with engagement of the political-economy counterfactual (Carter's failed wage-price guidelines). Eleven new entries in Ch.13 sources.md. Verb audit confirmed: no "rentier" or "theft" instances; "deliberately engineering" removed. |
 | 2026-04-27 | 6 | Phase 4 — subtractive pass | ✓ Complete. ~5,100 net words cut across 13 manuscript files (5,741 removed, 624 added for transitions). HIGH-confidence cuts applied: chapter-opening recaps (Ch.4), bolded summary tags (Chs.5, 6, 8, 10), cross-chapter Triffin/Bretton Woods duplication, chapter-closing synthesis trios (Ch.11), deposit-banking redundancy (Ch.9), Pattern/Insight summary boxes (Ch.13), four-question Epilogue framings. Strong narrative-arc hooks preserved into Chs.6, 9, 12, 13 per author direction. Verified proposal at Reviews/PHASE-4-PROPOSAL.md. Earlier parallel-subagent attempt was discarded after agents fabricated content. |
+| 2026-04-27 | 7 | Phase 5 Session 7 — relocate contemporary hooks to codas | ✓ Complete. 11 chapters touched (1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 13). Opening contemporary parallels removed; tighter codas placed before each chapter's existing narrative-arc hook into the next chapter. Ch.5 and Ch.13 framing cut outright (duplicates and structural mismatch respectively). Mid-chapter intrusions cut: Ch.1 line 137, Ch.2 SWIFT one-liner, Ch.3 line 47. Ch.6 "From Paper Success to Bimetallic Problem" scaffolding trimmed; Ch.4 "From Sovereign Dilemma to Private Innovation" bridge cut. Each new chapter opening verified — historical scenes (Uruk temple, William of Orange, Newton at Tower of London, Westminster treasury, Fishguard 1797, Churchill at dispatch box, Mount Washington Hotel) lead. Total post-Session-7 manuscript: 67,003 words. Verified proposal at Reviews/PHASE-5-SESSION-7-PROPOSAL.md. |

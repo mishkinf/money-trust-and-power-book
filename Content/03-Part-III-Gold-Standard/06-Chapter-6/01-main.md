@@ -6,30 +6,6 @@
 
 ---
 
-### The Gold Standard Nostalgia
-
-"We need to return to the gold standard." The phrase echoes through political debates, cryptocurrency manifestos, and economic commentary. Gold, advocates argue, would discipline governments, prevent inflation, and restore monetary sanity. Bitcoin's fixed supply of 21 million coins explicitly mimics gold's scarcity. Ron Paul's "End the Fed" campaign called for gold-backed currency. The nostalgia is powerful: a time when money meant something real, when governments couldn't just print at will.³
-
-But what if the gold standard was never the natural monetary system its advocates imagine? What if it emerged not from economic logic but from a scientist's miscalculation? And what if its century of apparent success concealed a deflationary bias that redistributed wealth from debtors to creditors, from workers to bondholders, from periphery to core?
-
-The gold standard's origins reveal an uncomfortable truth: the system that dominated global finance for a century was not designed. It emerged from a Treasury under-correction, a Brazilian gold boom, and Asian silver demand that ran in the opposite direction — three forces that converged on a small adjustment Isaac Newton made in 1717 and that the Treasury, almost by inattention, never revisited. The result was a de facto gold standard nobody had voted for and almost nobody had foreseen. Understanding how this happened — and why the system worked despite being unintended — illuminates modern debates about monetary constraints, inflation, and the role of central banks.
-
----
-
-### From Paper Success to Bimetallic Problem
-
-The Bank of England had solved the domestic money problem. By 1717, twenty-three years after its founding, Bank notes circulated freely across England. Merchants, farmers, and shopkeepers accepted paper backed by parliamentary taxation authority. The institutional innovation of 1694—linking currency creation directly to the state's fiscal capacity—had succeeded beyond William Paterson's expectations.
-
-But Britain still operated on a **bimetallic monetary system**. Both gold and silver served as legal tender, with the government setting the official exchange ratio between them. The guinea (gold coin) and the shilling (silver) both circulated as money, their relative values fixed by royal proclamation. This dual-metal system created constant friction. When the official ratio diverged from market prices abroad, arbitrage opportunities emerged. Merchants would ship whichever metal was undervalued in Britain and import the metal overvalued, draining the country of one type of coin while flooding it with the other.
-
-This wasn't merely a technical problem—it was undermining England's monetary stability. Silver kept vanishing from circulation despite the Great Recoinage's success in restoring full-weight coins. The question was why.
-
-In 1717, the Crown turned to Isaac Newton—already immortal for the *Principia* but now serving as Master of the Royal Mint—to solve this problem. He was asked to determine the proper gold-to-silver ratio that would keep both metals in circulation. His answer, submitted in a modest technical report on September 21, 1717, would accidentally transform Britain's monetary system and eventually the world's.
-
----
-
-### The Master of the Mint's Miscalculation
-
 On a spring morning in 1717, Isaac Newton—74 years old, Master of the Royal Mint for twenty-one years—stood in his private laboratory at the Tower of London. The room smelled of quicksilver and coal smoke. On the workbench before him lay samples of coins from across Europe: Spanish pieces of eight, French louis d'or, Dutch guilders, Portuguese moidores. Beside them: crucibles, scales precise to a fraction of a grain, and sheets of calculations covered in his meticulous hand.
 
 Newton was conducting an assay—heating each coin to determine its exact precious metal content. He had done this hundreds of times since 1696, when he transformed the Royal Mint from a sinecure into an industrial operation. The Mint's machinery hummed in the floors below: rolling mills flattening metal into sheets, cutting presses stamping blanks, workers weighing and inspecting coins. Newton had overseen the greatest recoinage in English history, melting down **£6.8 million** in clipped and worn silver and reissuing it at full weight.
@@ -313,6 +289,8 @@ Britain benefited enormously. As the world's largest creditor and the issuer of 
 The gold standard also imposed **deflationary bias**. Because gold supply grew more slowly than economic output, prices tended to fall over time. This benefited creditors (who were repaid in more valuable money) and harmed debtors (who had to repay loans with scarcer currency). The late 19th century saw persistent deflation in gold standard countries, contributing to agrarian unrest and political instability.³⁶
 
 These costs were invisible to contemporaries, who saw the gold standard as a natural and neutral system. But they were real, and they would accumulate until the system collapsed under its own contradictions in the 1930s.
+
+The system Newton's miscalculation accidentally founded would, three centuries on, acquire defenders who insisted on its return. *We need to go back to the gold standard*, the argument runs in cryptocurrency manifestos and political pamphlets and economic commentary alike — back to a time when money meant something real, when governments could not print at will, when scarcity itself imposed honesty. Bitcoin's fixed supply of 21 million coins is sometimes presented as gold's mathematical heir; Ron Paul's *End the Fed* called explicitly for gold-backed currency; the nostalgia draws on a deep intuition that the discipline of metal is somehow more natural than the discretion of institutions. The history this chapter has traced refuses that intuition at every step. The gold standard was not a natural monetary system. It was a Treasury under-correction in 1717, layered over a Brazilian gold boom and an Asian silver pull that ran in the opposite direction, never reviewed because no one in the Treasury thought it required reviewing — and then, by the late nineteenth century, an orthodoxy nobody had voted for. The deflationary bias that quietly transferred purchasing power from debtors to creditors and from periphery to core was not an unfortunate side effect of an otherwise sound system. It was the system. The accident had become the rule, and the rule had become invisible.
 
 Yet before its catastrophic failure in the 1930s, the gold standard would face an earlier test that should have shattered the orthodoxy forever. Between 1797 and 1821 Britain fought and won the Napoleonic Wars on pure paper money, with no gold backing at all. The economy functioned. Prices held. The currency kept its value. Twenty-four years of empirical proof that money worked without metal.
 

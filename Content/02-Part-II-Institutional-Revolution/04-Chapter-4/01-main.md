@@ -6,26 +6,6 @@
 
 ---
 
-### When the Shadow Banks Froze
-
-On September 15, 2008, Lehman Brothers filed for bankruptcy. Within hours, the global financial system seized. Money market funds—supposedly safe investments that millions of Americans used like checking accounts—"broke the buck," losing value below their $1 net asset value. Repo markets, where banks borrowed overnight using securities as collateral, froze entirely. Asset-backed commercial paper, the short-term debt that funded everything from car loans to credit cards, became unsellable. The shadow banking system—a vast network of private money creation operating outside traditional banking regulation—collapsed overnight.
-
-The Federal Reserve responded with unprecedented intervention: emergency lending facilities, trillions in liquidity support, guarantees for money market funds. Critics called it a bailout. Defenders called it necessary. But few recognized what the crisis actually revealed: private money creation, however sophisticated, cannot provide systemic stability without a public backstop.
-
-This wasn't a new lesson. It was a lesson England learned in 1672, when Charles II's Stop of the Exchequer destroyed the goldsmith banking system. The goldsmiths had created England's first private paper money through fractional reserve lending—exactly the mechanism shadow banks used in 2008. Their system worked brilliantly until confidence collapsed. Then, without a lender of last resort, the entire structure imploded. The 2008 crisis was the goldsmith catastrophe replayed with modern instruments. Understanding why requires understanding how private money creation emerged—and why it always fails without sovereign backing.
-
----
-
-### From Sovereign Dilemma to Private Innovation
-
-The medieval merchant networks we examined in Part I relied on bilateral trust and reputation—Datini tracking his Avignon debts in double-entry ledgers, bills of exchange clearing at Lyon's fairs. But these private credit networks, however sophisticated, ultimately rested on sovereign currencies backed by taxation authority. The Bardi and Peruzzi collapse when Edward III defaulted in 1340 demonstrated that private credit networks cannot survive sovereign failures.
-
-By the mid-1600s, England was attempting something different: creating a domestic credit system that could rival the merchant networks' international reach. The goldsmith-bankers of London would accidentally invent fractional reserve banking when Charles I's seizure of merchant deposits at the Royal Mint (1640) forced goldsmith safes to become the de facto banking system. For the first time, private institutions were creating money domestically at scale—not just facilitating international trade settlements, but expanding England's money supply through lending.
-
-This chapter examines why that private money creation failed catastrophically—and why the failure proved that money creation requires public institutional backing, not just private ingenuity.
-
----
-
 A cold rain fell on London as William of Orange rode through the city gates in December 1688. He had crossed the Channel with an army, but he would take the throne without a battle. King James II, abandoned by his own officers and nobles, had fled to France. What followed was not merely a change of monarchs but a **constitutional revolution**—a fundamental restructuring of government that permanently transferred power from crown to Parliament, reshaping not just England's government but its entire financial system.¹
 
 The settlement was explicit: William and Mary would rule, but only if they accepted Parliament's supremacy. The Bill of Rights (1689) declared that the monarch could not suspend laws, levy taxes, or maintain a standing army without parliamentary consent. For the first time in English history, the power to spend and the power to tax were **legally inseparable**. A king could no longer borrow on his personal credit and leave Parliament to clean up the mess. Every loan, every expenditure, every military campaign would require legislative approval.²
@@ -143,5 +123,7 @@ The Stop proved two things. First, goldsmith receipts had become **true money**�
 The solution, when it finally came in 1694, was **state intervention**. The Bank of England was chartered explicitly to solve the problems the goldsmith catastrophe had revealed: create a stable institutional framework, provide government finance on sound terms, issue uniform currency backed by parliamentary taxation, and offer crisis liquidity when private credit froze.¹⁴
 
 The Stop of the Exchequer proved that private money creation, however ingenious, could not provide systemic stability. What England needed was not more private ingenuity but a public institution—one that could create money with the full backing of the state's fiscal power. That innovation would come in 1694, but not before one final attempt to solve the crisis through war and revolution. The Glorious Revolution of 1688 would provide the constitutional foundation; the Bank of England would provide the institutional mechanism. Together, they would transform not just England's finances but the nature of money itself.
+
+That same lesson would be relearned in September 2008. When Lehman Brothers filed for bankruptcy on the fifteenth of that month, the global financial system seized within hours. Money market funds — which millions of Americans used like checking accounts — broke the buck. The repo markets, where banks borrowed overnight against collateral, froze. Asset-backed commercial paper became unsellable. The shadow banking system that had grown up alongside regulated banking — a vast network of private money creation operating outside the formal regulatory perimeter — collapsed at the speed of a wire transfer. The Federal Reserve responded with emergency lending facilities, trillions in liquidity support, and explicit guarantees for money market funds. Critics called it a bailout. The honest description is that the Fed had been forced into the role the Bank of England was chartered to play in 1694: lender of last resort to a private credit system that could not save itself. Backwell at the Sign of the Unicorn would have recognized the dynamics on Lombard Street in 1672 instantly. The instruments had changed; the failure mode had not.
 
 The answer came from a Scottish merchant named William Paterson, who proposed in 1694 something that seemed impossible: a bank that could create money "out of nothing," tied directly to Parliament's power to tax. Not the king's promise. Not gold reserves. Not merchant reputation. Parliamentary taxation — the one thing that had proven reliable since 1688. The mechanism he designed would become the template for every central bank since.

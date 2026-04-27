@@ -6,18 +6,6 @@
 
 ---
 
-### Why Do People Still Believe Household Budget Metaphors?
-
-"We're broke." "The national debt is out of control." "We can't afford Medicare for All." The rhetoric dominates American political discourse. Politicians from both parties invoke household budget metaphors: governments must "tighten their belts," "live within their means," "balance the budget like a family." The metaphor seems intuitive—if households can't spend more than they earn, why should governments?
-
-But the metaphor is false. Households must acquire currency before spending it. Governments that issue their own currency create it by spending. A household that prints its own money goes to jail for counterfeiting. A government that issues its own currency is performing its basic function. The constraints are entirely different.
-
-Yet the household budget metaphor persists with remarkable tenacity, shaping debates about deficits, debt, and government spending despite being economically incoherent. Why? Because the orthodoxy that emerged in the 1810s-1840s aligned systematically with the material interests of those who held government bonds, then became systematically embedded through institutional power. What had been explicit in 1694—that the Bank of England created money "out of nothing"—became unthinkable in respectable economics within 150 years.
-
-This wasn't the discovery of truth. It was the consolidation of economic theories that served specific interests. Understanding how this happened—who benefited materially, what was erased, and why dissent was marginalized—reveals that our current monetary constraints are political choices masquerading as economic laws. The household budget metaphor isn't common sense. It's an economic framework that systematically protected bondholders' interests and has outlived the gold standard that supposedly justified it.
-
----
-
 ### The Man They Erased
 
 On May 7, 1832, Thomas Attwood stood before the House of Commons making an argument that would get him dismissed as a crank. Britain's economic distress, he insisted, stemmed not from moral failing or foreign competition but from **monetary contraction**. He had watched it happen in Birmingham.
@@ -162,6 +150,8 @@ Attwood's defeat shows how economic orthodoxy gets built when it aligns with con
 The Bank Charter Act of 1844 then embedded the orthodoxy in law, making gold constraints automatic and removing them from democratic contestation. Universities taught Currency School doctrine; prestigious professorships went to economists who accepted it; journals published papers supporting the conventional view and ignored the rest. By the 1850s a generation of economists had been trained to find what Attwood advocated not merely wrong but conceptually incoherent. The intellectual foundation William Paterson had articulated in 1694 — that the Bank created money out of nothing — had become unthinkable.
 
 The framework was self-reinforcing. The 1825–26 banking crisis, the 1847 suspension of the Bank Charter Act, the recurring depressions of the late nineteenth century — each was read not as evidence against gold but as evidence that gold's discipline had not been applied rigorously enough. Attwood was right about the mechanism, right about the distribution, and right about the solution. Being right was not enough.
+
+The framework Attwood lost to has outlived by a century the gold standard that justified it. Modern American political discourse runs on it without realizing where it came from: *we're broke*, *the national debt is out of control*, *we can't afford Medicare for All*, *governments must tighten their belts and balance the budget like a family*. The household budget metaphor presents itself as common sense. It is the lineal descendant of the Currency School's program, surviving the metallic constraint that originally justified it because the rhetorical claim — that a sovereign currency issuer faces the same constraints as a household that cannot create currency — does what Currency School orthodoxy has always done: protects the real returns of those who hold government debt by foreclosing fiscal responses that might dilute them. Households must acquire currency before they can spend it; sovereign governments that issue their own currency create it by spending. The constraints are not analogous. The household budget framing's persistence in the absence of any commodity backing — through eight decades of pure fiat money — is the clearest evidence that the orthodoxy Attwood lost to in 1832 was never really about gold. It was about whose interests the monetary system would protect when forced to choose. The choice has not changed. Neither has the rhetoric used to make it look like it isn't a choice at all.
 
 ---
 

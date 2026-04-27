@@ -6,16 +6,6 @@
 
 ---
 
-### The Invisible Network
-
-You swipe your credit card at a café in Paris. Within seconds, the transaction clears: your bank in New York debits your account, the café's bank in Paris credits theirs, and somewhere in between, a network of correspondent banks offsets the claim against thousands of other transactions flowing in the opposite direction. No money crosses the Atlantic. No gold ships from New York to Paris. The entire transaction exists as entries in digital ledgers, settled through a web of mutual obligations that spans the globe.
-
-This system—SWIFT codes, correspondent banking, real-time settlement—feels modern, a product of computers and telecommunications. But its architecture is medieval. The logic that allows your card to work in Paris is identical to the logic that allowed a Florentine merchant in 1450 to settle a debt in Bruges without shipping a single gold coin. The technology has changed. The fundamental mechanism has not.
-
-Yet there's a deeper question beneath the convenience: what gives these digital ledger entries value? Why does the Paris café accept a claim on a New York bank? The answer, as medieval merchants discovered, lies not in the network itself but in what the network rests upon. To understand modern finance, we need to understand how merchants created the first international monetary system—and why it could never fully escape sovereign power.
-
----
-
 ### Francesco Datini's Morning: Bruges, December 1399
 
 On December 12, 1399, Giovanni Orlandini faced a familiar problem in his counting house in Bruges. He needed to pay for Flemish woolens—the thick, high-quality cloth that would fetch premium prices when shipped to Barcelona. The wool was perfect: tightly woven, properly dyed, ready for export. But there was one obstacle: Orlandini's capital sat 1,200 miles away in Barcelona, locked in deposits at Francesco da Prato & Co., the merchant-banking house run by Francesco di Marco Datini.
@@ -158,7 +148,7 @@ By the time monarchs learned to harness these instruments for war finance, Europ
 
 The **first international monetary system** was not a metallic standard but a moral one—an invisible cathedral built of trust. Its architecture of ledgers and signatures still underpins the global economy. When we swipe a card or wire funds across continents, we repeat the gesture of that Florentine apprentice sealing a promise with wax: the act of turning trust into value.
 
-The merchant bankers of Florence could build sophisticated clearing systems, create bills of exchange that circulated across Europe, and settle accounts through offsetting claims—but they could not create the base money itself. Their bills were denominated in florins, ducats, and pounds, each backed by a ruler's taxation authority. The network multiplied sovereign credit; it did not replace it. When the SWIFT system moves trillions daily it is a digital version of medieval bills of exchange — but every transaction still settles in a sovereign currency at the end of the chain.
+The merchant bankers of Florence could build sophisticated clearing systems, create bills of exchange that circulated across Europe, and settle accounts through offsetting claims—but they could not create the base money itself. Their bills were denominated in florins, ducats, and pounds, each backed by a ruler's taxation authority. The network multiplied sovereign credit; it did not replace it.
 
 ---
 
@@ -169,3 +159,5 @@ For all its elegance, the system concealed a brutal truth: when trust broke, rui
 But the entire structure rested on a single foundation: Edward III's ability to generate enough tax revenue to service his debts. When news reached Florence in summer 1345 that Edward had suspended payments to foreign creditors, the cascade was immediate. English merchants could not honor their bills. Flemish buyers refused new paper from Italian houses. Within weeks the Peruzzi failed. The Bardi followed soon after. Partners who had built fortunes over three generations watched their wealth evaporate as bills became worthless paper — meticulously drafted, properly sealed, precisely dated, and as legally binding as ever, but unusable in trade because no one would accept them. The reputation that had taken generations to build dissolved in weeks.
 
 The lesson was harsh but clear: merchant credit networks could facilitate trade brilliantly when confidence held. They could multiply the efficiency of money, extend credit across vast distances, and enable commerce that would have been impossible with metal alone. But when the sovereign who backed the ultimate currency defaulted, or when war disrupted trade routes, the entire structure revealed its foundation. Reputation could extend trust across distance; it could not create value from nothing when the sovereign foundation crumbled.
+
+The architecture that the Peruzzi and Bardi built has not gone away. When a credit card swiped at a Paris café clears within seconds — your New York bank debiting your account, the café's Paris bank crediting its own, a network of correspondent banks netting the claim against thousands of other transactions flowing in the opposite direction — the entire transaction is a digital reenactment of Datini's December 1399 bill. No money crosses the Atlantic. No gold leaves a vault. Mutual obligations are offset on ledgers, exactly as they were at Bruges in 1450 and Lyon in 1550. SWIFT codes and correspondent-banking relationships have replaced wax seals and quarterly reconciliations at the great fairs, but the mechanism is identical: claims settling against claims, with metal — when it appears at all — moving only at the margins. What the Paris merchant in 1399 could not escape, the modern global payments system cannot escape either. Behind every netted claim stands a sovereign currency, valuable because of the taxation authority that issues and accepts it. The medieval cathedral of trust still rests on the same bedrock.

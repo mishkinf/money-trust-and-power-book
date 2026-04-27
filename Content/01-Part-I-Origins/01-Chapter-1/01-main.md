@@ -6,16 +6,6 @@
 
 ---
 
-### The Bitcoin Question
-
-When Bitcoin's anonymous creator proposed a currency with algorithmically fixed supply—21 million coins, no more, ever—the manifesto promised liberation from government manipulation. No central bank could print more. No politician could debase it. Scarcity would be absolute, enforced by mathematics rather than institutions. For millions of cryptocurrency advocates, this represented money's return to its natural form: a commodity whose value derives from scarcity itself, not from the promises of fallible authorities.
-
-But what if this entire premise rests on a historical misunderstanding? What if money never was—and never needed to be—a scarce commodity? What if the oldest evidence shows that money began as something else entirely: not as things to be hoarded, but as relationships to be recorded?
-
-The debate between cryptocurrency advocates and Modern Monetary Theory proponents is unwittingly reenacting an ancient argument. One side insists money must have intrinsic value, anchored in scarcity. The other argues money derives value from the institutions that issue it and the obligations it can discharge. This is not a new question. It's the oldest question in monetary history. And the answer, written in clay five thousand years ago, might surprise both sides.
-
----
-
 The smell of barley dust filled the air inside the temple granary of Uruk. A scribe, reed stylus in hand, pressed wedge-shaped marks into a damp clay tablet. Each mark recorded a promise—how much grain a farmer owed after harvest, or what portion the temple would distribute to workers digging irrigation canals. When the scribe finished, he set the tablet aside to dry in the sun. The hardened clay became both contract and currency, a permanent memory of obligation. That scene, repeated thousands of times across the Tigris and Euphrates valleys five thousand years ago, was the beginning of money.¹
 
 For centuries economists assumed money was born from barter—hunters trading hides for grain, shepherds for wine. But the tablets of Mesopotamia tell another story. The first "currencies" were not objects at all but **records of debt**, created and enforced by central institutions—temples, palaces, and later the state.² Those institutions measured value in a common **unit of account**—the standard measure for recording debts and prices, like using inches to measure length regardless of whether you use a ruler or tape measure. They denominated obligations in silver by weight, but few ever touched the metal. Instead, they kept running tallies of who owed what to whom. The unit of account came first; the **medium of exchange**—what people actually use to make payments—arrived millennia later.³
@@ -134,8 +124,6 @@ The system's final step completed the monetary circuit: **destruction upon colle
 
 Yet this power had a fatal limitation: tally sticks could discharge obligations only within the realm. The distinction between domestic instruments backed by tax authority and international instruments requiring exportable value would haunt European monarchs for centuries and ultimately drive the creation of central banks.
 
-This same distinction explains why the dollar dominates international trade while most domestic transactions use credit cards and bank transfers. Cross-border payments still require "neutral collateral"—today's equivalent of medieval gold—while domestic payments rely on institutional trust, just as tally sticks did in medieval England.
-
 ---
 
 ### The long arc of trust
@@ -149,3 +137,5 @@ Money, then, is not a thing but a **relationship**—a ledger of mutual recognit
 The birth of credit in the temples of Mesopotamia was therefore not a primitive stage on the road to coin but the first expression of a deeper truth: economies are systems of faith organized through record-keeping. From sacred accounting to sovereign finance, every regime of money since has been an attempt to balance two imperatives — the freedom to create credit, and the need to make it credible.
 
 The temples of Uruk did not need scarce commodities to create functioning money. They needed institutional credibility and taxation authority. As Chapter 5 will show, that principle has held ever since.
+
+Five thousand years later, the question would return in a new vocabulary. Bitcoin's anonymous creator proposed a currency with an algorithmically fixed supply — 21 million coins, no more, ever — and presented scarcity itself, enforced by mathematics rather than by institutions, as money's natural form. The cryptocurrency manifesto and the Modern Monetary Theory tradition that opposes it are unwittingly reenacting an ancient argument: must money have intrinsic value anchored in scarcity, or does it derive its value from the institutions that issue it and the obligations it can discharge? The clay tablets of Uruk had already answered. Money never was, and never needed to be, a scarce commodity. From its first appearance on the historical record it was a relationship — recorded by institutions powerful enough to enforce it, and worth precisely what those institutions could compel.

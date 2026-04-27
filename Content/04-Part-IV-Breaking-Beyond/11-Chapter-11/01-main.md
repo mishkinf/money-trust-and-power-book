@@ -6,18 +6,6 @@
 
 ---
 
-### China's Dollar Trap
-
-As of March 2025, China holds approximately $765-800 billion in U.S. Treasury securities,⁴³ᵃ down from earlier peaks but still representing a substantial creditor position to the United States. Yet Chinese officials increasingly worry about this position. The dollar's value depends on American fiscal discipline and Federal Reserve policy—neither of which China controls. If the dollar weakens, China's reserves lose value. If China tries to sell, the resulting crash would destroy the value of its remaining holdings.
-
-This resembles France's 1960s position but operates under fundamentally different constraints. France could test the Bretton Woods system by demanding gold—exposing the material limit of $35/ounce convertibility. China cannot. Under pure fiat, there's no convertibility promise to test, no gold reserves to exhaust. The United States, as a sovereign currency issuer, cannot run out of dollars. What China faces isn't the Triffin dilemma but a different challenge: the political risk of holding assets denominated in another nation's currency. The vulnerability is to American policy decisions and geopolitical power, not to American insolvency.
-
-The 2008 financial crisis revealed both the power and the fragility of this arrangement. When credit markets froze globally, only the Federal Reserve could provide the dollars the world economy needed. The Fed created $583 billion in currency swap lines with 14 foreign central banks—essentially printing dollars for other countries to use.⁴³ᵇ This demonstrated that the dollar's reserve status gives the U.S. extraordinary power: the Fed is the world's central bank by default.
-
-But it also revealed the system's vulnerability. If confidence in the dollar ever truly collapsed, there's no gold to fall back on, no automatic stabilizer. The system works entirely on institutional credibility. Understanding how this system emerged—and why the gold-backed alternative failed—illuminates the constraints and possibilities of our current monetary order.
-
----
-
 ### July 1944: The Mount Washington Hotel
 
 One month after D-Day, as Allied forces fought across Normandy, 730 delegates from 44 nations gathered at the Mount Washington Hotel in Bretton Woods, New Hampshire. The timing was deliberate—the Allies were winning the war, and America was determined to win the peace. Organizers scheduled the conference for July 1-22, 1944, but extended it three days as delegates argued over details already decided in Washington.⁴⁹ᵃ
@@ -330,6 +318,8 @@ Capital controls—restrictions on cross-border money movements—played a cruci
 But it contained a fatal flaw that economist Robert Triffin would identify in his 1959-60 Congressional testimony. The system needed growing dollar supply for expanding world trade, but dollar convertibility required limiting supply to match gold reserves. Once "outstanding dollar liabilities to the rest of the world would eventually exceed the US monetary gold stock," a "classic bank run" would occur.⁵²ᵍ
 
 The question was not whether the system would collapse, but when.
+
+The compromise White built has outlasted the metal that anchored it. As of March 2025, the People's Republic of China holds roughly $765–800 billion in U.S. Treasury securities — down from earlier peaks, but still one of the largest sovereign creditor positions in the world. The position's value depends entirely on American fiscal discipline and Federal Reserve policy, neither of which Beijing controls. Selling fast would crash the price of what remains; holding exposes China to American policy decisions and the dollar's continued credibility. The arithmetic looks like France's 1960s position, but the constraint is fundamentally different. France could test Bretton Woods by demanding gold at $35 an ounce — there was a material limit to expose. Under pure fiat, that limit is gone. The United States, as a sovereign currency issuer, cannot run out of dollars; in 2008 the Federal Reserve created $583 billion in swap lines with fourteen foreign central banks essentially by keystroke, supplying the world's dollar liquidity when private markets froze. What this means for China is not Triffin's dilemma but its successor: the political risk of holding assets denominated in another nation's currency, with no convertibility promise to test and no automatic stabilizer to break the fall if confidence ever does. The dollar's reserve status — White's gift to America in 1944 — has become America's instrument and the rest of the world's exposure. The exorbitant privilege Giscard d'Estaing named in the 1960s is more exorbitant now, not less, because the metal that once put a ceiling on it is gone.
 
 ---
 

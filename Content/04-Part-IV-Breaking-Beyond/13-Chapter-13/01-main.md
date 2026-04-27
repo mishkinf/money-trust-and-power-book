@@ -6,15 +6,9 @@
 
 ---
 
-### The COVID Stimulus Debate
+### Why Did 2008 and 2021 Produce Different Outcomes?
 
-In March 2020, as COVID-19 shut down the global economy, Congress passed a $2.2 trillion stimulus package. Within months, another $900 billion. By March 2021, an additional $1.9 trillion. Total: over $5 trillion in emergency spending—roughly 25% of U.S. GDP—created without raising taxes, without selling bonds to private investors, without "finding the money" first.
-
-Critics warned of disaster. "Where will the money come from?" they demanded. "This will cause hyperinflation!" "We're bankrupting our grandchildren!" The rhetoric treated sovereign currency issuers as if they were currency users—households that must acquire money before spending it.
-
-But the money appeared. The Federal Reserve credited bank accounts with new reserves. Treasury spent the money into the economy. Checks arrived in mailboxes, unemployment benefits flowed, businesses received loans. The money existed because the government created it—the same way governments have created money for five thousand years.
-
-And inflation? It remained subdued through 2020. When it finally emerged in 2021-2022, the crucial question was: **Why did comparable monetary expansion cause minimal inflation in 2008 but significant inflation in 2021?** The answer reveals the productive capacity principle in action.
+In 2008 and again in 2020, central banks created trillions of dollars in a matter of months. The first round produced almost no consumer-price inflation for a decade. The second produced a 9.1 percent CPI peak by mid-2022. The same mechanism, the same scale, opposite results — and the answer to why is the answer to what fiat money actually requires.
 
 In 2008, the Federal Reserve's balance sheet expanded from $900 billion to $4.5 trillion—a five-fold increase. Unemployment peaked at **10.0%** in October 2009. The output gap—the difference between actual and potential GDP—reached **-7.6%** at its trough. Capacity utilization collapsed. The economy had massive slack: idle factories, unemployed workers, shuttered businesses. When the Fed created trillions, it filled that gap, mobilizing unused resources without bidding up prices. Core inflation averaged just 1.4% from 2010-2014 despite unprecedented monetary expansion.⁴⁰ᵃ ⁴⁰ᵇ
 
