@@ -50,3 +50,15 @@ The Glorious Revolution of 1688 created the institutional foundation for modern 
 38. Finley, M. I. (1965). "La servitude pour dettes." *Revue historique de droit français et étranger,* 43, 159-184. [Ancient debt bondage and cancellation]
 39. Piketty, Thomas. (2014). *Capital in the Twenty-First Century.* Harvard University Press. [Wealth concentration and redistribution]
 40. Atkinson, Anthony B. (2015). *Inequality: What Can Be Done?* Harvard University Press. [Tax policy and redistribution]
+
+**William Paterson, the projector type, and the Darien aftermath:**
+
+19ᵃ. Bannister, Saxe (ed.). (1858). *The Writings of William Paterson, Founder of the Bank of England.* 3 vols. London: Effingham Wilson. [Collected pamphlets and tracts; primary source for Paterson's own monetary writing, including the "out of nothing" formulation]
+19ᵇ. *Oxford Dictionary of National Biography*, "Paterson, William (1658–1719)." Reviewed entry by Andrew M. Carlos. [Scottish origins, Cameronian background, West Indies sojourn, career as projector]
+19ᶜ. Defoe, Daniel. (1697). *An Essay upon Projects.* London: Cockerill. [Contemporary classification of the projector type and Defoe's distinction between "honest projectors" and charlatans during the late-Stuart financial speculation]
+19ᵈ. Murphy, Anne L. (2009). *The Origins of English Financial Markets: Investment and Speculation Before the South Sea Bubble.* Cambridge University Press. [Hampstead Water Company, Million Adventure 1694, the explosion of joint-stock projects 1690–1695]
+19ᵉ. Roseveare, Henry. (1991). *The Financial Revolution 1660–1760.* Longman. [Charles Montagu and the Tonnage Act of 1694 — already cited above as #22; full account of the Bank's chartering legislation in chapter 2]
+19ᶠ. Paterson, William. (c.1694–1700). "A Brief Account of the Intended Bank of England" and other Bank-defending pamphlets, as collected in Bannister (1858) above. [The "out of nothing" passage; specific phrase appears in Paterson's later self-defense after his resignation from the Bank's directorate]
+19ᵍ. Watt, Douglas. (2007). *The Price of Scotland: Darien, Union and the Wealth of Nations.* Edinburgh: Luath Press. [Modern scholarly account of Paterson's role in the Company of Scotland, the £400,000 capital raise, and the 1698–1700 expeditions]
+19ʰ. Insh, George Pratt. (1932). *The Company of Scotland Trading to Africa and the Indies.* London: Charles Scribner's Sons. [Foundational older account of the Darien venture; statistics on colonist mortality and the catastrophic abandonment of the colony]
+19ⁱ. Prebble, John. (1968). *The Darien Disaster.* London: Secker & Warburg. [Narrative reconstruction of the Darien expeditions and Paterson's personal losses; complemented by Watt 2007 above for the financial-institutional analysis]
