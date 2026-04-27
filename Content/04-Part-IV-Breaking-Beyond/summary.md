@@ -1,0 +1,3 @@
+# Part IV Summary: The Breaking and Beyond
+
+The gold standard's collapse unfolded across five decades from Churchill's catastrophic 1925 return through Nixon's 1971 closure of the gold window, revealing that monetary constraints imposed human costs politicians ultimately could not sustain. Countries that left gold earlier recovered faster from the Great Depression, while the Bretton Woods compromise (1944-1971) contained fatal contradictions in the Triffin dilemma. The age of pure fiat (1971-present) vindicated what earlier generations knew: money is a human institution constrained by real productive capacity, not by gold reserves—though whether this liberation serves broad prosperity or concentrates wealth depends entirely on whose interests shape monetary policy.

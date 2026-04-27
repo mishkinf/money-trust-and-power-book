@@ -1,0 +1,3 @@
+# Chapter 3 Summary: The Sovereign's Dilemma
+
+Monarchs could create domestic credit through tally sticks backed by taxation power, but foreign wars required gold or silver they had to acquire from creditors—a fundamental asymmetry between domestic and international money. Charles II's 1672 Stop of the Exchequer, suspending £1.3 million in debt payments, destroyed trust in personal sovereignty and bankrupted goldsmith-bankers like Edward Backwell. The solution would require a political revolution—parliamentary control of taxation creating institutional credibility that no single monarch could break—setting the stage for the Bank of England's founding in 1694.

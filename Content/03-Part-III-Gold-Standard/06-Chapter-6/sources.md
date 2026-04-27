@@ -24,6 +24,8 @@ Between 1797 and 1821, Britain had fought the world's greatest military power us
 10. Redish, A. (1990). "The Evolution of the Gold Standard in England." *Journal of Economic History,* 50(4), 789–805.
 11. Rolnick, A. J., & Weber, W. E. (1986). "Gresham's Law or Gresham's Fallacy?" *Journal of Political Economy,* 94(1), 185–199.
 12. Selgin, G. (1996). "Salvaging Gresham's Law: The Good, the Bad, and the Illegal." *Journal of Money, Credit and Banking,* 28(4), 637–649.
+12a. Selgin, G. (2008). *Good Money: Birmingham Button Makers, the Royal Mint, and the Beginnings of Modern Coinage, 1775–1821.* Oakland, CA: Independent Institute. [Multi-causal account of Britain's drift to gold: Newton's 1717 Treasury under-correction + Brazilian gold flooding via the Methuen Treaty (1703) + Asian silver demand running east regardless of mint ratio. Selgin treats the silver drain as accidental and unintentional but locates the cause of the gold-standard transition in structural global metal flows, not in Newton's ratio alone.]
+12b. Velde, F. R., & Weber, W. E. (2000). "A Model of Bimetallism." *Journal of Political Economy,* 108(6), 1210–1234. [Mathematical model of bimetallic systems and the conditions under which silver/gold drainage occurs given mint ratios that diverge from market ratios.]
 13. Officer, L. H. (2008). "Gold Standard." *EH.net Encyclopedia,* edited by Robert Whaples.
 14. Feavearyear, A. (1963). *The Pound Sterling: A History of English Money.* 2nd ed. Oxford University Press.
 15. Sargent, T. J., & Velde, F. R. (2002). *The Big Problem of Small Change.* Princeton University Press.

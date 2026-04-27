@@ -1,0 +1,3 @@
+# Chapter 7 Summary: Paper Proves Itself
+
+The Bank Restriction Act (1797-1821) proved that paper money could function for 24 years without gold backing when institutions were credible, financing Britain's victory in the Napoleonic Wars with moderate inflation. Yet when gold convertibility was restored in 1821, the resulting 30% deflation devastated farmers and debtors while enriching creditors—a human cost economists measuring price indices couldn't capture. The Bullionist Controversy saw Ricardo argue for immediate gold resumption while Henry Thornton prophetically warned of deflation's dangers, establishing a pattern where creditor-serving orthodoxy survived despite empirical refutation.

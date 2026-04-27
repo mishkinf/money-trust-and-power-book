@@ -1,0 +1,3 @@
+# Chapter 2 Summary: Merchants of Trust
+
+Medieval merchants created international credit networks using bills of exchange and double-entry bookkeeping that allowed trade to flourish across Europe without shipping physical gold. These sophisticated systems worked through reputation and clearing mechanisms that prefigured modern banking, but they ultimately depended on sovereign currencies backed by taxation authority. When confidence collapsed—as in the 1345 Peruzzi failure after Edward III's default—the entire structure revealed its foundation: private credit networks, however ingenious, cannot survive without sovereign backing, a lesson the 2008 financial crisis would repeat.

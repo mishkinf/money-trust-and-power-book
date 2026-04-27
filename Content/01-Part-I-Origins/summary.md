@@ -1,0 +1,3 @@
+# Part I Summary: The Origins of Credit Money
+
+Credit systems preceded commodity money by millennia, emerging from temples and palaces that recorded debts and enforced obligations through institutional authority. Medieval merchants built sophisticated international credit networks through bills of exchange and double-entry bookkeeping, but these private networks ultimately rested on sovereign currencies backed by taxation authority. The fundamental problem became clear: monarchs could create domestic credit through instruments like tally sticks, but foreign wars required gold or silver that only creditors could provide—an asymmetry that would drive the creation of central banks.

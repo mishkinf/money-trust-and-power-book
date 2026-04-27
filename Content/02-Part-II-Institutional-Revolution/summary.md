@@ -1,0 +1,3 @@
+# Part II Summary: The Institutional Revolution
+
+Private money creation through goldsmith banking collapsed catastrophically in 1672, proving that private institutions could not provide systemic stability. The Glorious Revolution of 1688 transferred fiscal power from crown to Parliament, and the Bank of England's 1694 founding completed this revolution by creating money through lending backed by parliamentary taxation. The institutional solution succeeded brilliantly but systematically served creditor interests—protecting bondholders' real returns through tight money while imposing credit scarcity on workers and manufacturers.

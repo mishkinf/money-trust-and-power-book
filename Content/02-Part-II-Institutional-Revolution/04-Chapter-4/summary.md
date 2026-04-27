@@ -1,0 +1,3 @@
+# Chapter 4 Summary: When Private Money Failed
+
+Goldsmith banking emerged accidentally after Charles I's 1640 seizure of deposits, with goldsmiths discovering they could lend multiples of their reserves through fractional reserve banking. The system survived the Great Fire of 1666 but collapsed spectacularly when Charles II's 1672 Stop of the Exchequer suspended debt payments, ruining Edward Backwell and proving that private money creation cannot provide stability without sovereign backing. The parallel to 2008's shadow banking collapse is exact: sophisticated private credit systems work brilliantly until confidence breaks, then require public institutional backstops to survive.

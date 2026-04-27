@@ -1,0 +1,3 @@
+# Chapter 12 Summary: The Breaking of Bretton Woods
+
+De Gaulle's 1965-1968 gold offensive tested the Bretton Woods system's fundamental contradiction by converting dollar reserves to gold, while Britain's 1967 devaluation revealed that capital controls couldn't defend fixed exchange rates against speculation. The London Gold Pool hemorrhaged $3 billion attempting to maintain the $35/ounce price before collapsing in March 1968, creating a two-tier gold market. Nixon's August 15, 1971 closure of the gold window—announced as "temporary"—became permanent, ending the gold standard forever and inaugurating the age of pure fiat where money derives value from institutional credibility rather than commodity backing.

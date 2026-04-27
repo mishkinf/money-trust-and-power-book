@@ -15,9 +15,15 @@ Between 1800-1850, earlier understandings of money creation were systematically 
 - Money, L. G. Chiozza. (1920). *Riches and Poverty, 1910-1925: A Study of Present-Day Economics*. London: Methuen & Co. [Attwood biographical details and political organizing]
 - Wakefield, C. M. (1885). *Life of Thomas Attwood.* London: Privately printed. Available at Internet Archive. https://archive.org/stream/lifeofthomasattw00wakeuoft/lifeofthomasattw00wakeuoft_djvu.txt
 - Briggs, Asa. (1948). "Thomas Attwood and the Economic Background of the Birmingham Political Union." *Cambridge Historical Journal* 9(2): 190-216. JSTOR. https://www.jstor.org/stable/3020620
+- Briggs, Asa. (1959). *Chartist Studies.* London: Macmillan. [On the May 7, 1832 Newhall Hill rally and contemporary attendance estimates]
 - Moss, D. J. (1990). *Thomas Attwood: The Biography of a Radical.* Montreal: McGill-Queen's University Press.
 - Flick, Carlos. (1978). *The Birmingham Political Union and the Movements for Reform in Britain, 1830-1839.* Hamden, CT: Archon Books. Available at Internet Archive. https://archive.org/details/birminghampoliti0000flic
 - UK Parliament. "Thomas Attwood and the Birmingham Political Union." https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/case-study/the-right-to-vote/thomas-attwood-and-the-birmingham-political-union/birmingham-political-union/
+
+²⁷ᵃ⁻² **Newhall Hill rally attendance, May 7, 1832 — note on contested figures:**
+- Contemporary newspaper estimates of 150,000-200,000 (sourced via partisan provincial press, repeated in Briggs 1959 and Flick 1978) are widely cited but almost certainly inflated.
+- Modern crowd-science analyses applying density standards (e.g., 4 persons/m² standing densely; 2/m² for typical political assembly) to the historic site footprint of Newhall Hill — a former sandstone quarry in central Birmingham — yield a defensible upper bound of approximately 30,000-100,000 depending on assumed density.
+- The political effect of the rally is independent of the precise number: it was unprecedented in scale for a provincial city in 1832 and decisively pressured the House of Lords during the Days of May.
 
 ²⁷ᵇ **Deflation's Impact on Birmingham Manufacturing:**
 - Taylor, A. J. P. (1965). *English History, 1914-1945.* Oxford: Clarendon Press. [Contextual analysis of industrial depression patterns]

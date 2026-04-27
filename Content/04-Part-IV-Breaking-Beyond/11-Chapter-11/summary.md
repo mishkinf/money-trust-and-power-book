@@ -1,0 +1,3 @@
+# Chapter 11 Summary: Bretton Woods and the Bancor That Wasn't
+
+At the July 1944 Bretton Woods conference, Keynes's bancor—a supranational currency with symmetric adjustment—lost to White's dollar-centered system backed by American gold (80% of global reserves) and American power. The conference dynamics revealed how 730 delegates from 44 nations negotiated for three weeks while real decisions had already been made in Washington, with procedural control and exhaustion giving White maximum leverage. The system that emerged worked brilliantly for 27 years but contained the Triffin dilemma—a fatal contradiction where the world needed dollars for trade (requiring US deficits) but those deficits undermined the gold backing that supposedly guaranteed dollar value.

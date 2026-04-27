@@ -1,0 +1,3 @@
+# Chapter 1 Summary: The Birth of Credit
+
+Money began as credit—recorded obligations managed by institutions powerful enough to enforce them—not as commodity barter. Mesopotamian temples created sophisticated accounting systems using units of account centuries before widespread commodity money, with taxation creating demand for currency independent of metal backing. The evidence supports the chartalist view: money derives value from institutional authority and tax obligations, not from intrinsic commodity value, though this understanding would be systematically erased by the gold standard's success.

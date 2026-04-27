@@ -1,0 +1,3 @@
+# Preface Summary
+
+Money is not a thing but a relationship—a social technology created by institutions and sustained by trust. The book traces 5,000 years of monetary history to reveal that gold was never the foundation of value; taxation and institutional credibility were. From Mesopotamian grain credits to modern fiat currency, the pattern repeats: money works when institutions are credible, not when backed by commodity reserves. Understanding this history reveals that contemporary debates about government spending, inflation, and fiscal sustainability rest on systematic forgetting of how money actually works—an inversion deliberately constructed to serve creditor interests over productive workers.

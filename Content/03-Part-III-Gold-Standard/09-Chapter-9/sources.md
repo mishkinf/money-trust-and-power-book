@@ -114,6 +114,8 @@ The paradox of intellectual defeat and legislative victory: James Wilson's *The 
 
 ³⁴ **Heslop's Unemployment Under Churchill's Gold Return:**
 - Taylor, A. J. P. (1965). *English History, 1914-1945.* Oxford: Clarendon Press. [Coal industry contraction under overvalued gold parity]
+- Supple, B. (1987). *The History of the British Coal Industry, vol. 4: 1913–1946.* Oxford: Clarendon Press. [Multi-causal analysis of British coal-industry contraction: pre-1913 over-investment, exhausted seams, post-1917 loss of Russian markets, American/German competition, AND Churchill's 1925 return to gold]
+- Keynes, J. M. (1925). *The Economic Consequences of Mr. Churchill.* London: Hogarth Press. [Classic case for Churchill 1925 as specifically monetary contributor to coal's troubles]
 
 ³⁵ **Heslop's Literary Works:**
 - Heslop, Harold. (1926, 1934). *Goaf* (Russian 1926, English 1934).
@@ -122,8 +124,10 @@ The paradox of intellectual defeat and legislative victory: James Wilson's *The 
 - Heslop, Harold. (1946). *The Earth Beneath*.
 - Heslop, Harold. (1994). *Out of the Old Earth* (posthumous).
 
-³⁶ **Bank Charter Act Mechanisms Creating 1925 Deflation:**
-- Churchill's 1925 return to gold at pre-war parity ($4.86/£) triggered automatic deflation under Bank Charter Act mechanisms embedded in 1844, demonstrating Currency School legislation's eight-decade policy constraints.
+³⁶ **Heslop's Marxist Framework and the Multi-Causal Coal Decline:**
+- Croft, A. (1990). *Red Letter Days: British Fiction in the 1930s.* London: Lawrence & Wishart, plus Croft's introductions to Heslop reissues. [Heslop's literary politics: Marxist class analysis (learned at Central Labour College, 1923-1926), not currency-school monetary critique. His novels — *Goaf*, *The Gate of a Strange Field*, *Last Cage Down*, *The Earth Beneath* — document the lived texture of coal-industry decline without analytically naming the Bank Charter Act, the Currency School, or the gold standard.]
+- Supple (1987), op. cit. [On the multi-causal British coal-industry contraction; Churchill's 1925 return to gold was a proximate monetary trigger over a structural decline already in progress from pre-1913 over-investment, exhausted seams, lost Russian markets, and American/German competition.]
+- Churchill's 1925 return to gold at pre-war parity ($4.86/£) triggered automatic deflation under Bank Charter Act mechanisms embedded in 1844; coal-industry contraction had monetary-policy fingerprints on it even when the workers and writers living through it framed their experience in different terms.
 
 ³⁷ **Durham University Special Collections:**
 - Harold Heslop Papers (GB-0033-HES).
