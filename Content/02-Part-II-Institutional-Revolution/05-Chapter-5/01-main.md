@@ -57,7 +57,7 @@ On the Bank's ledger, the transaction looked like this:
 
 The loan was the asset; the notes were the liability. When the government spent those notes—paying soldiers, buying supplies, or funding allies—they became **money**, circulating through the economy as purchasing power. The Bank had, in effect, **created money by lending**.²³
 
-Let's be clear about what just happened: **The Bank did not have £1.2 million in a vault**. It did not hand over someone else's deposit. It created brand new money by making two accounting entries: one recording the loan to government (what the Bank is owed) and one recording the notes issued (what the Bank owes). The notes appeared into existence through the act of lending.
+The Bank did not have £1.2 million in a vault. It did not hand over someone else's deposit. It created brand new money by making two accounting entries: one recording the loan to government (what the Bank is owed) and one recording the notes issued (what the Bank owes). The notes appeared into existence through the act of lending.
 
 This seems impossible. How can you create purchasing power from nothing? The answer is that money is not a physical thing—it's a claim, a promise, a relationship. The Bank promised to exchange its notes for gold on demand (**convertibility**—the ability to exchange paper money for precious metal at a fixed rate). But more importantly, the government promised to accept those notes for taxes. That combination—**convertibility** plus tax acceptability—gave the notes value.
 
@@ -113,8 +113,6 @@ This created a perpetual cycle:
 4. **The government spent again**, reinjecting the notes
 
 The cycle was self-sustaining. The government did not need to hoard gold to create money; it needed only to spend first and tax later. The spending created the money; the taxation ensured demand for it.²⁷
-
-Imagine a farmer in 1700s England. He grows wheat, raises sheep, weaves his own clothes. He could live entirely without money — except for one thing. The tax collector comes every year demanding £5 in Bank of England notes. Not wheat. Not sheep. Not labour. Specifically those paper notes. Suddenly the farmer needs them. He must sell something for notes, or work for someone who pays in notes. The government has created demand for its paper by requiring it for taxes.²⁹
 
 The principle was not new. Adam Smith had articulated it in *The Wealth of Nations* (1776), writing that "a prince, who should enact that a certain proportion of his taxes should be paid in a paper money of a certain kind, might thereby give a certain value to this paper money."³⁰
 
@@ -207,7 +205,7 @@ The root cause was **serial default**. France restructured or repudiated debts i
 
 Why couldn't France create its own Bank of England? The institutional prerequisites were absent. England's system depended on Parliament's credible commitment. France had no equivalent. John Law's Banque Générale (1716) attempted to replicate the model, but without parliamentary backing it collapsed spectacularly in 1720. Only Napoleon's reforms in 1800, when he chartered the Banque de France with state backing, finally gave France what England had enjoyed since 1690.⁴²
 
-The comparison reveals a fundamental truth: **financial revolutions require political revolutions**. England's advantage was constitutional, not economic.
+England's advantage was constitutional, not economic.
 
 ---
 
@@ -220,10 +218,6 @@ The Bank of England's founding marked a turning point in monetary history. For t
 This was not alchemy in the mystical sense but in the practical one: the transformation of base materials (paper, ink, and ledgers) into something that functioned as gold. The trick was not in the paper but in the **institutions** that gave it meaning—Parliament's taxing power, the Bank's monopoly charter, and the legal framework that bound them.
 
 Other nations would try to copy the model. Some, like the Netherlands, succeeded. Others, like France, failed because they lacked the constitutional foundations. The difference was always the same: **trust required institutions, and institutions required limits on arbitrary power**. A king who could dissolve Parliament or repudiate debts could never borrow as cheaply as a government that had surrendered those prerogatives.
-
-The Bank of England proved that the future belonged not to the richest states but to the most **credible** ones. And credibility, it turned out, was not a matter of gold reserves but of legal architecture. The real revolution of 1688 was not political but financial: the discovery that **money is a relationship**, and relationships endure only when they are governed by rules no single party can break.
-
-The institutional revolution was complete. England had created a system where money could be manufactured through lending, backed not by gold but by parliamentary taxation and legal obligation. The two-tier structure—Bank of England notes as base money, country bank notes as credit expansion—would become the template for modern monetary systems worldwide. But this very success would create a new problem: as the system worked so well, people would forget how it actually functioned, replacing institutional understanding with gold fetishism. That forgetting, and its consequences, would shape the next two centuries of monetary history.
 
 The Bank of England had solved the impossible problem. By tying money creation to parliamentary taxation, it created institutional credibility that transcended metal. Paper notes circulated because they discharged obligations, not because gold sat in vaults.
 

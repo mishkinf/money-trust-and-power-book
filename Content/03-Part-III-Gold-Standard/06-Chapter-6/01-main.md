@@ -68,8 +68,6 @@ The Treasury accepted his advice. The Royal Proclamation of December 22, 1717, f
 
 Newton died March 20, 1727—ten years after his report—believing he had stabilized bimetallism. He hadn't. His modest recommendation had accidentally created the gold standard that would dominate the next 200 years, shape the world economy, and ultimately collapse in depression and war.
 
-It was, as one historian later wrote, "the most consequential accident in financial history."³
-
 What Newton's accident would ultimately prove was not that gold was the foundation of monetary value, but that institutional credibility—the Bank of England's track record, Parliament's taxing power, Britain's fiscal capacity—mattered more than the metal itself. The gold standard worked not because of gold but because of the institutions managing it. When those institutions faltered, as they would in the 1920s and 1930s, gold could not save the system. But in the century after Newton's decision, Britain's institutional strength would make gold seem indispensable, creating a monetary orthodoxy that would dominate the world until 1971.
 
 ---
@@ -281,7 +279,7 @@ A concrete instance: in autumn 1890, during the Baring crisis, sterling weakened
 
 Gold movements were far less automatic than theory suggested. David Hume's price-specie flow mechanism predicted that gold would flow automatically like water seeking its level. **Imagine two connected water tanks: if one tank has more water (country with more gold), it should flow to the lower tank (country with less gold) until levels equalize.** In monetary terms: countries with gold should have higher prices, making their exports expensive, causing gold to drain abroad until prices rebalance.
 
-But this rarely happened. **It's like predicting your bathtub will automatically drain to equalize water levels with your neighbor's pool**—theoretically correct but practically irrelevant because they're not actually connected in ways that allow smooth flow. Instead, the Bank of England actively managed the "valves" (interest rates) to control gold flows, making the system anything but automatic. Evidence shows prices converged across countries, and capital flows dominated trade flows.²⁵
+But this rarely happened. Instead, the Bank of England actively managed the "valves" (interest rates) to control gold flows, making the system anything but automatic. Evidence shows prices converged across countries, and capital flows dominated trade flows.²⁵
 
 The Bank of England's secret weapon was **Bank Rate manipulation**. When gold reserves fell, the Bank raised interest rates, attracting foreign capital. Gold flowed in through interest rate differentials, not price adjustments.²⁶ The 1847 crisis illustrated this: when reserves fell to 11.6%, the Bank raised rates to an unprecedented 10%. Within weeks, capital poured back into London.²⁷
 

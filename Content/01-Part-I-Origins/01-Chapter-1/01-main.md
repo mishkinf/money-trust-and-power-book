@@ -149,5 +149,3 @@ Money, then, is not a thing but a **relationship**—a ledger of mutual recognit
 The birth of credit in the temples of Mesopotamia was therefore not a primitive stage on the road to coin but the first expression of a deeper truth: economies are systems of faith organized through record-keeping. From sacred accounting to sovereign finance, every regime of money since has been an attempt to balance two imperatives — the freedom to create credit, and the need to make it credible.
 
 The temples of Uruk did not need scarce commodities to create functioning money. They needed institutional credibility and taxation authority. As Chapter 5 will show, that principle has held ever since.
-
-The next chapter examines how medieval merchants extended credit across borders through bills of exchange and double-entry bookkeeping—and how these private networks' limits would ultimately drive the creation of central banks.

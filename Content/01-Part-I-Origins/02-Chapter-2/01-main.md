@@ -92,8 +92,6 @@ Consider a Venetian merchant receiving a bill drawn on London. The bill promised
 
 The Amsterdam Wisselbank, established in 1609, made this relationship explicit. Its banco guilder was defined by fixed silver content, but the bank's real power came from legal mandate: all bills of exchange over 600 florins had to settle through Wisselbank accounts. The Dutch state created demand for bank money by requiring its use for large transactions, just as medieval states had created demand for their currencies by requiring tax payments in specific coins. Private merchant credit built upon this foundation, extending it internationally through reputation and clearing systems, but never replacing it.
 
-Modern stablecoins like USDC face the same dependency. They circulate based on private reputation and blockchain technology, but their value ultimately derives from dollar reserves—and the dollar's value comes from the U.S. government's taxation authority. The Wisselbank understood what cryptocurrency advocates often miss: private money needs a sovereign foundation.
-
 ---
 
 ### The arithmetic of double-entry
@@ -109,8 +107,6 @@ Bookkeeping transformed not only business but mentality. It taught generations o
 By the sixteenth century, merchant houses had evolved into **proto-banks**—institutions that performed banking functions like accepting deposits and extending credit, though not yet formally chartered as banks. They accepted deposits, extended credit, and financed monarchs who could no longer rely on feudal dues. The Fugger family of Augsburg advanced funds to the Habsburgs for military campaigns and in return received mining concessions and tax revenues. Finance had become the hidden engine of empire.
 
 To manage their far-flung operations, these houses developed systems of **clearing**—the process of settling mutual debts by offsetting claims rather than moving actual money. In Antwerp and later Amsterdam, merchant bankers met weekly to "strike the books," canceling debts against credits and paying only the residual difference. These were the ancestors of modern clearinghouses and interbank settlement systems. Money, once a tangible commodity, now existed as an abstract vector in an ever-expanding web of obligations.⁹
-
-When the Federal Reserve settles trillions in daily transactions between banks, it uses the same principle: offset claims, move only the net difference. The Antwerp merchants would recognize the mechanism instantly, even if the scale would astonish them.
 
 ---
 
@@ -162,7 +158,7 @@ By the time monarchs learned to harness these instruments for war finance, Europ
 
 The **first international monetary system** was not a metallic standard but a moral one—an invisible cathedral built of trust. Its architecture of ledgers and signatures still underpins the global economy. When we swipe a card or wire funds across continents, we repeat the gesture of that Florentine apprentice sealing a promise with wax: the act of turning trust into value.
 
-And that gesture reveals the fundamental lesson: private credit networks always rest on sovereign monetary foundations. The merchant bankers of Florence could build sophisticated clearing systems, create bills of exchange that circulated across Europe, and settle accounts through offsetting claims—but they could not create the base money itself. Their bills were denominated in florins, ducats, and pounds, each backed by a ruler's taxation authority. The network multiplied sovereign credit; it did not replace it. When the SWIFT system moves trillions daily it is a digital version of medieval bills of exchange — but every transaction still settles in a sovereign currency at the end of the chain.
+The merchant bankers of Florence could build sophisticated clearing systems, create bills of exchange that circulated across Europe, and settle accounts through offsetting claims—but they could not create the base money itself. Their bills were denominated in florins, ducats, and pounds, each backed by a ruler's taxation authority. The network multiplied sovereign credit; it did not replace it. When the SWIFT system moves trillions daily it is a digital version of medieval bills of exchange — but every transaction still settles in a sovereign currency at the end of the chain.
 
 ---
 
@@ -173,5 +169,3 @@ For all its elegance, the system concealed a brutal truth: when trust broke, rui
 But the entire structure rested on a single foundation: Edward III's ability to generate enough tax revenue to service his debts. When news reached Florence in summer 1345 that Edward had suspended payments to foreign creditors, the cascade was immediate. English merchants could not honor their bills. Flemish buyers refused new paper from Italian houses. Within weeks the Peruzzi failed. The Bardi followed soon after. Partners who had built fortunes over three generations watched their wealth evaporate as bills became worthless paper — meticulously drafted, properly sealed, precisely dated, and as legally binding as ever, but unusable in trade because no one would accept them. The reputation that had taken generations to build dissolved in weeks.
 
 The lesson was harsh but clear: merchant credit networks could facilitate trade brilliantly when confidence held. They could multiply the efficiency of money, extend credit across vast distances, and enable commerce that would have been impossible with metal alone. But when the sovereign who backed the ultimate currency defaulted, or when war disrupted trade routes, the entire structure revealed its foundation. Reputation could extend trust across distance; it could not create value from nothing when the sovereign foundation crumbled.
-
-The medieval merchants had solved the problem of extending credit across distance. They had not solved the sovereign's dilemma — how to make a king's promises credible to foreign creditors who had watched centuries of royal defaults. The next chapter takes up that problem, beginning with the man whose default destroyed the Peruzzi.

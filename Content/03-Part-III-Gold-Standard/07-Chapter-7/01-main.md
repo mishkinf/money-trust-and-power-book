@@ -116,7 +116,7 @@ This ordinariness is precisely the point. For a country clergyman in rural Norfo
 
 The mechanism sustaining this confidence was taxation authority—the principle established in Chapter 5 that tax obligations create currency demand. Starting in 1799, Pitt's income tax required payment in Bank notes. Woodforde grumbled—"Very unjust"—but paid: £6 6s in 1799, rising as his income rose. This created the guaranteed demand that made paper money circulate.²²ᵇ
 
-Woodforde's daily accounts from 1797-1803 document this principle in practice—proof that would be systematically erased from economic theory over the next century, replaced by metallism's insistence that only gold gives money value.²²ᵈ
+Woodforde's daily accounts from 1797–1803 document this principle in practice.²²ᵈ
 
 ---
 
@@ -133,8 +133,6 @@ The Real Bills Doctrine made exactly this error with money and goods. It sounded
 Here's how it worked—and why it failed catastrophically.
 
 The **Real Bills Doctrine** deserves attention not as an obscure historical curiosity but because this seemingly logical theory would contribute directly to the Great Depression. Understanding why intelligent people believed it—and why it was catastrophically wrong—helps explain how monetary policy disasters happen.
-
-The doctrine was perhaps the most dangerous economic fallacy in history, surviving for 150 years despite repeated refutations.
 
 The doctrine originated with Adam Smith's *Wealth of Nations* (1776): banks should lend only against legitimate commercial bills backed by goods in production. Smith argued the money supply would automatically adjust to the "needs of trade" and could never cause inflation—like a self-regulating pond where outflows equaled inflows.²²
 

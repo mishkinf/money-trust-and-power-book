@@ -58,32 +58,6 @@ Yet this liberation is also dangerous. The system depends entirely on institutio
 
 ---
 
-### The continuity beneath the change
-
-Across all these transformations, certain principles have remained constant:
-
-**Money is credit**: Whether recorded on clay tablets, notched on wooden sticks, or stored in electronic databases, money represents obligations—promises to pay, claims on resources, relationships of debt and credit.
-
-**Trust is essential**: Money works only when people believe the institutions behind it will honor their commitments. That trust must be earned through consistent behavior and cannot be created by decree.
-
-**Power matters**: Money is not neutral. It reflects and reinforces power relationships—between creditor and debtor, between state and citizen, between core and periphery. Who controls money creation, who benefits from it, and who bears its costs are fundamentally political questions.
-
-**Institutions evolve**: The forms change—temples to merchant houses to central banks—but the function remains the same: creating and managing the social technology we call money.
-
----
-
-### The challenge ahead
-
-The modern monetary system, based entirely on fiat currency and institutional credibility, faces challenges that would have been familiar to the Mesopotamian scribes who first recorded grain debts:
-
-**How to maintain trust** when money can be created without limit? Central bank independence, inflation targeting, and transparent governance are the current answers. But these institutions are not natural or inevitable. They must be defended and renewed in each generation.
-
-**How to balance flexibility and discipline** when there are no automatic constraints? The gold standard imposed discipline through deflation and unemployment—a cure often worse than the disease. Fiat money allows more humane responses to crises, but only if policymakers exercise restraint. The temptation to solve every problem by creating money is ever-present.
-
-**How to manage international coordination** when currencies are purely national? The gold standard provided automatic adjustment (however painful). Bretton Woods provided fixed rates (until they broke). The current system of floating rates and capital mobility creates new challenges: currency wars, competitive devaluations, and the potential for financial contagion.
-
-**How to adapt to technological change** while preserving institutional credibility? Cryptocurrencies promise algorithmic scarcity but deliver volatility and speculation. Central bank digital currencies promise efficiency but raise concerns about privacy and control. The technology will continue to evolve, but the underlying challenge—maintaining trust—remains unchanged.
-
 ### CBDCs and Monetary Futures: Technology Meets Institutional Challenge
 
 Fiat money works when institutions are credible and productive capacity is managed wisely. The 2020s present a new test of these principles: central bank digital currencies promise efficiency and precision but raise profound questions about surveillance and control. Understanding what makes fiat work—or fail—is essential for evaluating the monetary futures now taking shape.

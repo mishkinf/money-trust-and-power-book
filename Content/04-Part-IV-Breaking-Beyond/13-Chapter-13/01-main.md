@@ -164,23 +164,7 @@ By November, ninety-eight percent of German government spending came from printi
 | **Money creation** | Matched to productive capacity, Fed independence maintained | Matched to capacity (often too tight, leading to deflation rather than inflation) | ECB constrained by Maastricht rules, inflation target maintained |
 | **Result** | Stable prices over time, periodic inflation (1970s, 2021-22) but manageable | Deflation problem (too tight policy), not hyperinflation—opposite of predictions | Stable monetary union (fiscal problems separate issue addressed in Chapter 9) |
 
-**The Pattern:**
-
-Fiat money fails when:
-1. **Productive capacity destroyed FIRST** (war, seizures, economic collapse)
-2. Tax system fails (can't collect from destroyed economy)
-3. Rule of law breaks (corruption, dictatorship, institutional collapse)
-4. Money printing becomes last resort to finance failed state
-
-Fiat money succeeds when:
-1. **Productive capacity maintained** (diversified economy, investment, innovation)
-2. Tax system functions (30-40% GDP collection provides fiscal backing)
-3. Rule of law holds (independent central bank, transparent governance, property rights)
-4. Money creation matched to capacity (technical competence, appropriate policy)
-
-**The Critical Insight:**
-
-Hyperinflation isn't caused by fiat money—it's caused by state collapse. The money printing is a **symptom**, not the cause. When Zimbabwe's agriculture collapsed due to land seizures, printing money couldn't create crops. When Venezuela's oil production fell 75%, printing bolivars couldn't extract petroleum. **You can't print real resources.**²¹
+Hyperinflation isn't caused by fiat money — it's caused by state collapse. The money printing is a symptom, not the cause. When Zimbabwe's agriculture collapsed due to land seizures, printing money couldn't create crops. When Venezuela's oil production fell 75 percent, printing bolivars couldn't extract petroleum. You can't print real resources.²¹
 
 Contrast: When the Fed created $3 trillion in 2020, it worked because the U.S. had:
 - Factories idle (14% unemployment = unused capacity ready to mobilize)
@@ -218,7 +202,7 @@ This validates the core principle from two angles. First: fiat money works when 
 
 The 1970s inflation stemmed from supply shocks—OPEC quadrupled oil prices, reducing productive capacity. This wasn't institutional failure; Arthur Burns correctly diagnosed "cost-push" inflation and recognized monetary policy couldn't produce oil. The "resolution" through Volcker's recession didn't solve supply constraints—it suppressed demand through mass unemployment until wage-price dynamics reset. This was a political choice to prioritize price stability over employment, protecting creditors at workers' expense, not proof that fiat money requires "discipline."²²
 
-The lesson for policymakers: **Build strong institutions, maintain productive capacity, preserve rule of law. Do this and fiat money works. Fail at these and no monetary system—gold, silver, or crypto—can save you.** Gold didn't prevent the Great Depression. Silver didn't save Spain's economy despite New World mines. And Bitcoin won't rescue Venezuela—only rebuilding productive capacity, restoring rule of law, and establishing competent governance can do that.²³
+Gold didn't prevent the Great Depression. Silver didn't save Spain's economy despite New World mines. And Bitcoin won't rescue Venezuela — only rebuilding productive capacity, restoring rule of law, and establishing competent governance can do that.²³
 
 ---
 

@@ -149,7 +149,7 @@ His experience embodied France's Depression: later onset than America's but deep
 
 Paris soup kitchens served thousands daily. Unemployed workers occupied factories in 1936, demanding work or relief. The political crisis that brought Léon Blum's Popular Front to power in June 1936 forced the question: maintain gold parity or save the Republic? On September 25, 1936, France finally devalued. Too late. The brief recovery that followed barely lifted production above 1929 levels before recession struck again in 1937-38. France never recovered its pre-Depression prosperity before German tanks rolled across the border in May 1940.⁵⁰
 
-**The comparison is devastating.** Britain left gold September 1931, unemployment peaked at 22 percent in 1932, then fell to 13 percent by 1936. GDP grew 24 percent from 1931 to 1938. France stayed on gold until September 1936, suffered depression-level unemployment through 1936, achieved minimal recovery, then contracted again. The United States left gold March 1933 and grew 8 percent annually through 1937. The correlation held across fifty countries: earlier departure from gold meant faster, stronger recovery. Later departure meant prolonged suffering.⁵¹
+Britain left gold September 1931, unemployment peaked at 22 percent in 1932, then fell to 13 percent by 1936. GDP grew 24 percent from 1931 to 1938. France stayed on gold until September 1936, suffered depression-level unemployment through 1936, achieved minimal recovery, then contracted again. The United States left gold March 1933 and grew 8 percent annually through 1937. The correlation held across fifty countries: earlier departure from gold meant faster, stronger recovery. Later departure meant prolonged suffering.⁵¹
 
 France's tragedy was that its suffering was unnecessary. Economists warned throughout 1935-36 that gold hoarding was strangling the economy. Paul Reynaud, leading the devaluation campaign, argued that "to cling to gold...is to betray France." But the rentier class, the Bank of France, and conservative politicians feared inflation more than unemployment. They prioritized creditors' gold-denominated claims over workers' livelihoods. When France finally broke free in 1936, the disaster was already locked in. The lesson was unmistakable: **the gold standard failed not in spite of orthodox management but because of it.** Those who clung to gold longest suffered most. Those who broke free earliest recovered fastest. The correlation was mechanical, predictable, and ignored until catastrophe forced action.⁵²
 
@@ -171,37 +171,9 @@ Critics called it default. The Supreme Court, in the *Consolidated Gold Clause C
 
 Roosevelt's policies were controversial and remain so. But they demonstrated a crucial truth: **gold was not necessary for monetary stability**. What mattered was the government's ability to manage the money supply, maintain employment, and restore confidence. Gold had been a constraint, not a foundation.
 
-Yet Roosevelt's break from gold solved America's immediate crisis while creating a future dilemma economist Robert Triffin would identify in 1959. If the dollar became the world's reserve currency—as it would after World War II—America would face an impossible contradiction: **The world would need dollars for trade and reserves, requiring America to run balance-of-payments deficits. But persistent deficits would undermine confidence in the dollar's gold backing.**
-
-This wasn't policy error but structural impossibility—like being asked to simultaneously sit and stand. Supply enough dollars for global trade, and gold reserves become inadequate. Restrict dollars to maintain gold backing, and the world economy deflates for lack of liquidity. The mathematics were inexorable: once foreign dollar liabilities exceeded U.S. gold reserves, the system could survive only on confidence, not convertibility.
-
-We'll examine this "Triffin dilemma" in detail when we reach the Bretton Woods era in Chapter 11. For now, understand that Roosevelt's liberation from gold created new constraints—not material limits but coordination challenges that would define the next 70 years of international monetary politics. The gold window Nixon closed in 1971 was never sustainable; the only question was how long confidence would delay the inevitable collapse.
-
 But in 1933, as farmers regained their land and unemployment fell from 25% to 14.3% within Roosevelt's first year, these future contradictions seemed distant indeed. The immediate vindication was unmistakable: break from gold, and recovery begins. Cling to gold, and depression persists.
 
 ---
-
-### Bretton Woods: the dollar's triumph
-
-The final act came in July 1944, as Allied forces fought across Normandy. At the Mount Washington Hotel in Bretton Woods, New Hampshire, 730 delegates from 44 nations gathered to design the postwar monetary system. The hotel, closed since 1942, had been hastily reopened for what Keynes called a "vast monkey-house" designed "so the President can say 44 nations agreed." The conference was scheduled to conclude July 19 but extended three days as delegates argued over the architecture of the postwar monetary order.⁴³
-
-Two visions competed: John Maynard Keynes's **International Clearing Union** with a supranational currency called bancor, and Harry Dexter White's dollar-centered system backed by American gold.
-
-**Keynes's International Clearing Union** was elegant and ambitious:
-
-- A world central bank with supranational authority—a central bank for central banks
-- **Bancor** as international currency (from "banque or"—bank gold), defined in gold but not exchangeable for it
-- Quotas proportionate to trade volume, with overdraft facilities allowing potentially unlimited credit
-- **Symmetrical adjustment**: countries with persistent surpluses would be penalized 5-10 percent interest on excess credits and required to appreciate currencies—a "use-it-or-lose-it" mechanism preventing creditor hoarding
-- All international trade valued and cleared in bancor⁴⁴
-
-**White's Stabilization Fund** was simpler and reflected American power:
-
-- Fixed exchange rates: each currency pegged to the dollar within ±1 percent
-- Dollar convertible to gold at **$35 per ounce**—but only for foreign central banks, not private citizens
-- International Monetary Fund with finite resources ($8.5 billion, raised from White's initial $5 billion proposal)
-- No penalty for surplus countries—White told the American delegation: "We have been perfectly adamant on that point. We have taken the position of absolutely no, on that."
-- Primary adjustment burden on deficit countries only⁴⁵
 
 *(See Figure 10.1: Gold-standard exit dates and recovery, 1929–1937. Britain left in September 1931 and was 16 percent above its 1929 peak by 1937; the U.S. left in March 1933 and grew 8 percent annually thereafter; France held on until September 1936 and remained below its 1929 level when the war began. Each year of delay cost roughly 5 to 7 percent of growth. The correlation across fifty countries was mechanical and remorseless.)*
 

@@ -20,7 +20,7 @@ This wasn't the discovery of truth. It was the consolidation of economic theorie
 
 ### The Man They Erased
 
-**Few noticed at the time how completely a truth had been buried.** On May 7, 1832, Thomas Attwood stood before the House of Commons making an argument that would get him dismissed as a crank. Britain's economic distress, he insisted, stemmed not from moral failing or foreign competition but from **monetary contraction**. He had watched it happen in Birmingham.
+On May 7, 1832, Thomas Attwood stood before the House of Commons making an argument that would get him dismissed as a crank. Britain's economic distress, he insisted, stemmed not from moral failing or foreign competition but from **monetary contraction**. He had watched it happen in Birmingham.
 
 Attwood was no wild-eyed radical. Born in 1783 to a prosperous banking family, he had built a successful business manufacturing buttons and other metal goods in Birmingham—then England's industrial heart, second only to London in population and economic importance. His workers were skilled craftsmen, his business well-established, his social position secure. He was precisely the sort of respectable manufacturer whose opinion should have carried weight in Parliament.²⁷ᵃ
 
@@ -168,7 +168,5 @@ The framework was self-reinforcing. The 1825–26 banking crisis, the 1847 suspe
 ---
 
 The Birmingham School's defeat seemed total. Attwood's petition was rejected, his economic theories dismissed as "monomania," his proto-Keynesian insights pushed out of respectable economics. The victory was won through institutional channels—Parliament, the Bank's Court of Directors, prestigious professorships, the Political Economy Club, the major reviews—rather than through theoretical argument that out-reasoned Tooke, Fullarton, and Wilson on the merits.²⁷ʰ
-
-By the early 1840s the new orthodoxy had captured Britain's commanding heights. *The Economist*, founded in 1843, championed Currency School doctrine despite founder James Wilson's Banking School sympathies. Parliament was dominated by men raised on Ricardo's theories. The Treasury accepted gold orthodoxy as settled science. Thomas Attwood's Birmingham School had been marginalized, their insights dismissed as currency-crank nonsense.
 
 Now Lord Overstone and the Currency School sought their ultimate triumph: embedding gold orthodoxy into law. The Bank Charter Act of 1844 would define money as gold, supposedly prevent financial crises forever through automatic rules, and remove monetary policy from democratic contestation. Robert Peel would present this as the culmination of sound economic thinking. It would instead be the Currency School's tragic error—intellectually sophisticated, empirically refuted by events, and catastrophic in its unintended consequences.

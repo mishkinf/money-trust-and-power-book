@@ -235,17 +235,6 @@ This was the United States' position under Bretton Woods. The world needed dolla
 
 ---
 
-### Why Keynes's System Was Superior
-
-From pure economic design perspective, bancor solved problems the dollar standard created:
-
-1. **Prevented the Triffin dilemma** before it emerged—no reserve currency paradox when using supranational money
-2. **Symmetric adjustment** prevented persistent imbalances (like China's modern surpluses or interwar French gold hoarding)
-3. **Unlimited liquidity** matched automatically to actual trade needs, preventing deflationary dollar shortages
-4. **No "exorbitant privilege"** for any single nation—all countries operated under same rules⁴⁹ᵛ
-
-The system's economic logic was impeccable. White couldn't refute it on economic grounds. He opposed it on **political grounds**: it asked America to surrender advantages.⁴⁹ʷ
-
 ### Why America Chose Dollar Standard Anyway
 
 The choice wasn't about economic optimality. It was about power—and American policymakers were brutally clear about this in private.
@@ -296,28 +285,6 @@ Keynes had bet on reason defeating power. He lost.
 
 ---
 
-### The Decisive Moment
-
-The turning point came on **July 13, 1944**. A.D. Shroff of the Indian delegation questioned the meaning of "gold and gold-convertible exchange":
-
-> "I think it is high time that the USA delegation give us a definition of gold and gold convertible exchange."
-
-Edward Bernstein of the U.S. delegation replied:
-
-> "Mr Chairman, it might be possible to give a definition...but it would involve a long discussion...it would be easier for this purpose to regard the United States dollar as what was intended when we speak of gold convertible exchange."
-
-Dennis Robertson of the British delegation then proposed the text read: "payment of official gold and subscription should be expressed official holdings of gold and United States dollars."
-
-The irony was profound. It was not the Americans who placed the dollar at the system's center but a fissure within the British Empire—India seeking protection from sterling weakness—and a British economist acknowledging that only the dollar had sufficient strength. The kid who owned the ball would indeed be captain of the team.⁴⁹ᶻ
-
-By July 1944, bancor had already been abandoned—not through conference debate but through prior Washington decisions. British delegates arrived to negotiate a system already designed in American interests. When Keynes protested an American draft in October 1943—"This is intolerable. It is yet another Talmud. We had better simply break off negotiations"—White's reply captured the power imbalance perfectly: "We will try to produce something which Your Highness can understand."⁴⁹ᶜ
-
-The Americans offered tactical compromises to create the appearance of negotiation. The Fund size increased from initial proposals to $8.5 billion. A "scarce currency clause" allowed rationing of currencies in short supply—theoretically applicable to dollars but never actually used. Exchange rates could adjust for "fundamental disequilibrium"—vague enough to mean anything or nothing. The World Bank was created for long-term development finance, sweetening the package for debtor nations.⁴⁹ᵈ
-
-But on core issues, American positions were non-negotiable: no bancor (only dollars as reserve currency), no unlimited credit mechanisms (only limited IMF quotas), no penalties on surplus countries (only pressure on deficit countries), no governance structure diluting American control (voting weighted by economic size, ensuring US veto power). These weren't negotiating positions—they were fait accompli disguised as proposals.⁴⁹ᵉ
-
----
-
 ### Keynes's defeat
 
 Lionel Robbins had said it on the opening days, to the American Treasury official Fred Vinson, in a sentence that contained no metaphor at all. "We know we will be beaten, and we hope to avoid being humiliated."⁴⁹ʲ⁻¹ The distinction would not survive the conference. Britain experienced both.
@@ -363,36 +330,6 @@ Capital controls—restrictions on cross-border money movements—played a cruci
 But it contained a fatal flaw that economist Robert Triffin would identify in his 1959-60 Congressional testimony. The system needed growing dollar supply for expanding world trade, but dollar convertibility required limiting supply to match gold reserves. Once "outstanding dollar liabilities to the rest of the world would eventually exceed the US monetary gold stock," a "classic bank run" would occur.⁵²ᵍ
 
 The question was not whether the system would collapse, but when.
-
----
-
-### The Road Ahead
-
-The Bretton Woods system emerged from American power, not economic logic. Keynes's bancor would have prevented the contradictions that would tear the system apart within 27 years. But the United States held roughly 80% of the world's gold in 1944, and the kid who owns the ball decides the rules.
-
-The dollar standard was born—not because it was economically sound but because it was American. The question was not whether it would work indefinitely, but how long before the contradictions Keynes had warned about became unbearable.
-
-**What the World Lost**
-
-The rejection of bancor meant the world lost its chance at a genuinely multilateral monetary system. Instead of a supranational currency managed by international institutions, the postwar order would depend on one nation's economic strength, political discipline, and willingness to subordinate domestic policy to international obligations.
-
-For 27 years (1946-1971), the system would work brilliantly—delivering the highest sustained economic growth rates in modern history, enabling unprecedented trade expansion, and facilitating European and Japanese reconstruction. The "Golden Age of Capitalism" would rest on the foundation of dollar-gold convertibility at $35 per ounce.
-
-But the system worked precisely because it wasn't tested. Foreign central banks held dollars as reserves but refrained from converting them to gold in large quantities. American policymakers maintained fiscal and monetary discipline. The dollar shortage of the 1950s meant countries wanted more dollars, not fewer. These conditions wouldn't last.
-
-By the early 1960s, the arithmetic would become unsustainable. U.S. gold reserves would decline while foreign dollar holdings grew. The crossover point—when foreign claims exceeded American gold backing—would arrive around 1964. After that, the system survived on confidence alone, not mathematical viability. The question was which country would first call America's bluff.
-
-The answer would come from an unexpected source and for reasons Washington never anticipated: France. When French President Charles de Gaulle stood before television cameras in February 1965 to announce France would begin systematically converting dollar reserves into gold, he set in motion the crisis that would destroy the system. The Triffin dilemma was no longer theoretical—it was about to become catastrophically real.
-
-**The Tragic Irony**
-
-America chose short-term national advantage over long-term systemic stability. The calculation was conscious: White and Morgenthau understood bancor's economic logic but rejected it because American power allowed them to impose American preferences. Twenty-seven years of dollar dominance was worth the eventual crisis.
-
-The result was 27 years of unprecedented growth followed by crisis, collapse, and the perpetuation of Triffin's contradiction into the pure fiat era. When Nixon closed the gold window in August 1971, the dollar standard didn't end—it simply stopped pretending to be constrained by gold. The asymmetries that bancor would have prevented became permanent features of the international monetary system.
-
-We're still living with the choice made in 1944, still debating whether systemic stability or national advantage should guide international monetary architecture. China's dollar trap, European attempts at monetary union, emerging market currency crises, and debates over cryptocurrency alternatives all trace back to the system designed at Bretton Woods when American gold reserves gave the United States overwhelming leverage.
-
-Keynes bet that reason would defeat power. He lost. But he was right about the consequences.
 
 ---
 

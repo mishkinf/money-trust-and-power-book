@@ -12,8 +12,6 @@ This wasn't merely monetary policy. It was geopolitical warfare. De Gaulle under
 
 Robert Triffin had explained this paradox in 1959. Now, six years later, de Gaulle was testing whether the emperor had any clothes. The answer would reshape the global monetary system and end the gold standard's two-century reign.
 
-The previous chapter examined how the dollar standard emerged from the 1944 Bretton Woods conference—how Keynes's bancor lost to White's dollar-centered system, how American gold reserves (80% of global holdings) gave the U.S. overwhelming leverage, and how the compromise established dollar dominance but contained the seeds of its own destruction. This chapter traces how those seeds grew into crisis—how the mathematical impossibility Triffin identified in 1959 became the political reality that broke the system in 1971.
-
 ---
 
 ### Britain's 1967 crisis: when the pound broke
@@ -83,37 +81,7 @@ This is why de Gaulle accelerated French gold conversions after November 1967. T
 
 The only question was timing: when, not if, would someone force America to choose between honoring convertibility (exhausting gold reserves) and preserving reserves (closing the gold window). Britain's crisis in 1967 made that choice inevitable within four years.⁵¹ᵗ
 
-The system facilitated postwar reconstruction and enabled unprecedented trade expansion during its successful years. For 25 years (1946-1971), Bretton Woods delivered remarkable results: stable exchange rates provided certainty for international trade, global GDP grew at unprecedented rates, international trade expanded faster than at any prior period, and inflation remained moderate across most developed economies. The "Golden Age of Capitalism" rested on the foundation of the dollar-gold system.⁵²ᵃ
-
-### The success years: 1946-1971
-
-The Bretton Woods era represents one of the most successful periods in modern economic history. Between 1950 and 1973, global GDP grew at an average annual rate of 4.9 percent—significantly higher than the 3.0 percent average from 1973-1998 or the 1.3 percent average during the interwar gold standard period (1919-1939). The United States, Western Europe, and Japan all experienced rapid reconstruction and growth.⁵²ᵇ
-
-International trade expanded even faster than GDP. World exports grew at 8.2 percent annually from 1950-1973, compared to just 1.3 percent from 1913-1950 and 5.2 percent from 1973-1998. The system of fixed but adjustable exchange rates provided certainty for traders while allowing periodic realignments when imbalances became unsustainable. Major devaluations occurred (Britain 1949 and 1967, France 1958 and 1969), but these were managed through IMF coordination rather than competitive devaluation spirals that had plagued the 1930s.⁵²ᶜ
-
-Capital controls—restrictions on cross-border money movements—played a crucial but underappreciated role. Bretton Woods explicitly permitted and even encouraged countries to restrict capital flows while maintaining current account convertibility (the ability to exchange currency for trade purposes). This allowed governments to pursue full employment policies without fearing capital flight. Britain maintained extensive capital controls through the 1960s; France restricted capital movements until the 1980s. The system prioritized productive trade over speculative finance—a sharp contrast to the pre-1914 classical gold standard's commitment to free capital mobility.⁵²ᵈ
-
-The IMF provided stabilization loans when countries faced temporary balance-of-payments difficulties, offering an alternative to immediate deflationary adjustment. When Britain faced a payments crisis in 1961, the IMF assembled a $2 billion support package. When Italy experienced capital flight in 1964, IMF credit prevented forced devaluation. This "managed flexibility" prevented the rigid deflation the gold standard had imposed while maintaining exchange rate stability.⁵²ᵉ
-
-Why did it work so well for so long? Three factors: **American dominance** (U.S. held overwhelming gold reserves and productive capacity in 1945, making dollar confidence initially justified), **capital controls** (restricted speculative flows that might test convertibility), and **limited international finance** (most transactions were trade-related, not capital movements). As these conditions eroded—U.S. gold reserves declined, capital controls weakened, international finance expanded—the system's contradictions became unsustainable.⁵²ᶠ
-
-But it contained a fatal flaw that economist Robert Triffin had identified in his 1959-60 Congressional testimony: once "outstanding dollar liabilities to the rest of the world would eventually exceed the US monetary gold stock," a "classic bank run" would occur.⁵²ᵍ
-
----
-
-### Understanding International Payments: A Brief Primer
-
-Before examining the Triffin dilemma, we need to understand how money flows between countries—concepts that seem technical but determine whether monetary systems succeed or fail.
-
-When countries trade, they track two accounts. The **current account** records trade in goods and services: exports (money flowing in) minus imports (money flowing out). If you export more than you import, you run a **surplus**—more money coming in than going out. If you import more than you export, you run a **deficit**—more money going out than coming in.
-
-The **balance of payments** is the full accounting, including not just trade but also financial flows: investments, loans, and reserve holdings. When the U.S. runs a current account deficit (importing more than exporting), dollars flow abroad. Foreign holders can either: (1) buy American goods/services (closing the deficit), (2) invest in American assets (stocks, bonds, real estate), or (3) hold dollars as reserves (for their own currency backing or trade settlement).
-
-Under Bretton Woods, these dollar outflows created the global money supply. When America imported French wine, dollars flowed to France. The French could convert those dollars to gold at $35 per ounce (official convertibility) or hold them as reserves (backing francs). Most chose reserves—more convenient than gold, still convertible if needed.
-
-This worked beautifully at first. But as dollar outflows accumulated year after year, foreign dollar holdings eventually exceeded American gold reserves. At that point, if every foreign central bank demanded gold simultaneously, America couldn't honor the $35 promise. The system rested on confidence that most holders wouldn't convert—a confidence that proved fragile.
-
-This is the foundation for understanding the Triffin dilemma: the world needed dollar outflows for liquidity, but those same outflows undermined the gold convertibility that gave dollars credibility.
+The system facilitated postwar reconstruction and enabled unprecedented trade expansion during its successful years — but it contained a fatal flaw that economist Robert Triffin had identified in his 1959–60 Congressional testimony: once "outstanding dollar liabilities to the rest of the world would eventually exceed the US monetary gold stock," a "classic bank run" would occur.⁵²ᵍ
 
 ---
 
@@ -128,13 +96,6 @@ The world needed dollars for two purposes:
 2. **Reserve demand**: Central banks holding dollars as backing for their currencies
 
 Both required the U.S. to run balance-of-payments deficits (exporting more dollars than importing). But the dollar's gold convertibility depended on deficits remaining small enough that gold reserves could cover dollar liabilities. These requirements contradicted each other.⁵³ᵃ
-
-**The Triffin dilemma is like being the designated driver at a party where your car is also the only transportation home.** Everyone needs you to stay sober (maintain currency credibility through gold convertibility) so you can drive them home safely. But they also keep pressuring you to drink (run deficits to provide liquidity) because the party can't continue without you participating. Eventually, you either:
-
-1. **Stay sober** and everyone complains the party is dying (liquidity shortage causing global deflation), or
-2. **Drink to keep the party going** and eventually can't drive anyone home safely (dollar convertibility collapses)
-
-The United States faced exactly this: the world needed dollar outflows (U.S. deficits) for trade and reserves, but persistent deficits eventually undermined confidence in dollar-gold convertibility. Nixon's 1971 decision to close the gold window was like the designated driver finally saying, "Find another way home—I'm done being stuck in this impossible position."
 
 **The Math That Doesn't Work:**
 
@@ -244,14 +205,6 @@ The gold standard, which had dominated monetary thinking for two centuries, was 
 ---
 
 ### The liberation from gold
-
-From the Bank Restriction Act of 1797 to the Nixon Shock of 1971, the story of money's evolution was a story of **institutional learning**. Each crisis revealed the same truth: gold was not the foundation of monetary value; institutions were. And institutions could function without gold—if they maintained operational capacity, if government could tax effectively and mobilize real resources, if monetary and fiscal policy coordinated to manage productive capacity rather than arbitrary monetary aggregates.⁵²
-
-The breaking of the gold standard was not a failure but a **liberation**. It freed governments to pursue full employment, to respond to economic crises without being constrained by arbitrary metal reserves, to recognize that money was a tool for human purposes rather than a natural phenomenon to be worshipped. The transition was painful and often mismanaged. But it was necessary.⁵³
-
-What remained was the challenge that had always existed: how to maintain money's function when it was no longer backed by commodity reserves. The answer, as Britain had discovered in 1797 and America rediscovered in 1971, lay in **institutions**—in central banks that coordinated with fiscal policy to manage real resource constraints, in governments that could tax effectively to create currency demand and mobilize productive capacity, in legal frameworks that maintained the social contract. Money was a social technology, and like all technologies, it worked when institutions served public purposes rather than arbitrary constraints.⁵⁴
-
-The gold standard had been an accident, created by Newton's mathematics and sustained by British power. Its collapse was equally accidental, driven by war, depression, and the contradictions inherent in trying to base a growing global economy on a fixed supply of metal. What emerged from the wreckage was something more honest: money as a **human institution**, created by law and sustained by trust, serving the needs of the economy rather than constraining it. The breaking was complete. The age of fiat had begun.⁵⁵
 
 Nixon's August 1971 decision ended the gold standard forever. What he called a "temporary" suspension became permanent. The last link between major currencies and precious metal was severed — not through careful planning but through crisis and necessity. The world entered uncharted territory: pure fiat money, backed by nothing but institutional credibility and government fiscal power. No commodity anchor. No automatic constraints. No historical precedent at this scale.
 

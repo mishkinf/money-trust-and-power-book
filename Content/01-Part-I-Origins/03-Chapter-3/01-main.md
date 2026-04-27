@@ -145,16 +145,3 @@ The solution to the sovereign's dilemma—how to create credible credit both dom
 
 But the path to this solution would first require witnessing private money's spectacular failure. The goldsmith-bankers had created credit through fractional reserve lending, issuing receipts that circulated as currency. For three decades the system worked — until 1672 revealed its flaw. When the crown suspended debt payments, the entire network collapsed. What monarchies needed was not more private bankers but a public institution backed by the full fiscal power of the state, capable of making its promises believable to foreign creditors who would never accept a goldsmith's note.
 
-The dilemma Edward III faced has not gone away. Modern governments still confront the asymmetry he could not solve: domestic currency they can create at will, foreign obligations they must acquire from elsewhere. When markets attack sovereign debt — Greece in 2010, Argentina in 2001, Turkey in 2018 — they are demanding the same assurance medieval creditors once sought. Greece's crisis was not caused by excessive spending; it was caused by borrowing in a currency it could not create. Japan, at 250 percent debt-to-GDP, faces no such crisis because the yen it owes is the yen it issues. The lesson of 1340 still governs: sovereignty over money matters more than any other economic power.
-
----
-
-## PART II: THE INSTITUTIONAL REVOLUTION
-
-The Bank of England succeeded not despite being a private institution but because it operated within a framework of parliamentary oversight and fiscal capacity. The lesson wasn't that private enterprise couldn't create money—it was that money creation required institutional credibility backed by sovereign power.
-
-That lesson would be forgotten and relearned repeatedly over the next three centuries. Each generation would rediscover that private money can exist but cannot provide systemic stability. Each crisis would reveal the same truth: when credit networks collapse, only institutions backed by sovereign fiscal power can restore confidence.
-
-The pattern repeats with remarkable consistency. In 1672, the Stop of the Exchequer destroyed goldsmith-bankers who lacked sovereign backing. In 2008, shadow banking collapsed when Lehman Brothers failed, requiring central bank intervention on an unprecedented scale. In 2022, cryptocurrency exchanges imploded—FTX, Celsius, Three Arrows Capital—proving once again that private money without institutional backing cannot survive systemic stress.
-
-Understanding this pattern requires examining how the institutional solution was built—and how each generation forgets the lesson. Part II traces three iterations of this cycle: the goldsmith catastrophe that proved private money's limits, the Bank of England's creation that solved the sovereign's dilemma, and the modern shadow banking crisis that replayed the same dynamics with digital instruments. The technology changes. The fundamental problem—and its solution—remains constant.
