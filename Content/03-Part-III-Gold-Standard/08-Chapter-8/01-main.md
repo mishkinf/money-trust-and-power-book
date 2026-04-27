@@ -2,7 +2,7 @@
 
 ## Chapter 8: The Great Forgetting
 
-**Chapter Premise:** Between 1800-1850, earlier understandings of money creation were systematically erased and replaced by gold orthodoxy that aligned with bondholders' material interests. Thomas Attwood and the Birmingham School understood that money was a social institution that could maintain full employment, but they were marginalized as "currency cranks." What had been explicit in 1694—that banks create money "out of nothing"—became unthinkable in respectable economics. This wasn't the discovery of truth; it was the consolidation of theories that systematically protected creditor wealth through deflation.
+**Chapter Premise:** Between 1820 and 1850, the Currency School's program—defensible on its own terms as a response to the genuine threat of unconstrained inconvertible paper—settled into British monetary doctrine. Earlier understandings of money creation, including the chartalist insight that taxation gives paper its value, dropped out of respectable discourse. Thomas Attwood and the Birmingham School understood that money quantity mattered for employment; their analysis lost the institutional contest. What had been explicit in 1694—that banks create money "out of nothing"—became unthinkable in respectable economics. The distributional consequences—deflation that transferred real purchasing power from debtors to creditors—were not the program's stated purpose. But they were not incidental either, and the surviving correspondence of those who designed and defended the rules shows they understood the distributional logic clearly.
 
 ---
 
@@ -98,7 +98,7 @@ The lesson was brutal: popular mobilization, however massive and disciplined, co
 
 By the time Attwood died in 1856 at age 73, the forgetting was complete. Economic textbooks didn't mention him. The "Birmingham School" had become a footnote to serious economic thought, if it appeared at all. The ideas he had articulated—that money quantity matters for employment, that monetary contraction causes real suffering, that government could maintain full employment through monetary management—had become not merely wrong but unthinkable in respectable economics.²⁷ʲ
 
-**The clues to how this happened were there all along, buried in parliamentary testimony, bondholders' balance sheets, and the systematic transformation of university curricula.** Understanding the mechanism of erasure reveals that monetary orthodoxy is manufactured, not discovered.
+**The mechanism is documented in the parliamentary record, the surviving banker correspondence, and the slow transformation of university teaching.** What follows is what those documents actually show.
 
 The Currency School's victory wasn't accidental—it was engineered through systematic institutional capture. At the center stood Lord Overstone (Samuel Jones Loyd), a banker with a personal fortune of £2 million in the 1850s, equivalent to roughly £3 billion today.²⁷ʰ⁻¹ His influence operated through multiple channels simultaneously.
 
@@ -167,7 +167,7 @@ The framework was self-reinforcing. The 1825–26 banking crisis, the 1847 suspe
 
 ---
 
-The Birmingham School's defeat seemed total. Attwood's petition was rejected, his economic theories dismissed as "monomania," his proto-Keynesian insights erased from respectable economics. But the victory wasn't won through superior evidence or theoretical rigor. It was manufactured through institutional power—Parliament, prestigious professorships, and the force of law.²⁷ʰ
+The Birmingham School's defeat seemed total. Attwood's petition was rejected, his economic theories dismissed as "monomania," his proto-Keynesian insights pushed out of respectable economics. The victory was won through institutional channels—Parliament, the Bank's Court of Directors, prestigious professorships, the Political Economy Club, the major reviews—rather than through theoretical argument that out-reasoned Tooke, Fullarton, and Wilson on the merits.²⁷ʰ
 
 By the early 1840s the new orthodoxy had captured Britain's commanding heights. *The Economist*, founded in 1843, championed Currency School doctrine despite founder James Wilson's Banking School sympathies. Parliament was dominated by men raised on Ricardo's theories. The Treasury accepted gold orthodoxy as settled science. Thomas Attwood's Birmingham School had been marginalized, their insights dismissed as currency-crank nonsense.
 

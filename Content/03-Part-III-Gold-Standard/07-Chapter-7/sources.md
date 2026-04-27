@@ -51,3 +51,21 @@ The Bank Restriction Act of 1797-1821 was the first successful experiment in fia
 37. Ernle, Rowland Edmund Prothero, Lord. *English Farming Past and Present*, 6th edition. London: Longmans, Green and Co., 1961 (original edition 1912). Chapter XV: "The War and the Corn Laws, 1814-1836." [Agricultural price data and farmer distress documentation]
 34. Bell, Stephanie. (2001). "The Role of the State and the Hierarchy of Money." *Cambridge Journal of Economics,* 25(2), 149-163. [Modern chartalist analysis]
 35. Wray, L. Randall. (1998). *Understanding Modern Money: The Key to Full Employment and Price Stability.* Edward Elgar. [MMT framework on taxation creating demand]
+
+**Currency School Steelman (notes 13ᵃ–13ᶜ):**
+36. Ricardo, David. (1816). *Proposals for an Economical and Secure Currency.* London: John Murray. [Source of "absolutely invariable in value" formulation; quoted in note 13ᵃ via *Works and Correspondence,* ed. Sraffa, Vol. 4]
+37. Schwartz, Anna J. (1987). "Banking School, Currency School, Free Banking School." In *The New Palgrave Dictionary of Economics.* Macmillan. [Survey of the schools' theoretical claims; basis for note 13ᵃ on Overstone, Torrens]
+38. Goodhart, Charles. (1988). *The Evolution of Central Banks.* MIT Press. [Treatment of the Bank Charter Act, the failure of the currency principle to control deposit money, and the 1847/1857/1866 crises that forced lender-of-last-resort doctrine; basis for note 13ᵇ]
+39. Arnon, Arie. (2011). *Monetary Theory and Policy from Hume and Smith to Wicksell.* Cambridge University Press. [Reconstruction of Currency School and Banking School positions on their own terms; basis for note 13ᵇ on the deposit-money critique that emerged after 1847]
+40. O'Brien, D. P., ed. (1971). *The Correspondence of Lord Overstone.* 3 vols. Cambridge University Press. [Primary documentation of Overstone's argument that note issue must mimic a metallic circulation; cited in note 13ᵃ]
+
+**Keynes and the parity question (note 25ʸ):**
+41. Keynes, John Maynard. (1925). *The Economic Consequences of Mr. Churchill.* London: Hogarth Press. [Argument that the cruelty of a return to gold lies in the parity chosen, not in gold itself; analytical template applied to 1821 in note 25ʸ]
+42. Moggridge, Donald E. (1972). *British Monetary Policy 1924–1931: The Norman Conquest of $4.86.* Cambridge University Press. [Standard treatment of the parity-choice question in the context Keynes was attacking; informs the 1821/1925 parallel]
+
+**Friedman, monetarism, and the Bernanke concession (note 28ᵃ):**
+43. Friedman, Milton, & Schwartz, Anna J. (1963). *A Monetary History of the United States, 1867–1960.* Princeton University Press. [Source of the "Great Contraction" diagnosis; chapter 7]
+44. Bernanke, Ben S. (2002, November 8). "On Milton Friedman's Ninetieth Birthday." Remarks at the Conference to Honor Milton Friedman, University of Chicago. Federal Reserve Board. [Source of the "you're right, we did it" concession; same speech cited in note 28]
+45. Nelson, Edward. (2020). *Milton Friedman and Economic Debate in the United States, 1932–1972.* 2 vols. University of Chicago Press. [Reconstruction of Friedman's evolving claims; basis for note 28ᵃ on which propositions survive and which do not]
+46. Anderson, Richard G., Bordo, Michael, & Duca, John V. (2017). "Money and Velocity During Financial Crises: From the Great Depression to the Great Recession." *Journal of Economic Dynamics and Control,* 81, 32–49. [Velocity instability under QE; basis for note 28ᵃ on operational failure of M2 rules]
+47. St. Louis Federal Reserve. (2023, May). "The Rise and Fall of M2." *On the Economy* blog. [Post-2008 and 2020–2021 evidence on M2 as a predictor of inflation; basis for note 28ᵃ]

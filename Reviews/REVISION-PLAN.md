@@ -52,24 +52,29 @@ Source: `Research/Research Middle-Class German Family.md`
 
 ## Phase 3 — Steelman integrations (Sessions 3–5)
 
-### Session 3: Ch.7 — Bank Restriction + Currency School origins + Friedman on monetarism
+### Session 3: Ch.7 — Bank Restriction + Currency School origins + Friedman on monetarism ✓ DONE 2026-04-27
 Source: `Research/Currency School Ricardo.md`, `Research/Friedmans Monetarism Claims and Strains.md`
-- [ ] Steelman the Currency School: what they were trying to solve (Restriction-era inflation, assignat collapse), the model on its own terms.
-- [ ] Engage Friedman's monetarist diagnosis of the Depression; concede where Bernanke 2002 vindicates monetarism.
-- [ ] Distinguish gold-as-regime from gold-at-wrong-parity per Keynes 1925.
+- [x] Steelman the Currency School: assignat trauma, real Restriction-era inflation, conflict-of-interest argument; locate the precise error (deposits/credit lay outside the model). Inserted as new paragraphs around the Bullionist section, notes 13ᵃ–13ᶜ.
+- [x] Engage Friedman's monetarist diagnosis of the Depression; concede that Bernanke 2002 vindicates the core claim while distinguishing it from the operational k-percent rule. Inserted after Bernanke quote, note 28ᵃ.
+- [x] Distinguish gold-as-regime from gold-at-pre-war-parity per Keynes 1925; cite Ricardo's own warning against rapid contraction. Inserted between the deflation-quantification paragraph and the human-cost section, note 25ʸ.
+- [x] sources.md updated: 12 new entries (Ricardo *Proposals* 1816, Schwartz Palgrave, Goodhart 1988, Arnon 2011, Overstone *Correspondence*; Keynes 1925, Moggridge 1972; Friedman & Schwartz 1963, Bernanke 2002, Nelson 2020, Anderson-Bordo-Duca 2017, St. Louis Fed 2023).
+- Net additions: ~750 words. No cuts (Phase 4 will sweep "lesson was clear" closings and bolded summary sentences).
 
-### Session 4: Chs.8–9 — Great Forgetting / Manufacturing Orthodoxy reframing
+### Session 4: Chs.8–9 — Great Forgetting / Manufacturing Orthodoxy reframing ✓ DONE 2026-04-27
 Source: `Research/Currency School Ricardo.md`, plus existing `Research/Currency School Institutional Capture in 1820s-1850s Britain.md`
-- [ ] Reframe Ch.8 to steelman Currency School first, then make the institutional-capture case from the documentary record.
-- [ ] Replace "manufactured orthodoxy" verbs with cooler, more devastating framings drawn from the historical evidence itself.
-- [ ] Consider whether Chs.8 and 9 should merge (developmental editor's recommendation).
+- [x] Reframed Ch.8 chapter premise to lead with Currency School steelman (defensible on its own terms; distributional consequences not the stated purpose but documented in correspondence). Carries through from Ch.7 work.
+- [x] Replaced "manufactured orthodoxy" verbs with evidence-led framings: Ch.8 line 101 "manufactured, not discovered" → "what the documents actually show"; Ch.8 line 170 "manufactured through institutional power" → "won through institutional channels — Parliament, the Bank's Court of Directors, the prestigious professorships, the Political Economy Club, the major reviews". Ch.9 retitled "Manufacturing Orthodoxy" → "The Orthodoxy Becomes Law"; lines 9, 11, 95, 169 cooled with "consolidate," "settled between 1820 and 1850," "translated arguments into the architecture."
+- [x] Verified no remaining polemical "manufactur*" verbs (only literal references to button-makers and manufacturers remain).
+- [!] Ch.8/Ch.9 merge decision deferred to Session 9 per plan.
+- Net: ~7 surgical edits, no new word count beyond minor expansion in Ch.8 premise. No new sources.md entries needed (all draws on already-cited Overstone correspondence, Norman dynasty, and Le Maux 2018 in Ch.9 sources.md and Ch.8 sources.md).
 
-### Session 5: Ch.13 — Buchanan public-choice + demand-side 2021–22 + Volcker softening
+### Session 5: Ch.13 — Buchanan public-choice + demand-side 2021–22 + Volcker softening ✓ DONE 2026-04-27
 Source: `Research/Public-choice critique of fiscal politics (Buchana.md`, `Research/Demand-side Contribution 2021-2022 Inflation.md`
-- [ ] Engage public-choice critique of fiscal politics seriously; concede the institutional-architecture problem.
-- [ ] Add demand-side contribution to 2021–22 inflation (Bernanke-Blanchard 2023, Shapiro, Gagnon); show this *strengthens* productive-capacity framework rather than weakening it.
-- [ ] Soften Volcker framing: keep distributional critique, remove "deliberately engineering" moralism, engage what alternative would have been.
-- [ ] Audit "rentier class," "manufactured," "theft" verbs throughout chapter.
+- [x] Replaced one-sentence wave-at with three-paragraph engagement with Buchanan & Wagner (*Democracy in Deficit* 1977), Niskanen budget-maximizing bureaucrats, Sargent-Wallace unpleasant monetarist arithmetic (1981), and Cochrane FTPL (2023). Concedes that the productive-capacity framework owes the public-choice tradition an institutional architecture: constitutional fiscal rules with symmetry, independent fiscal council, automatic inflation-contingent tax/transfer adjustments, sunset clauses against Niskanen-style budget expansion. Notes 42ᵃ–42ᶜ.
+- [x] Demand-side 2021–22 inflation: qualified the "60% supply" claim as one method's reading (Shapiro 2022). Added Bernanke-Blanchard 2023 dynamic model, IMF cross-country evidence (US demand-supply ≈ equal, Europe more supply-driven), NY Fed staff fiscal model (~2/3 demand, fiscal stimulus ~1/3 of overshoot), Fed Board cross-country fiscal note. Engaged Blanchard 2021 PIIE warning + Summers 2021 WaPo op-ed honestly: "not vindicated as exclusive explanations… but not refuted either." Two-paragraph synthesis showing this sharpens (not refutes) the productive-capacity framework: capacity is sectoral and state-contingent, large fiscal expansions during constrained supply translate disproportionately into prices. Notes 40ˢ–40ᵛ.
+- [x] Volcker softening (three locations): replaced "deliberately engineering 10.8% unemployment" with "tightening so aggressively that 10.8 percent unemployment was the predictable cost"; replaced "deliberately engineering the worst recession… His approach was brutal" with "raising rates high enough that the resulting recession was a near-certain consequence" + Volcker's expectations-de-anchoring rationale; rewrote the closing assessment to engage the counterfactual (Carter's failed voluntary guidelines, absence of politically achievable incomes policy in 1980) while preserving the distributional critique. Note 36ᵃ.
+- [x] Verb audit: confirmed no "rentier" or "theft" instances; only "deliberately engineering" needed softening (handled in Volcker pass). The single remaining "manufactured" is literal (Vedante manufactures safety products) and stays.
+- Net: ~7 main.md edits totaling ~900 new words; 11 new entries in Ch.13 sources.md (40ˢ-40ᵛ for demand-side; 36ᵃ for Volcker counterfactual; 42ᵃ-42ᶜ for public-choice).
 
 ---
 
@@ -148,3 +153,6 @@ Source: `Research/Public-choice critique of fiscal politics (Buchana.md`, `Resea
 | Date | Session | Scope | Outcome |
 |---|---|---|---|
 | 2026-04-27 | 1 | Phase 1 fact fixes + Phase 1.5 sources.md updates + Phase 2 Preuß passage | ✓ Complete. Phase 1: 9 manuscript edits across 6 chapters. Phase 1.5: 7 sources.md updates. Phase 2: Preuß family integrated into Ch.13 (~1,300 new words), salt-herring scene as emotional anchor, line 137 trimmed and Rentenmark date corrected, 5 new source notes added (21g–21k). |
+| 2026-04-27 | 3 | Phase 3 Session 3 — Ch.7 steelman | ✓ Complete. Three additive inserts (~750 words): Currency School steelman around Bullionist section (13ᵃ–13ᶜ); Friedman/monetarism concession after Bernanke quote (28ᵃ); Keynes/parity distinction before human-cost section (25ʸ). Twelve new entries in Ch.7 sources.md. |
+| 2026-04-27 | 4 | Phase 3 Session 4 — Chs.8–9 reframe | ✓ Complete. Seven surgical edits across two chapters: Ch.8 premise rewritten to lead with Currency School steelman; Ch.8 lines 101 and 170 cooled to evidence-led framings; Ch.9 retitled "The Orthodoxy Becomes Law"; Ch.9 lines 9, 11, 95, 169 cooled. All polemical "manufactured orthodoxy" verbs removed. Ch.8/Ch.9 merge deferred to Session 9. |
+| 2026-04-27 | 5 | Phase 3 Session 5 — Ch.13 steelman | ✓ Complete. Five main.md edits totaling ~900 new words: three-paragraph public-choice engagement (Buchanan-Wagner, Niskanen, Sargent-Wallace, Cochrane FTPL) replacing the one-sentence wave-at; demand-side 2021–22 (Shapiro/Bernanke-Blanchard/IMF/NY Fed/Blanchard-Summers) qualifying the 60-percent-supply claim as one method's reading and showing the productive-capacity framework is sharpened; Volcker softening at three locations with engagement of the political-economy counterfactual (Carter's failed wage-price guidelines). Eleven new entries in Ch.13 sources.md. Verb audit confirmed: no "rentier" or "theft" instances; "deliberately engineering" removed. |

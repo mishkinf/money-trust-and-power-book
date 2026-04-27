@@ -1,4 +1,4 @@
-# Chapter 9: Manufacturing Orthodoxy
+# Chapter 9: The Orthodoxy Becomes Law
 
 ## The Paradox of Intellectual Defeat and Legislative Victory
 
@@ -6,9 +6,9 @@ In September 1843, James Wilson founded *The Economist* magazine to promote free
 
 Yet on July 19, 1844, the Bank Charter Act received Royal Assent with overwhelming parliamentary support. Wilson's Economist, Tooke's theoretical treatises, Fullarton's detailed critiques—all had failed. The Currency School had won completely. Not because they controlled the press (they demonstrably didn't), not because they silenced opposition (Banking School voices remained prominent), but because they captured the institution that mattered: **Parliament**.²
 
-This reveals something crucial about how economic orthodoxy gets manufactured. It's not always about controlling all channels of discourse. Sometimes it's about controlling the decisive channel—the one that translates ideas into law. The Banking School had intellectual sophistication, prominent advocates, and access to influential publications. They lost anyway. Understanding how reveals that monetary orthodoxy isn't discovered through neutral inquiry—it's enacted through institutional power.³
+This reveals something crucial about how an economic doctrine becomes binding law. It is not always about controlling all channels of discourse. Sometimes it is about controlling the decisive channel—the one that translates ideas into statute. The Banking School had intellectual sophistication, prominent advocates, and access to influential publications. They lost anyway, because Parliament was where it mattered.³
 
-The transformation from 1694 understanding (the Bank creates money "out of nothing") to 1850 orthodoxy (taxes must fund spending) didn't happen by accident. It was manufactured through institutional power that embedded Currency School doctrine into the architecture of British economic life. Understanding **how** this erasure happened reveals that monetary orthodoxy is ideological construction, not natural economic law.⁴
+The transformation from 1694 understanding (the Bank creates money "out of nothing") to 1850 orthodoxy (taxes must fund spending) did not happen by accident. It happened through institutional channels that translated the Currency School's arguments into the architecture of British economic life: parliamentary legislation, the Bank's Court of Directors, professorial appointments, control of the Political Economy Club, editorial influence over the major reviews. The pattern is documented in the surviving correspondence.⁴
 
 ---
 
@@ -92,7 +92,7 @@ Heslop's papers remain at Durham University Special Collections (reference GB-00
 
 ## Why Legislative Capture Worked
 
-The Currency School's triumph reveals a crucial pattern: **you don't need to control all discourse to manufacture orthodoxy—you need to control the decisive institution**. The Banking School had prominent voices (Tooke, Fullarton, Wilson), sophisticated arguments, access to *The Economist*, parliamentary representation, and prophetic warnings that proved correct.³⁴ But the Currency School had Peel's authority, Overstone's framework, the 1840 Committee's evidence—and the votes.³⁵
+The Currency School's triumph reveals a crucial pattern: **you do not need to control all discourse to consolidate an orthodoxy—you need to control the decisive institution**. The Banking School had prominent voices (Tooke, Fullarton, Wilson), sophisticated arguments, access to *The Economist*, parliamentary representation, and prophetic warnings that proved correct.³⁴ But the Currency School had Peel's authority, Overstone's framework, the 1840 Committee's evidence—and the votes.³⁵
 
 The Banking School lost not because they were silenced but because their influence operated in channels that didn't translate into law. Once Peel's bill passed, it didn't matter that *The Economist* published critiques weekly or that Hawes warned in Parliament.³⁶ **Legislative capture trumps intellectual debate**. The Currency School embedded their principles into automatic law—when gold flowed out, money contracted without democratic input. And when the Act had to be suspended during crises (1847, 1857, 1866), proving the Banking School right, it was reinstated afterward.³⁷
 
@@ -166,4 +166,4 @@ By 1850 the transformation was complete. What had been explicit in 1694 — that
 
 For eighty years after 1844 the system seemed to vindicate itself. Trade expanded, empires grew, London became the financial capital of the world. The mechanism appeared automatic. In fact it worked because the Bank of England exercised discretionary management behind the Act's rigid rules, because no major war tested the system, because South African and Alaskan gold discoveries kept the supply growing, and because Britain extracted from its colonies what its trade balances could not provide. When war came in August 1914 every combatant abandoned the gold standard within days, and the system that had seemed eternal collapsed in a week.
 
-The orthodoxy that survived would face its real test in the 1920s and 1930s — when Churchill's return to gold, France's gold hoarding, and the Federal Reserve's adherence to Real Bills Doctrine would turn a financial panic into a global depression. The human cost of those choices would be measured not in thousands but in millions. The manufactured orthodoxy of 1820–1850 would kill in 1929–1939. Part IV traces how that happened.
+The orthodoxy that survived would face its real test in the 1920s and 1930s — when Churchill's return to gold, France's gold hoarding, and the Federal Reserve's adherence to Real Bills Doctrine would turn a financial panic into a global depression. The human cost of those choices would be measured not in thousands but in millions. The orthodoxy settled between 1820 and 1850 would kill in 1929–1939. Part IV traces how that happened.
