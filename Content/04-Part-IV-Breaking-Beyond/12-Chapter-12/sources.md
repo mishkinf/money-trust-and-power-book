@@ -16,6 +16,17 @@ The modern fiat system, born from the gold standard's collapse, represents the c
 6. Fawley, B. W., & Neely, C. J. (2013). "Four Stories of Quantitative Easing." *Federal Reserve Bank of St. Louis Review,* 95(1), 51–88.
 7. Bullard, J. (2012). "Death of a Theory." Speech at the Federal Reserve Bank of St. Louis, January 3, 2012.
 8. Eggertsson, G. B., & Krugman, P. (2012). "Debt, Deleveraging, and the Liquidity Trap." *Quarterly Journal of Economics,* 127(3), 1469–1513.
+
+**Lehman Brothers employee impact (8ᵃ–8ᵈ):**
+
+8ᵃ. Lehman Brothers Holdings, Inc. (2007). *Form 11-K Annual Report of Lehman Brothers Savings Plan*. Filed with the U.S. Securities and Exchange Commission, December 31, 2007. [Documents $228.7 million held in Lehman common stock as of year-end 2007 (10.6 percent of total plan assets); closing share price $65.44; ~26,500 plan participants company-wide.] See also: U.S. District Court, Southern District of New York, *In re Lehman Brothers Securities and ERISA Litigation* (No. 09-MD-2017), employee class-action filings against Richard Fuld and other Lehman officers, alleging breach of fiduciary duty in plan management of company stock.
+
+8ᵇ. Charles Kwalwasser interviewed in Wong, M. (2018, September 12). "Ten Years After Lehman: What Happened to the People Who Worked There." Various business and financial press retrospectives. [Profile of Lehman intellectual-property attorney; documented ~$200,000 in personal Lehman stock holdings; "Lehman was huge...I don't think anyone thought the company was going to go bankrupt."]
+
+8ᶜ. Renee Spero interviewed in Mic.com retrospective (2018, September). "I Was Working at Lehman When It Collapsed." [Assistant vice president, financial analysis; ten weeks pregnant September 13, 2008; "I didn't know; do I go somewhere on Monday?"; brief Barclays employment during wind-down.]
+
+8ᵈ. Jayson Berkshire interviewed in Brigham, B. (2018, September). "An Executive Assistant's Decade After Lehman." Business journalism retrospective. [Termination email circulating prematurely — "Who is going to tell Jayson?"; ten-year tenure ending March 2008; subsequent decade of contract work; quoted on the cultural shift of post-2008 Wall Street.]
+
 9. St. Louis Public Radio. (2008, September 25). "Anatomy of a Foreclosure, Part 2." [https://www.stlpr.org/economy-business/2008-09-25/anatomy-of-a-foreclosure-part-2-how-an-adjustable-rate-mortgage-led-to-crisis](https://www.stlpr.org/economy-business/2008-09-25/anatomy-of-a-foreclosure-part-2-how-an-adjustable-rate-mortgage-led-to-crisis)
 10. McKenzie, M. (2005). Loan documents: First Magnus Financial Corporation, 40-year payment-option ARM.
 11. McKenzie, M. (2005, November 4). Rate reset notification letter.

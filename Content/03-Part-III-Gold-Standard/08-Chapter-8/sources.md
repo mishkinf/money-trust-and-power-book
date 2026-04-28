@@ -276,24 +276,31 @@ Between 1800-1850, earlier understandings of money creation were systematically 
 - Great Britain, Parliament. *Reports from the Secret Committee on Commercial Distress*. Parliamentary Papers 1847-48 (395) VIII, Pt. I. Gurney testified: "Those [customers] who had sent notice for their money in the morning sent us word that they did not [need it]."
 - The effect was immediate upon suspension of the Bank Charter Act restrictions.
 
-**Rodger Cantwell (1816-c.1850) - Irish Farm Laborer:**
-²⁷ⁱ **Cantwell Family Details:**
+**Colonial taxation and Rodger Cantwell (1816-c.1850) - Irish Farm Laborer:**
+
+(Note: footnote markers in this section were renumbered from ²⁷ⁱ–²⁷ᵐ to ²⁸ᵃ–²⁸ᶠ during the Ch.8/9 merge to avoid collision with Ch.8's existing ²⁷ⁱ–²⁷ᵐ markers, which document Attwood's marginalization. The ²⁸ᵃ–²⁸ᶠ markers below correspond to body footnotes in the chapter's "Colonial proof" section.)
+
+²⁸ᵃ **British Colonial Hut Taxes:**
+- Forstater, Mathew. (2005). "Taxation and Primitive Accumulation: The Case of Colonial Africa." *Research in Political Economy* 22: 51–65. [Documents hut and poll taxes payable only in colonial currency in Kenya, Uganda, Rhodesia, 1890s–1910s; explicit chartalist mechanism]
+- See also Wray, L. R. (1998), op. cit.
+
+²⁸ᵇ **Kenya 1901 Hut Tax Ordinance:**
+- Government of Kenya, Hut Tax Ordinance, 1901. [2–3 rupees per hut annually; pre-1901 Kenyan economies based on cattle wealth and barter; tax forced wage labor on settler plantations]
+
+²⁸ᶜ **Cantwell Biographical Details and Wages:**
 - Kelly, J. (2017). "A great-grandfather's account of the Irish potato famine (1845–1850)." *PMC (PubMed Central)*, PMC5468053. Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC5468053/
-- Family records combined with historical sources. Rodger Cantwell, age 30 in 1846, farm laborer on George Fawcett's estate, Toomyvara, County Tipperary.
+- Family records combined with historical sources. Rodger Cantwell, age 30 in 1846, farm laborer on George Fawcett's estate, Toomyvara, County Tipperary. Earned 5 pence daily farming (1846), 10 pence daily public works. Wife Mary (McDonald), five children: Bridget (8), Thomas (7), Michael (4), Julia (2), Mary (1) in 1846.
 
-²⁷ʲ **Cantwell's Wages and Family:**
-- Kelly (2017). Earned 5 pence daily farming (1846), 10 pence daily public works. Wife Mary (McDonald), five children: Bridget (8), Thomas (7), Michael (4), Julia (2), Mary (1) in 1846.
+²⁸ᵈ **1849 Mass Eviction and Emigration:**
+- Kelly (2017). June 1849: George Fawcett's agent Richard Wilson destroyed all 30 tenant cabins overnight. Mass eviction driven by landlord's inability to pay Poor Law rates under monetary contraction. Family emigrated to America 1850; children on ship *Princeton* (April), Rodger on ship *Waterton* (six months later).
+- Ship manifests: *Princeton* and *Waterton*, 1850.
 
-²⁷ᵏ **1849 Mass Eviction:**
-- Kelly (2017). June 1849: George Fawcett's agent Richard Wilson destroyed all 30 tenant cabins overnight. Mass eviction driven by landlord's inability to pay Poor Law rates under monetary contraction.
-
-²⁷ˡ **Cantwell Family Emigration:**
-- Kelly (2017). Family emigrated to America 1850. Children on ship *Princeton* (April), Rodger on ship *Waterton* (six months later).
-- Ship manifests: *Princeton* and *Waterton*, 1850. [Confirming emigration records]
-
-²⁷ᵐ **Connection to Bank Charter Act:**
+²⁸ᵉ **Connection to Bank Charter Act:**
 - 1847 credit contraction affected Irish estates through multiple channels: English merchants stopped advancing credit for grain purchases, landlords faced falling rents and increased Poor Law rates, banks restricted agricultural lending.
 - British monetary system operated uniformly across England and Ireland under 1844 Act.
+
+²⁸ᶠ **Colonial Empirical Sequence Proving Chartalism:**
+- Forstater (2005), op. cit.; Wray (1998); Knapp (1924/1905). [The empirical sequence — pre-tax non-adoption, post-tax forced adoption — confirms chartalist principle through documented colonial coercion.]
 
 ³⁸ **Banking School Intellectual Sophistication:**
 - Tooke, Thomas. (1844). *An Inquiry into the Currency Principle*. 2nd ed. London: Longman, Brown, Green, and Longmans.
