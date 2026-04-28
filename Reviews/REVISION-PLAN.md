@@ -31,7 +31,7 @@ Source: `Reviews/factcheck-pass-2.md` plus `Research/Klemperer Coffee Anecdote A
   - Ch.8: new entry 27a-2 added with crowd-science methodology note
   - Ch.9: note 34 expanded with Supple 1987 + Keynes 1925; note 36 rewritten to "Heslop's Marxist Framework and the Multi-Causal Coal Decline" with Croft 1990
   - Ch.13: 21b replaced with proper Tagebücher 1918-1924 p.725 citation via Ullrich bpb 2023 + Ullrich 2022/Liveright 2023
-- [ ] Verify page references at typeset: Hunt 1994 chs.6–7, Shenton 2012 early chs, Feldman 1993 ch.18 (~pp.631–683)
+- [~] Page references at typeset: Hunt 1994 chs.6–7, Shenton 2012 early chs, Feldman 1993 ch.18 (~pp.631–683). **Status: deferred, not blocking.** All three citations are at chapter-level granularity, which is the convention for trade nonfiction in this lineage (cf. *Lords of Finance*, *Debt*, *The Deficit Myth*). None supports a direct quotation that requires exact-page citation; all support synthesis claims (Peruzzi exposure figure, 1834 tally-fire context, Weimar inflation framing) for which chapter-level is appropriate. Page-level verification would be a 30-minute copy-edit task at typesetting if a publisher's house style demands it; not required for shipping.
 - [ ] Optional: deeper softening of Ch.6 chapter premise (line 5) and line 27 paraphrase — defer to Phase 3 if it makes sense to do alongside the steelman work
 - [ ] Optional: insert footnote markers in main.md text where new claims need anchoring (Ch.2 new sentence after Hunt figures; Ch.13 has marker; others have markers). Can be done at copy-edit stage.
 
