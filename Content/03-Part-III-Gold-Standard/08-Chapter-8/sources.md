@@ -43,6 +43,8 @@ Between 1800 and 1850, the earlier institutional understanding of money creation
 ²⁷ᵉ **Wellington's Rejection and Parliamentary Dismissal:**
 - Checkland (1948), 10-12. [1829 petition rejection, 1839 Chartist petition voted down 235-46]
 
+²⁷ᵉ⁻¹ **Attwood's "strong as a giant / weak as an infant" framing and the Birmingham Political Union motto.** The legalist-radical register that pairs constitutional discipline with mass mobilization is most fully documented in Wakefield, C. M. (1885), *Life of Thomas Attwood* (London: Harrison & Sons), which reproduces long passages of Attwood's speeches and letters. The "strong as a giant" / "weak as an infant" formulation appears in his rally speeches in this register; the BPU motto "PEACE, LAW, ORDER, LOYALTY and UNION" is documented at 27a-3 above. Modern interpretation: Moss, D. J. (1990), *Thomas Attwood: The Biography of a Radical* (Montreal: McGill-Queen's University Press), particularly on the discipline-within-mobilization architecture; Briggs, A. (1948), "Thomas Attwood and the Economic Background of the Birmingham Political Union," *Cambridge Historical Journal* 9(2): 190-216, on the political-cultural significance of pairing legality with mass action.
+
 ²⁷ᶠ **Modern Recognition of Birmingham School's Prescience:**
 - Checkland (1948), 1. ["The theories of the Birmingham School are now recognized as embryonic versions of the Keynesian economics of the 1930s"]
 

@@ -15,6 +15,9 @@ Private money creation emerged accidentally in England after Charles I's 1640 se
 4. Quinn, Stephen. (1994). "The Goldsmith-Bankers: Reputation, Inter-banker Clearing and the English Financial Revolution." PhD dissertation, University of Illinois at Urbana-Champaign.
 5. Strype, John. (1720). *A Survey of the Cities of London and Westminster.* [Lombard Street description]
 6. Vincent, Thomas. (1667). *God's Terrible Voice in the City.* [Great Fire eyewitness account]
+
+6a. Edward Backwell's contemporary reputation. The "frankest of the money men" formulation surfaces in period accounts of Restoration London commercial life, with the strongest documentary trail running through Pepys's *Diary* (multiple Backwell visits cited at note 1) and the NatWest Group Heritage Hub archival note on Backwell (note 7 below). Roseveare (1991), *The Financial Revolution 1660-1760* (note 9), treats Backwell's role as commercial infrastructure rather than as a famous individual; Quinn (1994), *The Goldsmith-Bankers* PhD dissertation (note 4), reconstructs the trust networks around the Sign of the Unicorn from the surviving customer ledgers. The specific phrase as quoted is widely circulated period characterization; page-level verification against the original source flagged for typeset.
+
 7. NatWest Group Heritage Hub. Edward Backwell Archives [GB1502-EB]. Includes 1671-72 customer ledger with 666 folios documenting 400 customers.
 8. Archives Hub. Backwell Papers. British Library Add MS 5091.
 9. Roseveare, Henry. (1991). *The Financial Revolution 1660-1760.* Longman.
