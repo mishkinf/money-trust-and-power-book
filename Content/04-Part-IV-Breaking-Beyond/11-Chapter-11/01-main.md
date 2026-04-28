@@ -2,7 +2,7 @@
 
 ## Chapter 11: The Breaking of Bretton Woods
 
-**Chapter Premise:** The Triffin dilemma made collapse inevitable. De Gaulle's gold offensive (1965-1968), Britain's 1967 crisis, and the London Gold Pool's $3 billion hemorrhage culminated in Nixon's August 1971 closure of the gold window. The "temporary" suspension became permanent, ending the gold standard forever and inaugurating the age of pure fiat.
+**Chapter Premise:** The Triffin dilemma's structural tension — the world's need for dollar liquidity colliding with the gold convertibility that anchored the system — accumulated through the 1960s. De Gaulle's gold offensive (1965–1968), Britain's 1967 crisis, and the London Gold Pool's $3 billion drain culminated in Nixon's August 1971 closure of the gold window. The "temporary" suspension became permanent, opening the post-1971 era of pure fiat money.
 
 ---
 
@@ -10,9 +10,9 @@
 
 In February 1965, French President Charles de Gaulle stood before television cameras and delivered a challenge that would shake the international monetary system to its foundations. France, he announced, would begin converting dollar reserves into gold—demanding the metal the United States had promised to deliver at $35 per ounce.
 
-This wasn't merely monetary policy. It was geopolitical warfare. De Gaulle understood what American policymakers preferred to ignore: the Bretton Woods system contained a fatal contradiction. The world needed dollars for trade and reserves, requiring the U.S. to run balance-of-payments deficits. But persistent deficits undermined the gold backing that supposedly guaranteed the dollar's value.
+This was monetary policy with sharp geopolitical edges. De Gaulle was pressing the structural tension at the heart of Bretton Woods: the world needed dollars for trade and reserves, requiring the United States to run balance-of-payments deficits, while those same persistent deficits steadily undermined the gold backing that anchored the dollar's value at $35 an ounce.
 
-Robert Triffin had explained this paradox in 1959. Now, six years later, de Gaulle was testing whether the emperor had any clothes. The answer would reshape the global monetary system and end the gold standard's two-century reign.
+Robert Triffin had named this dilemma in 1959 and 1960, calling it logically untenable in the long run even as the system was working in the short. Six years later, de Gaulle was testing how much pressure the gold-conversion clause could bear in practice. His answer would not end the gold standard immediately, but it would mark the beginning of the unraveling.
 
 ---
 
