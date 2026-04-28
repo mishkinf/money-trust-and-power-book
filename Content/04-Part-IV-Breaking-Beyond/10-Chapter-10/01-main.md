@@ -2,10 +2,6 @@
 
 ## Chapter 10: Bretton Woods and the Bancor That Wasn't
 
-**Chapter Premise:** In July 1944, as Allied forces fought across Normandy, 730 delegates from 44 nations gathered at Mount Washington Hotel to design the postwar monetary system. Keynes's bancor—a supranational currency with symmetric adjustment—lost to White's dollar-centered system backed by American gold. The compromise established dollar dominance but contained the seeds of its own destruction.
-
----
-
 ### July 1944: The Mount Washington Hotel
 
 One month after D-Day, as Allied forces fought across Normandy, 730 delegates from 44 nations gathered at the Mount Washington Hotel in Bretton Woods, New Hampshire. The timing was deliberate—the Allies were winning the war, and America was determined to win the peace. Organizers scheduled the conference for July 1-22, 1944, but extended it three days as delegates argued over details already decided in Washington.
@@ -136,7 +132,7 @@ The mathematical contradiction in White's design was the **Triffin dilemma**, an
 
 The choice wasn't about economic optimality. It was about power—and American policymakers were brutally clear about this in private.
 
-White understood perfectly that bancor was economically superior for the international system. But his job wasn't designing the best system for global trade. His job was advancing **American interests**. And American interests required dollar dominance.
+White understood perfectly that bancor was economically superior for the international system. But his job wasn't designing the best system for global trade. His job was advancing American interests. And American interests required dollar dominance.
 
 The advantages were substantial and explicit:
 
@@ -191,6 +187,22 @@ Two months later, on April 21, 1946, he suffered a second heart attack and died 
 The Belgian delegation head Georges Theunis had said it to Robbins early in the conference, in plainer language than anyone else managed: "It is a disgrace. The Americans give way to the Russians every time. And you too, you British, are just as bad. You are on your knees to them."
 
 Robbins did not deny it.
+
+---
+
+### A senior thesis in 1949
+
+Three years after Keynes's death, a Princeton senior was finishing a thesis titled "The Problems of Federal Reserve Policy Since World War II." Paul Volcker, twenty-one years old, had been sixteen when the Mount Washington Hotel delegates signed agreements he was now reading as primary documents. He had been raised in Teaneck, New Jersey, where his father served thirty years as town manager and where the household ethic was the bookkeeping discipline of a public servant: balanced books, debts honoured, public funds accounted for to the dollar. He was six feet seven inches tall, awkward, and entirely uninterested in the kind of personal display the Princeton class of 1949 considered fitting for ambition. He wanted to understand the monetary system that was supposed to underwrite the postwar peace.
+
+The system he was inheriting was eight years old, and it was already showing strain. The dollar shortage of the late 1940s — Europe needing American goods it could not pay for — had been bridged temporarily by Marshall Aid, but the underlying arithmetic Triffin would formalize in 1959 was already visible in the data Volcker would assemble at the New York Fed in the early fifties. He took an MA at Harvard's Graduate School of Public Administration in 1951, spent a year on a Rotary fellowship at the London School of Economics, and arrived at the Federal Reserve Bank of New York as a financial economist in 1952. The job he was hired to do was to study gold flows.
+
+Specifically, he tracked the slow movement of gold out of Fort Knox to foreign central banks — the operational reality of the system the chapter has just described. The IMF's $8.5 billion of resources, the $35-an-ounce dollar–gold parity, the asymmetric adjustment that put the weight of correction on deficit countries — Volcker watched the system run from inside the institution that anchored it. By the time he moved to the Treasury Department in 1957 and then to Chase Manhattan Bank, where he worked on international monetary issues under David Rockefeller, the gold stock at Fort Knox was twenty-three billion dollars and beginning to fall. Foreign claims on that stock were rising. He had read the arithmetic in the Princeton library; now he was doing the arithmetic at his desk.
+
+He returned to government in 1963, recruited by Robert Roosa as Deputy Under Secretary of the Treasury for Monetary Affairs. The job was, in effect, the senior staff position for the United States' management of the Bretton Woods system. Treasury and the Fed coordinated daily on the dollar's defense; Volcker was at the center of that coordination through what would become known as the dollar's first crisis years. The London Gold Pool, established in 1961 to suppress the market price of gold through coordinated central-bank intervention, was an instrument Volcker was inside the meetings that designed. When the Pool began to lose gold in earnest in 1967 — the British sterling devaluation in November of that year triggered an immediate run on the dollar — the institutional response that managed it ran through Treasury's monetary affairs office.
+
+He was forty when the Pool collapsed in March 1968. By 1969, when Richard Nixon appointed him Under Secretary of the Treasury for Monetary Affairs, the system the Mount Washington Hotel delegates had built was inside three years of its end. Volcker did not yet know the date. What he understood — and what his Princeton thesis, his New York Fed gold-flow analyses, his London Gold Pool meetings, and his Roosa-era Treasury experience had all converged on — was the structural inevitability of the moment Triffin had named in 1959. The arithmetic could not be argued out of. It could only be managed until it could no longer be managed.
+
+He spent the years 1969 through 1971 managing it.
 
 ---
 
