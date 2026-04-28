@@ -15,6 +15,11 @@ In July 1944, 730 delegates from 44 nations gathered at the Mount Washington Hot
 **Bretton Woods Conference:**
 43. Steil, B. (2013). *The Battle of Bretton Woods: John Maynard Keynes, Harry Dexter White, and the Making of a New World Order.* Princeton University Press.
 
+**Keynes's voice and physical state at Bretton Woods:**
+49ᵃ⁻². Keynes's elevated rhetoric at the conference — "wisdom, statesmanship, and good will" / "world community" framing — appears in the official conference proceedings: U.S. Department of State, *Proceedings and Documents of the United Nations Monetary and Financial Conference, Bretton Woods, New Hampshire, July 1–22, 1944*, Vol. I (Washington, D.C.: U.S. Government Printing Office, 1948), opening session remarks. His "little Englandism" framing of the alternative is from his House of Lords defense of the Bretton Woods agreements, reproduced in U.S. Senate Committee on Banking and Currency, *Bretton Woods Agreements Act: Hearings on H.R. 3314* (1945). Skidelsky, R. (2000). *John Maynard Keynes: Fighting for Freedom, 1937–1946* (New York: Viking), volume 3 of the Keynes biography, treats the rhetorical register and its evolution across the 1944–46 period.
+
+49ᵃ⁻³. Keynes's deteriorating health at the conference. The 1937 heart attack and its aftermath in Skidelsky (2000), op. cit. The "edge of a precipice" assessment of his condition during Bretton Woods is recorded in colleagues' contemporary accounts (Robbins's diary entries cited at 43a; further detail in Steil 2013, pp. 233-276 cited at 43b, including the July 19, 1944 collapse on the hotel stairs). The narrative reconstruction here keeps the substantive observations but does not assign the "edge of a precipice" formulation to a specific named source pending exact attribution at typeset.
+
 **Lionel Robbins at Bretton Woods - British Humiliation:**
 43a. Robbins, Lionel. (1990). *The Wartime Diaries of Lionel Robbins and James Meade, 1943-45.* Edited by Susan Howson and Donald Moggridge. Macmillan. [Diary entries from July 1-22, 1944, Mount Washington Hotel conference; digitized at LSE Library ROBBINS/6/1/2]
 43b. Steil, B. (2013). *The Battle of Bretton Woods*, pp. 233-276. [Robbins's "We know we will be beaten" confession, Keynes's July 19 heart attack, administrative chaos, power dynamics, Morgenthau's hotel seizure threat]
