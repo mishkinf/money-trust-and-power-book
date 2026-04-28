@@ -26,6 +26,8 @@ This glossary provides quick definitions for technical and historical terms used
 
 **Bank Restriction Act (1797)**: British law suspending the Bank of England's obligation to redeem notes in gold during Napoleonic Wars. Lasted 24 years (1797–1821), proving paper money could function successfully without metal backing when institutions were credible.
 
+**Banking School**: Nineteenth-century British monetary doctrine opposing the Currency School. Held that bank notes did not need rigid gold backing because convertibility-on-demand and the "real bills" doctrine would automatically limit issuance to the legitimate needs of trade. Key figures: Thomas Tooke, John Fullarton, James Wilson (founder of *The Economist*), and the parliamentary opposition led by Benjamin Hawes. Lost the Bank Charter Act fight in 1844 despite intellectual sophistication; vindicated when the Act had to be suspended during crises in 1847, 1857, and 1866.
+
 **Bimetallism**: Monetary system where both gold and silver serve as legal tender at a government-set exchange ratio. Britain operated on bimetallism before Newton's 1717 adjustment accidentally created a de facto gold standard.
 
 **Bills of Exchange**: Credit instruments used by merchants to settle debts in distant cities without moving gold. Pioneered by Italian banking families in medieval period; became backbone of 18th-19th century international trade when centered in London.
@@ -33,6 +35,8 @@ This glossary provides quick definitions for technical and historical terms used
 **Bretton Woods System**: International monetary regime (1944–1971) that fixed exchange rates by pegging currencies to U.S. dollar (±1%) and dollar to gold ($35/oz). Collapsed when U.S. abandoned gold convertibility in 1971.
 
 **Bullion**: Precious metal in bulk form (bars or ingots), not yet coined. Amsterdam Wisselbank accepted bullion deposits and credited accounts in standardized banco guilders, creating early form of bank money independent of physical coins.
+
+**Buchanan-Wagner Critique / *Democracy in Deficit* (1977)**: James Buchanan and Richard Wagner's institutional argument that once the technical solvency constraint on a sovereign government is removed, democratic political incentives push toward chronic deficits. Voters underestimate the future tax and inflation costs of deficit finance; politicians prefer salient tax cuts and spending increases over diffuse-cost surpluses; the old "fiscal constitution" of balanced peacetime budgets gets replaced by technocratic discretion that systematically biases toward overspending. Strongest version of the case against discretionary fiscal policy that does not depend on metallism. Engaged seriously in Chapter 12.
 
 ## C
 
@@ -54,11 +58,15 @@ This glossary provides quick definitions for technical and historical terms used
 
 **Country Banks**: Private partnerships (1700-1844) that issued their own banknotes across England. Over 700 existed by 1810, creating most of Britain's money supply and financing Industrial Revolution. Prohibited from issuing new notes by Bank Charter Act 1844; last private note issued 1921.
 
+**Currency School**: Nineteenth-century British monetary doctrine that won the fight over the Bank Charter Act of 1844. Held that bank-note issue should be tied mechanically to gold reserves to prevent over-issue, removing discretion from both Bank and Treasury. Defensible response to the genuine threat of unconstrained inconvertible paper that France's assignats had demonstrated. Key figures: David Ricardo, Samuel Jones Loyd (Lord Overstone), Robert Torrens, Sir Robert Peel. Their decisive error, invisible until the financial crises of 1847, 1857, and 1866, was equating control of the note issue with control of the money supply — bank deposits, which expanded on top of any given note base, lay outside their model. The orthodoxy they consolidated outlived the metallic constraint that originally justified it.
+
 **Creditor-Debtor Dynamics**: The systematic wealth transfer that occurs during deflation (benefits creditors) or inflation (benefits debtors). During deflation, fixed debts become harder to repay as money becomes more valuable; during inflation, debts become easier to repay as money becomes less valuable.
 
 **Currency Sovereignty**: Ability of a government to issue and control its own currency, denominate debts in that currency, and maintain independent monetary policy. Japan possesses full currency sovereignty (yen-denominated debt, floating exchange rate); Argentina lacks it (dollar-denominated external debt). Countries with sovereignty cannot involuntarily default on own-currency obligations; those without face hard external constraints.
 
 ## D
+
+**Darien Scheme / Company of Scotland (1695–1700)**: Scottish colonization venture targeting the Isthmus of Darien (modern Panama) to short-circuit the East Indies trade. The Company of Scotland Trading to Africa and the Indies raised £400,000 from Scottish subscribers — roughly a quarter of all liquid capital in the kingdom. William Paterson, founder of the Bank of England, was its principal projector and sailed with the second expedition; his wife and son died there along with nearly two thousand other colonists. The catastrophic failure helped push Scotland toward the 1707 Act of Union. The companion case study to the Bank of England in Chapter 5: same projector, same speculative engine, opposite institutional foundations.
 
 **Debasement**: Reducing precious metal content in coins while maintaining face value. Common practice of medieval and early modern monarchs facing fiscal pressure; typically destroyed currency credibility and led to inflation.
 
@@ -69,6 +77,8 @@ This glossary provides quick definitions for technical and historical terms used
 ## E
 
 **Endogenous Money**: Theory that money supply is determined by demand for credit, not by central bank control of reserves. Banks create deposits when making loans; central banks accommodate by supplying reserves at target interest rate. Articulated by Post-Keynesian economists (Kaldor, Moore, Minsky); confirmed by Bank of England 2014.
+
+**Equivalent (1707)**: England's £398,085 payment to Scotland under the Act of Union, ostensibly to compensate Scottish creditors for assuming a share of English public debt. In practice it covered most of the Darien Scheme losses and was prominent among the financial inducements that delivered Scottish parliamentary support for the Union. William Paterson, who had sailed with the Darien expedition and lost his wife and son there, was prominent among the Scottish negotiators who pressed for it.
 
 **Exchequer**: Royal treasury and accounting office in medieval England. Used tally sticks to record tax payments and loans; name derives from checkered cloth on which accounts were calculated with counters.
 
@@ -81,6 +91,8 @@ This glossary provides quick definitions for technical and historical terms used
 **Financial Revolution**: Term for England's late 17th-century transformation of public finance following Glorious Revolution (1688). Parliament gained control of taxation and borrowing, created Bank of England (1694), and established funded public debt backed by parliamentary taxes.
 
 **Fiscal Capacity**: A government's ability to tax its population and collect revenue. Strong fiscal capacity—backed by effective administration and rule of law—enables governments to create credible currency. Parliamentary control of taxation after 1688 gave England superior fiscal capacity compared to absolutist France, enabling cheaper borrowing despite smaller economy.
+
+**Fiscal Theory of the Price Level (FTPL)**: Theoretical framework, sharpened by Sargent and Wallace's "unpleasant monetarist arithmetic" (1981) and generalized by John Cochrane (*The Fiscal Theory of the Price Level*, 2023), holding that the price level is determined by the present value of expected future government surpluses, not by money supply alone. Implies that large deficits unbacked by credible expected surpluses must eventually be offset by either explicit default or inflation, regardless of central-bank independence. Engaged seriously alongside the public-choice critique in Chapter 12 as the strongest non-metallist case against unconstrained discretionary fiscal policy.
 
 **Florin**: Gold coin first minted by Florence in 1252 at 3.5 grams pure gold. Never debased; became trusted international currency alongside Venetian ducat. Example of how stable currencies spread through market competition.
 
@@ -146,6 +158,8 @@ This glossary provides quick definitions for technical and historical terms used
 
 ## N
 
+**Niskanen / Budget-Maximizing Bureaucrats**: William Niskanen's analysis of bureaucratic incentives (*Bureaucracy and Representative Government*, 1971), arguing that public agencies have structural reasons to expand budgets regardless of macroeconomic conditions because information asymmetries between agencies and legislators allow them to do so. A central plank of the public-choice critique of discretionary fiscal policy: even setting aside deficit politics, the supply side of government spending biases upward. Engaged in Chapter 12 alongside Buchanan-Wagner.
+
 **Nixon Shock**: President Richard Nixon's August 15, 1971 announcement suspending dollar convertibility to gold, ending Bretton Woods system. Presented as "temporary" measure but became permanent. Triggered by Britain's August 11 request to convert $3 billion in reserves. U.S. gold reserves had fallen to $10 billion while foreign dollar liabilities reached $80 billion (12.5% backing). Marked final break from gold standard and beginning of pure fiat era.
 
 ## O
@@ -162,6 +176,10 @@ This glossary provides quick definitions for technical and historical terms used
 
 **Productive Capacity**: Economy's ability to produce real goods and services given available labor, capital, technology, and resources. The real constraint on money creation—creating money beyond productive capacity causes inflation; creating money to mobilize unused capacity does not. Hyperinflation results from destruction of productive capacity (Venezuela oil -77%, Weimar coal/steel -80%, Zimbabwe agriculture -50%), not money creation per se. When capacity intact, massive monetary expansion produces minimal inflation (Japan, US 2008-2020, UK 1797-1821).
 
+**Projector**: Late-Stuart and Williamite English term for someone who proposed grand financial or commercial schemes — joint-stock companies, public banks, life-insurance arrangements, river-navigation projects, lotteries, friendly societies. The 1690s in particular were saturated with projectors of widely varying competence and honesty. Daniel Defoe's *An Essay upon Projects* (1697) distinguished the "honest projector" (real innovation under real risk) from the "mere projector" (predatory speculation living on others' gullibility). William Paterson, founder of the Bank of England and principal projector of the Darien Scheme, worked at the boundary between the two.
+
+**Public Choice**: School of economic analysis applying standard rationality assumptions to political behavior. Treats voters, politicians, and bureaucrats as self-interested actors operating within institutional constraints rather than benevolent maximizers of public welfare. Founded by James Buchanan and Gordon Tullock (*The Calculus of Consent*, 1962); central insight that the gold standard's defenders had partly right — that you cannot trust office-holders to stop printing when inflation arrives — survives the move to fiat. The discipline must come from rules and institutions rather than from a metal that imposes its own painful costs whether warranted or not. Engaged in Chapter 12.
+
 ## Q
 
 **Quantitative Easing (QE)**: Central bank purchases of government bonds and other assets to expand money supply when interest rates near zero. Fed's balance sheet grew from $870 billion (2007) to $4.5 trillion (2015). Despite massive expansion, core inflation remained below 2%—demonstrating productive capacity, not money quantity, constrains inflation. QE increases central bank reserves but doesn't automatically create bank credit to real economy. Asset purchases can inflate financial asset prices without causing consumer price inflation if money circulates within financial markets rather than financing productive investment or household consumption.
@@ -177,6 +195,8 @@ This glossary provides quick definitions for technical and historical terms used
 **Reserve Ratio**: Fraction of deposits that banks must hold as reserves (cash or central bank deposits). Tool for controlling money supply; higher ratios constrain credit creation.
 
 ## S
+
+**Sargent-Wallace Unpleasant Monetarist Arithmetic (1981)**: Result, due to Thomas Sargent and Neil Wallace, showing that if a fiscal authority runs persistent primary deficits without credible future surpluses, monetary restraint cannot ultimately prevent inflation: the central bank must either monetize the debt eventually or watch real debt service costs rise until fiscal collapse forces the issue. Central-bank independence becomes nominal under that constraint. Foundational to the modern Fiscal Theory of the Price Level. The strongest pure-rationality argument that fiscal discipline matters even under fiat; engaged in Chapter 12.
 
 **Seigniorage**: The profit government makes from creating money—difference between face value and production cost. For example, if it costs $0.05 to produce a $100 bill, seigniorage is $99.95. Historically, monarchs debased coins to increase seigniorage. Modern governments earn seigniorage by creating currency and deposits. Represents government's ability to create purchasing power through money creation.
 

@@ -1,3 +1,9 @@
+# Money, Trust, and Power
+
+## Five Thousand Years of Credit, Crisis, and the Institutions That Make Money Work
+
+---
+
 # Preface
 
 > Money has always been more than a medium of exchange.  
