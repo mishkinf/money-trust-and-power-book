@@ -4,7 +4,7 @@ We have traced money's evolution from Mesopotamian grain credits recorded on cla
 
 The story money tells is the story of trust — how it is built, how it is maintained, and how it is lost. Across five thousand years, from clay tablets to digital ledgers, the forms have changed but the underlying problem has not: how to create a medium of exchange that people will accept, not because of what it is made of but because they trust the institutions behind it.
 
-What this book has traced, through every era, is the same underlying claim: **money is not a thing but a relationship**. It is a record of obligation, sustained by institutions strong enough to enforce that obligation. The clay tablets of Sumer, the tally sticks of medieval England, the gold coins of Newton's mint, the paper notes of the Bank of England, the electronic entries of modern central banks — all were valuable for the same reason. They represented claims on real resources, backed by institutions that could enforce those claims.
+What this book has traced, through every era, is the same underlying claim: money is not a thing but a relationship. It is a record of obligation, sustained by institutions strong enough to enforce that obligation. The clay tablets of Sumer, the tally sticks of medieval England, the gold coins of Newton's mint, the paper notes of the Bank of England, the electronic entries of modern central banks — all were valuable for the same reason. They represented claims on real resources, backed by institutions that could enforce those claims.
 
 ---
 
