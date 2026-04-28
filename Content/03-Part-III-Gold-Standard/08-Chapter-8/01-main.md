@@ -153,7 +153,7 @@ Attwood's defeat illustrates how an economic orthodoxy consolidates when its con
 
 The Bank Charter Act of 1844 then embedded the orthodoxy in law, making gold constraints automatic and removing them from democratic contestation. Universities taught Currency School doctrine; prestigious professorships went to economists who accepted it; journals published papers supporting the conventional view and ignored the rest. By the 1850s a generation of economists had been trained to find what Attwood advocated not merely wrong but conceptually incoherent. The intellectual foundation William Paterson had articulated in 1694 — that the Bank created money out of nothing — had become unthinkable.
 
-The framework was self-reinforcing. The 1825–26 banking crisis, the 1847 suspension of the Bank Charter Act, the recurring depressions of the late nineteenth century — each was read not as evidence against gold but as evidence that gold's discipline had not been applied rigorously enough. Attwood was right about the mechanism, right about the distribution, and right about the solution. Being right was not enough.
+The framework was self-reinforcing. The 1825–26 banking crisis, the 1847 suspension of the Bank Charter Act, the recurring depressions of the late nineteenth century — each was read not as evidence against gold but as evidence that gold's discipline had not been applied rigorously enough. Attwood was directionally right about the mechanism and squarely right about the distribution. Being right was not enough.
 
 ---
 
