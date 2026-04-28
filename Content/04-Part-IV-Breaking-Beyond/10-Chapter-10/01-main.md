@@ -120,9 +120,9 @@ By conference end, 730 delegates had debated, voted, and signed agreements. The 
 
 The conference presented a choice between two fundamentally different monetary architectures.⁴⁹ᵏ
 
-Keynes's International Clearing Union proposed a supranational currency — the **bancor**, defined in gold but not exchangeable for it — that would be created as needed to settle international trade through a clearing house. Liquidity would expand automatically with trade volume; no country would face dollar shortages because no country's currency was privileged. The adjustment mechanism was **symmetric**: surplus countries that hoarded bancor reserves would be charged interest, and persistent surpluses would trigger mandatory currency appreciation. The principle was use-it-or-lose-it. Creditor and debtor nations bore equal responsibility for correcting imbalances. Governance ran through an international board, not Washington.⁴⁹ˡ
+Keynes's International Clearing Union proposed a supranational currency — the bancor, defined in gold but not exchangeable for it — that would be created as needed to settle international trade through a clearing house. Liquidity would expand automatically with trade volume; no country would face dollar shortages because no country's currency was privileged. The adjustment mechanism was symmetric: surplus countries that hoarded bancor reserves would be charged interest, and persistent surpluses would trigger mandatory currency appreciation. The principle was use-it-or-lose-it. Creditor and debtor nations bore equal responsibility for correcting imbalances. Governance ran through an international board, not Washington.⁴⁹ˡ
 
-White's Stabilization Fund proposed the opposite: the U.S. dollar as the world's primary reserve currency, convertible to gold at $35 an ounce — but only for foreign central banks and governments, not for private citizens. IMF resources were finite ($8.5 billion initial quota); dollar shortages were not just possible but inevitable. The adjustment mechanism was **asymmetric**: deficit countries would face IMF conditionality, surplus countries faced nothing. White was explicit with his delegation about why: "We have been perfectly adamant on that point. We have taken the position of absolutely no, on that."⁴⁹ˢ Voting at the IMF was weighted by quota contributions, with the United States holding effective veto power.⁴⁹ᵘ
+White's Stabilization Fund proposed the opposite: the U.S. dollar as the world's primary reserve currency, convertible to gold at $35 an ounce — but only for foreign central banks and governments, not for private citizens. IMF resources were finite ($8.5 billion initial quota); dollar shortages were not just possible but inevitable. The adjustment mechanism was asymmetric: deficit countries would face IMF conditionality, surplus countries faced nothing. White was explicit with his delegation about why: "We have been perfectly adamant on that point. We have taken the position of absolutely no, on that."⁴⁹ˢ Voting at the IMF was weighted by quota contributions, with the United States holding effective veto power.⁴⁹ᵘ
 
 The mathematical contradiction in White's design was the **Triffin dilemma**, and Robert Triffin would not formalize it until 1959 — but the arithmetic was visible to anyone in the conference rooms in 1944 who chose to see it. The world needed an expanding supply of dollars to settle a growing volume of trade. But every additional dollar held abroad as reserves was a dollar the United States had promised to redeem in gold at a fixed price. As world trade grew exponentially and the U.S. gold stock grew linearly, the ratio between outstanding dollar claims and underlying reserves had to deteriorate. Once foreign claims exceeded American gold, the convertibility promise became a target rather than a guarantee. Bancor would have eliminated the contradiction structurally; the dollar standard built it in.⁴⁹ᵖ
 
@@ -134,23 +134,23 @@ The mathematical contradiction in White's design was the **Triffin dilemma**, an
 
 The choice wasn't about economic optimality. It was about power—and American policymakers were brutally clear about this in private.
 
-White understood perfectly that bancor was economically superior for the **international system**. But his job wasn't designing the best system for global trade. His job was advancing **American interests**. And American interests required dollar dominance.
+White understood perfectly that bancor was economically superior for the international system. But his job wasn't designing the best system for global trade. His job was advancing **American interests**. And American interests required dollar dominance.
 
 The advantages were substantial and explicit:
 
-**1. Seigniorage Profits**
+1. Seigniorage Profits
 
 America would earn interest on dollars held abroad as reserves while creating them costlessly. Every foreign central bank holding dollar reserves was essentially providing an interest-free loan to the United States. This "exorbitant privilege," as French Finance Minister Valéry Giscard d'Estaing would later call it, allowed the U.S. to finance consumption and investment through money creation rather than taxation or borrowing.
 
-**2. Monetary Autonomy**
+2. Monetary Autonomy
 
 The U.S. could set monetary policy independently based on domestic considerations. Other countries would have to adjust to American decisions—tightening when the Fed tightened, loosening when the Fed loosened. Under bancor's symmetric system, America would face the same adjustment pressures as everyone else. Dollar dominance meant freedom from external constraints.
 
-**3. Political Leverage**
+3. Political Leverage
 
 Dollar access would become a strategic weapon. Countries dependent on dollar reserves and dollar-denominated trade would need American goodwill. The modern use of financial sanctions—freezing assets, cutting off SWIFT access, blocking dollar transactions—demonstrates this power. The bancor would have been immune to single-nation political control.
 
-**4. Veto Power Over Global Finance**
+4. Veto Power Over Global Finance
 
 American control of the IMF, through weighted voting based on economic size and contributions, meant the U.S. could prevent any decisions contrary to American interests. No IMF loan to countries Washington opposed. No pressure on American policies. No symmetric adjustment requirements that would constrain U.S. deficits.
 
@@ -172,7 +172,7 @@ The cost fell most heavily on Keynes. He had spent years on the bancor proposal.
 
 The altitude of the White Mountains pressed on his damaged heart. Sessions ran late into the night. Working groups met through meals. Hundreds of pages of technical documents required review for the next morning. Robbins watched him deteriorate and wrote in his diary: "I now feel that it is a race between the exhaustion of his powers and the termination of the conference."⁴⁹ʲ⁻⁴
 
-The race ended on **July 19, 1944**. Keynes collapsed on the hotel stairs from a heart attack. He survived. German newspapers, picking up the news from somewhere, ran adulatory obituaries. The Americans extended the conference three more days, requiring the medically compromised British delegation to continue negotiating final agreements from a position of maximum weakness. When Treasury Secretary Henry Morgenthau learned that delegates were stalling on signature, he threatened to end the conference by force: "We may have to get the President to get out an order to seize the hotel as of Wednesday night, and put troops in here to run it." Under that threat, delegates signed documents most of them had not fully read.
+The race ended on July 19, 1944. Keynes collapsed on the hotel stairs from a heart attack. He survived. German newspapers, picking up the news from somewhere, ran adulatory obituaries. The Americans extended the conference three more days, requiring the medically compromised British delegation to continue negotiating final agreements from a position of maximum weakness. When Treasury Secretary Henry Morgenthau learned that delegates were stalling on signature, he threatened to end the conference by force: "We may have to get the President to get out an order to seize the hotel as of Wednesday night, and put troops in here to run it." Under that threat, delegates signed documents most of them had not fully read.
 
 Five months later, writing to the Foreign Office from London, Keynes described the experience in language he chose with care:
 
@@ -194,7 +194,7 @@ Robbins did not deny it.
 
 ### What Was Lost
 
-The Bretton Woods system that emerged was not truly a gold standard but a **dollar standard** with gold as window dressing. The critical asymmetry: only foreign central banks and governments could convert dollars to gold at $35 per ounce—not private parties. This "**exorbitant privilege**," as French Finance Minister Valéry Giscard d'Estaing would later call it, was the system's foundation.⁵⁰
+The Bretton Woods system that emerged was not truly a gold standard but a dollar standard with gold as window dressing. The critical asymmetry: only foreign central banks and governments could convert dollars to gold at $35 per ounce—not private parties. This "**exorbitant privilege**," as French Finance Minister Valéry Giscard d'Estaing would later call it, was the system's foundation.⁵⁰
 
 Think of it this way: imagine you could pay your mortgage by writing IOUs in "Steve-Dollars" that your bank must accept, but your bank can't pay its obligations in Steve-Dollars—it must get real dollars from someone else. That asymmetry is America's exorbitant privilege. The US can print dollars to pay debts; everyone else must earn or borrow dollars they cannot create.
 

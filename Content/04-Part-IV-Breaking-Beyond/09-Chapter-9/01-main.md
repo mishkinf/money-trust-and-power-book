@@ -6,9 +6,9 @@
 
 ---
 
-Winston Churchill stood at the dispatch box in the House of Commons on April 28, 1925, announcing Britain's return to the gold standard. The pound would once again be convertible at its pre-war parity: **$4.86 per ounce of gold**. Members cheered. The City of London celebrated. Britain had restored its honor, proving that the disruptions of the Great War were temporary aberrations. The pound would be "as good as gold" once more—a phrase that carried the weight of empire and the promise of stability.¹
+Winston Churchill stood at the dispatch box in the House of Commons on April 28, 1925, announcing Britain's return to the gold standard. The pound would once again be convertible at its pre-war parity: $4.86 per ounce of gold. Members cheered. The City of London celebrated. Britain had restored its honor, proving that the disruptions of the Great War were temporary aberrations. The pound would be "as good as gold" once more—a phrase that carried the weight of empire and the promise of stability.¹
 
-What Churchill did not say—perhaps did not fully understand—was that the market exchange rate stood at **$4.77**. The official parity represented a **10 percent overvaluation**. British exports would become 10 percent more expensive overnight. To maintain the parity, British wages and prices would have to fall by 10 percent—a massive deflationary adjustment imposed on an economy still recovering from war. John Maynard Keynes, watching from Cambridge, understood immediately what Churchill had done. Within three months, he would publish a scathing pamphlet: *The Economic Consequences of Mr. Churchill*. Every prediction would come true.²
+What Churchill did not say—perhaps did not fully understand—was that the market exchange rate stood at $4.77. The official parity represented a 10 percent overvaluation. British exports would become 10 percent more expensive overnight. To maintain the parity, British wages and prices would have to fall by 10 percent—a massive deflationary adjustment imposed on an economy still recovering from war. John Maynard Keynes, watching from Cambridge, understood immediately what Churchill had done. Within three months, he would publish a scathing pamphlet: *The Economic Consequences of Mr. Churchill*. Every prediction would come true.²
 
 A century after Britain's first return to gold in 1821—which had caused devastating deflation and farmer insolvencies—the country was about to repeat the mistake. The gold standard that had seemed eternal before 1914 had already cracked during the Great War. The interwar attempt to restore it would fail catastrophically. By 1971, the last link between major currencies and precious metal would be severed—not through careful planning but through crisis and necessity. The final breaking would reveal what the first had hinted: gold had never been the foundation of monetary value. Trust was. And Churchill's decision would destroy that trust for millions of British workers.³
 
@@ -18,13 +18,13 @@ A century after Britain's first return to gold in 1821—which had caused devast
 
 Five days before the dinner, Churchill had written a minute to Otto Niemeyer that gave away how much he already understood. "The Treasury," he wrote, "have never, it seems to me, faced the profound significance of what Mr. Keynes calls 'the paradox of unemployment amidst dearth.' The Governor shows himself perfectly happy in the spectacle of Britain possessing the finest credit in the world simultaneously with a million and a quarter unemployed." He had been Chancellor of the Exchequer for four months and was meant to be making his decision now. The market rate in January had been $4.77. The pre-war parity, which Niemeyer and the Governor of the Bank of England wanted him to restore, was $4.86 — a ten-percent overvaluation that would require ten-percent wage cuts to absorb. He saw the contradiction. He wrote it down.²⁹
 
-On the evening of **March 17, 1925**, he convened the dinner at 11 Downing Street to settle it.
+On the evening of March 17, 1925, he convened the dinner at 11 Downing Street to settle it.
 
 On one side of the table sat Niemeyer and John Bradbury, both of the Treasury, arguing that gold at the pre-war parity was the foundation of Britain's financial credibility, that any other rate would be a confession of weakness, that the discipline imposed by the standard was its virtue. On the other side sat John Maynard Keynes and Reginald McKenna, the former Chancellor, who told Churchill bluntly what the decision would cost — unemployment, deflation, a downward adjustment of every wage and price in the country. Churchill's private secretary Percy Grigg, who was present, remembered the tension as Britain's establishment argued at a dinner table over the fate of millions of workers.²⁹
 
 McKenna had been Chancellor himself; he knew the men in the room and the case being made on each side. The most damning sentence of the evening was his. "There is no escape," he told Churchill. "You have to go back. But it will be hell."²⁹
 
-Churchill listened, asked questions, and chose his experts. On **April 28, 1925**, in his first budget, he announced that Britain would return to the gold standard at $4.86 — the rate Isaac Newton had set in 1717. The establishment celebrated. The City of London rejoiced. The Times applauded. The decision was hailed as the restoration of British honour, the symbol that the disruptions of the Great War had been temporary and could now be put aside.²⁹ᵃ
+Churchill listened, asked questions, and chose his experts. On April 28, 1925, in his first budget, he announced that Britain would return to the gold standard at $4.86 — the rate Isaac Newton had set in 1717. The establishment celebrated. The City of London rejoiced. The Times applauded. The decision was hailed as the restoration of British honour, the symbol that the disruptions of the Great War had been temporary and could now be put aside.²⁹ᵃ
 
 Keynes, sitting in Cambridge, knew exactly what had been done. He sent his rebuttal to The Times, which would not run it. He took it to the Evening Standard, which printed three articles between **July 22 and 24, 1925**. The articles were collected and published as a pamphlet that autumn under a title designed to wound: *The Economic Consequences of Mr. Churchill*. It echoed the title he had used in 1919 to predict disaster from the Versailles reparations, and like the earlier book, it would prove right in every particular.³⁰
 
@@ -32,9 +32,9 @@ The argument was arithmetical. "The policy of improving the foreign-exchange val
 
 For a Durham miner earning forty shillings a week, "2s. in the £" meant a cut of four shillings — sixteen shillings a month, ten pounds a year — for a family that had no margin. The mine owners could not absorb the cost. Coal priced at £1 a ton could not compete internationally when the overvalued pound made it effectively £1.10. Either the wages came down or the mines came down. The owners offered lower wages. The miners refused. Churchill's decision became Harry Todd's seventeen-month lockout.
 
-Keynes's catalogue of predictions ran through every one of these consequences in detail: a ten-percent reduction in export receipts, a transfer of roughly **£1 billion** from productive workers to rentiers, an increase of **£750 million** in the real burden of the National Debt, deflation and unemployment in the export industries, a coal-industry crisis within months, and industrial action as workers resisted wage cuts they had played no part in causing.³⁰ᶜ ³⁰ᵈ
+Keynes's catalogue of predictions ran through every one of these consequences in detail: a ten-percent reduction in export receipts, a transfer of roughly £1 billion from productive workers to rentiers, an increase of £750 million in the real burden of the National Debt, deflation and unemployment in the export industries, a coal-industry crisis within months, and industrial action as workers resisted wage cuts they had played no part in causing.³⁰ᶜ ³⁰ᵈ
 
-Every prediction came true. The coal industry, heavily dependent on exports, was hit first. Coal miners faced wage cuts; when they refused, mine owners locked them out. By July 1925, every British coalfield was losing money—Durham alone posted losses of £336,000 in just five months. The dispute escalated into the **General Strike of 1926**—the largest industrial action in British history, with approximately **1.5-1.75 million workers** striking (roughly **7-8% of the British workforce**) in support of **1.2 million locked-out coal miners**. For nine days in May 1926, Britain experienced class conflict unprecedented in its history. Then the Trades Union Congress capitulated, abandoning the miners to fight on alone.³¹
+Every prediction came true. The coal industry, heavily dependent on exports, was hit first. Coal miners faced wage cuts; when they refused, mine owners locked them out. By July 1925, every British coalfield was losing money—Durham alone posted losses of £336,000 in just five months. The dispute escalated into the **General Strike of 1926**—the largest industrial action in British history, with approximately **1.5-1.75 million workers** striking (roughly **7-8% of the British workforce**) in support of 1.2 million locked-out coal miners. For nine days in May 1926, Britain experienced class conflict unprecedented in its history. Then the Trades Union Congress capitulated, abandoning the miners to fight on alone.³¹
 
 The miners' suffering would continue for months, as families across Durham, South Wales, Scotland, and Lancashire endured what one family would later describe as worse than World War II rationing. The overvalued pound drained gold reserves, forcing the Bank of England to maintain tight monetary policy even as unemployment devastated working-class communities. Unemployment remained high throughout 1925-1931, concentrated in the export industries that Churchill's decision had made uncompetitive.³²
 
@@ -68,22 +68,22 @@ The Todd family survived. Vera and Tom grew up. Henry survived infancy despite b
 
 ### The gold sinks
 
-Britain's mistake was compounded by a global catastrophe: the **maldistribution of gold** in the late 1920s and early 1930s. Two countries—France and the United States—accumulated vast gold reserves while the rest of the world starved for liquidity. The result was the Great Depression.³³
+Britain's mistake was compounded by a global catastrophe: the maldistribution of gold in the late 1920s and early 1930s. Two countries—France and the United States—accumulated vast gold reserves while the rest of the world starved for liquidity. The result was the Great Depression.³³
 
-France's share of world gold reserves rose from **7 percent** in 1926 to **27 percent** by 1932. By the Depression's depth, France held nearly as much gold as the United States, despite having an economy one-quarter the size. The causes were multiple: an undervalued franc (from the 1926 Poincaré stabilization), legal requirements that the Bank of France convert foreign exchange into gold, and a mandated **35 percent minimum gold cover ratio** that the Bank exceeded, reaching **80 percent** by 1932.³⁴
+France's share of world gold reserves rose from 7 percent in 1926 to 27 percent by 1932. By the Depression's depth, France held nearly as much gold as the United States, despite having an economy one-quarter the size. The causes were multiple: an undervalued franc (from the 1926 Poincaré stabilization), legal requirements that the Bank of France convert foreign exchange into gold, and a mandated 35 percent minimum gold cover ratio that the Bank exceeded, reaching 80 percent by 1932.³⁴
 
-The United States contributed to the problem by **sterilizing gold inflows**—preventing incoming gold from creating new money—between 1928 and 1930. When gold flowed into America, the Federal Reserve should have allowed the money supply to expand, raising prices and wages. Instead, it prevented monetary expansion, hoarding the gold while the rest of the world deflated.³⁵
+The United States contributed to the problem by sterilizing gold inflows—preventing incoming gold from creating new money—between 1928 and 1930. When gold flowed into America, the Federal Reserve should have allowed the money supply to expand, raising prices and wages. Instead, it prevented monetary expansion, hoarding the gold while the rest of the world deflated.³⁵
 
 Economist Douglas Irwin quantified the disaster. Between 1927 and 1932:
 
-- World gold stock grew **24 percent**
-- U.S. share increased **1 percent**
-- France's share increased **24 percent**
-- Rest of world: **0 percent**³⁶
+- World gold stock grew 24 percent
+- U.S. share increased 1 percent
+- France's share increased 24 percent
+- Rest of world: 0 percent³⁶
 
-By 1932, the U.S. and France held over **60 percent** of the world's monetary gold. Keynes called France a "gold sink." The phrase was apt: gold flowed in but did not circulate, trapped by legal requirements and central bank policy.³⁷
+By 1932, the U.S. and France held over 60 percent of the world's monetary gold. Keynes called France a "gold sink." The phrase was apt: gold flowed in but did not circulate, trapped by legal requirements and central bank policy.³⁷
 
-The impact on prices was devastating. Wholesale prices fell **34 percent** between 1928 and 1932. Irwin's analysis shows that U.S. and French gold hoarding explains approximately **40 percent** of this deflation. The gold standard, designed to provide stability, had become an engine of destruction.³⁸
+The impact on prices was devastating. Wholesale prices fell 34 percent between 1928 and 1932. Irwin's analysis shows that U.S. and French gold hoarding explains approximately 40 percent of this deflation. The gold standard, designed to provide stability, had become an engine of destruction.³⁸
 
 Contemporary economists warned of the danger. Gustav Cassel, Keynes, and Allyn Young all predicted catastrophe if gold hoarding continued. They were ignored. Central bankers, trained to worship gold, could not imagine that their devotion to the metal was strangling the world economy.³⁹
 
@@ -141,15 +141,15 @@ France's tragedy was that its suffering was unnecessary. Paul Reynaud, leading t
 
 ### Roosevelt's revolution
 
-On March 5, 1933, newly inaugurated President Franklin D. Roosevelt declared a **bank holiday**, closing every bank in America. The Emergency Banking Act, passed that same day, invalidated gold redemption. On April 5, Executive Order 6102 went further: it **banned private gold ownership**, requiring citizens to surrender gold coins, bullion, and certificates to the Federal Reserve by May 1. The penalty for non-compliance: **$10,000 fine** and/or **10 years imprisonment**. Only about 20-25 percent of gold was actually surrendered, but the message was clear: the gold standard was dead.⁴⁰
+On March 5, 1933, newly inaugurated President Franklin D. Roosevelt declared a bank holiday, closing every bank in America. The Emergency Banking Act, passed that same day, invalidated gold redemption. On April 5, Executive Order 6102 went further: it banned private gold ownership, requiring citizens to surrender gold coins, bullion, and certificates to the Federal Reserve by May 1. The penalty for non-compliance: **$10,000 fine** and/or 10 years imprisonment. Only about 20-25 percent of gold was actually surrendered, but the message was clear: the gold standard was dead.⁴⁰
 
 On January 30, 1934, the Gold Reserve Act formalized the new order:
 
-- All monetary gold in the U.S. was **nationalized**
-- The official price was set at **$35 per ounce** (from $20.67 since 1834)
-- The dollar was **devalued** to 59.06 percent of its former value
-- Gold redemption by Treasury and banks was **prohibited**
-- Gold clauses in contracts were **abrogated**⁴¹
+- All monetary gold in the U.S. was nationalized
+- The official price was set at $35 per ounce (from $20.67 since 1834)
+- The dollar was devalued to 59.06 percent of its former value
+- Gold redemption by Treasury and banks was prohibited
+- Gold clauses in contracts were abrogated⁴¹
 
 Critics called it default. Gold inflows accelerated, the money supply grew 10 percent annually from 1933 to 1937, and GDP growth averaged over 8 percent annually during the same period. Unemployment fell from 25 percent to 14.3 percent in Roosevelt's first year. The recovery from the Depression had begun.⁴²
 

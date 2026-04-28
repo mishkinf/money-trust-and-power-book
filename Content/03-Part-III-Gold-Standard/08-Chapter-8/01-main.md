@@ -8,11 +8,11 @@
 
 ### The Man They Erased
 
-On May 7, 1832, Thomas Attwood stood before the House of Commons making an argument that would get him dismissed as a crank. Britain's economic distress, he insisted, stemmed not from moral failing or foreign competition but from **monetary contraction**. He had watched it happen in Birmingham.
+On May 7, 1832, Thomas Attwood stood before the House of Commons making an argument that would get him dismissed as a crank. Britain's economic distress, he insisted, stemmed not from moral failing or foreign competition but from monetary contraction. He had watched it happen in Birmingham.
 
 Attwood was no wild-eyed radical. Born in 1783 to a prosperous banking family, he had built a successful business manufacturing buttons and other metal goods in Birmingham—then England's industrial heart, second only to London in population and economic importance. His workers were skilled craftsmen, his business well-established, his social position secure. He was precisely the sort of respectable manufacturer whose opinion should have carried weight in Parliament.²⁷ᵃ
 
-Yet he had seen something that respectable economists—safely ensconced in London offices and university common rooms—refused to acknowledge. During the deflation that followed the 1821 return to gold, **Attwood watched his workers starve**—men who'd worked for him for years, whose skills were undiminished, whose dedication never wavered.
+Yet he had seen something that respectable economists—safely ensconced in London offices and university common rooms—refused to acknowledge. During the deflation that followed the 1821 return to gold, Attwood watched his workers starve—men who'd worked for him for years, whose skills were undiminished, whose dedication never wavered.
 
 #### The Moment of Realization
 
@@ -22,7 +22,7 @@ Attwood's customers couldn't afford to pay what his products had commanded durin
 
 This wasn't laziness. This wasn't moral failing. Demand for Birmingham's products hadn't vanished—people still needed buttons, buckles, metal goods. The factories still stood. The workers still possessed their skills. But money had become scarce throughout Birmingham's industrial economy, and with it, the means to coordinate productive activity. The medium of exchange that connected all these elements had contracted, and with it the entire economy.²⁷ᵇ
 
-Attwood understood what David Ricardo and the Currency School did not: **money was not neutral**. Its quantity mattered for employment. When money contracted, real people suffered real deprivation—not because resources had disappeared but because the accounting system that coordinated economic activity had broken down. This was not a natural disaster like drought or plague. It was a **policy choice**, and it could be reversed through policy.²⁷ᶜ
+Attwood understood what David Ricardo and the Currency School did not: **money was not neutral**. Its quantity mattered for employment. When money contracted, real people suffered real deprivation—not because resources had disappeared but because the accounting system that coordinated economic activity had broken down. This was not a natural disaster like drought or plague. It was a policy choice, and it could be reversed through policy.²⁷ᶜ
 
 #### The Birmingham Rallies
 
@@ -58,7 +58,7 @@ The Birmingham Political Union's influence extended beyond monetary theory. By 1
 
 By 1839, depression had deepened across industrial Britain. Unemployment persisted. Wages remained suppressed. The promised recovery from 1821's deflation had never materialized for working people. Attwood helped draft the Chartist petition—a document demanding not just political reform but monetary expansion to relieve economic distress. What followed was an extraordinary mobilization.
 
-**1,280,958 signatures**. The number represented perhaps 10% of Britain's adult population signing a single document. In an era before mass media or easy transportation, gathering this many signatures required tireless organizing across industrial England. Each signature meant: a local organizer explaining monetary policy to working people, convincing them that deflation wasn't their personal failure but policy choice, having a literate person record the name, coordinating across dozens of cities and hundreds of towns, physically transporting petition sheets to London.
+1,280,958 signatures. The number represented perhaps 10% of Britain's adult population signing a single document. In an era before mass media or easy transportation, gathering this many signatures required tireless organizing across industrial England. Each signature meant: a local organizer explaining monetary policy to working people, convincing them that deflation wasn't their personal failure but policy choice, having a literate person record the name, coordinating across dozens of cities and hundreds of towns, physically transporting petition sheets to London.
 
 The petition, when assembled, was physically enormous—thousands of pages bound together documenting mass support for monetary reform. Presenting it to Parliament required multiple men to carry the weight. This wasn't abstract political theory; it was the voice of over a million people demanding that policymakers recognize monetary contraction as the source of their suffering.
 
@@ -68,9 +68,9 @@ The parliamentary debates reveal how completely chartalist understanding had bee
 
 #### The Dismissal: When Truth Becomes "Monomania"
 
-The establishment's response was not to engage Attwood's arguments but to pathologize him. Benjamin Disraeli, the future Prime Minister, described him as "a provincial banker labouring under **financial monomania**"—an obsession with money that supposedly blinded him to economic reality. His followers were dismissed as "**currency cranks**" and "**crude inflationists**." The Birmingham School economists were excluded from serious academic discourse, their work treated as curiosities rather than legitimate economic theory.²⁷ʰ
+The establishment's response was not to engage Attwood's arguments but to pathologize him. Benjamin Disraeli, the future Prime Minister, described him as "a provincial banker labouring under financial monomania"—an obsession with money that supposedly blinded him to economic reality. His followers were dismissed as "**currency cranks" and "crude inflationists**." The Birmingham School economists were excluded from serious academic discourse, their work treated as curiosities rather than legitimate economic theory.²⁷ʰ
 
-Imagine the experience: You've built a successful business. You've watched skilled workers lose their livelihoods through no fault of their own. You've identified the precise mechanism causing this suffering—monetary contraction. You've articulated solutions that would work. You've mobilized over a million signatures demonstrating mass support. And Parliament's response is to declare you mentally unsound. **"Monomania."** Not wrong, not mistaken—*obsessed*. Psychologically damaged. Unfit for serious consideration.
+Imagine the experience: You've built a successful business. You've watched skilled workers lose their livelihoods through no fault of their own. You've identified the precise mechanism causing this suffering—monetary contraction. You've articulated solutions that would work. You've mobilized over a million signatures demonstrating mass support. And Parliament's response is to declare you mentally unsound. "Monomania." Not wrong, not mistaken—*obsessed*. Psychologically damaged. Unfit for serious consideration.
 
 This wasn't mere academic disagreement—it was character assassination masquerading as diagnosis. Economic journals ignored Birmingham School publications. Universities didn't teach their theories. When establishment economists mentioned Attwood at all, it was to ridicule him as an example of what happens when businessmen dabble in economic theory beyond their competence. His proto-Keynesian insights about the multiplier effect, his understanding that unemployment represented wasted capacity rather than natural equilibrium, his recognition that paper money could function without gold backing—all were buried under dismissive labels that questioned his sanity rather than his arguments.²⁷ⁱ
 
@@ -104,7 +104,7 @@ The multi-generational continuity was remarkable. George Warde Norman's grandson
 
 #### Modern Vindication—Too Late
 
-A century later, economic historians would recognize that "**the theories of the Birmingham School are now recognized as embryonic versions of the Keynesian economics of the 1930s.**" Attwood had articulated the multiplier effect before it had a name, understood unemployment as wasted capacity rather than equilibrium, and grasped that paper money could function without gold backing. He was **right**—vindicated by the disasters of 1873-1896 and 1925-1931.²⁷ᵏ
+A century later, economic historians would recognize that "**the theories of the Birmingham School are now recognized as embryonic versions of the Keynesian economics of the 1930s.**" Attwood had articulated the multiplier effect before it had a name, understood unemployment as wasted capacity rather than equilibrium, and grasped that paper money could function without gold backing. He was right—vindicated by the disasters of 1873-1896 and 1925-1931.²⁷ᵏ
 
 But being right was insufficient. Those who held government bonds — whose real returns increased with deflation — had concentrated political influence and the institutional reach to put it to use. The economic orthodoxy that emerged tracked their material interests in ways that would draw later historiographic attention: deflation was framed as sound money, monetary expansion as quackery. Attwood's marginalization followed a recognizable pattern: dismiss the dissenter on grounds of competence rather than substance, exclude him from the journals and societies that constituted serious discourse, and let his ideas fade through inattention. Whether each step in that pattern was conscious calculation or the ordinary working of an institutional consensus is the kind of question the historical record cannot fully resolve. What it can show is that the pattern was effective.²⁷ˡ
 
@@ -132,9 +132,9 @@ The scale of the wealth transfer was staggering. Britain's government debt stood
 Compare this to Thomas Attwood and the Birmingham School's proposal: maintain the paper currency established during the Bank Restriction (1797-1821), allow prices to stabilize at their current level, and adjust money supply to economic needs rather than gold constraints.
 
 Under this system:
-- Existing debts repaid at contracted rates **without deflationary wealth transfer**
-- Workers face **neither wage cuts nor unemployment spikes**
-- Government debt burden remains at nominal level **rather than increasing in real terms**
+- Existing debts repaid at contracted rates without deflationary wealth transfer
+- Workers face neither wage cuts nor unemployment spikes
+- Government debt burden remains at nominal level rather than increasing in real terms
 - Creditors receive exactly what they contracted for (5% interest) **but not the additional 15-20% windfall from deflation**
 
 The orthodoxy's rhetoric obscured these distributional effects. Ricardo's Quantity Theory framed inflation as universally harmful, ignoring that mild inflation transfers wealth from creditors to debtors and productive entrepreneurs while deflation does the reverse. Say's Law claimed general gluts were impossible, denying that monetary contraction could cause systemic unemployment. The Currency School's focus on "automatic" gold adjustment portrayed the wealth transfer as natural market correction rather than policy choice.
