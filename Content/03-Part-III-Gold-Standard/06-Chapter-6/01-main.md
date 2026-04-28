@@ -2,10 +2,6 @@
 
 ## Chapter 6: Newton's Accident
 
-**Chapter Premise:** Newton's 1717 adjustment accidentally created the gold standard, which globalized by 1880. The system appeared self-regulating but required active Bank of England management, and its deflationary bias produced distributional consequences that would dominate British politics for the next century.
-
----
-
 On a spring morning in 1717, Isaac Newton—74 years old, Master of the Royal Mint for twenty-one years—stood in his private laboratory at the Tower of London. The room smelled of quicksilver and coal smoke. On the workbench before him lay samples of coins from across Europe: Spanish pieces of eight, French louis d'or, Dutch guilders, Portuguese moidores. Beside them: crucibles, scales precise to a fraction of a grain, and sheets of calculations covered in his meticulous hand.
 
 Newton was conducting an assay—heating each coin to determine its exact precious metal content. He had done this hundreds of times since 1696, when he transformed the Royal Mint from a sinecure into an industrial operation. The Mint's machinery hummed in the floors below: rolling mills flattening metal into sheets, cutting presses stamping blanks, workers weighing and inspecting coins. Newton had overseen the greatest recoinage in English history, melting down £6.8 million in clipped and worn silver and reissuing it at full weight.
@@ -151,7 +147,7 @@ Newton's miscalculation created the opportunity for gold to replace silver. But 
 
 Gold was inherently scarcer than silver—typically mined at a ratio of 1:10 or less. This scarcity made gold more valuable per unit weight. A merchant carrying £1,000 in gold coins needed perhaps 5 pounds of metal. The same value in silver required 75 pounds. For large transactions—government loans, international trade, land purchases—gold was simply more convenient.
 
-But the critical geological factor was **Brazilian gold discovery**. Between 1694 and 1724, Brazilian production doubled European gold supply. This new gold had to go somewhere. England's 1717 ratio (15.5:1) made it a profitable destination—merchants could buy gold in Brazil, ship it to England, and exchange it for guineas at favorable rates. The accidental price signal drew gold like a magnet.
+But the critical geological factor was Brazilian gold discovery. Between 1694 and 1724, Brazilian production doubled European gold supply. This new gold had to go somewhere. England's 1717 ratio (15.5:1) made it a profitable destination—merchants could buy gold in Brazil, ship it to England, and exchange it for guineas at favorable rates. The accidental price signal drew gold like a magnet.
 
 Meanwhile, Spanish American silver mines—which had flooded Europe in the 16th and 17th centuries—were showing exhaustion. Production from Potosí (in modern Bolivia) peaked in the 1590s and declined thereafter. As silver became relatively scarcer globally, its value should have risen. But Newton's ratio treated it as if supply were still abundant. The mismatch accelerated the drain.
 
@@ -193,13 +189,13 @@ Then came the Treaty of Frankfurt (May 10, 1871), ending the Franco-Prussian War
 
 Legislation followed swiftly. On December 4, 1871, the law authorizing gold mark coinage passed. The comprehensive German Coinage Act (Münzgesetz) followed on July 9, 1873, establishing gold monometallism at a rate of 1,395 marks per pound of gold. The Berlin mint suspended silver coinage in July 1871—even before formal legislation—signaling the inevitable shift.
 
-But Germany's decision created an immediate crisis for its neighbors. The German Empire held massive silver reserves from its old currency systems—approximately 800 million marks' worth of silver coins and bullion. To obtain gold for the new Reichsmark, Germany began selling this silver on European markets. The volume was staggering: the silver flooding Europe amounted to roughly **one-third of France's total specie holdings**.
+But Germany's decision created an immediate crisis for its neighbors. The German Empire held massive silver reserves from its old currency systems—approximately 800 million marks' worth of silver coins and bullion. To obtain gold for the new Reichsmark, Germany began selling this silver on European markets. The volume was staggering: the silver flooding Europe amounted to roughly one-third of France's total specie holdings.
 
 Global silver prices collapsed. France's mints, which had coined only 5 million francs of silver in 1871-1872, suddenly faced 154 million francs worth of silver presented for coinage in 1873 as merchants rushed to convert depreciating silver before it lost more value. On September 6, 1873—one day after France completed its final reparations payment to Germany—the French government suspended free silver coinage. The Latin Monetary Union (France, Belgium, Italy, Switzerland) followed suit. The Netherlands suspended silver in 1875. Within two years, Germany's adoption had forced most of continental Europe off silver.
 
 The domino effect was not economic optimization. It was defensive panic. Germany's decision to dump silver reserves created what economist Marc Flandreau called "pictures of a revolution" in the global monetary system—a cascading crisis that forced countries to choose between absorbing depreciated silver or joining the gold bloc.
 
-**What matters is not that Germany chose wisely but that France's war reparations made the choice possible.** Without that 5 billion franc windfall, Germany would likely have remained on silver, and the gold standard might never have globalized. Monetary regimes are shaped by war outcomes, not theoretical superiority.
+What matters is not that Germany chose wisely but that France's war reparations made the choice possible. Without that 5 billion franc windfall, Germany would likely have remained on silver, and the gold standard might never have globalized. Monetary regimes are shaped by war outcomes, not theoretical superiority.
 
 ---
 
@@ -235,7 +231,7 @@ A concrete instance: in autumn 1890, during the Baring crisis, sterling weakened
 
 ### The reality: active management, not automaticity
 
-Gold movements were far less automatic than theory suggested. David Hume's price-specie flow mechanism predicted that gold would flow automatically like water seeking its level. **Imagine two connected water tanks: if one tank has more water (country with more gold), it should flow to the lower tank (country with less gold) until levels equalize.** In monetary terms: countries with gold should have higher prices, making their exports expensive, causing gold to drain abroad until prices rebalance.
+Gold movements were far less automatic than theory suggested. David Hume's price-specie flow mechanism predicted that gold would flow automatically like water seeking its level. Imagine two connected water tanks: if one tank has more water (country with more gold), it should flow to the lower tank (country with less gold) until levels equalize. In monetary terms: countries with gold should have higher prices, making their exports expensive, causing gold to drain abroad until prices rebalance.
 
 But this rarely happened. Instead, the Bank of England actively managed the "valves" (interest rates) to control gold flows, making the system anything but automatic. Evidence shows prices converged across countries, and capital flows dominated trade flows.
 
@@ -259,6 +255,20 @@ The answer was yes, and that answer rested on three pillars:
 3. Parliamentary taxation: Ultimately, the Bank's gold reserves were backed by the government's ability to tax. If reserves fell dangerously low, the government could raise taxes, accumulate gold, and replenish the Bank's vaults. Foreign creditors understood this: lending to England was lending to a state with proven fiscal capacity.
 
 This combination—legal obligation, adequate reserves, and fiscal backing—made sterling the world's reserve currency. By 1900, more international trade was invoiced in pounds than in all other currencies combined. London was the world's financial capital, and the Bank of England was its central bank. The gold standard had globalized trust, creating a system where a German, a Japanese, and an Argentine could all accept payment in sterling because they all trusted England's commitment to gold convertibility.
+
+---
+
+### What the classical era delivered
+
+For all the costs the chapter will catalogue, the system that consolidated by 1880 and held until 1914 produced things its critics ought not to dismiss.
+
+The first was price-level stability at horizons longer than any monetary regime had previously achieved. British wholesale prices in 1913 were close to where they had been in 1873, having traversed a substantial deflationary trough in the 1880s and 1890s and a recovery thereafter — but the multi-decade level held. Lenders advanced long-dated debt in 1880 with reasonable confidence about what the pound would be worth in 1910, and they were broadly right. No fiat regime since Bretton Woods has matched that horizon of price-level predictability — a fact the metallist tradition, from Bordo and Schwartz through Selgin and White and on into the cryptocurrency adaptation Saifedean Ammous would later make, is correct to insist upon.
+
+The second was capital mobility on a scale that, measured against output, the world has not seen since. Net British capital exports averaged in the neighborhood of four to five percent of GDP across the late nineteenth century, peaking near nine percent in 1913 — a sustained outflow funding railways in Argentina, ports in India, mines in South Africa, ranches in Texas, electrification in Sweden. The sterling bill, issued in London and acceptable everywhere the gold standard ran, was the instrument that made the financing possible. Globalization measured by capital flows peaked in 1913 and was not exceeded again until the late 1990s.
+
+The third was trade financing. By 1913 roughly sixty percent of world trade was invoiced and settled in sterling, with London bill-brokers and acceptance houses providing the credit infrastructure that allowed a Brazilian coffee planter to finance a shipment to Hamburg through a discount in Lombard Street. The frictions were low. The network was global. The system worked.
+
+These achievements were real, and they were achievements of the institutions managing the standard rather than of the metal itself — the same institutional credibility that had carried sterling through the Bank Restriction now carried it through the classical era, with gold convertibility as the constitutional rule the institutions accepted. But the rule had distributional consequences that price stability, capital flows, and trade finance did not erase, and the next section names them.
 
 ---
 
