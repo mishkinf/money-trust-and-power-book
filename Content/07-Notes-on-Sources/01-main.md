@@ -212,7 +212,7 @@ The December 1971 Smithsonian Agreement, its fifteen-month duration, and the Mar
 
 ---
 
-## Chapter 12 — The Age of Pure Fiat
+## Chapter 12A — The Validation
 
 ### Real-time predictions, 2021 inflation: documentary base
 
@@ -250,14 +250,28 @@ The chapter's editorial position that no single framework called the 2021–22 e
 
 The chapter's reconstruction of the sound-money tradition that Bitcoin and the broader cryptocurrency movement extend follows F.A. Hayek, *Denationalisation of Money: An Analysis of the Theory and Practice of Concurrent Currencies* (London: Institute of Economic Affairs, 1976); George Selgin, *Less Than Zero: The Case for a Falling Price Level in a Growing Economy* (London: Institute of Economic Affairs, 1997), and Selgin's subsequent work on monetary rules; Lawrence H. White, *The Theory of Monetary Institutions* (Oxford: Blackwell, 1999); and Saifedean Ammous, *The Bitcoin Standard: The Decentralized Alternative to Central Banking* (Hoboken: Wiley, 2018). The Bitcoin volatility and drawdown data, the El Salvador adoption record, and the Mt. Gox / Terra-Luna / Celsius / FTX / Silvergate-Signature failure record are drawn from the standard Bank for International Settlements working-paper literature on cryptocurrency adoption and the contemporary financial-press record of each event.
 
+## Chapter 12B — The Tests
+
+### The 1979–82 disinflation and the South American counterfactual
+
+The chapter's treatment of Volcker's 1979–82 disinflation, the South American hyperinflation counterfactual, and the Hagedorn family Iowa farm material draws on Volcker, *Keeping At It*, and Silber, *Volcker: The Triumph of Persistence*, with the South American comparative framework set by Ben S. Bernanke, "The Great Moderation," remarks at the Eastern Economic Association, February 20, 2004, and Bernanke's 2005 essay on Latin American very-high inflation. The Hagedorn family record and the broader Iowa farm-foreclosure data of 1981–86 follow the same Alston (1984) framework cited in the Chapter 9 entry, extended to the 1980s farm crisis through the standard agricultural-economics literature including Neil E. Harl, *The Farm Debt Crisis of the 1980s* (Ames: Iowa State University Press, 1990).
+
+### The public-choice critique: Buchanan, Wagner, Niskanen
+
+The chapter's treatment of the public-choice critique of discretionary fiscal policy follows James M. Buchanan and Richard E. Wagner, *Democracy in Deficit: The Political Legacy of Lord Keynes* (New York: Academic Press, 1977; Liberty Fund reprint, 2000); James M. Buchanan, "The Constitution of Economic Policy," Nobel Prize Lecture, December 8, 1986; William A. Niskanen Jr., *Bureaucracy and Representative Government* (Chicago: Aldine-Atherton, 1971); and James M. Buchanan and Gordon Tullock, *The Calculus of Consent: Logical Foundations of Constitutional Democracy* (Ann Arbor: University of Michigan Press, 1962).
+
 ### Sargent-Wallace and the Fiscal Theory of the Price Level
 
 The chapter's treatment of fiscal dominance follows Thomas Sargent and Neil Wallace, "Some Unpleasant Monetarist Arithmetic," *Federal Reserve Bank of Minneapolis Quarterly Review* 5 (Fall 1981): 1–17, and John H. Cochrane, *The Fiscal Theory of the Price Level* (Princeton: Princeton University Press, 2023), especially chapter 2.
 
 ### Hayek's knowledge problem
 
-The discussion of Hayek's epistemic critique follows F.A. Hayek, "The Use of Knowledge in Society," *American Economic Review* 35, no. 4 (September 1945): 519–530, and *Denationalisation of Money* (1976) cited above.
+The discussion of Hayek's epistemic critique follows F.A. Hayek, "The Use of Knowledge in Society," *American Economic Review* 35, no. 4 (September 1945): 519–530, and *Denationalisation of Money: An Analysis of the Theory and Practice of Concurrent Currencies* (London: Institute of Economic Affairs, 1976).
 
-### The 1979–82 disinflation and the South American counterfactual
+### The rules-based tradition: contemporary cases
 
-The chapter's treatment of Volcker's 1979–82 disinflation, the South American hyperinflation counterfactual, and the Hagedorn family Iowa farm material draws on Volcker, *Keeping At It*, and Silber, *Volcker: The Triumph of Persistence*, with the South American comparative framework set by Ben S. Bernanke, "The Great Moderation," remarks at the Eastern Economic Association, February 20, 2004, and Bernanke's 2005 essay on Latin American very-high inflation. The Hagedorn family record and the broader Iowa farm-foreclosure data of 1981–86 follow the same Alston (1984) framework cited in the Chapter 9 entry, extended to the 1980s farm crisis through the standard agricultural-economics literature including Neil E. Harl, *The Farm Debt Crisis of the 1980s* (Ames: Iowa State University Press, 1990).
+The chapter's treatment of the rules-based answer to the public-choice critique draws on three contemporary cases. The European Union's revised fiscal framework follows the European Commission's economic-governance review (2024), with the Excessive Deficit Procedure documented in the consolidated EU treaties (Article 126 TFEU) and the medium-term net-expenditure plans set out in the 2024 reform of the Stability and Growth Pact. The United Kingdom's Office for Budget Responsibility was established by the Budget Responsibility and National Audit Act 2011; its mandate, forecasting methodology, and assessment role are documented in the OBR's Charter for Budget Responsibility and its Economic and Fiscal Outlook publications. The Chilean structural balance rule, adopted in 2001 and revised across multiple business cycles, is documented in the Chilean Ministry of Finance's structural-balance methodology papers and in Mauricio Larraín, Christian Larraín, and Daniel Smith, "Chile's Fiscal Policy and the Cycle," and the Inter-American Development Bank's working-paper literature on Latin American fiscal rules. The Kydland–Prescott "rules vs. discretion" framework underlying the rules-based design follows Finn E. Kydland and Edward C. Prescott, "Rules Rather than Discretion: The Inconsistency of Optimal Plans," *Journal of Political Economy* 85, no. 3 (June 1977): 473–492. The eurozone case for the rules-based tradition's documented vulnerabilities follows the standard literature on the Greek, Spanish, Portuguese, and Irish crises and their handling under Maastricht-era fiscal architecture, including the post-2010 record assembled in Adam Tooze, *Crashed*, and Mark Blyth, *Austerity: The History of a Dangerous Idea* (Oxford: Oxford University Press, 2013).
+
+### The stabilizer-based tradition: the modern MMT canon
+
+The chapter's treatment of the stabilizer-based answer follows the modern Modern Monetary Theory canon: L. Randall Wray, *Modern Money Theory: A Primer on Macroeconomics for Sovereign Monetary Systems* (Palgrave Macmillan, 2nd ed., 2015), for the chartalist-tradition reconstruction; Stephanie Kelton, *The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy* (PublicAffairs, 2020), for the popular argument and the political-economy critique of the household-budget metaphor; Pavlina R. Tcherneva, *The Case for a Job Guarantee* (Polity, 2020), and the Levy Economics Institute working-paper literature on the federal job guarantee as automatic stabilizer; Warren Mosler, *Soft Currency Economics II: The Origin of Modern Monetary Theory* (US Virgin Islands: Valance Co., 2012), for the operational-monetary-economics framing; and Perry Mehrling, *The New Lombard Street: How the Fed Became the Dealer of Last Resort* (Princeton: Princeton University Press, 2011), for the hierarchical-money perspective that connects the chartalist tradition to the contemporary plumbing of central banking.
