@@ -127,22 +127,39 @@ The original Phase 2 was sized to satisfy a Cochrane-type orthodox reader. For o
 
 ---
 
-## Phase 3 — Structural cut of 12–15k words *(target: ~52k from 67k)*
+## Phase 3 — Structural restructure for repetition; selective trim, possible modest growth *(reframed 2026-04-27)*
 
-**Diagnosis:** thesis established by end of Ch. 5; re-litigated in every subsequent chapter. NYT reviewer wants 20% of bolded definitions and a third of recapitulations gone; editor wants 12–15k cut.
+**Reframed diagnosis:** the editor persona's "cut 12–15k" was a *commercial* read that may have underestimated the category. Comparable monetary-history trade nonfiction sits at 80–95k (Felix Martin, Eichengreen, Ammous, Lewis); long-history trade nonfiction sits at 180–250k (Ahamed, Graeber, Tooze). Current manuscript at 67k is on the short end of the category, not long. The repetition complaint that drove the editor's cut prescription is real — the thesis is established by Ch. 5 and re-litigated thereafter — but it's a *structural* problem fixable by removing redundancy, not an absolute-length problem.
+
+Three of five reviewers (historian, conservative, economist) implicitly wanted more substance, not less. The NYT reviewer's prose complaint was about *how* the book explains, not *how much*.
+
+**Revised target:** roughly flat at 65–70k after additions and selective trims, with the option to grow toward 75–80k if author bandwidth and timeline permit. The shape of the work is what matters; absolute count is secondary.
 
 **Specific moves:**
 
-- **Merge Chs. 10 and 11.** Bretton Woods + the breaking is one arc, not two. Target a single 7,000-word chapter from the current ~12,000 across both. Keep Keynes vs. White and the Triffin dilemma; cut redundant bridge material.
-- **Collapse the taxation-creates-demand exposition.** Currently in Chs. 1, 3, and 5 with substantial overlap. Establish it canonically in Ch. 1 (~1,500 words); in Ch. 3 and Ch. 5, refer back rather than re-derive.
-- **Trim the case-study set pieces from ~12 to 4–5.** Keep:
-  - Backwell at the Sign of the Unicorn (Ch. 4) — load-bearing for institutional argument.
-  - Harry Todd / Boldon Colliery 1926 (Ch. 9) — the book's emotional core.
-  - The Klemperers / Aunt Berta / 1923 (Ch. 12) — irreplaceable.
-  - The Hagedorn farm (Ch. 12) — but rebalanced per Phase 2b.
-  - Either Datini 1399 (Ch. 2) *or* Paterson (Ch. 5) — both are excellent; one is enough.
-  - Trim or cut: Godeffroy, Heslop, Cantwell, Lebesque, Kantor, Kono, Preuß. Editor calls this "research the author couldn't bear to cut"; she's right. They're each good; they're collectively too many.
-- **Tighten Ch. 8.** Attwood biographical material and the Overstone institutional-capture section currently say the same thing twice. One pass through with the goal of saying each thing once.
+- **Remove repeated taxation-creates-demand exposition** across Chs. 1, 3, 5. Establish canonically in Ch. 1; later chapters refer back rather than re-derive. Estimated trim: 1,500–2,000 words.
+- **Trim the weakest case-study set pieces.** Of the ~12 currently in the manuscript, keep the load-bearing ones:
+  - Backwell at the Sign of the Unicorn (Ch. 4)
+  - Datini 1399 (Ch. 2)
+  - Paterson (Ch. 5)
+  - Harry Todd / Boldon Colliery 1926 (Ch. 9)
+  - The Klemperers / Aunt Berta / 1923 (Ch. 12)
+  - The Hagedorn farm (Ch. 12)
+  
+  Trim or cut the secondary set pieces (Godeffroy, Lebesque, Cantwell, Heslop, Kantor, Kono in their current depth). They're each fine; collectively they overload. Estimated trim: 3,000–4,000 words.
+- **Tighten Ch. 8.** Attwood biographical material and the Overstone institutional-network section currently overlap. One pass through with the goal of saying each thing once. Estimated trim: 500–1,000 words.
+- **Do NOT merge Chs. 10 and 11** as the original plan suggested. Keynes-vs-White at Bretton Woods and the breaking-of-Bretton-Woods are distinct narrative arcs that work better at chapter resolution than as one combined chapter. The original merge proposal was driven by the absolute-length cut target that this revision drops.
+
+**Anticipated growth:**
+
+- Volcker counterfactual (Phase 2b, already added): +1,500 words
+- Bitcoin/Austrian engagement (Phase 2d, pending): +1,500–2,000 words
+- Character voicing for anchor figures (Phase 4): +1,500–2,500 words
+- European comparison expansion (Phase 2c, already added): +400 words
+
+**Net likely outcome:** 67k current → ~67–72k after trims and additions. The manuscript stays focused-argument-book length rather than long-history length, but the substance does more work per word.
+
+**If author wants to push toward genre median (85–95k):** add archival depth in 2–3 specific places where the historian persona flagged thinness — Norman/Strong/Schacht in the interwar (Ch. 9), the eurozone treatment (Ch. 12, currently 1 paragraph could become 4–5 pages), and the institutional response of 2008 (Ch. 12, more on the Fed mechanics, the AIG rescue, the global swap lines). Each of these is well-sourced in existing literature and would add substance without bloat. Decision is author's; not strictly required for strong-approve from the three open-minded readers.
 
 ---
 
