@@ -171,7 +171,7 @@ Foreign creditors lending to England wanted assurance that loans could be repaid
 
 The Bank's institutional strength mattered more than gold's intrinsic properties. When the Bank of England suspended gold convertibility in 1797 (Bank Restriction period), paper pounds continued circulating at near-par value for 24 years *without gold backing*. What sustained value wasn't the metal—it was trust in the institution and Parliament's fiscal capacity to tax.
 
-By the time gold convertibility resumed in 1821, the lesson was clear but would be forgotten: **institutional credibility mattered more than metal**. The subsequent success of the gold standard (1821-1914) would erase this insight from public memory, convincing generations that gold itself—not the Bank managing it—was the foundation of monetary stability.
+By the time gold convertibility resumed in 1821, the experience of the previous twenty-four years had made one point visible: institutional credibility had carried the currency through the war, with metal nowhere in the picture. That observation faded from mainstream British monetary discourse over the century of gold-standard operation that followed, as the success of the standard (1821–1914) made the metal appear indispensable rather than incidental.
 
 **The Globalization of the Accident**
 
