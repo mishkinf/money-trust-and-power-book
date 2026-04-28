@@ -157,12 +157,6 @@ The framework Attwood lost to has outlived by a century the gold standard that j
 
 ---
 
-The Birmingham School's defeat seemed total. Attwood's petition was rejected, his economic theories dismissed as "monomania," his proto-Keynesian insights pushed out of respectable economics. The victory was won through institutional channels—Parliament, the Bank's Court of Directors, prestigious professorships, the Political Economy Club, the major reviews—rather than through theoretical argument that out-reasoned Tooke, Fullarton, and Wilson on the merits.²⁷ʰ
-
-Now Lord Overstone and the Currency School sought their ultimate triumph: embedding gold orthodoxy into law. The Bank Charter Act of 1844 would define money as gold, supposedly prevent financial crises forever through automatic rules, and remove monetary policy from democratic contestation. Robert Peel would present this as the culmination of sound economic thinking. It would instead be the Currency School's tragic error—intellectually sophisticated, empirically refuted by events, and catastrophic in its unintended consequences.
-
----
-
 ### The Parliamentary Triumph: The Bank Charter Act of 1844
 
 #### Peel's Doctrine: Defining Money as Gold
@@ -234,14 +228,6 @@ What Heslop did with that unemployment was unusual. Where most of his blackliste
 **Heslop's novels do not name the Bank Charter Act, the Currency School, or the gold standard. His framework was Marxist class analysis, learned at Central Labour College and worked out in fiction: owners against miners, capital against labour, the structural violence of an industrial system at the seam-face.** They are not a documentation of currency-school orthodoxy in the analytical sense this chapter has used the term. But they document what that orthodoxy felt like in the lives it touched — the shifts cancelled, the seams closed, the men paid off and never recalled, the families that learned to make a colliery wage stretch a fortnight when there was no wage at all. Churchill's 1925 decision did not cause every closed pit between 1925 and 1939, but its fingerprints are on the contraction Heslop lived through. He did not have to use the chapter's vocabulary to describe what the chapter is describing.³⁶
 
 Heslop's papers remain at Durham University Special Collections (reference GB-0033-HES) — a documentary archive of one miner-writer's testimony to a depression with monetary-policy fingerprints all over it, even when the testimony itself was framed in different terms.³⁷
-
----
-
-### Why legislative capture worked
-
-The Currency School's triumph reveals a crucial pattern: **you do not need to control all discourse to consolidate an orthodoxy — you need to control the decisive institution**. The Banking School had prominent voices (Tooke, Fullarton, Wilson), sophisticated arguments, access to *The Economist*, parliamentary representation, and prophetic warnings that proved correct.³⁴ But the Currency School had Peel's authority, Overstone's framework, the 1840 Committee's evidence — and the votes.³⁵ The Banking School lost not because they were silenced but because their influence operated in channels that didn't translate into law. Once Peel's bill passed, it didn't matter that *The Economist* published critiques weekly or that Hawes warned in Parliament.³⁶ Legislative capture trumps intellectual debate. The Currency School embedded their principles into automatic law — when gold flowed out, money contracted without democratic input. And when the Act had to be suspended during crises (1847, 1857, 1866), proving the Banking School right, it was reinstated afterward.³⁷
-
-The orthodoxy persisted because it served concentrated interests. Deflation increased bondholders' returns. Gold constraints limited government spending. Financial mystification made banking seem like natural intermediation rather than state-sanctioned credit expansion. Those interests had the political power to maintain orthodoxy through legislative force.³⁸
 
 ---
 
