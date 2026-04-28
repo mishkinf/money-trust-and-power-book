@@ -204,6 +204,14 @@ Between 1800-1850, earlier understandings of money creation were systematically 
 ¹⁹ **Charles Newdegate on Price Reductions Hitting Workers:**
 - Newdegate, Charles. *Parliamentary Debates, Commons*, 3rd ser., vol. 75 (13 June 1844), cols. 829-830.
 
+²⁰ **Erasure of Chartalist Understanding by 1844:**
+- Wray, L. R. (1998). *Understanding Modern Money: The Key to Full Employment and Price Stability*. Edward Elgar. [On the systematic disappearance of chartalist conceptions from respectable economics in the early-to-mid 19th century.]
+- Innes, A. M. (1914). "The Credit Theory of Money." *Banking Law Journal* 31(2): 151–168. [Documents how Adam Smith's 1776 chartalist insight on taxation-driven money was forgotten in respectable economics within a single generation.]
+- Smith, Adam. (1776). *An Inquiry into the Nature and Causes of the Wealth of Nations*, Book II, Chapter 2. [The forgotten passage: "a prince, who should enact that a certain proportion of his taxes should be paid in a paper money of a certain kind, might thereby give a certain value to this paper money."]
+
+²¹ **Opposition Speakers' Acknowledgment of Minority Status:**
+- *Parliamentary Debates, Commons*, 3rd ser., vol. 75 (13 June 1844). [Hawes, Hastie, Newdegate, and other opposition speakers explicitly acknowledged their numerical disadvantage during the second-reading debate.]
+
 ### Lord Overstone and Currency School Theory
 
 ²⁴ **Samuel Jones Loyd's Published Works:**
@@ -225,6 +233,14 @@ Between 1800-1850, earlier understandings of money creation were systematically 
 
 ²⁸ **University Teaching Evidence - Senior's Role:**
 - Corsi, Pietro. (1988). *Science and Religion: Baden Powell and the Anglican Debate, 1800–1860*. Cambridge: Cambridge University Press, 85-95. [Religious tests as Oxford's primary gatekeeping]
+
+²⁹ **Victorian Invisibility of Deposit Creation; Modern Two-Tier System Formalization:**
+- Goodhart, C. A. E. (1989). *Money, Information and Uncertainty*. 2nd ed. London: Macmillan, ch. 5. ["Both the Bank of England and the country banks, deprived of the right to issue notes at will, began to issue deposits to a fare-thee-well." On the Currency School's tragic error in failing to recognize bank deposits as money.]
+- Werner, R. A. (2014). "Can banks individually create money out of nothing? — The theories and the empirical evidence." *International Review of Financial Analysis* 36: 1–19. [Empirical demonstration that banks create deposits through lending, not through reserve multiplication.]
+- Bank of England. (2014). "Money creation in the modern economy." *Quarterly Bulletin* 2014 Q1: 14–27. [Definitive statement from the central bank itself that "loans create deposits," not the reverse.]
+- Calomiris, Charles W., and Stephen H. Haber. (2014). *Fragile by Design: The Political Origins of Banking Crises and Scarce Credit*. Princeton University Press, ch. 6. [On the deposit-driven transformation of U.S. banking after the 1863–1864 National Banking Acts; the 5%-to-23% individual-deposits-to-GDP shift between 1863 and 1913.]
+- Calomiris, Charles W. (2000). *U.S. Bank Deregulation in Historical Perspective*. Cambridge University Press. [Detailed treatment of the deposit transition in U.S. banking.]
+- Sylla, Richard. (1972). "The United States 1863–1913." In Rondo Cameron (ed.), *Banking and Economic Development*. Oxford University Press, 232–262. [State bank notes' decline under the 10% federal tax; deposits as the workaround mechanism.]
 
 ### Control of Knowledge Production
 
