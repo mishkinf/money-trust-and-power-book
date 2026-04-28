@@ -93,7 +93,7 @@ MMT argues that whether deficits matter depends entirely on context. During rece
 
 ### Not "Inflation Is Impossible"
 
-MMT identifies inflation as the key constraint and devotes substantial analysis to inflation dynamics. The debate is about inflation's causes: MMT emphasizes productive capacity limits and sectoral bottlenecks rather than simple money supply. The 1970s stagflation resulted from oil supply shocks and wage-price spirals, not excessive government deficits. The 2021-2022 inflation came from supply chain disruptions and profit margin expansion during COVID recovery, not from 2020 fiscal stimulus.
+MMT identifies inflation as the key constraint and devotes substantial analysis to inflation dynamics. The debate is about inflation's causes: MMT emphasizes productive capacity limits and sectoral bottlenecks rather than simple money supply. The 1970s stagflation resulted from oil supply shocks and wage-price spirals, not excessive government deficits. The 2021–22 inflation reflected a layered shock: supply-chain disruptions and profit-margin expansion accounted for roughly half the U.S. overshoot, while demand factors — including the 2020–21 fiscal stimulus, elevated household savings, and labor-market tightening — contributed an additional one-third to one-half depending on the decomposition method. Both supply and demand played material roles. Chapter 12 develops this decomposition in detail; the appendix's role here is only to note that MMT identifies inflation as the binding constraint, not to deny that fiscal stimulus contributes to it when capacity is constrained.
 
 ### Not a Political Ideology
 
