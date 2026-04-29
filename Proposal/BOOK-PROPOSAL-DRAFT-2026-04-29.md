@@ -2,8 +2,8 @@
 
 **Title:** *Money, Trust, and Power*
 **Subtitle:** *The Five-Thousand-Year Fight Over Who Gets to Create Money*
-**Length:** Approximately 63,000 words
-**Status:** Complete manuscript, out of substantive revision; final copyedit, source-note cleanup, normal fact-checking, and proposal polish in progress.
+**Length:** Approximately 62,000 words
+**Status:** Complete manuscript, out of substantive revision; final source/page-number cleanup, current-data freeze, and proposal polish in progress.
 **Category:** Serious trade nonfiction / economic history / political economy
 
 ## Overview
@@ -119,15 +119,14 @@ Do not draft this section until the book content, source apparatus, page-number 
 
 ## Manuscript Status And Submission Notes
 
-The manuscript has completed multiple full-manuscript review cycles, including a final blank-context review using a must-read rubric. The most recent aggregate assessment was 4.60/5, with no substantive revision blockers and no reviewer recommending another broad rewrite.
+The manuscript has completed multiple full-manuscript review cycles, including a final clean-context review of the current 62,000-word version using a must-read rubric. The most recent aggregate assessment was approximately 4.62/5: two reviewers called it 5/5 must-read, two called it 4.5/5 near-must-read, all four recommended stopping substantive revision, and no reviewer identified a blocker.
 
 Remaining work is normal finishing:
 
-- Final copyedit and cadence pass.
-- Publication-facing source-note cleanup.
-- Page-number cleanup for print-book citations where practical.
+- Publication-facing source-note cleanup and pin-cite/page-number cleanup for print-book citations where practical.
+- Final copyedit/cadence smoothing.
 - Title/subtitle finalization and cover/insert package.
-- Normal fact-checking of contemporary claims immediately before submission.
+- Normal fact-checking/current-data freeze immediately before submission.
 - Optional verification of one softened Chapter 8 statistic about deposits versus notes if the exact number is restored.
 
 ## Suggested Sample Material

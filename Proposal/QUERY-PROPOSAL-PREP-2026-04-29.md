@@ -2,8 +2,8 @@
 
 **Book:** *Money, Trust, and Power*
 **Subtitle:** *The Five-Thousand-Year Fight Over Who Gets to Create Money*
-**Current manuscript:** approximately 63,000 words
-**Status:** Out of substantive revision; ready for copyedit, source-note cleanup, fact-checking, and submission-material development.
+**Current manuscript:** approximately 62,000 words
+**Status:** Out of substantive revision; ready for source/page-number cleanup, current-data freeze, copyedit, and submission-material development.
 
 ## Core Positioning
 
@@ -68,7 +68,7 @@ Potential proposal language: for readers who want the monetary sweep of *Debt*, 
 
 Dear [Agent],
 
-I am seeking representation for *Money, Trust, and Power: The Five-Thousand-Year Fight Over Who Gets to Create Money*, a 63,000-word serious trade history of money that replaces the household-budget metaphor with a more accurate and more useful one: money is institutional credit, bounded not by metal or household accounting but by productive capacity, credibility, governance, and the distribution of loss.
+I am seeking representation for *Money, Trust, and Power: The Five-Thousand-Year Fight Over Who Gets to Create Money*, a 62,000-word serious trade history of money that replaces the household-budget metaphor with a more accurate and more useful one: money is institutional credit, bounded not by metal or household accounting but by productive capacity, credibility, governance, and the distribution of loss.
 
 The book moves from ancient barley debts and medieval tally sticks to Edward Backwell's ruined goldsmith bank, Thomas Attwood's forgotten Birmingham movement, Churchill's return to gold, Keynes's defeat at Bretton Woods, Volcker's recession, quantitative easing, pandemic inflation, and cryptocurrency. Its central argument is not that gold was fake and fiat is free. It is that every monetary system chooses which danger to fear most: inflation, unemployment, external constraint, creditor loss, democratic abuse, or institutional collapse. Those choices decide who pays.
 

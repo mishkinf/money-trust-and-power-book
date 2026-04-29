@@ -1,7 +1,7 @@
 # Persona Critiques — 2026-04-29 v10 Final Current Clean-Context Review
 
 **Prompt:** `Reviews/CRITIQUE-PROMPT-v10-final-current-clean.md`  
-**Manuscript reviewed:** current committed `Content/` manuscript, approximately 62,012 narrative words.  
+**Manuscript reviewed:** current committed `Content/` manuscript, approximately 62,012 narrative words at review time; 62,043 narrative words after the immediate post-panel precision fixes.
 **Reading constraint:** reviewers were instructed not to read prior reviews, revision plans, progress trackers, critique files, or previous reviewer outputs.
 
 ## Executive Verdict

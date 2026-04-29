@@ -26,6 +26,9 @@
 | Bear Stearns "$30 billion out of thin air" | Chapter 12 | Verified enough | Replaced with official Maiden Lane / Fed balance-sheet language; official Fed and NY Fed sources added. |
 | 2021-22 inflation "cleared the bar" | Chapter 12 | Verified enough with current data | Updated through March 2026 BLS CPI; softened to "cleared the first bar" and avoided claiming a clean final victory. |
 | Weimar/Klemperer/Preuss notes under wrong chapter | Ch. 9 / Ch. 12 sources | Fixed | Source block moved from Chapter 12 sources to Chapter 9 sources. |
+| Bardi/Peruzzi collapse causality | Chapters 2-3 | Softened | Chapter 3 now matches Chapter 2's caveated treatment: Edward III's suspended payment/default remains the traditional trigger and visible symbol of royal credit failure, not the sole cause of both houses' collapse. |
+| Adam Smith tax-receivability absence claim | Chapter 8 | Softened | Live text now ties the claim to the surviving debate record consulted and avoids an absolute claim about every MP. |
+| March 2026 gasoline figure | Chapter 12 | Verified enough | BLS March 2026 CPI release confirms a 21.2 percent seasonally adjusted monthly increase in the gasoline index; live text now names it as an index move rather than a generic gasoline-price statement. |
 
 ## Remaining Research Flags
 
@@ -34,7 +37,7 @@
 | Exact source/denominator for 99.91% deposit statistic | Research note received. Do not restore the exact decimal unless a primary historical source is later found. Current wording is safer and preferable. |
 | Local research dossier references in chapter `sources.md` files | First conversion pass complete. Chapter source files now point to underlying public source families rather than public-facing `Local research dossier` labels. Keep working research files internally for audit. |
 | Modern profile-source notes | Working scan complete. Kono, Smith/FTX, Lehman employee, McKenzie, and Hagedorn notes are sufficiently anchored for working-manuscript purposes; final citation style/page cleanup remains. |
-| Current macro data | Before proposal submission, refresh only the few live contemporary claims: CPI, Fed balance sheet, Bitcoin/stablecoin data if used in pitch materials. |
+| Current macro data | Before proposal submission, refresh only the few live contemporary claims: CPI, PCE after the April 30, 2026 release, Fed balance sheet, Bitcoin/stablecoin data if used in pitch materials. |
 | Page-number cleanup | Once final editions are selected, add page numbers for book citations where practical: Steil, Skidelsky, Goodhart, Eichengreen, Moss, Briggs, Ahamed/Tooze-style discursive notes. |
 
 ## Current Assessment

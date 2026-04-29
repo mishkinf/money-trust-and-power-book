@@ -181,11 +181,10 @@ Immediate fixes completed from that round:
 - Completed a final repetition/density polish across Chapters 2, 4, 5, 8, 12, and the Epilogue: full narrative manuscript now counts at 62,012 words.
 - Completed final v10 clean-context review round on the current manuscript: 2/4 reviewers called it 5/5 must-read, 2/4 called it 4.5/5 near-must-read, 4/4 recommended stopping substantive revision, and 0/4 identified blockers. Immediate post-panel fixes applied to Chapter 3 Bardi/Peruzzi framing, Chapter 8 Adam Smith absence-claim wording, and Chapter 12 gasoline-index precision.
 
-Remaining high-confidence craft pass:
+Craft status:
 
-- Re-review Chapter 12 after the streamline; split only if fresh readers still experience it as a crowded second book.
-- Cut repeated explanatory/thematic restatement in Chapters 2, 4, 5, 8, 12, and chapter endings.
-- Add or preserve precise source anchors for high-risk reconstructed scenes, numerical claims, and direct quotations.
+- Complete for substantive manuscript purposes. The final v10 panel reviewed the post-streamline manuscript and did not recommend splitting Chapter 12 or reopening the architecture.
+- Remaining cadence work is copyedit-level only: smooth Chapter 12 transitions, thin repeated signature formulations where they remain visible, and preserve precise source anchors for high-risk reconstructed scenes, numerical claims, and direct quotations.
 
 Submission-day refresh targets:
 
@@ -195,4 +194,4 @@ Submission-day refresh targets:
 
 ## Current Status
 
-No missing page number currently blocks the manuscript's argument. This is normal publishing cleanup, not a must-read-status issue.
+No missing page number currently blocks the manuscript's argument. The book has crossed the must-read threshold on the current clean-context review. Remaining work is normal professional finishing: source/page-number cleanup, current-data freeze, proposal/package polish, and author/platform material.
