@@ -64,7 +64,7 @@ Do not add bulk or reopen the book's architecture unless a fact-check reveals a 
 
 ## Research / Verification Flags
 
-These are not blockers to the manuscript's argument, but they should be resolved before final copyedit or proposal submission if the exact claim remains.
+These are not blockers to the manuscript's argument. They should be revisited before final submission only if the exact claim remains live or if current data has changed.
 
 | Flag | Status | Why it matters | Current handling |
 |---|---|---|---|
@@ -72,7 +72,7 @@ These are not blockers to the manuscript's argument, but they should be resolved
 | Bear Stearns/Maiden Lane mechanics | Verified enough for current text | Official Fed sources support the balance-sheet/emergency-facility framing. | Source note added. |
 | March 1933 FDR chronology | Verified enough for current text | Bank holiday / Emergency Banking Act chronology is basic and visible. | Source note added. |
 | March 2026 CPI update | Verified from official sources | Contemporary claims age quickly. | BLS/FRED cited; live text avoids overclaiming final victory. |
-| Chapter-level source-note alignment | In progress | Reviewers saw stale or misplaced notes. | Weimar moved; remaining chapters still need scan. |
+| Chapter-level source-note alignment | Complete for submission draft | Reviewers saw stale or misplaced notes. | Weimar moved; public-facing source-family language added across chapter notes; remaining work is edition/page polish only where stable pagination exists. |
 
 ## Copyedit Status
 

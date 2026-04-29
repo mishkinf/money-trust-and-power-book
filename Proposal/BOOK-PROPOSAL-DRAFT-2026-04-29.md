@@ -3,7 +3,7 @@
 **Title:** *Money, Trust, and Power*
 **Subtitle:** *The Five-Thousand-Year Fight Over Who Gets to Create Money*
 **Length:** Approximately 62,000 words
-**Status:** Complete manuscript, out of substantive revision; final source/page-number cleanup, current-data freeze, and proposal polish in progress.
+**Status:** Complete manuscript, out of substantive revision; book-facing proposal/package drafted; remaining work is submission-day data freeze, page pins where available, and author/platform material.
 **Category:** Serious trade nonfiction / economic history / political economy
 
 ## Overview
