@@ -2,7 +2,7 @@
 
 **Book:** *Money, Trust, and Power*
 **Date:** 2026-04-29
-**Status:** Draft package for locked subtitle, jacket copy, cover direction, and reader-facing insert/front-back matter. Author bio/platform intentionally parked until the end.
+**Status:** Submission-ready draft package for locked subtitle, jacket copy, cover direction, and reader-facing insert/front-back matter. Author bio/platform intentionally parked until the end.
 
 ## Current Title And Subtitle
 
@@ -211,4 +211,4 @@ For submission, the proposal does not need the whole back matter package, but th
 - Figure specifications are drafted at `Figures-Designer-Notes.md`.
 - One-page reader guide and discussion questions are drafted above and adjusted to the current manuscript.
 - Subtitle is locked as *The Five-Thousand-Year Fight Over Who Gets to Create Money* unless agent/publisher positioning later requires a change.
-- Author bio/platform remains intentionally deferred until the end.
+- Author bio/platform remains intentionally deferred by author preference.

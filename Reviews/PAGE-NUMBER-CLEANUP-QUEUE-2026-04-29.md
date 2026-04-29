@@ -184,7 +184,8 @@ Immediate fixes completed from that round:
 Craft status:
 
 - Complete for substantive manuscript purposes. The final v10 panel reviewed the post-streamline manuscript and did not recommend splitting Chapter 12 or reopening the architecture.
-- Remaining cadence work is copyedit-level only: smooth Chapter 12 transitions, thin repeated signature formulations where they remain visible, and preserve precise source anchors for high-risk reconstructed scenes, numerical claims, and direct quotations.
+- The post-review craft nits have been applied. Do not reopen Chapter 12 density, signature formulations, or architecture unless a later copyeditor flags a concrete sentence-level problem.
+- The remaining source standard is mechanical and professional: preserve precise anchors for high-risk reconstructed scenes, numerical claims, and direct quotations; add page numbers only where final editions or stable scans support them.
 
 Submission-day refresh targets:
 
@@ -194,4 +195,4 @@ Submission-day refresh targets:
 
 ## Current Status
 
-No missing page number currently blocks the manuscript's argument. The book has crossed the must-read threshold on the current clean-context review. Remaining work is normal professional finishing: source/page-number cleanup, current-data freeze, proposal/package polish, and author/platform material.
+No missing page number currently blocks the manuscript's argument. The book has crossed the must-read threshold on the current clean-context review, and the post-panel fixes are complete. Remaining work is external or mechanical: source/page-number polish when final editions/scans are in hand, current-data freeze on submission day, and author/platform material when ready.

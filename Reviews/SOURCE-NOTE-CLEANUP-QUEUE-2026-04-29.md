@@ -5,7 +5,7 @@
 
 ## Current Assessment
 
-The source base is broad enough for the current manuscript. The first conversion pass has removed public-facing `Local research dossier` references from the chapter source files and replaced them with underlying source families. The remaining issue is page-level polish: stable page references, edition consistency, and final current-data refreshes.
+The source base is broad enough for the current manuscript. The conversion pass has removed public-facing `Local research dossier` references from the chapter source files and replaced them with underlying source families. The remaining source work is not argumentative revision; it is publication mechanics: stable page references where final editions/scans are available, edition consistency, and final current-data refreshes.
 
 ## High-Priority Cleanup
 
@@ -34,7 +34,7 @@ These now look sufficiently anchored for working manuscript purposes:
 ## Before Submission
 
 1. Do not reopen substantive revision unless a source cannot support the live wording.
-2. Keep internal dossier references in working files until final citation conversion is complete.
+2. Keep internal dossier references in working research files for audit, but do not use them as public-facing citations.
 3. For any publication-facing notes packet, preserve the underlying source-family language added in this pass rather than reverting to internal dossier labels.
 4. Refresh current-data claims immediately before proposal submission: CPI, Fed balance-sheet numbers if mentioned in pitch materials, Bitcoin/stablecoin market numbers if used.
 5. Use `Reviews/PAGE-NUMBER-CLEANUP-QUEUE-2026-04-29.md` for page-number verification; do not invent page numbers from memory.

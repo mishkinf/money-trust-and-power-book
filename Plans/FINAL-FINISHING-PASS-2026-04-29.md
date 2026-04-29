@@ -1,8 +1,8 @@
 # Final Finishing Pass
 
 **Date started:** 2026-04-29
-**Trigger:** v8 final go/no-go review crossed the must-read threshold.
-**Goal:** Prepare *Money, Trust, and Power* for copyedit, source-note cleanup, query/proposal preparation, and normal fact-checking without reopening substantive revision.
+**Trigger:** v8 final go/no-go review crossed the must-read threshold; v10 clean-context review confirmed the current manuscript as must-read/near-must-read with no blockers.
+**Goal:** Prepare *Money, Trust, and Power* for submission without reopening substantive revision.
 
 ## Rule For This Phase
 
@@ -12,16 +12,16 @@ Do not add bulk or reopen the book's architecture unless a fact-check reveals a 
 
 | Workstream | Status | Output |
 |---|---|---|
-| Reviewer-named fact/precision fixes | First pass complete | Live manuscript edits to overbroad, overprecise, or potentially brittle claims. |
-| Source-note alignment | First pass complete | Chapter source notes match the chapter where material appears; remaining work is edition/page polish. |
-| Normal fact-check ledger | First pass complete | Items marked as verified, softened, resolved conservatively, or needing final-date refresh. |
-| Copyedit/cadence pass | First pass complete | Repetition, echo, overemphasis, and local compression. |
+| Reviewer-named fact/precision fixes | Complete | Live manuscript edits to overbroad, overprecise, or potentially brittle claims. |
+| Source-note alignment | Complete for submission draft | Chapter source notes match the chapter where material appears; remaining work is edition/page polish only where stable pagination exists. |
+| Normal fact-check ledger | Complete for submission draft | Items marked as verified, softened, resolved conservatively, or needing final-date refresh. |
+| Copyedit/cadence pass | Complete for submission draft | Repetition, echo, overemphasis, and local compression addressed through the final v10 pass. |
 | Query/proposal preparation | Drafted | `Proposal/QUERY-PROPOSAL-PREP-2026-04-29.md` and `Proposal/BOOK-PROPOSAL-DRAFT-2026-04-29.md`. |
-| Fact-check ledger | In progress | `Reviews/FINAL-FACTCHECK-LEDGER-2026-04-29.md`. |
+| Fact-check ledger | Complete for submission draft | `Reviews/FINAL-FACTCHECK-LEDGER-2026-04-29.md`. |
 | Targeted research prompt | Done | `Research/Prompts/99-91-DEPOSIT-STATISTIC-SOURCE-PROMPT.md`. |
 | Source-note cleanup queue | Done | `Reviews/SOURCE-NOTE-CLEANUP-QUEUE-2026-04-29.md`. |
 | Page-number cleanup queue | Done | `Reviews/PAGE-NUMBER-CLEANUP-QUEUE-2026-04-29.md`. |
-| Title/subtitle/cover/insert package | In progress | Subtitle locked as *The Five-Thousand-Year Fight Over Who Gets to Create Money*; package in `Packaging/TITLE-COVER-INSERT-MATERIALS-2026-04-29.md`. |
+| Title/subtitle/cover/insert package | Complete for submission draft | Subtitle locked as *The Five-Thousand-Year Fight Over Who Gets to Create Money*; package in `Packaging/TITLE-COVER-INSERT-MATERIALS-2026-04-29.md`. |
 
 ## Completed In This Pass
 
@@ -47,7 +47,7 @@ Do not add bulk or reopen the book's architecture unless a fact-check reveals a 
 | 99.91% research prompt | Research prompts | Added a targeted prompt to identify the exact source, denominator, geography, and recommended wording before any precise statistic is restored. |
 | Proposal scaffold | Proposal | Drafted overview, market, comps, chapter-by-chapter synopsis, status notes, and sample-chapter recommendations. |
 | Source-note cleanup queue | Reviews / Notes | Created a chapter-by-chapter queue for converting internal dossier references into publication-facing citations; revised the Chapter 8 consolidated note to cite the underlying source families rather than the project file. |
-| Word-count script | `count_words.py` | Updated stale chapter paths so Chapter 9 is counted and nonexistent Chapter 13 is no longer queried. Current narrative-prose count: 63,041 words. |
+| Word-count script | `count_words.py` | Updated stale chapter paths so Chapter 9 is counted and nonexistent Chapter 13 is no longer queried. Current narrative-prose count after final v10 fixes: 62,043 words. |
 | Figure note alignment | `Figures-Designer-Notes.md` | Updated stale chapter numbering, removed exact 99.91% figure from visual spec, and softened the Triffin caption to match live manuscript causality. |
 | Reader guide refresh | `Content/_Supplementary/00-Readers-Guide.md` | Replaced outdated guide with current 12-chapter structure, final argument, discussion questions, and reading paths. |
 | Sources/method insert refresh | `Content/_Supplementary/06-Sources-Method.md` | Replaced stale source-method note with current evidentiary standards, reconstruction rules, and final cleanup tasks. |
@@ -74,26 +74,19 @@ These are not blockers to the manuscript's argument, but they should be resolved
 | March 2026 CPI update | Verified from official sources | Contemporary claims age quickly. | BLS/FRED cited; live text avoids overclaiming final victory. |
 | Chapter-level source-note alignment | In progress | Reviewers saw stale or misplaced notes. | Weimar moved; remaining chapters still need scan. |
 
-## Next Copyedit Targets
+## Copyedit Status
 
-- Chapter 2: repeated formulations around merchant credit and sovereign units.
-- Chapter 8: repeated Attwood defeat / Currency School triumph transitions.
-- Chapter 12: recap density and signposting.
-- Whole manuscript: repeated "not X, but Y" cadence and repeated "Gold was never the foundation" echoes.
+The final repetition/density pass and v10 post-panel fixes are complete. Do not run another broad craft pass unless a later copyeditor or agent flags specific sentences. The manuscript is better served now by stability than by additional self-directed tinkering.
 
-## Next Source-Note Targets
+## Final Source-Note Targets
 
-- Scan chapter `sources.md` files for stale draft/process language.
-- Check that named modern profile scenes have sources in the same chapter where the scene appears. Current scan suggests Chapter 12 profiles are sufficiently anchored for working-manuscript purposes.
-- Check that the consolidated `Content/07-Notes-on-Sources/01-main.md` no longer describes cut material as live.
+- Maintain the current public-facing source-family language in chapter `sources.md` files.
 - Keep the old 99.91% deposit statistic out of live/public-facing material unless a primary historical source is later found.
-- Convert internal research-dossier references into direct source citations before any publication-facing source-note packet is sent.
 - Work through `Reviews/PAGE-NUMBER-CLEANUP-QUEUE-2026-04-29.md` once final editions/scans are available.
 
-## Next Proposal Targets
+## Remaining External Targets
 
 - Add author bio/platform section once author/platform details are known.
-- Author bio/platform is intentionally deferred until book-facing materials are finished.
 - Tailor comps and overview to target agents.
 - Decide sample chapters.
 - Refresh current-data claims immediately before proposal submission.

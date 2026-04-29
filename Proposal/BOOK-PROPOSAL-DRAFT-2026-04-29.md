@@ -121,13 +121,12 @@ Do not draft this section until the book content, source apparatus, page-number 
 
 The manuscript has completed multiple full-manuscript review cycles, including a final clean-context review of the current 62,000-word version using a must-read rubric. The most recent aggregate assessment was approximately 4.62/5: two reviewers called it 5/5 must-read, two called it 4.5/5 near-must-read, all four recommended stopping substantive revision, and no reviewer identified a blocker.
 
-Remaining work is normal finishing:
+Book-facing content and package materials are now substantively complete. Remaining work is external or submission-day finishing:
 
-- Publication-facing source-note cleanup and pin-cite/page-number cleanup for print-book citations where practical.
-- Final copyedit/cadence smoothing.
-- Title/subtitle finalization and cover/insert package.
+- Publication-facing pin-cite/page-number cleanup for print-book citations where final editions or scans expose stable pagination.
 - Normal fact-checking/current-data freeze immediately before submission.
-- Optional verification of one softened Chapter 8 statistic about deposits versus notes if the exact number is restored.
+- Author bio/platform section, intentionally deferred by author preference.
+- Optional verification of one softened Chapter 8 statistic about deposits versus notes only if the exact number is ever restored.
 
 ## Suggested Sample Material
 
