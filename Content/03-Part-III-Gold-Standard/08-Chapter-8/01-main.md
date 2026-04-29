@@ -116,7 +116,7 @@ Mr. Hastie warned of catastrophic collapse. Charles Newdegate spoke for agricult
 
 #### What Wasn't Debated
 
-Remarkably, no MP cited Adam Smith's 1776 insight about taxation giving value to paper money. No one referenced the Bank Restriction period (1797–1821) as evidence paper money worked without gold — except Hawes, who was promptly ignored. The idea Paterson articulated in 1694 — that the Bank creates money "out of nothing" — was now unspeakable. Even the Banking School accepted the Currency School's premise that gold backing was necessary. The chartalist understanding had been so thoroughly erased it didn't appear as an option to reject.
+Remarkably, in the surviving debate record consulted here, Adam Smith's 1776 insight about taxation giving value to paper money did not supply the operative vocabulary. Nor did the Bank Restriction period (1797–1821) become parliamentary evidence that paper money could work without gold, except in Hawes's promptly ignored intervention. The idea Paterson articulated in 1694 — that the Bank creates money "out of nothing" — was now unspeakable. Even the Banking School accepted the Currency School's premise that gold backing was necessary. The chartalist understanding had been so thoroughly marginalized that it barely appeared as an option to reject.
 
 Though no division lists survive, the debates make clear the bill enjoyed overwhelming support. Opposition speakers acknowledged their minority status. Chancellor Henry Goulburn noted the measure "had consequently met with the concurrence" of those who heard all objections. On July 19, 1844, the Bank Charter Act received Royal Assent. The Currency School had won not by silencing opposition but by controlling the institution that translated theory into law.
 

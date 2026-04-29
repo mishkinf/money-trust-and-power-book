@@ -179,6 +179,7 @@ Immediate fixes completed from that round:
 - Continued source-safe paraphrase cleanup for unpaginated exact quotations.
 - Completed a conservative Chapter 12 streamline: Chapter 12 narrative now counts at 7,921 words, and the full narrative manuscript counts at 62,816 words.
 - Completed a final repetition/density polish across Chapters 2, 4, 5, 8, 12, and the Epilogue: full narrative manuscript now counts at 62,012 words.
+- Completed final v10 clean-context review round on the current manuscript: 2/4 reviewers called it 5/5 must-read, 2/4 called it 4.5/5 near-must-read, 4/4 recommended stopping substantive revision, and 0/4 identified blockers. Immediate post-panel fixes applied to Chapter 3 Bardi/Peruzzi framing, Chapter 8 Adam Smith absence-claim wording, and Chapter 12 gasoline-index precision.
 
 Remaining high-confidence craft pass:
 
