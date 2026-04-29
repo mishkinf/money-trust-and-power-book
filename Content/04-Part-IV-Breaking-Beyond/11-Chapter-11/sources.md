@@ -69,7 +69,7 @@ Bretton Woods (1944) attempted to combine gold's external discipline with fiat's
 **Lionel Robbins at Bretton Woods - British Humiliation:**
 43a. Robbins, Lionel. (1990). *The Wartime Diaries of Lionel Robbins and James Meade, 1943-45.* Edited by Susan Howson and Donald Moggridge. Macmillan. [Diary entries from July 1-22, 1944, Mount Washington Hotel conference; digitized at LSE Library ROBBINS/6/1/2]
 43b. Steil, B. (2013). *The Battle of Bretton Woods*, pp. 233-276. [Robbins's "We know we will be beaten" confession, Keynes's July 19 heart attack, administrative chaos, power dynamics, Morgenthau's hotel seizure threat]
-43c. Skidelsky, R. (2000). *John Maynard Keynes: Fighting for Freedom, 1937-1946.* Macmillan. [Vol. 3 of Keynes biography; physical deterioration, rushed signing, "absolute hell" negotiations]
+43c. Skidelsky, R. (2000). *John Maynard Keynes: Fighting for Freedom, 1937-1946.* Macmillan. [Vol. 3 of Keynes biography; physical deterioration, rushed signing, and Keynes's punishing loan-negotiation period.]
 43d. Keynes, J. M. (1944). Letter to Foreign Office, December 1944. [Signing without reading "clean and consecutive copy," "dotted line," "throw us out of the hotel" admission]
 43e. Theunis, Georges, quoted in Robbins diaries. ["It is a disgrace...You are on your knees to them"]
 43f. White, H. D., and Morgenthau, H. Treasury Department internal communications, July 1944. [Fort Knox gold reserves quotation, "take the advantage" strategy, documented in Steil]

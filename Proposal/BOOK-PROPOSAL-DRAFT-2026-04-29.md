@@ -18,7 +18,7 @@ That frame gives readers a way to understand today's debates over deficits, infl
 
 ## Why This Book Now
 
-The last fifteen years have made ordinary citizens fluent in monetary events without giving them a coherent monetary education. The 2008 crisis showed central banks creating trillions to rescue the financial system. The pandemic response showed governments spending at a scale once described as impossible. The 2021-22 inflation showed that real capacity constraints still bite. Crypto promised escape from institutions and then recreated banks, runs, leverage, fraud, and custody failures in less accountable form.
+The nearly two decades since 2008 have made ordinary citizens fluent in monetary events without giving them a coherent monetary education. The 2008 crisis showed central banks creating trillions to rescue the financial system. The pandemic response showed governments spending at a scale once described as impossible. The 2021-22 inflation, and the harder last mile of the 2026 inflation fight, showed that real capacity constraints still bite. Crypto promised escape from institutions and then recreated banks, runs, leverage, fraud, custody failures, and finally court-administered recoveries in less accountable form.
 
 Public debate still reaches reflexively for the household-budget metaphor: government must live within its means, debt burdens our grandchildren, money printing always causes inflation, and "sound money" means discipline. The opposing slogan, that sovereign currency makes money easy, is equally inadequate. *Money, Trust, and Power* gives readers the historical grammar needed to reject both simplifications.
 

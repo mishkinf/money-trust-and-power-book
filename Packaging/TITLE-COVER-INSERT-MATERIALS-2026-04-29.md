@@ -62,7 +62,7 @@ History tells a stranger story.
 
 For five thousand years, money has been less a thing than a promise: clay tablets recording barley debts, medieval bills of exchange crossing borders without coins, tally sticks accepted for taxes, Bank of England notes created through public credit, gold-standard rules enforced by unemployment, dollars made global at Bretton Woods, central-bank reserves created in crisis, and cryptocurrencies rediscovering the institutions they were built to escape.
 
-*Money, Trust, and Power* follows that story from ancient Mesopotamia to Edward Backwell's ruined goldsmith bank, from Isaac Newton's accidental gold standard to Thomas Attwood's forgotten campaign against monetary contraction, from Churchill's return to gold and Keynes's defeat at Bretton Woods to Volcker's recession, quantitative easing, pandemic inflation, and FTX.
+*Money, Trust, and Power* follows that story from ancient Mesopotamia to Edward Backwell's ruined goldsmith bank, from Isaac Newton's accidental gold standard to Thomas Attwood's forgotten campaign against monetary contraction, from Churchill's return to gold and Keynes's defeat at Bretton Woods to Volcker's recession, quantitative easing, pandemic inflation, and FTX's collapse and court-administered recovery.
 
 The book's argument is not that gold was fake and fiat is free. It is that every monetary system is an institutional choice about trust, capacity, discipline, and loss. Gold-standard defenders were right to fear inflation and political abuse. Their opponents were right that monetary contraction could destroy workers, debtors, and productive capacity. The history of money is the history of institutions choosing which danger to prevent and which population to expose.
 

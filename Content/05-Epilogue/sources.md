@@ -6,7 +6,7 @@ The Epilogue now closes the manuscript around governance rather than policy pres
 
 ### Source-Pass Note
 
-The previous Epilogue contained extended policy sections on CBDCs, the eurozone, the U.S. debt ceiling, the Federal Reserve's dual mandate, and a federal job guarantee. Those sections have been cut from the live chapter to avoid ending the book as a second policy manuscript. The source material remains useful for future essays or endnotes, but the current Epilogue uses only broad, non-time-sensitive examples from those debates.
+The previous Epilogue contained extended policy sections on CBDCs, the eurozone, the U.S. debt ceiling, the Federal Reserve's dual mandate, and a federal job guarantee. Those sections have been cut from the live chapter to avoid ending the book as a second policy manuscript. A concise Job Guarantee / employment-buffer-stock paragraph remains because it clarifies the institutional alternative to unemployment-as-discipline without turning the ending into a full policy platform. The source material remains useful for future essays or endnotes, but the current Epilogue otherwise uses only broad, non-time-sensitive examples from those debates.
 
 ### Core Sources and Further Reading
 
@@ -31,6 +31,7 @@ The previous Epilogue contained extended policy sections on CBDCs, the eurozone,
 14. Bell, Stephanie. "The Role of the State and the Hierarchy of Money." *Cambridge Journal of Economics* 25, no. 2 (2001): 149-163.
 15. Wray, L. Randall. *Understanding Modern Money: The Key to Full Employment and Price Stability.* Edward Elgar, 1998.
 16. Ingham, Geoffrey. *The Nature of Money.* Polity, 2004.
+16a. Tcherneva, Pavlina R. *The Case for a Job Guarantee.* Polity, 2020; Mitchell, William, L. Randall Wray, and Martin Watts. *Macroeconomics.* Red Globe Press, 2019; Kelton, Stephanie. *The Deficit Myth.* PublicAffairs, 2020. [Employment-buffer-stock / Job Guarantee tradition as the chartalist alternative to using unemployment as the default anti-inflation buffer.]
 
 **Gold, Convertibility, and Institutional Credibility**
 

@@ -123,7 +123,7 @@ Concept (prominent in Modern Monetary Theory) that fiat currency derives value f
 Clay tablets used by ancient Mesopotamian temples and palaces to record grain debts and credits. Earliest form of money-as-accounting; demonstrates credit preceded commodity money by millennia.
 
 ### **Jiaozi**
-World's first government-issued paper currency, introduced by Song Dynasty China (1023 CE). Government mandated use in tax payments—early fiat system operating centuries before European paper money. By 1204, 4.14 million notes circulated backed by only 700,000 coins.
+World's first government-issued paper currency, introduced by Song Dynasty China (1023 CE). The notes began as private Sichuan merchant instruments and were later nationalized; by the early thirteenth century, official paper claims circulated at values far exceeding available metallic reserves, making state recognition, public payments, tax receivability, redemption expectations, and issue discipline central to their value.
 
 ### **Modern Monetary Theory (MMT)**
 Economic framework synthesizing chartalist tradition (Knapp, Mitchell-Innes, Keynes) with functional finance (Lerner) and endogenous money (Minsky, Moore). Core insights: taxation drives currency demand, sovereign issuers can't run out of own money, real resources (not finance) constrain economies. Founded by Warren Mosler (1993); developed by Wray, Kelton, Mitchell.

@@ -21,7 +21,7 @@ From a barley loan in ancient Larsa to Edward Backwell's ruined goldsmith bank, 
 
 ## Why This Book Now
 
-The public argument over money is trapped between two inadequate slogans. One says governments must balance budgets like families. The other says sovereign currency makes money easy. The last fifteen years have shown why both are wrong: the 2008 crisis proved central banks could create vast sums without consumer inflation when the economy had slack; the 2021-22 inflation proved money hitting damaged capacity can become painfully real; crypto proved that trying to escape institutions usually recreates them in less accountable forms.
+The public argument over money is trapped between two inadequate slogans. One says governments must balance budgets like families. The other says sovereign currency makes money easy. The nearly two decades since 2008 have shown why both are wrong: the 2008 crisis proved central banks could create vast sums without consumer inflation when the economy had slack; the 2021-22 inflation proved money hitting damaged capacity can become painfully real; the 2026 last mile of the inflation fight shows that energy, housing, labor, and logistics still set hard limits; and crypto proved that trying to escape institutions usually recreates them in less accountable forms.
 
 This book gives readers a historically grounded way to think about deficits, inflation, central banks, bailouts, debt ceilings, industrial policy, and crypto without requiring them to become economists.
 

@@ -20,6 +20,11 @@ Between 1800 and 1850, the earlier institutional understanding of money creation
 - Flick, Carlos. (1978). *The Birmingham Political Union and the Movements for Reform in Britain, 1830-1839.* Hamden, CT: Archon Books. Available at Internet Archive. https://archive.org/details/birminghampoliti0000flic
 - UK Parliament. "Thomas Attwood and the Birmingham Political Union." https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/case-study/the-right-to-vote/thomas-attwood-and-the-birmingham-political-union/birmingham-political-union/
 
+²⁷ᵃ⁻³ **Birmingham Political Union motto and legalist discipline:**
+- Wakefield, C. M. (1885). *Life of Thomas Attwood.* London: Harrison & Sons. [Title-page epigraph reproduces Attwood's "PEACE, LAW, ORDER, LOYALTY and UNION" formulation.]
+- Wakefield, Introduction, v. [George Grote's May 23, 1832 tribute to Attwood for teaching mass combination "without breaking any of the salutary restraints of law."]
+- Moss (1990), op. cit.; Briggs (1948), op. cit. [Modern interpretation of Attwood's disciplined mass mobilization.]
+
 ²⁷ᵃ⁻² **Newhall Hill rally attendance, May 7, 1832 — note on contested figures:**
 - Contemporary newspaper estimates of 150,000-200,000 (sourced via partisan provincial press, repeated in Briggs 1959 and Flick 1978) are widely cited but almost certainly inflated.
 - Modern crowd-science analyses applying density standards (e.g., 4 persons/m² standing densely; 2/m² for typical political assembly) to the historic site footprint of Newhall Hill — a former sandstone quarry in central Birmingham — yield a defensible upper bound of approximately 30,000-100,000 depending on assumed density.
@@ -43,10 +48,13 @@ Between 1800 and 1850, the earlier institutional understanding of money creation
 ²⁷ᵉ **Wellington's Rejection and Parliamentary Dismissal:**
 - Checkland (1948), 10-12. [1829 petition rejection, 1839 Chartist petition voted down 235-46]
 
-²⁷ᵉ⁻¹ **Attwood's "strong as a giant / weak as an infant" framing and the Birmingham Political Union motto.** The legalist-radical register that pairs constitutional discipline with mass mobilization is most fully documented in Wakefield, C. M. (1885), *Life of Thomas Attwood* (London: Harrison & Sons), which reproduces long passages of Attwood's speeches and letters. The "strong as a giant" / "weak as an infant" formulation appears in his rally speeches in this register; the BPU motto "PEACE, LAW, ORDER, LOYALTY and UNION" is documented at 27a-3 above. Modern interpretation: Moss, D. J. (1990), *Thomas Attwood: The Biography of a Radical* (Montreal: McGill-Queen's University Press), particularly on the discipline-within-mobilization architecture; Briggs, A. (1948), "Thomas Attwood and the Economic Background of the Birmingham Political Union," *Cambridge Historical Journal* 9(2): 190-216, on the political-cultural significance of pairing legality with mass action.
+²⁷ᵉ⁻¹ **Attwood's legalist-radical register.** The chapter paraphrases Attwood's recurring distinction between disciplined lawful organization and politically self-defeating disorder rather than relying on an exact unpaginated quotation. The register is most fully documented in Wakefield, C. M. (1885), *Life of Thomas Attwood* (London: Harrison & Sons), which reproduces long passages of Attwood's speeches and letters. Modern interpretation: Moss, D. J. (1990), *Thomas Attwood: The Biography of a Radical* (Montreal: McGill-Queen's University Press), particularly on the discipline-within-mobilization architecture; Briggs, A. (1948), "Thomas Attwood and the Economic Background of the Birmingham Political Union," *Cambridge Historical Journal* 9(2): 190-216, on the political-cultural significance of pairing legality with mass action.
 
 ²⁷ᶠ **Modern Recognition of Birmingham School's Prescience:**
 - Checkland (1948), 1. ["The theories of the Birmingham School are now recognized as embryonic versions of the Keynesian economics of the 1930s"]
+- Briggs (1948), 190-216, note 73. [Historiographic caution: it would be unhistorical to call Attwood's analysis "quasi-Keynesian," though Briggs notes real similarities of approach.]
+- Miller, Henry. (2012). "Radicals, Tories, or Monomaniacs? The Birmingham Currency Reformers in the House of Commons, 1832-67." *Parliamentary History* 31(3): 354-377. [Frames Birmingham currency reformers as popular radicals rather than a fully developed theoretical school.]
+- Moss (1990), op. cit. [Reads some late Attwood currency argument as rationalization under political pressure.]
 
 ²⁷ᵍ **Wealth Transfer Through Deflation:**
 - Acworth, A. W. (1925). *Financial Reconstruction in England, 1815–1822.* P. S. King & Son. [Price indices and debt burden calculations]
@@ -104,6 +112,7 @@ Between 1800 and 1850, the earlier institutional understanding of money creation
 - History of Parliament Online. "LOYD, Samuel Jones (1796-1883)." https://www.historyofparliamentonline.org/
 - Great Britain. Parliament. *Parliamentary Papers* (PP). Select Committees on Bank Acts: 1832, 1840, 1848 (Commons), 1848 (Lords), 1857.
 - Currency School institutional-capture synthesis: for the qualified capture claim — strong evidence for influence through Parliament, Treasury, Bank of England, and Overstone correspondence, but weaker evidence for total press or university-curriculum capture — see Eltis (2001), O'Brien's edition of *The Correspondence of Lord Overstone*, Fetter (1965), History of Parliament's Loyd/Overstone entry, and the 1832, 1840, 1848, and 1857 Bank Act committee records.
+- Charles Wood's May 1847 letter calling Overstone "the person to whom we are really indebted for the Act of 1844" appears in D. P. O'Brien, ed., *The Correspondence of Lord Overstone*, vol. 1 (Cambridge: Cambridge University Press, 1971), 381; cited and contextualized in Eltis (2001), 10.
 - Bank Charter Act individuals and institutional texture: for Samuel Gurney, Benjamin Hawes, and the institutional channels around the 1844 Act and 1847 crisis, see the Select Committees on Bank Acts, Tooke, Fullarton, Wilson/*Economist* materials where cited below, Goodhart, Arnon, and the parliamentary sources in this chapter.
 - Ricardo/Currency School continuity: for Ricardo, the quantity-theory framework, Overstone's metallic-circulation analogy, and later Currency School doctrine, see Ricardo's *High Price of Bullion*, Overstone's 1837/1840/1844 publications, Fetter, Daugherty, Schwartz, Goodhart, and Arnon.
 
@@ -207,7 +216,7 @@ Between 1800 and 1850, the earlier institutional understanding of money creation
 - Hastie, Mr. *Parliamentary Debates, Commons*, 3rd ser., vol. 75 (13 June 1844), cols. 806-807.
 
 ¹⁹ **Charles Newdegate on Price Reductions Hitting Workers:**
-- Newdegate, Charles. *Parliamentary Debates, Commons*, 3rd ser., vol. 75 (13 June 1844), cols. 829-830.
+- Newdegate, Charles. *Parliamentary Debates, Commons*, 3rd ser., vol. 75 (13 June 1844), cols. 829-830. [Price reductions from currency contraction as "a sheer loss without the shadow of an equivalent."]
 
 ²⁰ **Erasure of Chartalist Understanding by 1844:**
 - Wray, L. R. (1998). *Understanding Modern Money: The Key to Full Employment and Price Stability*. Edward Elgar. [On the systematic disappearance of chartalist conceptions from respectable economics in the early-to-mid 19th century.]
@@ -216,6 +225,7 @@ Between 1800 and 1850, the earlier institutional understanding of money creation
 
 ²¹ **Opposition Speakers' Acknowledgment of Minority Status:**
 - *Parliamentary Debates, Commons*, 3rd ser., vol. 75 (13 June 1844). [Hawes, Hastie, Newdegate, and other opposition speakers explicitly acknowledged their numerical disadvantage during the second-reading debate.]
+- Goulburn, Henry. *Parliamentary Debates, Commons*, 3rd ser., vol. 75 (13 June 1844), col. 809. [The bill "had consequently met with the concurrence" of those who had heard the objections and expected advantages.]
 
 ### Lord Overstone and Currency School Theory
 
@@ -240,7 +250,7 @@ Between 1800 and 1850, the earlier institutional understanding of money creation
 - Corsi, Pietro. (1988). *Science and Religion: Baden Powell and the Anglican Debate, 1800–1860*. Cambridge: Cambridge University Press, 85-95. [Religious tests as Oxford's primary gatekeeping]
 
 ²⁹ **Victorian Invisibility of Deposit Creation; Modern Two-Tier System Formalization:**
-- Goodhart, C. A. E. (1989). *Money, Information and Uncertainty*. 2nd ed. London: Macmillan, ch. 5. ["Both the Bank of England and the country banks, deprived of the right to issue notes at will, began to issue deposits to a fare-thee-well." On the Currency School's tragic error in failing to recognize bank deposits as money.]
+- Goodhart, C. A. E. (1989). *Money, Information and Uncertainty*. 2nd ed. London: Macmillan, ch. 5. [On the Currency School's failure to recognize bank deposits as money and the shift from note issue toward deposit expansion.]
 - Lubbock, John. (1865). "Country Clearing." *Journal of the Statistical Society of London* 28(3): 370-374. [Lubbock's 1864 bank-receipts inquiry found checks and bills of exchange already constituted nearly all receipts by value at his London bank.]
 - Pownall, George H. (1881). "The Proportion of the Cash-Payments of the Country carried on by Means of Cheques." *Journal of the Institute of Bankers* 2(8). [Pownall's wider bank-receipts survey found check payments at 97.23% of London bank receipts by value and 72.86% in country banks in 261 places.]
 - Spahr, Walter Earl. (1926). *The Clearing and Collection of Checks.* New York: Bankers Publishing Co., 20-21. [Summarizes Lubbock and Pownall and describes checks as the recognized business credit instrument in England.]
@@ -250,6 +260,11 @@ Between 1800 and 1850, the earlier institutional understanding of money creation
 - Calomiris, Charles W., and Stephen H. Haber. (2014). *Fragile by Design: The Political Origins of Banking Crises and Scarce Credit*. Princeton University Press, ch. 6. [On the deposit-driven transformation of U.S. banking after the 1863–1864 National Banking Acts; the 5%-to-23% individual-deposits-to-GDP shift between 1863 and 1913.]
 - Calomiris, Charles W. (2000). *U.S. Bank Deregulation in Historical Perspective*. Cambridge University Press. [Detailed treatment of the deposit transition in U.S. banking.]
 - Sylla, Richard. (1972). "The United States 1863–1913." In Rondo Cameron (ed.), *Banking and Economic Development*. Oxford University Press, 232–262. [State bank notes' decline under the 10% federal tax; deposits as the workaround mechanism.]
+
+**Mill, Bagehot, and Keynes on Deposit Creation:**
+- Mill, John Stuart. (1848). *Principles of Political Economy*, Book III. [Credit and purchasing-power discussion.]
+- Bagehot, Walter. (1873). *Lombard Street: A Description of the Money Market.* London: Henry S. King. [Institutional analysis of deposit banking and reserves; the chapter now paraphrases Bagehot's intermediary framing rather than treating "banks cannot create money" as a direct quotation.]
+- Keynes, John Maynard. (1930). *A Treatise on Money*, Vol. 1, *The Pure Theory of Money.* London: Macmillan. [Bank-money creation and "move forward in step" formulation.]
 
 ### Control of Knowledge Production
 

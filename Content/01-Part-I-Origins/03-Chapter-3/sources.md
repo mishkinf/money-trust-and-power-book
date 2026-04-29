@@ -37,8 +37,23 @@ Early modern monarchs faced an impossible dilemma: war required credit, but cred
 17j. Quinn, Stephen. (1997). "Goldsmith-Banking: Mutual Acceptance and Interbanker Clearing in Restoration London." *Explorations in Economic History* 34(4): 411-432. https://doi.org/10.1016/S0014-4983(97)90682-3
 17k. Melton, Frank T. (1986). *Sir Robert Clayton and the Origins of English Deposit Banking, 1658-1685.* Cambridge: Cambridge University Press.
 17l. Archives Hub. "Records of Edward Backwell (c.1618-83), Goldsmith Banker." https://archiveshub.jisc.ac.uk/search/archives/82a1e83d-8013-3e1c-ae72-a62d9275eb51
+17l-1. Mitchell, D. M. (2000). "To Alderman Backwells for the candlsticks." *Silver Society Journal* 12: 111-124. [Backwell's Lombard Street setting, commercial network, and material culture.]
 17m. Goldsmith-banking synthesis: for Lombard Street setting, Backwell ledger details, goldsmith banking mechanics, the January 1672 Treasury sequence, depositor-loss caveats, and recovery-rate chronology, see NatWest Group Heritage Hub (17a), Horsefield (17c), Hilton Price (17d), Kim (17f), the *Calendar of Treasury Books* (17h-17i), Quinn (17j), Melton (17k), and the Archives Hub Backwell records (17l).
 17n. Vyner identification: the chapter uses Sir Robert Vyner, not Sir Thomas Vyner, for the Stop-era creditor. See Aylmer's ODNB entry on Sir Robert Vyner (17e), the *Calendar of Treasury Books* (17h-17i), and Horsefield's reassessment of the Stop (17c).
+17o. Backwell scene and quotation anchors:
+- Strype, John. (1720). *A Survey of the Cities of London and Westminster.* [Lombard Street's "good and lofty buildings" and goldsmith/banker/merchant description.]
+- Pepys, Samuel. *Diary*, June 17, 1662. [Backwell's shop, the chest of crusados, Don Duarte de Silva, and the perfumed comfits.]
+- Pepys, *Diary*, July 23, 1666. [Backwell's "good master, the King" line.]
+- Pepys, *Diary*, November 15, 1667. [Backwell's "vain glory" remark after the Sheerness business.]
+- Pepys, *Diary*, April 12, 1669. [Backwell's "little town" of Cornhill and Lombard Street property.]
+- Thomas Vincent, *God's Terrible Voice in the City* (1667), and Pepys's September 1666 diary entries. [Great Fire setting around Lombard Street and Gracechurch Street.]
+17p. Stop of the Exchequer sequence and figures:
+- *Calendar of Treasury Books*, vol. 3 (1669-1672), especially January 1672 Treasury entries. [January 5 emergency summons; January 12 bankers' plea for quarterly interest and protection from arrests; January 19 order vacating Backwell's role as receiver of the Queen's Portuguese portion.]
+- Hatton Correspondence, Camden Society, vol. 1 (1878), p. 101. [Richard Langhorne's January 6, 1672 statement that "the trade of bankers is totally destroyed by this accident."]
+- Horsefield (1982), 511-528. [Total stopped debt, litigation chronology, and settlement history.]
+- Hilton Price (1890), 191-230; NatWest Group Heritage Hub, "Goldsmiths' Ledger, 1671-72"; Archives Hub Backwell records. [Backwell's £295,994 claim, 1671-72 ledger, customer base, bankruptcy and estate-settlement chronology.]
+- Li, Ling-Fan. (2019). "The Stop of the Exchequer and the Secondary Market for English Sovereign Debt, 1677-1705." *Journal of Economic History* 79(1): 176-200. [Secondary-market aftermath.]
+- Milevsky, Moshe A. (2017). *The Day the King Defaulted: Financial Lessons from the Stop of the Exchequer in 1672.* Palgrave Macmillan. [Modern financial reconstruction, including the very low long-run return calculation.]
 18. Dickson, P. G. M. (1967). *The Financial Revolution in England: A Study in the Development of Public Credit, 1688–1756.* Macmillan.
 19. Bonney, R. (1981). *The King's Debts: Finance and Politics in France, 1589–1661.* Oxford University Press.
 20. Tracy, J. D. (1985). *A Financial Revolution in the Habsburg Netherlands.* University of California Press.

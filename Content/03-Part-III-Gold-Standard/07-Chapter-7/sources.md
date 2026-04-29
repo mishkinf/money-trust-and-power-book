@@ -46,6 +46,10 @@ Chapter 7 now focuses on the Bank Restriction period as a proof-and-cost chapter
 34. Bank Restriction synthesis: for Woodforde/Oakes diary evidence, merchant declarations, note circulation from roughly £10.9 million in 1797 to £28.4 million in 1814, and the institutional reasons paper held, see Clapham (1), O'Brien and Palma (2), Bank of England Archives (9), the Bank Restriction Act (10), O'Brien (11), Crouzet (12), Woodforde (30), Winstanley (31), Innes (32), and Knapp (33). Source-control caution: the £2.3 million 1821 figure refers to £1 and £2 small-note circulation, not total Bank of England circulation, and should not be used as a total-circulation comparison.
 35. Expected duration of Restriction: for the Privy Council order, May 3 statute, June 24 first endpoint, and later extensions, see Parliamentary Papers (10), Clapham (1), O'Brien and Palma (2), and the Bank of England archival material (9).
 36. Bank Restriction price series: for wheat prices, phase synthesis, moderate Restriction-period inflation by paper-money-disaster standards, and postwar deflation, see Clark (25), O'Brien and Palma (2), Bordo and White (8), Acworth (3), and House of Commons/Hansard materials (26, 29, 39).
+36a. Chapter 7 numerical anchors:
+- Clapham (1), Vol. 2; O'Brien and Palma (2), 390-426. [Bank Restriction context; Bank note circulation around £10.9 million in 1797 and roughly £28.4 million in 1814; see also the source-control caution in note 34 on the £2.3 million small-note figure.]
+- Clark (25). [Wheat price series used for the 1797, 1810, 1821, and 1822 benchmark prices and the wartime-to-postwar decline.]
+- Bank Restriction Act, 37 Geo. III, c. 45; Clapham (1); O'Brien and Palma (2). [Suspension, statutory endpoint, and repeated extension sequence.]
 
 **Samuel Gigney and 1821 Deflation Human Cost:**
 37. Elwick, George. *The Bankrupt Directory: Being a Complete Register of All the Bankrupts with Their Residences, Trades, and Dates When They Appeared in the London Gazette from December 1820 to April 1843.* London, 1843. [Samuel Gigney, farmer, Latchington, Essex, October 23, 1823]
@@ -54,6 +58,12 @@ Chapter 7 now focuses on the Bank Restriction period as a proof-and-cost chapter
 40. Ernle, Rowland Edmund Prothero, Lord. *English Farming Past and Present*, 6th edition. London: Longmans, Green and Co., 1961 (original edition 1912). Chapter XV: "The War and the Corn Laws, 1814-1836." [Agricultural price data and farmer distress documentation]
 41. Named farmer distress: for Samuel Gigney, Richard Phear, William Berry, Robert Leach, and other farmer insolvency examples, see Elwick (37), *London Gazette* issues 1821-1826 (38), Hansard agricultural-distress testimony (39), and Ernle (40). The digitized notices do not provide full debt schedules, so the chapter treats the cases as documented insolvency examples rather than complete household balance sheets.
 42. Parliamentary distress context: for William Hanning's diet testimony, George Webb Hall context, Essex/county distress, and aggregate agricultural distress, see House of Commons/Hansard materials (26, 29, 39), Cobbett (28), Ernle (40), and Acworth (3).
+42a. Farmer-distress quotation anchors:
+- House of Commons, "Motion for a Committee on the Agricultural Distress," Hansard, 18 February 1822. [Suffolk petitions described as "one unusual scene of distress"; landlord/tenant commitments made under wartime prices.]
+- Ricardo, David. Letter from Paris, December 1821, in *Works and Correspondence*, Vol. 10. [Ricardo's private assessment of farmer distress.]
+- House of Commons, "Agricultural Distress Report," Hansard, 7 May 1822. [Matthias Attwood warning about abandonment of cultivated land and destruction of farmers and laborers.]
+- Great Britain. Parliament. *Report from the Select Committee on Petitions Relating to Agricultural Distress* (1821). [William Hanning's laborer-diet testimony and George Webb Hall's agricultural evidence.]
+- Hansard, Series 2, Vol. 7, 13 May 1822, cols. 654-655. [Essex testimony that two-thirds of tenantry were insolvent and "not possessed of a shilling."]
 43. Bell, Stephanie. (2001). "The Role of the State and the Hierarchy of Money." *Cambridge Journal of Economics,* 25(2), 149-163. [Modern chartalist analysis]
 44. Wray, L. Randall. (1998). *Understanding Modern Money: The Key to Full Employment and Price Stability.* Edward Elgar. [MMT framework on taxation creating demand]
 
