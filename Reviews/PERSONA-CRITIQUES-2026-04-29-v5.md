@@ -100,16 +100,16 @@ Native verdict: **competent synthesis**.
 
 ### 3. Three Highest-Leverage Revisions
 
-1. **Build a specialist-grade claim apparatus without sacrificing trade readability.**  
-Chapters touched: Notes on Sources, Chapters 1, 5, 10, 11, 12, Epilogue.  
+1. **Build a specialist-grade claim apparatus without sacrificing trade readability.**
+Chapters touched: Notes on Sources, Chapters 1, 5, 10, 11, 12, Epilogue.
 If this lands, the manuscript moves from serious trade synthesis to specialist-respectable trade history.
 
-2. **Make “paired vindication” the book’s declared original architecture.**  
-Chapters touched: Preface, Chapter 8, Chapter 12, Epilogue.  
+2. **Make “paired vindication” the book’s declared original architecture.**
+Chapters touched: Preface, Chapter 8, Chapter 12, Epilogue.
 If this lands, the manuscript moves from competent synthesis to original trade contribution.
 
-3. **Tighten the narrative by cutting repetition and stabilizing the implied reader.**  
-Chapters touched: all, especially Chapters 7, 8, 12, Epilogue.  
+3. **Tighten the narrative by cutting repetition and stabilizing the implied reader.**
+Chapters touched: all, especially Chapters 7, 8, 12, Epilogue.
 If this lands, the manuscript moves toward major-house commercial nonfiction rather than policy-intellectual longform.
 
 ### 4. Bestseller-Tier Craft Question
@@ -159,16 +159,16 @@ My native verdict: **faithful translation, but with an apologetic streak that oc
 
 ### Three Highest-Leverage Revisions
 
-1. **Move the federal job guarantee from late implication to central institutional answer.**  
-Touched: Preface, Chapter 12, Epilogue.  
+1. **Move the federal job guarantee from late implication to central institutional answer.**
+Touched: Preface, Chapter 12, Epilogue.
 If this lands, the manuscript moves from strong heterodox history to category-leading MMT trade nonfiction.
 
-2. **Tighten the “paired vindication” frame so it does not over-equalize creditor orthodoxy and democratic money.**  
-Touched: Chapters 8, 12, Epilogue.  
+2. **Tighten the “paired vindication” frame so it does not over-equalize creditor orthodoxy and democratic money.**
+Touched: Chapters 8, 12, Epilogue.
 If this lands, the manuscript moves from persuasive to intellectually braver and more faithful to its own tradition.
 
-3. **Cut repeated mechanism recaps and replace them with sharper scene-to-argument transitions.**  
-Touched: Chapters 5, 7, 8, 12.  
+3. **Cut repeated mechanism recaps and replace them with sharper scene-to-argument transitions.**
+Touched: Chapters 5, 7, 8, 12.
 If this lands, the manuscript moves from serious-reader excellence toward broader trade breakout potential.
 
 ### Bestseller-Tier Craft Question
@@ -218,16 +218,16 @@ My honest rating is four stars: intellectually bracing, often beautifully report
 
 ### 3. Three Highest-Leverage Revisions
 
-1. **Make “paired vindication” the explicit organizing device earlier and cleaner.**  
-Touched: Preface, Chapter 8, Chapter 12, Epilogue.  
+1. **Make “paired vindication” the explicit organizing device earlier and cleaner.**
+Touched: Preface, Chapter 8, Chapter 12, Epilogue.
 If it lands, the manuscript moves from strong serious trade nonfiction to category-leading argument-driven nonfiction.
 
-2. **Cut 10–15 percent of repeated explanatory restatement in Chapters 5, 8, and 12.**  
-Touched: Bank of England mechanics, Currency School institutional victory, modern fiat tests.  
+2. **Cut 10–15 percent of repeated explanatory restatement in Chapters 5, 8, and 12.**
+Touched: Bank of England mechanics, Currency School institutional victory, modern fiat tests.
 If it lands, the manuscript moves from “excellent but dense” to genuinely propulsive.
 
-3. **Give Chapter 12 a clearer narrative climax rather than four case-study essays in sequence.**  
-Touched: 2008/Japan, 2021 inflation, Volcker, crypto.  
+3. **Give Chapter 12 a clearer narrative climax rather than four case-study essays in sequence.**
+Touched: 2008/Japan, 2021 inflation, Volcker, crypto.
 If it lands, the ending moves from intellectually satisfying to bestseller-level satisfying.
 
 ### 4. Bestseller-Tier Craft Question
@@ -253,37 +253,37 @@ Setting aside platform and publisher push, I think the manuscript is close to bu
 | Policy clarity | 3.0 | 3.5 | 3.5 | 3.5 | 3.5 | 0.5 | Low median: policy implications are present but arrive late or feel hedged. |
 | Engagement curve | 3.5 | 3.5 | 4.0 | 3.5 | 3.5 | 0.5 | Low median: strong peaks, recurring dips in Chapters 8, 12, and expository recaps. |
 
-Lowest median dimensions: **Commercial viability, Policy clarity, Engagement curve** at 3.5, with **Narrative momentum** close behind at 3.75.  
-Widest disagreement: **Originality / contribution** and **Scholarly apparatus** at 1.0 spread.  
+Lowest median dimensions: **Commercial viability, Policy clarity, Engagement curve** at 3.5, with **Narrative momentum** close behind at 3.75.
+Widest disagreement: **Originality / contribution** and **Scholarly apparatus** at 1.0 spread.
 Dimensions all four reviewers agree are at ceiling: **none**.
 
 ### Part B — Convergent Fix List
 
 **Convergent items**
 
-1. **Cut repeated explanatory restatement and move technical density into cleaner bridges, notes, or appendices.**  
-Named by: acquisitions editor, economic historian, heterodox reviewer, lay reader.  
-Touches: Chapters 5, 7, 8, 12, Epilogue.  
+1. **Cut repeated explanatory restatement and move technical density into cleaner bridges, notes, or appendices.**
+Named by: acquisitions editor, economic historian, heterodox reviewer, lay reader.
+Touches: Chapters 5, 7, 8, 12, Epilogue.
 Tier movement: from serious expert-crossover manuscript to broader, more propulsive trade nonfiction.
 
-2. **Make “paired vindication” earlier, cleaner, and more explicitly load-bearing.**  
-Named by: economic historian, heterodox reviewer, lay reader; adjacent in acquisitions editor’s “paired vindication frame simpler and earlier.”  
-Touches: Preface, Chapter 8, Chapter 12, Epilogue.  
+2. **Make “paired vindication” earlier, cleaner, and more explicitly load-bearing.**
+Named by: economic historian, heterodox reviewer, lay reader; adjacent in acquisitions editor’s “paired vindication frame simpler and earlier.”
+Touches: Preface, Chapter 8, Chapter 12, Epilogue.
 Tier movement: from competent synthesis/strong serious nonfiction to original, category-leading argument-driven nonfiction.
 
-3. **Rebuild the final act, especially Chapter 12, around fewer and clearer climactic tests.**  
-Named by: acquisitions editor, economic historian, lay reader; adjacent in heterodox reviewer’s Chapter 12 policy-payoff critique.  
-Touches: Chapter 12 and Epilogue, especially 2008/Japan, 2021 inflation, Volcker, crypto/CBDCs.  
+3. **Rebuild the final act, especially Chapter 12, around fewer and clearer climactic tests.**
+Named by: acquisitions editor, economic historian, lay reader; adjacent in heterodox reviewer’s Chapter 12 policy-payoff critique.
+Touches: Chapter 12 and Epilogue, especially 2008/Japan, 2021 inflation, Volcker, crypto/CBDCs.
 Tier movement: from intellectually exhaustive ending to bestseller-grade propulsion and payoff.
 
-4. **Strengthen the character/scene spine by letting key figures carry more of the argument.**  
-Named by: acquisitions editor, economic historian, lay reader; adjacent in heterodox reviewer’s “anchor theoretical sections in human scenes.”  
-Touches: Preface; Chapters 3–5; Chapters 7–10; Chapters 11–12.  
+4. **Strengthen the character/scene spine by letting key figures carry more of the argument.**
+Named by: acquisitions editor, economic historian, lay reader; adjacent in heterodox reviewer’s “anchor theoretical sections in human scenes.”
+Touches: Preface; Chapters 3–5; Chapters 7–10; Chapters 11–12.
 Tier movement: from serious economics history to lead trade nonfiction contender.
 
-5. **Improve source transparency for reconstructed scenes and precise claims.**  
-Named by: acquisitions editor, economic historian, heterodox reviewer, lay reader.  
-Touches: Notes on Sources; Chapters 1, 5, 10, 11, 12; scenes involving Todd, Hagedorn, Kono, Terri Smith, Preuß, and other reconstructed private lives.  
+5. **Improve source transparency for reconstructed scenes and precise claims.**
+Named by: acquisitions editor, economic historian, heterodox reviewer, lay reader.
+Touches: Notes on Sources; Chapters 1, 5, 10, 11, 12; scenes involving Todd, Hagedorn, Kono, Terri Smith, Preuß, and other reconstructed private lives.
 Tier movement: from strong trade synthesis to specialist-respectable trade history.
 
 **Unique or persona-specific items**

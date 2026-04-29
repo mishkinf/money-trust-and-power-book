@@ -98,11 +98,10 @@ def main():
         "03-Part-III-Gold-Standard/06-Chapter-6/01-main.md",
         "03-Part-III-Gold-Standard/07-Chapter-7/01-main.md",
         "03-Part-III-Gold-Standard/08-Chapter-8/01-main.md",
-        "03-Part-III-Gold-Standard/09-Chapter-9/01-main.md",
+        "04-Part-IV-Breaking-Beyond/09-Chapter-9/01-main.md",
         "04-Part-IV-Breaking-Beyond/10-Chapter-10/01-main.md",
         "04-Part-IV-Breaking-Beyond/11-Chapter-11/01-main.md",
         "04-Part-IV-Breaking-Beyond/12-Chapter-12/01-main.md",
-        "04-Part-IV-Breaking-Beyond/13-Chapter-13/01-main.md",
         "05-Epilogue/01-main.md",
     ]
     

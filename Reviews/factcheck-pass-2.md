@@ -30,7 +30,7 @@ The mainstream view in current monetary historiography (Selgin 2008, Redish 2000
 4. **The arithmetic.** The guinea fell from 21s 6d (= 258 pence) to 21s (= 252 pence), a reduction of 6 pence.
    - **6/258 = 2.326%** (the reduction as a fraction of the *old* price; this is the standard way to state a percentage decrease)
    - **6/252 = 2.381%** (the reduction as a fraction of the *new* price; this is *not* the standard convention)
-   
+
    The manuscript uses **2.38%**. The correct figure for "a 2.X% reduction in the guinea's official value" is **2.33%** (or, more precisely, **2.326%** rounded to two decimals as **2.33%**). The 2.38% figure is wrong as a percentage decrease.
 
 ### DROP-IN REVISED WORDING (Ch. 6, replaces the chapter-opening passage at lines 14–15 and lines 56–73)

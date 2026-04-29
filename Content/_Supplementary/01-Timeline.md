@@ -196,7 +196,7 @@ March 17 Washington communiqué creates official tier ($35/oz for central banks 
 U.S. gold reserves fallen to ~$10 billion vs. $80 billion foreign dollar liabilities. Britain requests $3 billion transfer August 11. Nixon ends dollar-gold convertibility, calling it "temporary" (it's permanent). Bretton Woods dismantled. By 1973, major currencies float.
 
 ### 1974: Petrodollar System Established
-Following 1973 oil crisis, U.S. Treasury Secretary William Simon negotiates secret agreements with Saudi Arabia: Saudis price oil in dollars and recycle petrodollars into U.S. Treasuries; U.S. provides military protection and arms. Agreement creates structural demand for dollars independent of trade flows, cementing dollar's reserve currency status post-Bretton Woods. By 2024, 80% of oil remains dollar-denominated despite dedollarization efforts.
+Following the 1973 oil crisis, U.S. Treasury Secretary William Simon negotiates agreements with Saudi Arabia: Saudis price oil in dollars and recycle petrodollars into U.S. Treasuries; U.S. provides military protection and arms. The arrangement creates structural demand for dollars independent of trade flows, helping cement the dollar's reserve-currency status after Bretton Woods. The broad pattern persists into the mid-2020s despite recurring dedollarization efforts, though the exact oil-invoicing share should be refreshed before publication if retained.
 
 ### 1971–1978: The 1970s Inflation Crisis
 OPEC oil shocks (1973, 1979) quadruple energy prices, creating supply-driven inflation. Global commodity shortages and wage-price spirals follow. Fed Chairman Arthur Burns correctly diagnoses "cost-push" inflation but lacks tools to address supply constraints—raising interest rates can't produce more oil. Inflation reaches 14.8% by March 1980. Crisis demonstrates that inflation stems from real resource bottlenecks, not simply "too much money," and that monetary policy alone cannot solve supply-side problems.
@@ -242,7 +242,7 @@ Richard Werner conducts first empirical test of money creation, proving banks cr
 Alexandria Ocasio-Cortez cites MMT for Green New Deal funding. Chicago Booth survey of 42 leading economists shows unanimous rejection of MMT claims. Stephanie Kelton's *The Deficit Myth* (2020) becomes bestseller. Ancient chartalist insights—that taxation drives currency demand, sovereigns can't run out of own money—rediscovered after centuries of suppression.
 
 ### 2020–2021: COVID Fiscal Response
-Governments deploy unprecedented spending: U.S. passes $5+ trillion in relief. Initially no inflation (supply and demand both collapsed), but by 2021-22 inflation reaches 9.1% as supply chains disrupt and demand surges. Fed raises rates from 0% to 5.25% in 18 months. Inflation falls to ~3% by 2024 without severe recession—demonstrating fiat system's flexibility when institutions respond.
+Governments deploy unprecedented spending: U.S. passes $5+ trillion in relief. Initially no inflation appears because supply and demand both collapse, but by 2021-22 inflation reaches 9.1% as supply chains break, demand surges, and capacity tightens. The Fed raises rates from near zero to above 5%. Inflation falls back toward roughly 3% by 2024-2026 without a severe recession, demonstrating both fiat flexibility and the need for institutions capable of responding when capacity constraints bind.
 
 ### 2013: Venezuela's Productive Collapse Begins
 Oil production peaks at 3.2 million barrels daily (2013), then collapses to 700,000 bpd (2020)—77% decline. Inflation begins accelerating (56% in 2013, 274% by 2016). Heavy monetary expansion only begins late 2016 in response to vanished export revenue. Dollar-denominated debt ($60 billion) prevents monetary solutions. By 2019: hyperinflation peaks. Pattern replicates Weimar, Zimbabwe—productive capacity destruction precedes money printing.
@@ -253,7 +253,7 @@ Drought decimates soybean exports (crucial dollar earner) as Fed rate increases 
 ### 2020s: Digital Currency Experiments
 Central banks explore CBDCs (Central Bank Digital Currencies). Cryptocurrencies offer decentralized alternatives, but state-backed currencies remain dominant based on taxing power and institutional stability.
 
-### 2010–2024: BRICS Dedollarization Fails to Dent Dominance
+### 2010s-2020s: BRICS Dedollarization Has Not Yet Ended Dollar Dominance
 Despite ambitious initiatives since 2010, dollar reserve share declines glacially from 63.3% to 57.8% over 14 years (0.4 percentage points annually). Dollar remains involved in 88% of FX transactions, 80% of oil trade. Russia-China achieve 99% local currency trade only under sanctions duress. India-Russia oil trade dysfunctional (Russia accumulates unusable rupees). Network effects and path dependency maintain dollar primacy despite political will for alternatives.
 
 ---

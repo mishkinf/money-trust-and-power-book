@@ -8,17 +8,13 @@ In July 1944, 730 delegates from 44 nations gathered at the Mount Washington Hot
 
 ## **Sources & Further Reading**
 
-**Contemporary Context - China's Dollar Trap:**
-43a. U.S. Department of the Treasury. "Major Foreign Holders of Treasury Securities." Treasury International Capital (TIC) System, March 2025. https://ticdata.treasury.gov/. [China holdings $765-800 billion, down from peaks; total foreign holdings $9.05 trillion]
-43b. U.S. Government Accountability Office. "Troubled Asset Relief Program: Lifetime Cost." Report GAO-24-107033, December 2023; U.S. Congressional Budget Office. "Report on the Troubled Asset Relief Program—April 2024." April 2024. [Federal Reserve foreign currency swap lines peaked at $583 billion December 2008 across 14 central banks; all repaid with no losses]
-
 **Bretton Woods Conference:**
 43. Steil, B. (2013). *The Battle of Bretton Woods: John Maynard Keynes, Harry Dexter White, and the Making of a New World Order.* Princeton University Press.
 
 **Keynes's voice and physical state at Bretton Woods:**
 49ᵃ⁻². Keynes's elevated rhetoric at the conference — "wisdom, statesmanship, and good will" / "world community" framing — appears in the official conference proceedings: U.S. Department of State, *Proceedings and Documents of the United Nations Monetary and Financial Conference, Bretton Woods, New Hampshire, July 1–22, 1944*, Vol. I (Washington, D.C.: U.S. Government Printing Office, 1948), opening session remarks. His "little Englandism" framing of the alternative is from his House of Lords defense of the Bretton Woods agreements, reproduced in U.S. Senate Committee on Banking and Currency, *Bretton Woods Agreements Act: Hearings on H.R. 3314* (1945). Skidelsky, R. (2000). *John Maynard Keynes: Fighting for Freedom, 1937–1946* (New York: Viking), volume 3 of the Keynes biography, treats the rhetorical register and its evolution across the 1944–46 period.
 
-49ᵃ⁻³. Keynes's deteriorating health at the conference. The 1937 heart attack and its aftermath in Skidelsky (2000), op. cit. The "edge of a precipice" assessment of his condition during Bretton Woods is recorded in colleagues' contemporary accounts (Robbins's diary entries cited at 43a; further detail in Steil 2013, pp. 233-276 cited at 43b, including the July 19, 1944 collapse on the hotel stairs). The narrative reconstruction here keeps the substantive observations but does not assign the "edge of a precipice" formulation to a specific named source pending exact attribution at typeset.
+49ᵃ⁻³. Keynes's deteriorating health at the conference. The 1937 heart attack and its aftermath in Skidelsky (2000), op. cit. The "edge of a precipice" assessment of his condition during Bretton Woods is recorded in colleagues' contemporary accounts (Robbins's diary entries cited at 43a; further detail in Steil 2013, pp. 233-276 cited at 43b, including the July 19, 1944 collapse on the hotel stairs). The narrative reconstruction follows those accounts while avoiding a medical-causation claim stronger than the sources support.
 
 **Lionel Robbins at Bretton Woods - British Humiliation:**
 43a. Robbins, Lionel. (1990). *The Wartime Diaries of Lionel Robbins and James Meade, 1943-45.* Edited by Susan Howson and Donald Moggridge. Macmillan. [Diary entries from July 1-22, 1944, Mount Washington Hotel conference; digitized at LSE Library ROBBINS/6/1/2]
@@ -68,9 +64,10 @@ In July 1944, 730 delegates from 44 nations gathered at the Mount Washington Hot
 - Source: U.S. Department of the Treasury, Annual Report of the Secretary of the Treasury (1950)
 - Federal Reserve historical statistics via FRED database
 
-53c-e. Foreign dollar claims exceeded U.S. gold reserves by 1962
+53c-e. Foreign dollar claims exceeded U.S. gold reserves between 1962 and 1964, depending on whether the measure includes official holdings alone, private liquid claims, and offshore eurodollars.
 - Source: Triffin, R. (1960). *Gold and the Dollar Crisis*, pp. 47-68
 - International Monetary Fund, *International Financial Statistics* (1962)
+- Bordo, M. D., & McCauley, R. N. (2019). "Triffin: Dilemma or Myth?" *IMF Economic Review,* 67, 824–851.
 
 53g-h. 1966 gold reserves: **$13.2 billion**; Central bank dollar holdings: **$14 billion** (94% backing ratio)
 - Source: Federal Reserve Bulletin, March 1967, "U.S. International Transactions"
@@ -79,10 +76,11 @@ In July 1944, 730 delegates from 44 nations gathered at the Mount Washington Hot
 53i. March 1968 gold reserves: **$10.7 billion** (after London Gold Pool hemorrhaged $3 billion)
 - Source: Bordo, M. D., Monnet, E., & Naef, A. (2017). "The Gold Pool (1961–1968) and the Fall of the Bretton Woods System." NBER Working Paper No. 24016
 
-53j. August 15, 1971 final figures: **$10 billion** gold reserves vs. **$80 billion** foreign dollar liabilities (12.5% backing ratio)
+53j. August 15, 1971 final figures: about **$10 billion** in U.S. gold reserves against several multiples of that amount in foreign dollar claims; estimates vary by definition of foreign liabilities, with official/near-liquid claims commonly placed around **$40-50 billion** and broader measures higher.
 - Source: Nixon, R. M. (1971). "Address to the Nation Outlining a New Economic Policy." August 15, 1971
 - Federal Reserve Bulletin, September 1971
 - Gowa, J. (1983). *Closing the Gold Window: Domestic Politics and the End of Bretton Woods.* Ithaca: Cornell University Press, pp. 67-92
+- Bordo, M. D., & McCauley, R. N. (2019). "Triffin: Dilemma or Myth?" *IMF Economic Review,* 67, 824–851.
 
 53g. Britain's **$3 billion** conversion request (August 11, 1971) and Volcker quote: "If the British…were going to take gold for their dollars, it was clear the game was indeed over."
 - Source: Volcker, P. A., & Gyohten, T. (1992). *Changing Fortunes: The World's Money and the Threat to American Leadership.* New York: Times Books, p. 76

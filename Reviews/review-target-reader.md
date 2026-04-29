@@ -135,19 +135,19 @@ That said: I trusted him. He showed his work, he attributed his sources, he gave
 
 ## 6. THE FIVE SENTENCES THAT STAYED WITH ME
 
-1. **"Money has always been more than a medium of exchange. It is a mirror of power, law, and collective belief."**  
+1. **"Money has always been more than a medium of exchange. It is a mirror of power, law, and collective belief."**
 That's the epigraph. By the end of the book it had earned itself.
 
-2. **"He who wills the end wills the means. What now faces the Government is the ticklish task of carrying out their own dangerous and unnecessary decision."**  
+2. **"He who wills the end wills the means. What now faces the Government is the ticklish task of carrying out their own dangerous and unnecessary decision."**
 Keynes on Churchill in 1925, quoted in Chapter 10. It's not the author's sentence but the author chose it. It's about Churchill, but it's also about every politician who ever insisted there was no alternative.
 
-3. **"The decision was hailed as the restoration of British honour, the symbol that the disruptions of the Great War had been temporary and could now be put aside."**  
+3. **"The decision was hailed as the restoration of British honour, the symbol that the disruptions of the Great War had been temporary and could now be put aside."**
 And then the next paragraphs are Harry Todd's family snaring birds for food. That juxtaposition — "honour" set against the actual cost — is the book's central moral move and it does it without sermonizing.
 
-4. **"He had been Chancellor of the Exchequer for four months and was meant to be making his decision now... He saw the contradiction. He wrote it down."**  
+4. **"He had been Chancellor of the Exchequer for four months and was meant to be making his decision now... He saw the contradiction. He wrote it down."**
 About Churchill, March 1925. There's something terrible in "he saw the contradiction. He wrote it down." And then he did it anyway. That sentence does in twelve words what some history books take chapters to do.
 
-5. **"The lesson of history is direct: trust the institutions, not the metal. But more than that: build institutions worthy of trust."**  
+5. **"The lesson of history is direct: trust the institutions, not the metal. But more than that: build institutions worthy of trust."**
 The closing. I don't fully buy it as a prescription — the book itself shows how often institutions get captured — but as a *summary* of what the five thousand years are teaching us, it works. It's the line I'll quote.
 
 What they did for me: They were the moments where the book's argument and its prose were doing the same work at the same time. Most of the book is either argument or prose; in those sentences, the two snapped together.

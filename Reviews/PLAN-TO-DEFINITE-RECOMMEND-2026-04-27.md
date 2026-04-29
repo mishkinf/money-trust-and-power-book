@@ -57,7 +57,7 @@
    - `the verdict has been delivered`, `settled the debate`, `the question is closed`
    - `lineal descendant`, `the latest version of`
    - `powerful interests`, `creditor cabal`
-   
+
    Most won't survive the test. Many can be rewritten as the same factual claim in a calmer register: "designed to transfer wealth" → "had the effect of transferring wealth"; "buried truth" → "argument that fell out of public discourse"; "institutional capture" → "Overstone's network gradually dominated the institutions that mattered."
 
 2. **Pattern fix on villain framing.** Every orthodox actor cast as villain gets at least one sentence of their best argument in their own voice before judgment lands. Specifically:
@@ -71,7 +71,7 @@
    - Here is what the historical record shows.
    - Here are the open questions (FTPL, public-choice limits on fiscal rules, what fiat actually risks).
    - Here is what fiat enables and what it has not yet been tested against.
-   
+
    Drop "the verdict" register entirely from the Epilogue. The tone should match the historian's "warm strong recommendation" target.
 
 4. **Politics-by-evidence test.** For each major political claim in the manuscript, ask: *would Tooze let the evidence carry this without saying it aloud?* Where yes — cut the claim, trust the evidence. Where the claim must be made — qualify it. Tooze's *Crashed* is leftward but never says so; the politics emerge from which crises he covers, which actors he holds responsible, which institutions he interviews. The model.
@@ -145,7 +145,7 @@ Three of five reviewers (historian, conservative, economist) implicitly wanted m
   - Harry Todd / Boldon Colliery 1926 (Ch. 9)
   - The Klemperers / Aunt Berta / 1923 (Ch. 12)
   - The Hagedorn farm (Ch. 12)
-  
+
   Trim or cut the secondary set pieces (Godeffroy, Lebesque, Cantwell, Heslop, Kantor, Kono in their current depth). They're each fine; collectively they overload. Estimated trim: 3,000–4,000 words.
 - **Tighten Ch. 8.** Attwood biographical material and the Overstone institutional-network section currently overlap. One pass through with the goal of saying each thing once. Estimated trim: 500–1,000 words.
 - **Do NOT merge Chs. 10 and 11** as the original plan suggested. Keynes-vs-White at Bretton Woods and the breaking-of-Bretton-Woods are distinct narrative arcs that work better at chapter resolution than as one combined chapter. The original merge proposal was driven by the absolute-length cut target that this revision drops.

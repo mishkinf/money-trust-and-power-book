@@ -69,7 +69,7 @@ Lines connect each country bank up to the Bank of England, labeled "convertibili
 
 ### Figure 1.1 — The Dominance of Credit Money Across 5,000 Years
 **Placement:** In the section "Visual: Five Millennia of Monetary Innovation."
-**Specification:** Horizontal timeline (3000 BCE → 2024 CE). Long bar (3000 BCE–1717 CE) labeled "Credit money: temple credits, tally sticks, early paper." Short bar (1717–1971) labeled "Gold standard anomaly: 254 years." Bar from 1971 onward labeled "Pure fiat: return to credit-based money."
+**Specification:** Horizontal timeline (3000 BCE → present). Long bar (3000 BCE–1717 CE) labeled "Credit money: temple credits, tally sticks, early paper." Short bar (1717–1971) labeled "Gold standard anomaly: 254 years." Bar from 1971 onward labeled "Pure fiat: return to credit-based money."
 **Caption:** "Credit money dominated roughly 4,750 of the past 5,000 years. The gold standard from 1717 to 1971 was a 254-year deviation, not a baseline."
 
 ---
@@ -103,44 +103,44 @@ Lines connect each country bank up to the Bank of England, labeled "convertibili
 
 ---
 
-## Chapter 9: Manufacturing Orthodoxy
+## Chapter 8: The Great Forgetting
 
-### Figure 9.1 — Notes vs. Deposits: Functionally Identical Money
+### Figure 8.1 — Notes vs. Deposits: Functionally Similar Money
 **Placement:** In the "Peel's Tragic Error" section.
-**Specification:** Two-column comparison. Left column: "Bank Note (visible)" — physical paper, promises to pay £5 on demand, bearer transferable, accepted for debts, created when bank lends, **regulated by 1844 Act**. Right column: "Bank Deposit (invisible)" — ledger entry, promises to pay £5 on demand, transferable by check, accepted for debts, created when bank lends, **not regulated**. Footnote: by 1900, deposits = 99.91% of transactions, notes = 0.09%.
-**Caption:** "The 1844 Act meticulously regulated the form of money that became irrelevant while ignoring the form that came to dominate. Form changed; function was identical."
+**Specification:** Two-column comparison. Left column: "Bank Note (visible)" — physical paper, promise to pay on demand, bearer transferable, accepted in settlement, created when a bank lends, **regulated by the 1844 Act**. Right column: "Bank Deposit (less visible)" — ledger entry, promise to pay on demand, transferable by check, accepted in settlement, created when a bank lends, **not directly constrained by the note-issue rule**. Footnote: by 1900, English payments by value were overwhelmingly settled through deposits and checks rather than notes; exact denominator pending final source check.
+**Caption:** "The 1844 Act meticulously regulated the visible form of bank money while the less visible form came to dominate. The legal form changed; the monetary function endured."
 
 ---
 
-## Chapter 10: The Interwar Catastrophe
+## Chapter 9: The Interwar Catastrophe
 
-### Figure 10.1 — Gold-Standard Exit and Recovery, 1929–1937
+### Figure 9.1 — Gold-Standard Exit and Recovery, 1929–1937
 **Placement:** After the "Roosevelt's revolution" section.
 **Specification:** Line graph, real GDP indexed to 1929 = 100, six countries, 1929–1937. Vertical markers showing each country's date of leaving gold. Color coding: green for early leavers (Britain, Sweden, Japan in 1931), yellow for mid leavers (U.S. March 1933), red for late leavers (France September 1936). Key endpoints by 1937: Britain +16.4%, U.S. +5.3%, Germany +17%, France still below 1929. Annotation: "Each year of delay cost roughly 5–7% of growth."
-**Caption:** "Countries that abandoned gold earlier recovered faster. The correlation across fifty countries was mechanical and remorseless. The gold standard transmitted the Depression."
+**Caption:** "Countries that abandoned gold earlier recovered faster. The gold standard transmitted the Depression by forcing adjustment through prices, wages, and output."
 **Sources:** Eichengreen, *Golden Fetters* (1992).
 
 ---
 
-## Chapter 11: Bretton Woods
+## Chapter 11: The Breaking of Bretton Woods
 
 ### Figure 11.1 — The Triffin Dilemma in Numbers
-**Placement:** After the "Bancor vs. Dollar" comparison section.
+**Placement:** After the Triffin/dollar-overhang section.
 **Specification:** Two-line chart, 1949–1971. Line A (descending): U.S. gold reserves ($24.6B in 1949 → $13.2B in 1966 → $10.7B after March 1968 → $10B in August 1971). Line B (ascending): Foreign dollar liabilities ($8–10B in 1949 → ~$14B in 1966 → $80B in August 1971). Crossover labeled at 1962. Vertical markers: 1959 (Triffin warns), March 1968 (Gold Pool collapses), August 11 1971 (Britain's $3B request), August 15 1971 (gold window closed).
-**Caption:** "World trade grew exponentially, gold supply linearly. Foreign dollar claims first exceeded U.S. gold reserves in 1962; by August 1971 the backing ratio was 12.5 percent. Collapse was arithmetic, not policy error."
+**Caption:** "World trade required more dollars than the gold promise could credibly redeem. Arithmetic made the system unstable; politics and policy determined the path by which it broke."
 **Sources:** Triffin (1959); IMF historical statistics.
 
 ---
 
-## Chapter 13: The Age of Pure Fiat
+## Chapter 12: The Age of Pure Fiat
 
-### Figure 13.1 — Federal Reserve Balance Sheet, 2007–2022
+### Figure 12.1 — Federal Reserve Balance Sheet, 2007–2022
 **Placement:** Replaces the inline ASCII chart in the QE section.
 **Specification:** Area chart, Fed total assets in trillions of dollars, 2007–2022. Key inflection points: Dec 2007 = $0.9T; Dec 2008 = $2.2T (Bear/Lehman/TARP); Dec 2014 = $4.5T (QE3 ends); Dec 2019 = $4.2T (pre-COVID); Dec 2020 = $7.4T (COVID response); Jun 2022 = $9.0T (peak); Dec 2022 = $8.6T (QT begins). Secondary axis: % of GDP (6.05% pre-crisis → 34.67% peak). Shaded bands show QE1, QE2, QE3, COVID response. Inflation overlay: 2010–2014 average = 1.4% (low); 2022 peak = 9.1%.
 **Caption:** "The same monetary tool, opposite results. The 2008–2014 expansion ($3.6T) caused minimal inflation because capacity was idle. The 2020–2022 expansion ($4.7T) hit binding supply constraints. The constraint is real resources, not money itself."
 **Sources:** FRED series WALCL; Federal Reserve H.4.1; BEA GDP series.
 
-### Figure 13.2 — Money vs. Real Resources: Three Scenarios
+### Figure 12.2 — Money vs. Real Resources: Three Scenarios
 **Placement:** In the "Real Constraint" section.
 **Specification:** Three-panel illustration. Panel 1: "Below Capacity" — concert hall with 100 seats, 70 people, 30 empty seats; government adds 30 tickets, fills hall, no inflation. Panel 2: "At Full Capacity" — 100 seats, 100 people; 50 extra tickets bid up seat prices; inflation. Panel 3: "Capacity Destroyed" — burning concert hall, only 20 seats remain, 100 tickets outstanding; hyperinflation. Below panels, contrast: "Gold standard = arbitrary ticket limit unrelated to seats. Fiat = tickets adjustable to match available seats."
 **Caption:** "Money is the ticket. Real resources are the seats. The constraint is always seats — not tickets."

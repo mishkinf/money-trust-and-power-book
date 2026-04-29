@@ -4,83 +4,59 @@
 
 ### July 1944: The Mount Washington Hotel
 
-One month after D-Day, as Allied forces fought across Normandy, 730 delegates from 44 nations gathered at the Mount Washington Hotel in Bretton Woods, New Hampshire. The timing was deliberate—the Allies were winning the war, and America was determined to win the peace. Organizers scheduled the conference for July 1-22, 1944, but extended it three days as delegates argued over details already decided in Washington.
+One month after D-Day, as Allied forces fought across Normandy, 730 delegates from 44 nations gathered at the Mount Washington Hotel in Bretton Woods, New Hampshire. The timing was deliberate—the Allies were winning the war, and America was determined to win the peace. The conference ran from July 1 to July 22, 1944, while delegates argued over details whose governing frame had already been largely decided in Washington.
 
-The Mount Washington Hotel, isolated in New Hampshire's White Mountains, offered spectacular views and no easy exit. Delegates arrived to find what Lionel Robbins, head of Britain's Economic Section of the War Cabinet, called "glorious confusion." The Americans, despite their "virtues as technicians," were, as Robbins noted in his private diary, "not good organisers of international conferences. The administration here is quite incredibly bad." But the chaos served American purposes perfectly—it gave them control while appearing merely incompetent.
+The Mount Washington Hotel, isolated in New Hampshire's White Mountains, offered spectacular views and no easy exit. Delegates arrived to find what Lionel Robbins, head of Britain's Economic Section of the War Cabinet, called "glorious confusion." The Americans, despite their "virtues as technicians," were, as Robbins noted in his private diary, "not good organisers of international conferences. The administration here is quite incredibly bad." Whether by design or bureaucratic habit, the chaos served American purposes: the hosts controlled the rooms, the papers, the schedule, and the pace at which objections could be organized.
 
-The isolation was strategic. Delegates couldn't easily consult their governments before committing to positions. Conference organizers controlled the agenda, the documents, and the timeline. Mail was slow, transatlantic calls expensive and monitored. Decisions made at the Mount Washington Hotel would be difficult to reverse once delegates returned home. This wasn't an accident of location—it was careful design.
+The isolation mattered. Delegates could not easily consult their governments before committing to positions. Mail was slow, transatlantic calls expensive and monitored. Decisions made at the Mount Washington Hotel would be difficult to reverse once delegates returned home.
 
-The ostensible purpose was designing the postwar international monetary system through collaborative negotiation between sovereign equals. The real purpose was securing American monetary dominance while creating enough appearance of consultation to ensure other nations would ratify what had already been decided in Washington. What looked like a conference was actually a carefully choreographed demonstration of American power.
+The ostensible purpose was designing the postwar international monetary system through collaborative negotiation between sovereign equals. The underlying reality was harsher: the United States held the gold, the industrial capacity, and the creditor position, and it used those advantages to secure a dollar-centered order while preserving enough consultation to make the agreement ratifiable abroad. What looked like a conference was also a demonstration of American power.
 
-**The Power Asymmetry**
+#### The power asymmetry
 
-The numbers told the story. The United States held approximately $20.6 billion of the world's monetary gold—roughly 75-80% of global reserves. Britain, by contrast, faced crushing wartime debts: having received approximately $20-22 billion in cumulative Lend-Lease aid by June 1944, plus £1.3 billion in sterling balances owed to India and other colonies. British gold and dollar reserves stood at only $1.5-2.0 billion—less than 10% of American holdings.
+The numbers told the story. The United States held approximately $20.6 billion of the world's monetary gold—roughly 75-80% of global reserves. Britain faced crushing wartime debts: approximately $20-22 billion in cumulative Lend-Lease aid by June 1944, plus £1.3 billion in sterling balances owed to India and other colonies. British gold and dollar reserves stood at only $1.5-2.0 billion—less than 10% of American holdings.
 
 The military situation reinforced financial realities. American factories operated at full capacity while British industry had been bombed. American troops were fed, British cities rationed. The United States was creditor; Britain was debtor. As Robbins would confess to American Treasury official Fred Vinson: "We know we will be beaten and we hope to avoid being humiliated." The distinction between defeat and humiliation would prove meaningless. Britain experienced both.
 
-**The Central Figures**
+#### The central figures
 
 John Maynard Keynes, 61, led the British delegation. The most famous economist of his generation — whose 1919 *Economic Consequences of the Peace* had predicted Versailles Treaty disaster and whose 1936 *General Theory* had revolutionized macroeconomics — arrived at Bretton Woods with an ambitious proposal. The bancor: a supranational currency that would make gold obsolete and create symmetric adjustment between creditor and debtor nations. It was elegant, economically sound, and politically impossible.
 
 The voice Keynes brought to the conference was the elevated, almost civilizational register he had cultivated across two decades of public economic argument. The task before the delegates, he told the opening session, required "wisdom, statesmanship, and good will" sufficient to build a "world community" out of the war's wreckage; the architecture they put in place would have to embed creditor-country responsibility as much as debtor-country discipline. The alternative he was arguing against was not just American provincialism but what he would later, in his House of Lords defense of the agreements, call "little Englandism" — the temptation of victorious nations to retreat into closed economic systems behind protective walls.
 
-The body that carried that voice was visibly failing. Keynes had nearly died of a heart attack in 1937 and the wartime Treasury work had not let him recover. His colleagues on the British delegation watched him through July 1944 with mounting concern; one observer recorded that Keynes's health stood "on the edge of a precipice," and the marathon late-night sessions at the Mount Washington Hotel pushed him visibly closer to it. He came to Bretton Woods believing intellectual force and moral argument could still shape the postwar order. The architecture that emerged — and the heart attack he suffered on the hotel stairs on July 19 — would test that belief to its limit.
+The body that carried that voice was visibly failing. Keynes had nearly died of a heart attack in 1937 and the wartime Treasury work had not let him recover. His colleagues on the British delegation watched him through July 1944 with mounting concern; one observer recorded that Keynes's health stood "on the edge of a precipice," and the conference's relentless schedule pushed him visibly closer to it. He came to Bretton Woods believing intellectual force and moral argument could still shape the postwar order. The architecture that emerged — and the heart attack he suffered on the hotel stairs on July 19 — would test that belief to its limit.
 
-Harry Dexter White, 52, represented the United States as Assistant Secretary of the Treasury. Less famous than Keynes but holding the leverage that mattered: American gold, American factories, American power. Methodical, bureaucratic, and completely clear about his mission. His alternative to bancor was simpler: make the dollar the world's reserve currency, backed by American gold at $35 per ounce. No need for supranational institutions when the United States already dominated.
+Harry Dexter White, 52, represented the United States as Assistant Secretary of the Treasury. Less famous than Keynes but holding the leverage that mattered: American gold, American factories, American power. Methodical, bureaucratic, and completely clear about his mission. His alternative to bancor was simpler: make the dollar the world's reserve currency, backed by American gold at $35 per ounce. The simplicity mattered. A dollar-centered fund could be administered through existing banking networks, funded by a state with unmatched resources, and sold to Congress more easily than a new supranational currency with automatic charges on surplus countries. It also placed the United States at the center.
 
 White understood the negotiating dynamic perfectly. As he told his delegation, U.S. gold reserves in Fort Knox were "why the United States is in an enviable position...why we are in a powerful position in this Conference...why we dominate practically the financial world, because we have the where-with-all to buy any currency we want." When discussing whether to press their advantage, Treasury Secretary Morgenthau was explicit: "Now the advantage is ours here, and I personally think we should take it." White agreed: "If the advantage was theirs, they would take it."
 
-The conference outcome was never in doubt. As the New York World-Telegram noted with characteristic American directness: "The kid who owns the ball is usually captain."
+Keynes had intellectual prestige. White had the balance sheet.
 
 ### Inside the Conference: Power Disguised as Negotiation
 
-On July 1, American officials distributed pre-drafted proposals for the International Monetary Fund already reflecting American positions on voting weights, governance structure, and reserve currency status—documents finalized at the Atlantic City preliminary conference just days earlier. British delegates arrived expecting genuine negotiation but found, as Lionel Robbins confided to U.S. Treasury official Fred Vinson, "We know we will be beaten and we hope to avoid being humiliated."
+On July 1, American officials distributed pre-drafted proposals for the International Monetary Fund already reflecting American positions on voting weights, governance, and reserve currency status.
 
-**The Keynes-White Dynamic**
-
-While Keynes commanded intellectual attention—delegates still quoted his 1919 prediction of Versailles disaster—White controlled the procedural machinery that determined outcomes. Committee assignments, working group agendas, document drafting schedules, the timing of votes: all flowed through White's hands as chairman of Commission I. The power dynamic became visible in small moments that revealed the larger truth.
+Keynes commanded intellectual attention. White controlled the procedural machinery. Committee assignments, working group agendas, document schedules, and the timing of votes flowed through White's hands as chairman of Commission I.
 
 When Keynes protested an American draft in October 1943 preliminary negotiations—"This is intolerable. It is yet another Talmud. We had better simply break off negotiations"—White's reply dripped with condescension: "We will try to produce something which Your Highness can understand." The great economist was being dismissed as too simple-minded to grasp American proposals. The insult was calculated.
 
-**White's Strategy of Procedural Control**
-
 White was explicit about his strategy with Treasury Secretary Morgenthau and his own team. As chairman of Commission I, he aimed "to prevent coming to a vote on matters which he doesn't wish to come to a vote on, and in general arranging the discussion in such a way that we are never caught with an agreement among the Commission on something we don't want."
 
-This wasn't hidden manipulation—it was deliberate procedural dominance exercised in plain sight. White would recognize speakers who supported American positions, extend time for working groups developing proposals Washington favored, and call votes when momentum favored U.S. interests. When opposition coalesced, he would table discussion, refer issues to subcommittees, or declare them beyond the commission's scope.
+This was procedural dominance exercised in plain sight. White could recognize speakers, manage working-group time, delay votes, redirect disputes to subcommittees, and absorb objections into drafting. The conference's physical rhythm reinforced the advantage: sessions ran morning to night, working groups met through meals, and delegates reviewed technical documents late into the evening. Keynes, already exhausted, found the pace devastating.
 
-The physical toll reinforced his control. Conference sessions ran morning to night. Working groups met through meals. Delegates received hundreds of pages of technical documents requiring evening review for the next day's sessions. Keynes, already exhausted from wartime Treasury work, found the pace devastating. Robbins noted the "glorious confusion" served American purposes—exhausted delegates made fewer objections, sought quicker resolutions, signed what was put before them.
+#### The bancor's procedural death
 
-The rushed final proceedings, combined with Keynes's heart attack on July 19, gave White maximum leverage at the critical moment. British delegation leadership was literally incapacitated while final agreements required signatures.
+Keynes's International Clearing Union — the bancor system with symmetric adjustment — never came to a vote at Bretton Woods. It had been killed in preliminary negotiations before delegates reached New Hampshire. The April "Joint Statement by Experts" already reflected White's IMF proposal more than Keynes's ICU. The May invitations described the conference as a meeting to formulate proposals for an International Monetary Fund, not to choose among alternative currency systems. At Atlantic City in June, American Treasury lawyers and selected delegates finalized draft Articles for the IMF and World Bank. When delegates arrived on July 1, the documents and committee structure already embodied the American frame:
 
-**The Bancor's Procedural Death**
+- Commission I: The Fund (President: Harry Dexter White)
+- Commission II: The Bank (President: John Maynard Keynes)
+- Commission III: Other Measures of International Financial Cooperation
 
-Keynes's International Clearing Union—the bancor system with symmetric adjustment—never came to a vote at Bretton Woods. It had already been killed in preliminary negotiations months before delegates arrived in New Hampshire. Understanding how requires looking at the timeline:
+White chaired the Fund, where the monetary system would be built. Keynes chaired the Bank, focused on reconstruction lending. The International Clearing Union, if mentioned at all, belonged to Commission III's "other measures."
 
-**April 21, 1944:** The "Joint Statement by Experts on the Establishment of an International Monetary Fund" was published. This document, presented as a compromise between British and American positions, already reflected White's IMF proposal much more than Keynes's ICU. The bancor as supranational currency had vanished from the agenda. Symmetric adjustment was gone. What remained was a dollar-centered fund with limited resources.
+The working groups could debate voting quotas, governance structures, and drawing rights. They could not reopen the fundamental architecture: dollar reserve status, limited fund resources, asymmetric adjustment. Bancor no longer had an institutional home.
 
-**May 25, 1944:** The United States issued formal invitations to the Bretton Woods Conference. The invitation specified that delegates would meet "for the purpose of formulating definite proposals for an International Monetary Fund." No mention of the International Clearing Union. No mention of alternative currency systems. The agenda had been set before anyone arrived.
-
-**June 15-30, 1944:** The Atlantic City preliminary conference finalized draft documents. American Treasury lawyers worked with select delegates to prepare Articles of Agreement for the IMF and World Bank. The working documents used "gold-convertible exchange" throughout—language that would later be explicitly defined as meaning U.S. dollars.
-
-**July 1, 1944:** When delegates arrived at Bretton Woods, they received pre-drafted documents embodying American positions on voting weights, governance, and currency arrangements. The conference structure reinforced this:
-
-- **Commission I:** The Fund (President: Harry Dexter White)
-- **Commission II:** The Bank (President: John Maynard Keynes)
-- **Commission III:** Other Measures of International Financial Cooperation
-
-The symbolism was clear. White would chair discussions of the monetary system—the Fund that would use dollars as reserves. Keynes was relegated to the World Bank, focused on reconstruction lending. The International Clearing Union, if mentioned at all, belonged to Commission III's "other measures."
-
-The conference proceeded to discuss details of the Fund and Bank. Voting quotas. Governance structures. Drawing rights. All within the framework of White's dollar-centered system. Keynes could propose amendments to IMF articles, but the fundamental architecture—dollar as reserve currency, limited fund resources, asymmetric adjustment—was not open for debate.
-
-When British delegates raised features of the bancor system, American chairs ruled them "out of scope" from working groups focused on IMF implementation. The distinction was devastating: working groups discussed "how" the IMF would function, not "whether" it should exist instead of alternatives.
-
-**Why Smaller Nations Supported This**
-
-Smaller countries understood the power dynamic. They faced anticipated "dollar shortages"—insufficient dollar reserves to pay for imports from the United States. Access to IMF loans required supporting the American plan. Post-war reconstruction assistance would flow through American-controlled institutions. Antagonizing Washington meant risking exclusion from the emerging financial architecture.
-
-As one Latin American delegate privately acknowledged, his government instructed him to vote with the United States on all major issues. The Americans had the gold, the industrial capacity, and the military power. Opposition would be remembered.
-
-**July 13: The Decisive Moment**
+#### July 13: the decisive moment
 
 The turning point came on July 13, 1944, during a Commission I session discussing the IMF's Articles of Agreement. The draft document referred repeatedly to "gold and gold-convertible exchange" as the assets countries could use to meet their obligations to the Fund. But what, exactly, did "gold-convertible exchange" mean?
 
@@ -92,7 +68,7 @@ Edward Bernstein of the U.S. delegation replied with careful vagueness: "Mr Chai
 
 The answer was elegant in its evasiveness. "Easier for this purpose" suggested temporary convenience rather than permanent architecture. But everyone in the room understood the implication. The IMF would operate in dollars. Countries would hold dollars as reserves. The dollar was being placed at the center of the postwar monetary system—not through formal vote or explicit provision, but through linguistic sleight of hand.
 
-What happened next revealed the depth of British defeat. Dennis Robertson of the British delegation—notably, not Keynes—then proposed formal language for the Articles: "payment of official gold and subscription should be expressed official holdings of gold and United States dollars."
+What happened next revealed the depth of British defeat. Dennis Robertson of the British delegation — notably, not Keynes — then proposed formal language for the Articles: "payment of official gold and subscription should be expressed official holdings of gold and United States dollars."
 
 A British delegate had just enshrined dollar dominance in the text. Why?
 
@@ -100,11 +76,9 @@ The answer lay in the fractures within the British Empire. India, represented by
 
 Robertson, recognizing that sterling couldn't serve as a reserve currency in Britain's weakened state and that blocking dollar provisions would leave India unprotected, chose to accept American dominance explicitly rather than fight a battle Britain had already lost. It was capitulation dressed as pragmatism.
 
-The irony was profound: It was not Americans who formally placed the dollar at the system's center but a fissure within the British Empire (India seeking protection from sterling weakness) and a British economist acknowledging that only the dollar had sufficient strength. American power had been so complete that Britain's own delegates enacted American preferences.
+The irony was sharp: American power had been so complete that Britain's own delegates enacted American preferences.
 
-**What "Compromise" Actually Meant**
-
-American negotiators offered tactical concessions to create the appearance of give-and-take: Fund size increased to $8.5 billion (Keynes had wanted $26 billion), and a "scarce currency clause" that allowed rationing currencies in short supply, theoretically applicable to dollars but never actually used. These concessions cost America nothing. The core architecture remained unchanged — dollar-centered, American-controlled, designed to prevent the symmetric adjustment Keynes's bancor would have imposed. By the time 730 delegates had debated and signed, the appearance of democratic negotiation was complete and the reality was that American gold reserves had dictated outcomes before the first delegate arrived.
+American negotiators offered tactical concessions: Fund size increased to $8.5 billion, still far below Keynes's $26 billion preference, and a "scarce currency clause" allowed rationing currencies in short supply, theoretically applicable to dollars but never actually used. The core architecture remained unchanged — dollar-centered, American-controlled, and designed without the symmetric adjustment Keynes's bancor would have imposed.
 
 ---
 
@@ -116,43 +90,27 @@ Keynes's International Clearing Union proposed a supranational currency — the 
 
 White's Stabilization Fund proposed the opposite: the U.S. dollar as the world's primary reserve currency, convertible to gold at $35 an ounce — but only for foreign central banks and governments, not for private citizens. IMF resources were finite ($8.5 billion initial quota); dollar shortages were not just possible but inevitable. The adjustment mechanism was asymmetric: deficit countries would face IMF conditionality, surplus countries faced nothing. White was explicit with his delegation about why: "We have been perfectly adamant on that point. We have taken the position of absolutely no, on that." Voting at the IMF was weighted by quota contributions, with the United States holding effective veto power.
 
-The mathematical contradiction in White's design was the **Triffin dilemma**, and Robert Triffin would not formalize it until 1959 — but the arithmetic was visible to anyone in the conference rooms in 1944 who chose to see it. The world needed an expanding supply of dollars to settle a growing volume of trade. But every additional dollar held abroad as reserves was a dollar the United States had promised to redeem in gold at a fixed price. As world trade grew exponentially and the U.S. gold stock grew linearly, the ratio between outstanding dollar claims and underlying reserves had to deteriorate. Once foreign claims exceeded American gold, the convertibility promise became a target rather than a guarantee. Bancor would have eliminated the contradiction structurally; the dollar standard built it in.
+The mathematical contradiction in White's design was the Triffin dilemma, and Robert Triffin would not formalize it until 1959 — but the arithmetic was visible to anyone in the conference rooms in 1944 who chose to see it. The world needed an expanding supply of dollars to settle a growing volume of trade. But every additional dollar held abroad as reserves was a dollar the United States had promised to redeem in gold at a fixed price. As world trade grew exponentially and the U.S. gold stock grew linearly, the ratio between outstanding dollar claims and underlying reserves had to deteriorate. Once foreign claims exceeded American gold, the convertibility promise became a target rather than a guarantee. Bancor would have addressed that reserve-currency contradiction structurally by making international liquidity a clearing-union liability rather than one nation's debt. It would also have created its own governance problem: surplus-country penalties, reserve creation, and adjustment rules would have required enforcement by an institution no state was yet willing to obey. The dollar standard built the contradiction into the reserve asset itself.
 
-*(See Figure 10.1: The Triffin Dilemma in Numbers — U.S. gold reserves peak at $24.6 billion in 1949 against $8–10 billion in foreign dollar claims; foreign claims first exceed reserves in 1962; reserves fall to $13.2 billion against $14 billion in claims by 1966; after the London Gold Pool collapse in March 1968, $10.7 billion against rising claims; by August 1971, $10 billion against $80 billion — a 12.5 percent backing ratio. World trade grew exponentially, gold supply grew linearly. Collapse was arithmetic, not policy error.)*
+The numbers make the contradiction visible. U.S. gold reserves peaked at $24.6 billion in 1949 against much smaller foreign dollar claims. Depending on the measure, foreign claims first exceeded reserves between 1962 and 1964. Reserves fell to $13.2 billion against roughly $14 billion in central-bank dollar holdings by 1966; after the London Gold Pool collapse in March 1968, $10.7 billion remained against rising claims; by August 1971, roughly $10 billion in gold stood behind many times that amount in foreign dollar liabilities. World trade grew exponentially. Gold supply grew linearly. Arithmetic made the promise unstable; politics, capital mobility, Vietnam-era fiscal pressure, inflation, diplomacy, and policy choices determined the path by which it broke.
 
-The contemporary heterodox extension of the bancor argument — that the dollar standard's persistent-deficit dynamics, under floating rates after 1971, induced offsetting private-sector leverage that the canonical MMT account of currency sovereignty under floating exchange rates does not fully accommodate — runs through Steve Keen's stock-flow consistent reconstruction of the trade-architecture critique, building on Wynne Godley and Marc Lavoie's macroeconomics. That extension is a fruitful continuation of the divergence Keynes opened in 1942 and the conference closed in 1944, but it is a future-book argument this manuscript does not undertake to settle. The book's argument here goes only as far as the historical record carries it: Keynes's bancor proposal was a serious institutional alternative to the dollar standard, it would have produced different distributional outcomes than the system that displaced it, and the failure of its symmetric-adjustment principle to be enacted in 1944 was a load-bearing feature of the half-century that followed. The Notes on Sources entry on the trade-architecture tradition points readers to where the contemporary argument lives.
+The contemporary heterodox extension of the bancor argument, developed through Steve Keen's stock-flow consistent reconstruction and the Godley-Lavoie tradition, asks whether the post-1971 dollar standard induced private-sector leverage that standard accounts of floating-rate sovereignty understate. That is a future-book argument. The historical claim here is narrower: bancor was a serious institutional alternative, it would have distributed adjustment differently, and the failure of its symmetric-adjustment principle to be enacted in 1944 shaped the half-century that followed.
 
 ---
 
-### Why America Chose Dollar Standard Anyway
+### Why America Chose The Dollar Standard Anyway
 
-The choice wasn't about economic optimality. It was about power—and American policymakers were brutally clear about this in private.
+The choice was not only about economic optimality. It was about institutional design under American power — and American policymakers were clear in private that the distribution of power mattered.
 
-White understood perfectly that bancor was economically superior for the international system. But his job wasn't designing the best system for global trade. His job was advancing American interests. And American interests required dollar dominance.
+Keynes's bancor proposal would have solved the adjustment problem more symmetrically. White's design served a different set of priorities: American leverage, Treasury control, administrability, and a postwar development order built around institutions the United States could fund and influence. The result was not simply the best system for global trade losing to the worst system for American advantage. It was a serious institutional alternative narrowed by the fact that the country with the gold, the creditor position, and the administrative capacity intended to shape the rules — and by the fact that White's design was easier to operate in the world that actually existed in 1944.
 
-The advantages were substantial and explicit:
-
-1. Seigniorage Profits
-
-America would earn interest on dollars held abroad as reserves while creating them costlessly. Every foreign central bank holding dollar reserves was essentially providing an interest-free loan to the United States. This "exorbitant privilege," as French Finance Minister Valéry Giscard d'Estaing would later call it, allowed the U.S. to finance consumption and investment through money creation rather than taxation or borrowing.
-
-2. Monetary Autonomy
-
-The U.S. could set monetary policy independently based on domestic considerations. Other countries would have to adjust to American decisions—tightening when the Fed tightened, loosening when the Fed loosened. Under bancor's symmetric system, America would face the same adjustment pressures as everyone else. Dollar dominance meant freedom from external constraints.
-
-3. Political Leverage
-
-Dollar access would become a strategic weapon. Countries dependent on dollar reserves and dollar-denominated trade would need American goodwill. The modern use of financial sanctions—freezing assets, cutting off SWIFT access, blocking dollar transactions—demonstrates this power. The bancor would have been immune to single-nation political control.
-
-4. Veto Power Over Global Finance
-
-American control of the IMF, through weighted voting based on economic size and contributions, meant the U.S. could prevent any decisions contrary to American interests. No IMF loan to countries Washington opposed. No pressure on American policies. No symmetric adjustment requirements that would constrain U.S. deficits.
+The advantages were substantial: seigniorage from dollars held abroad, monetary autonomy for the Federal Reserve, political leverage over countries dependent on dollar access, and effective veto power inside the IMF through weighted voting. Bancor would have constrained the United States as well as everyone else. The dollar standard did not.
 
 White told the American delegation in July 1944 with remarkable candor: "Gold in Fort Knox is why the United States is in an enviable position...why we are in a powerful position in this Conference...why we dominate practically the financial world, because we have the where-with-all to buy any currency we want." When discussing whether to press American advantages on institutional location and governance, Treasury Secretary Morgenthau was explicit: "Now the advantage is ours here, and I personally think we should take it." White agreed without hesitation: "If the advantage was theirs, they would take it."
 
-American policymakers made this choice consciously. They understood that a dollar-centered system contained the seeds of its own destruction—that eventually, foreign dollar claims would exceed American gold reserves, making convertibility promises unsustainable. Robert Triffin would formalize this contradiction in 1960, but the problem was visible to anyone doing the arithmetic in 1944.
+American policymakers made the asymmetric choice consciously. They understood that a dollar-centered system gave the United States privileges bancor would have denied. They did not have to possess Triffin's later formal model to see the arithmetic tension: a world that needed more dollar reserves over time would eventually generate more foreign dollar claims than American gold reserves could comfortably redeem.
 
-The calculation was cold-blooded but clear: twenty-seven years of dollar dominance (1944-1971) was worth the eventual crisis. Short-term national advantage trumped long-term systemic stability. White understood bancor's economic logic but opposed it because his job was advancing American power, not designing optimal institutions.
+The calculation was strategically clear: dollar centrality gave the United States room to finance, govern, and influence the postwar order on terms a neutral clearing union would not have permitted. Whether White saw the eventual 1971 crisis in anything like its final shape is more than the record can bear. What the record does show is that the American plan accepted an asymmetry Keynes had designed bancor to prevent.
 
 Keynes had bet on reason defeating power. He lost.
 
@@ -206,15 +164,11 @@ He spent the years 1969 through 1971 managing it.
 
 ### What Was Lost
 
-The Bretton Woods system that emerged was not truly a gold standard but a dollar standard with gold as window dressing. The critical asymmetry: only foreign central banks and governments could convert dollars to gold at $35 per ounce—not private parties. This "**exorbitant privilege**," as French Finance Minister Valéry Giscard d'Estaing would later call it, was the system's foundation.
-
-Think of it this way: imagine you could pay your mortgage by writing IOUs in "Steve-Dollars" that your bank must accept, but your bank can't pay its obligations in Steve-Dollars—it must get real dollars from someone else. That asymmetry is America's exorbitant privilege. The US can print dollars to pay debts; everyone else must earn or borrow dollars they cannot create.
+The Bretton Woods system that emerged was not truly a gold standard but a dollar standard with gold as window dressing. The critical asymmetry: only foreign central banks and governments could convert dollars to gold at $35 per ounce—not private parties. This "exorbitant privilege," as French Finance Minister Valéry Giscard d'Estaing would later call it, was the system's foundation.
 
 The mechanics worked smoothly at first. Countries maintained fixed exchange rates by buying or selling dollars. When imbalances emerged, the IMF provided short-term liquidity. When "fundamental disequilibrium" occurred, countries could devalue. The system facilitated postwar reconstruction and enabled unprecedented trade expansion.
 
-For 25 years (1946-1971), Bretton Woods delivered remarkable results: stable exchange rates provided certainty for international trade, global GDP grew at unprecedented rates, international trade expanded faster than at any prior period, and inflation remained moderate across most developed economies. The "Golden Age of Capitalism" rested on the foundation of the dollar-gold system.
-
-Between 1950 and 1973, global GDP grew at an average annual rate of 4.9 percent—significantly higher than the 3.0 percent average from 1973-1998 or the 1.3 percent average during the interwar gold standard period (1919-1939). International trade expanded even faster, growing at 8.2 percent annually from 1950-1973.
+For 25 years, Bretton Woods delivered remarkable results: stable exchange rates, expanding trade, rapid global growth, and moderate inflation across most developed economies. Between 1950 and 1973, global GDP grew at an average annual rate of 4.9 percent, while international trade expanded even faster.
 
 Capital controls—restrictions on cross-border money movements—played a crucial but underappreciated role. Bretton Woods explicitly permitted and even encouraged countries to restrict capital flows while maintaining current account convertibility. This allowed governments to pursue full employment policies without fearing capital flight. The system prioritized productive trade over speculative finance.
 
@@ -222,7 +176,7 @@ But it contained a fatal flaw that economist Robert Triffin would identify in hi
 
 The question was not whether the system would collapse, but when.
 
-The compromise White built has outlasted the metal that anchored it. As of March 2025, the People's Republic of China holds roughly $765–800 billion in U.S. Treasury securities — down from earlier peaks, but still one of the largest sovereign creditor positions in the world. The position's value depends entirely on American fiscal discipline and Federal Reserve policy, neither of which Beijing controls. Selling fast would crash the price of what remains; holding exposes China to American policy decisions and the dollar's continued credibility. The arithmetic looks like France's 1960s position, but the constraint is fundamentally different. France could test Bretton Woods by demanding gold at $35 an ounce — there was a material limit to expose. Under pure fiat, that limit is gone. The United States, as a sovereign currency issuer, cannot run out of dollars; in 2008 the Federal Reserve created $583 billion in swap lines with fourteen foreign central banks essentially by keystroke, supplying the world's dollar liquidity when private markets froze. What this means for China is not Triffin's dilemma but its successor: the political risk of holding assets denominated in another nation's currency, with no convertibility promise to test and no automatic stabilizer to break the fall if confidence ever does. The dollar's reserve status — White's gift to America in 1944 — has become America's instrument and the rest of the world's exposure. The exorbitant privilege Giscard d'Estaing named in the 1960s is more exorbitant now, not less, because the metal that once put a ceiling on it is gone.
+The compromise White built outlasted the metal that anchored it. France in the 1960s could test Bretton Woods by demanding gold at $35 an ounce; there was a material limit to expose. Under pure fiat, that limit is gone. The dollar's reserve status — White's gift to America in 1944 — became America's instrument and the rest of the world's exposure. The exorbitant privilege Giscard d'Estaing named in the 1960s became more exorbitant after the metal ceiling disappeared.
 
 ---
 

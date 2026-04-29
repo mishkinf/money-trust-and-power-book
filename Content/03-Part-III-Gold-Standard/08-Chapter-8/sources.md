@@ -2,7 +2,7 @@
 
 ## **Chapter Summary**
 
-Between 1800 and 1850, the earlier institutional understanding of money creation faded from respectable British economics. Thomas Attwood and the Birmingham School argued that money was a social institution and that monetary contraction caused unemployment rather than reflecting moral failure; their position lost the political and intellectual contest. What had been institutionally explicit in 1694 — that the Bank of England created money through credit issuance backed by parliamentary taxation — became uncomfortable in mainstream economic discourse, displaced by a metallist framework in which money required commodity backing to be legitimate. The Currency School's victory in the 1844 Bank Charter Act embedded that framework in law. Whether their case was right on the substance was contested at the time and remains contested in the historiography; what is clear is that the deflationary policies the framework required imposed real costs on debtors and wage-earners and conferred real gains on bondholders. The chapter examines how that intellectual contest was won, what it cost, and which positions deserved fairer hearings than they received.
+Between 1800 and 1850, the earlier institutional understanding of money creation faded from respectable British economics. Thomas Attwood and the Birmingham School argued that money was a social institution and that monetary contraction caused unemployment rather than reflecting moral failure; their position lost the political and intellectual contest. What had been institutionally explicit in 1694 — that the Bank of England created money through credit issuance backed by parliamentary taxation — became uncomfortable in mainstream economic discourse, displaced by a metallist framework in which money required commodity backing to be legitimate. The Currency School's victory in the 1844 Bank Charter Act embedded that framework in law, though the chapter now treats that victory as channel-specific rather than total: Wilson's *Economist*, Tooke, Fullarton, and Hawes remained audible opponents, while Peel, Overstone, Treasury actors, and the Bank translated Currency School premises into statute. The chapter also introduces the book's paired-vindication frame: Attwood was right about monetary contraction's human cost, while Peel and Overstone were right to fear unconstrained paper under fiscal pressure. Their institutional answer failed because it regulated visible notes while deposit money became the dominant form of modern bank money.
 
 ---
 
@@ -74,8 +74,8 @@ Between 1800 and 1850, the earlier institutional understanding of money creation
 - Disraeli, Benjamin, quoted in Money (1920). ["A provincial banker labouring under a financial monomania"]
 - Checkland (1948), 12-15. [Documentation of systematic marginalization through ridicule rather than engagement]
 
-²⁷ʲ **Complete Erasure by 1856:**
-- Checkland (1948), 16-18. [Birmingham School disappeared from economic textbooks and serious discourse]
+²⁷ʲ **Marginalization by 1856:**
+- Checkland (1948), 16-18. [Birmingham School pushed outside the mainstream textbook and policy vocabulary even though Banking School and popular-radical countercurrents survived elsewhere]
 
 ²⁷ᵏ **Modern Historical Vindication:**
 - Checkland (1948), 1, 18-19. [Recognition of Birmingham School as proto-Keynesian]
@@ -103,6 +103,9 @@ Between 1800 and 1850, the earlier institutional understanding of money creation
 - Fetter, Frank Whitson. (1965). *Development of British Monetary Orthodoxy, 1797-1875.* Cambridge, MA: Harvard University Press. Internet Archive: https://archive.org/details/developmentofbri0000fett_j0u3
 - History of Parliament Online. "LOYD, Samuel Jones (1796-1883)." https://www.historyofparliamentonline.org/
 - Great Britain. Parliament. *Parliamentary Papers* (PP). Select Committees on Bank Acts: 1832, 1840, 1848 (Commons), 1848 (Lords), 1857.
+- Currency School institutional-capture synthesis: for the qualified capture claim — strong evidence for influence through Parliament, Treasury, Bank of England, and Overstone correspondence, but weaker evidence for total press or university-curriculum capture — see Eltis (2001), O'Brien's edition of *The Correspondence of Lord Overstone*, Fetter (1965), History of Parliament's Loyd/Overstone entry, and the 1832, 1840, 1848, and 1857 Bank Act committee records.
+- Bank Charter Act individuals and institutional texture: for Samuel Gurney, Benjamin Hawes, and the institutional channels around the 1844 Act and 1847 crisis, see the Select Committees on Bank Acts, Tooke, Fullarton, Wilson/*Economist* materials where cited below, Goodhart, Arnon, and the parliamentary sources in this chapter.
+- Ricardo/Currency School continuity: for Ricardo, the quantity-theory framework, Overstone's metallic-circulation analogy, and later Currency School doctrine, see Ricardo's *High Price of Bullion*, Overstone's 1837/1840/1844 publications, Fetter, Daugherty, Schwartz, Goodhart, and Arnon.
 
 **Currency School Publications:**
 - Ricardo, David. (1810). *The High Price of Bullion, a Proof of the Depreciation of Bank Notes.* London: John Murray.
@@ -238,6 +241,10 @@ Between 1800 and 1850, the earlier institutional understanding of money creation
 
 ²⁹ **Victorian Invisibility of Deposit Creation; Modern Two-Tier System Formalization:**
 - Goodhart, C. A. E. (1989). *Money, Information and Uncertainty*. 2nd ed. London: Macmillan, ch. 5. ["Both the Bank of England and the country banks, deprived of the right to issue notes at will, began to issue deposits to a fare-thee-well." On the Currency School's tragic error in failing to recognize bank deposits as money.]
+- Lubbock, John. (1865). "Country Clearing." *Journal of the Statistical Society of London* 28(3): 370-374. [Lubbock's 1864 bank-receipts inquiry found checks and bills of exchange already constituted nearly all receipts by value at his London bank.]
+- Pownall, George H. (1881). "The Proportion of the Cash-Payments of the Country carried on by Means of Cheques." *Journal of the Institute of Bankers* 2(8). [Pownall's wider bank-receipts survey found check payments at 97.23% of London bank receipts by value and 72.86% in country banks in 261 places.]
+- Spahr, Walter Earl. (1926). *The Clearing and Collection of Checks.* New York: Bankers Publishing Co., 20-21. [Summarizes Lubbock and Pownall and describes checks as the recognized business credit instrument in England.]
+- Bank of England. (1969). "The Bank of England Note: A Short History." *Quarterly Bulletin* 9(2): 211-222. [Notes the relative decline of bank notes after 1844, the less-than-50% rise in Bank note circulation between 1844 and 1900 against much faster national-income growth, and the post-1854 use of cheques drawn on the Bank of England for London interbank settlement.]
 - Werner, R. A. (2014). "Can banks individually create money out of nothing? — The theories and the empirical evidence." *International Review of Financial Analysis* 36: 1–19. [Empirical demonstration that banks create deposits through lending, not through reserve multiplication.]
 - Bank of England. (2014). "Money creation in the modern economy." *Quarterly Bulletin* 2014 Q1: 14–27. [Definitive statement from the central bank itself that "loans create deposits," not the reverse.]
 - Calomiris, Charles W., and Stephen H. Haber. (2014). *Fragile by Design: The Political Origins of Banking Crises and Scarce Credit*. Princeton University Press, ch. 6. [On the deposit-driven transformation of U.S. banking after the 1863–1864 National Banking Acts; the 5%-to-23% individual-deposits-to-GDP shift between 1863 and 1913.]

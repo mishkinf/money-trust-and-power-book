@@ -99,7 +99,7 @@ Read end-to-end the current state of Preface, Ch. 8, and Ch. 12. Note what is al
       - The EU's revised fiscal framework (post-2024 reform; the asymmetric weakness)
       - The UK's OBR (the right institutional posture, the wrong authority — advisory rather than binding)
       - The Chilean structural balance rule (post-2001; the closest extant approximation, where it works and where it fails)
-    
+
     Acceptance criterion: a Buchanan-Wagner reader who finishes 12B knows what specific institutional architecture would close the public-choice critique, and what real-world cases approximate it.
 
 3. **Preserve the Volcker thread cleanly across the 12A/12B boundary.** Volcker has been the book's structural protagonist across Chs. 10/11. The Hagedorn farm, the Argentina counterfactual, and the disinflation ledger now sit in 12B. Verify in the final coherence pass that the Volcker arc still reads as continuous from his 1949 Princeton thesis through Camp David through the 1979–82 disinflation, with the 12A/12B boundary running between the validation chapter and the test chapter rather than splitting Volcker himself.

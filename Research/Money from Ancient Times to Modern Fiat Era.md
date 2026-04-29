@@ -235,7 +235,7 @@ Unlike continental experiments, the Bank had maintained stability 1694-1797 with
 - 1809-1810 peak: Gold bullion £4.9s to £4.12s per ounce (15.5% above mint price)
 - 1813-1821: Deflation back toward 1797 levels
 
-**Note circulation**: Peaked 1814 at £28.4 million backed by only £2.2 million gold. By 1821 resumption: £2.3 million notes backed by £11.2 million bullion—ratio completely reversed.
+**Note circulation**: Peaked 1814 at £28.4 million backed by only £2.2 million gold. Earlier drafts paired that total-circulation figure with £2.3 million in 1821, but the £2.3 million figure refers to £1 and £2 small-denomination notes, not total Bank of England circulation. Use the 1821 figure only for the targeted withdrawal of small notes around resumption, not for total note circulation.
 
 ### The Bullionist Controversy: Economics' first great policy debate
 
