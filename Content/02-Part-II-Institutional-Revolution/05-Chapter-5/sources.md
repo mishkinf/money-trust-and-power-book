@@ -62,3 +62,9 @@ The Glorious Revolution of 1688 created the institutional foundation for modern 
 19ᵍ. Watt, Douglas. (2007). *The Price of Scotland: Darien, Union and the Wealth of Nations.* Edinburgh: Luath Press. [Modern scholarly account of Paterson's role in the Company of Scotland, the £400,000 capital raise, and the 1698–1700 expeditions]
 19ʰ. Insh, George Pratt. (1932). *The Company of Scotland Trading to Africa and the Indies.* London: Charles Scribner's Sons. [Foundational older account of the Darien venture; statistics on colonist mortality and the catastrophic abandonment of the colony]
 19ⁱ. Prebble, John. (1968). *The Darien Disaster.* London: Secker & Warburg. [Narrative reconstruction of the Darien expeditions and Paterson's personal losses; complemented by Watt 2007 above for the financial-institutional analysis]
+
+**Modern operational continuity (forward connection in the chapter close):**
+
+20. Bell, Stephanie. (1998). "Can Taxes and Bonds Finance Government Spending?" *Levy Economics Institute Working Paper No. 244.* [Foundational operational analysis of the modern Treasury–Federal Reserve mechanics that the chapter close points forward to. Demonstrates that the 1694 spend-tax-destroy cycle — issuing notes against tax-revenue commitments, spending them into circulation, retiring them through tax payment — is the same structural mechanism that operates in twenty-first-century Treasury and Federal Reserve practice. Author later published as Stephanie Kelton.]
+
+21. Manypenny, Gerald D., & Bermudez, Michael L. (1992). "The Federal Reserve Banks as Fiscal Agents and Depositories of the United States." *Federal Reserve Bulletin,* 78(10), 727–737. [Institutional documentation of the Treasury General Account and its role as the modern equivalent of the Bank of England's principal accounts; Tax and Loan accounts as the modern equivalent of country-bank reserves under the 1694 architecture.]

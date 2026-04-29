@@ -103,6 +103,14 @@ The modern fiat system, established after 1971, has now operated longer than the
 28. Makarov, I., & Schoar, A. (2020). "Trading and Arbitrage in Cryptocurrency Markets." *Journal of Financial Economics,* 135(2), 293–319.
 29. Auer, R., Cornelli, G., & Frost, J. (2020). "Rise of the Central Bank Digital Currencies." BIS Working Paper No. 880.
 
+**Operational Mechanics of Federal Spending (Treasury–Fed accounting):**
+
+30. Bell, S. (1998). "Can Taxes and Bonds Finance Government Spending?" *Levy Economics Institute Working Paper No. 244.* Annandale-on-Hudson: Jerome Levy Economics Institute. [Detailed reserve-accounting analysis demonstrating that Treasury spending creates new high-powered money in the act of crediting commercial-bank reserve accounts, while taxation and bond sales drain reserves rather than finance subsequent spending. The paper's footnoted observation that "government spending must originally have preceded taxation" is the operational anchor for the chapter's modern walk-through.] Author later published as Stephanie Kelton.
+
+31. Manypenny, G. D., & Bermudez, M. L. (1992). "The Federal Reserve Banks as Fiscal Agents and Depositories of the United States." *Federal Reserve Bulletin,* 78(10), 727–737. [Institutional documentation of the Treasury General Account, Tax and Loan accounts, the Treasury's $5 billion target closing balance at Reserve banks, and the daily coordination between Treasury and Fed cash operations.]
+
+32a. Federal Reserve Bank of St. Louis (FRED). "Liabilities and Capital: Liabilities: Deposits with F.R. Banks, Other Than Reserve Balances: U.S. Treasury, General Account." Series WTREGEN. [Daily TGA balance, public record. The FRED description identifies the TGA as "the primary operational account of the U.S. Treasury. Virtually all U.S. government disbursements are made from this account."]
+
 **Barbara Kantor and Small Business Credit Freeze:**
 32. PBS NewsHour. (2009, December 14). "Small Business Owner Struggles Through Credit Crunch." Tom Bearden reporting. [https://www.pbs.org/newshour/show/small-business-owner-struggles-through-credit-crunch](https://www.pbs.org/newshour/show/small-business-owner-struggles-through-credit-crunch)
 33. ColoradoBiz Magazine. (2011, April). Profile of Vedante Corporation and Barbara Kantor.

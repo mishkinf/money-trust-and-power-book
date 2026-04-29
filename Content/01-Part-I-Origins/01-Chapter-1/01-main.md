@@ -26,6 +26,8 @@ Egypt followed a similar model. Grain stored in state granaries served as both s
 
 ### A mother and daughter's debt
 
+The scene that follows reconstructs a transaction recorded on Tablet Kress 83 (Cuneiform Digital Library Initiative P370944, preserved in a private collection in Bochum, Germany). The clay is partially damaged. The names, amount, witnesses, date, and contractual terms below follow the conventional paleographic reading of what survives, with some elements restored from documentary parallels. The kind of transaction this represents is firmly attested in the Old Babylonian record at Larsa; the specific narrative details are interpretive within paleographic limits.
+
 In Year 21 of King Rīm-Sîn I of Larsa—approximately 1801 BCE—Amat-Sîn and her daughter Šāt-Sîn stood before the scribe at the temple of the goddess Gula. They needed barley. The harvest was still months away, and their stores had run low. The temple could help, but the help came with obligations.
 
 The scribe prepared a clay tablet, pressing wedge-shaped marks into the damp surface with his reed stylus. The loan: **2 gur 22 sila of barley**—about 622 liters, roughly 465 kilograms. Enough to feed a family through the lean months and provide seed for planting. The tablet specified that this was "property of Gula" (NIĜ2.GA dGU.LA), meaning the goddess herself was the creditor. Repayment would be due in Month III—Simanu, corresponding to April-May—when the barley harvest came in.
@@ -45,8 +47,6 @@ What this transaction reveals, 3,800 years later, is how obligations created val
 Money, in its earliest form, was not a thing but a relationship of power, recorded in clay and enforced by institutions. The goddess Gula did not personally collect the debt, of course. But invoking her name meant the temple's authority stood behind the obligation, backed ultimately by the king's power to enforce contracts and maintain order. The system worked because everyone understood this. The tablet was not just a record—it was a claim that could be enforced.
 
 And it worked for women as well as men. Amat-Sîn and Šāt-Sîn could borrow, contract, and bear legal obligations independently. Economic agency extended beyond male household heads in Old Babylonian society. The debt was theirs, jointly and severally. The obligation was real.
-
-The tablet survives today as Kress 83, catalog number P370944 in the Cuneiform Digital Library Initiative, preserved in a private collection in Bochum, Germany. The market origins make its exact findspot within Larsa unknown, and partial damage to the reverse leaves some witness names incomplete. The reconstruction above of names, amount, date, terms, and witnesses follows the conventional reading of what the surviving cuneiform supports; some elements are restored from contextual parallels rather than read directly. The transaction itself is well-attested as the kind of credit operation Old Babylonian Larsa conducted at scale; specific narrative details remain subject to the paleographic interpretation any partially damaged tablet allows.
 
 For Amat-Sîn and Šāt-Sîn, the tablet was an obligation that shaped their lives for months, perhaps years. For us, it is a window into the origins of money—not as metal or commodity, but as credit, recorded by institutions powerful enough to enforce their claims.
 
@@ -68,7 +68,7 @@ Virginia later codified the mechanism with even more explicit statutory language
 
 In all these societies — from Mesopotamian temples to Chinese dynasties to American colonies — the essence of money was trust, not metal. As long as the authority that issued the credit could also collect taxes, its promises held. When that authority weakened — through war, drought, or rebellion — the notes lost value. Money's history, in other words, is inseparable from sovereignty.
 
-This is exactly how modern central bank digital currencies work. When China's central bank issues digital yuan, its value comes not from blockchain scarcity but from the government's power to require tax payment in that currency. The technology changes; the fundamental mechanism remains unchanged from ancient Mesopotamia.
+Modern central bank digital currencies operate on the same mechanism. When China's central bank issues digital yuan, its value comes not from blockchain scarcity but from the government's power to require tax payment in that currency. The technology changes; the fundamental mechanism remains unchanged from ancient Mesopotamia.
 
 ---
 

@@ -62,7 +62,7 @@ The financial geography of Europe shifted from the fairs of Champagne to the cou
 
 At the great trade fairs of Bruges and later Antwerp, merchants gathered not merely to sell goods but to settle accounts. They exchanged bills, canceled debts, and adjusted balances with a few strokes of the pen. Money became information, transmitted by courier and codified in double-entry books. Every credit had its offsetting debit; the ledger itself became the world's first distributed database.
 
-This is precisely how modern clearinghouses work. When you write a check, your bank doesn't send cash to the recipient's bank — they offset claims through a central clearing system, moving actual reserves only for the net difference. The Antwerp merchants invented this mechanism five centuries before computers.
+Modern clearinghouses operate on the same principle. When you write a check, your bank doesn't send cash to the recipient's bank — they offset claims through a central clearing system, moving actual reserves only for the net difference. The Antwerp merchants invented this mechanism five centuries before computers.
 
 This system's stability depended entirely on reputation. A merchant's signature was a moral asset. When one house defaulted, the shock rippled across Europe. In 1345, the collapse of the Bardi and Peruzzi—creditors to the English crown—froze trade for years and bankrupted lesser partners. Yet the system recovered, for the idea had taken root: credit was not a local arrangement but a global network of trust.
 

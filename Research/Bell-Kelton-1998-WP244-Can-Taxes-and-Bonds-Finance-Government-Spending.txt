@@ -1,0 +1,1603 @@
+Working Paper No. 244
+Can Taxes and Bonds Finance Government Spending?
+by
+Stephanie Bell*
+Cambridge University Visiting Scholar, The Jerome Levy Economics Institute
+July 1998
+
+* The author wishes to thank Peter Ho, John Henry, Edward Nell, and Randy Wray for helpful comments.
+Remaining errors are mine.
+
+The Levy Economics Institute Working Paper Collection presents research in progress by
+Levy Institute scholars and conference participants. The purpose of the series is to
+disseminate ideas to and elicit comments from academics and professionals.
+Levy Economics Institute of Bard College, founded in 1986, is a nonprofit,
+nonpartisan, independently funded research organization devoted to public service.
+Through scholarship and economic research it generates viable, effective public policy
+responses to important economic problems that profoundly affect the quality of life in
+the United States and abroad.
+Levy Economics Institute
+P.O. Box 5000
+Annandale-on-Hudson, NY 12504-5000
+http://www.levyinstitute.org
+Copyright © Levy Economics Institute 1998–2013 All rights reserved
+ISSN 1547-366X
+
+Abstract
+
+This paper investigates the commonly held belief that government
+spending is normally financed through a combination of taxes and
+bond sales. The argument is a technical one and requires a detailed
+analysis of reserve accounting at the central bank. After carefully
+considering the complexities of reserve accounting, it is argued that
+the proceeds from taxation and bond sales are technically incapable
+of financing government spending and that modern governments
+actually finance all of their spending through the direct creation of
+high-powered money. The analysis carries significant implications for
+fiscal as well as monetary policy.
+
+1. INTRODUCTION
+The optimal method by which to finance government
+topic among many economists (see Modigliani,
+
+(deficit) spending remains a controversial
+
+1992; Trostel, 1993; Ludvigson,
+
+1996; and Smith
+
+et al., 1998). Although most would agree that government
+
+financial policies require choosing
+
+among the imposition of taxes, the sale of interest-bearing
+
+debt obligations and the
+
+‘printing’/creation
+disagreement
+
+of government
+
+money’ (or some combination of these), there is often strong
+
+regarding the macroeconomic
+
+consequences
+
+of these choices.
+
+The Barro-Ricardo
+
+thesis (Barro, 1974) for example, suggests that the financing choice is inconsequential.
+argued, is because the knowledge that bond-financed
+
+government
+
+This, it is
+
+spending will require higher
+
+taxes in the future induces households to save more now. The induced saving, which is just
+sufftcient to purchase the new government
+
+debt, leaves private net wealth unchanged,
+
+completely neutralizing the stimulative effect of government
+
+spending.
+
+thereby
+
+Similarly, as Tobin
+
+recognizes, spending financed by issuing demand obligations (i.e. ‘printing’ money) might lead a
+monetarist Ricardian to suggest that a “money rain”, like a “bond rain”, will have no effect on
+aggregate private wealth or consumption
+
+since adjustments in the price level will prevent the real
+
+quantity of money from changing (1998).
+
+Thus, bond- or money-financed
+
+deficit spending yields
+
+results ‘equivalent’ with those that would have resulted if all spending had been financed by
+contemporaneous
+
+taxation.
+
+In contrast, some Keynesians maintain that choices concerning the source(s) of deficit
+finance are indeed relevant (Blinder and Solow, 1973, 1976; Buiter, 1977; Lerner, 1973; Tobin
+
+’ Government money will be used to refer to high-powered money (HPM), defined as member
+bank deposit balances at the Federal Reserve plus total currency outstanding. When necessary,
+changes in the ‘money supply’ (Ml, M2, etc.) will be distinguished from changes in HPM.
+
+-l-
+
+1961). For them, the economic consequences
+
+of borrowing and ‘printing’ money can differ
+
+substantially from those obtained when government
+contemporaneous
+
+taxation.
+
+spending is financed solely by
+
+Among members of this group, most would probably agree that
+
+‘printing’ money is both the least common and the least desirable method for financing the
+government’s
+
+spending.
+
+Indeed, most would probably say that bond sales are (and should be)
+
+used to finance the excess of spending over taxation.
+Despite differing beliefs regarding the consequences of the financing decision, both groups
+clearly believe that the government
+conspicuously
+
+does choose how to finance its spending.
+
+absent in these ongoing debates, however, is a detailed examination of the nuances
+
+of reserve accounting.
+
+Because these nuances have not been incorporated
+
+many economists continue to debate the macroeconomic
+methods.
+
+consequences
+
+sales, and deficit spending.
+
+into standard analyses,
+
+of alternative “financing”
+
+These debates follow directly from the apparent interdependence
+
+interdependence
+
+What is
+
+among taxes, bond
+
+By considering the impact of these operations on bank reserves, their
+
+can be explained as a consequence
+
+of their “reserve effects”, rather than as
+
+necessary financing relationships.
+Thus, this paper closely examines the “reserve effects” of the Treasury’s operations by
+tracing through the impact of government
+bank reserves.
+
+spending, taxing and bond sales on aggregate member
+
+Section 2 details the impact of government
+
+spending and taxing on bank reserves
+
+as well as the significance of the resulting reserve effects. In Section 3, some important strategies
+for minimizing the reserve effects are introduced.
+
+The case of deficit spending is taken up in
+
+Section 4, where the reserve effects of various methods for the sale of government
+examined.
+
+debt are
+
+In Section 5, the complexities of reserve accounting are caremlly considered,
+
+-2-
+
+and
+
+newly-created
+
+money is revealed as the source of all government
+
+finance. It is further argued that
+
+the proceeds from taxation and bond sales are not even capable of financing government
+since their collection implies their destruction.
+
+spending
+
+In the concluding section, it is suggested that
+
+debates concerning alternative methods for financing the government’s
+
+(deficit) spending should,
+
+instead, be debates about alternative means of draining (excess) reserves from the banking system.
+
+2. THE “RESERVE EFFECTS” OF TAXING AND SPENDING
+Before examining the “reserve effects” of various Treasury operations, it is, perhaps, prudent to
+begin by looking closely at aggregate member bank reserves*. Beginning with the Federal
+Reserve’s balance sheet, equivalent terms can be added to each side, and the entries can be
+manipulated algebraically in order to isolate member bank reserves3. The result, often referred to
+as the ‘reserve equation’, depicts total member bank reserves as the difference between alternative
+‘sources’ and ‘uses’ of reserve funds. The reserve equation can be written as:
+
+2 Although reserve requirements are generally met by holding a combination of vault cash and
+checking accounts at district Federal Reserve banks, accounts held by depository institutions at
+Federal Home Loan Banks, the National Credit Union Administration Central Liquidity Facility,
+or correspondent banks may also count toward satisfying the reserve requirement. Depository
+institutions do not have to meet these reserve requirements on a daily basis. They have a twoweek “reserve period” (ending on Wednesdays) within which they must maintain average daily
+total reserves equal to the required percentage of average daily transactions accounts held during
+the two-week period ending the preceding Monday. Thus, despite being referred to as a
+contemporaneous reserve accounting (CRA) system, it is, in practice, lagged for two days. That
+is, banks always have two days (Tuesday and Wednesday) within which to acquire (expost)
+reserves needed to eliminate a known deficiency. While some banks may choose to hold excess
+reserves, profit-maximizing banks will economize on reserves. Unless a bank has a preference for
+idle funds, it will exchange excess reserves for “earning assets” such as loans or securities.
+3 See (Ranlett, 1977, pp. 19 l- 193) for the derivation.
+
+-3-
+
+Figure 1
+Sources
+
+I lses
+-
+
+-
+
+Total
+Member Bank
+Reserves
+
+=
+
+Currency In Circulation
++
+U. S. Treasury Balance at F
+
+Federal Reserve Credit
+U.S. Gov’t Securities
+Loans to Member Bai
+Float
++
+Gold
++
+SDR Certificates
++
+Treasury Currency
+-
+
+-
+
+-
+
+Foreign Balances at Fed
++
+Treasury Cash
++
+Other Fed Deposits and
+accounts (net)
+
+-
+
+From Figure 1, it is clear that an increase in any of the bracketed terms on the left will increase
+reserves while an increase in any of the bracketed terms on the right will reduce them.
+
+2. I “‘Reserve Effects ” of Taxing and Spending
+In this section, the reserve effects of two important Treasury operations, government
+
+spending
+
+and taxing, will be analyzed.
+
+To emphasize the impact of these operations on bank reserves, the
+
+case in which aJ government
+
+payments and receipts are immediately credited/debited
+
+to accounts
+
+held at Reserve Banks will be considered4.
+When the government
+
+spends, it writes a check on its account at the Federal Reserve.
+
+Assuming the check is deposited into an account at a commercial bank, member bank reserves rise
+(by the amount of the check) as the Federal Reserve debits the Treasury’s account, decreasing the
+right-hand bracket (RHB) in Figure 1, and credits the account of a commercial bank. Thus, a
+system-wide increase in member bank reserves results whenever a check drawn on a Treasury
+
+’ It is, of course, true that the Treasury keeps accounts at thousands of commercial banks and
+other depository institutions as well as Federal Reserve banks. This changes things considerably
+and will be taken up in the next section.
+-4-
+
+account at a Federal Reserve bank is deposited with a commercial bank. Government
+then, increases aggregate bank reserves (ce~is
+
+spending,
+
+yaribus).
+
+When, instead of &awirzg on its account at the Fed, the Treasury receives funds into this
+account, the reverse is true. For example, if a taxpayer pays his taxes by sending a check to the
+IRS, his bank and the banking system as a whole, lose an equivalent amount of reserves, as the
+IRS deposits the check into the Treasury’s account at the Federal Reserve.
+reserves decline as the RIB in Figure 1 increases,
+
+Total member bank
+
+Thus, the payment of taxes by check results in
+
+a system-wide decrease in member bank reserves (ceterisparibus)5.
+If Treasury spending out of its accounts at Federal Reserve banks were perfectly
+coordinated
+
+with tax receipts deposited directly into the Treasury’s accounts at Reserve banks,
+
+their opposing effects on reserves would offset one another.
+balanced budget with daily tax receipts and government
+there would be no & effect on bank reserves.
+receipts and disbursements
+
+That is, if the government
+
+ran a
+
+spending timed to offset one another,
+
+However, as Figure 2 shows, the Treasury’s daily
+
+from accounts at Reserve banks are highly incommensurate.
+
+Indeed,
+
+they can differ by almost $6 billion.
+
+’ It is worth noting that government spending must originally have preceded taxation. That is, the
+payment of taxes could not increase the Treasury’s account at the Fed (RI-B term), reducing bank
+reserves, until the reserves had been created. Moreover, the Federal Reserve and/or Treasury, as
+the only agents capable of supplying them, must have been the original source of these reserves.
+This will be taken up in Section 5.
+-5-
+
+Figure 2
+
+77
+
+Daily Flows Into/From Federal Reserve Accounts , March 1998
+(net of transfers to/from T&L Accounts and debt management)
+
+Series1
+_ _ - - _ - Series2
+
+Source:
+
+Daily Treasury Statement, http://fedbbs.access,gpo.gov/dailys.htm
+
+Thus, despite an attenuation of the “reserve effect” due to the simultaneous
+withdrawal of reserves, government
+
+injection and
+
+spending and taxation will never perfectly offset one another,
+
+Even if a more even pattern could be established, some discrepancies would persist because, as
+Irving Auerbach recognized, “‘there is no way to determine in advance, with complete accuracy,
+the total amount of the receipts or the speed at which the revenue collectors will be able to
+process the returns” (1963, p. 349). Thus, while concurrent
+
+government
+
+spending and taxation
+
+have sume offsetting impact on reserves, the reserve effect from the Treasury’s daily cash
+operations would still be substantial, especially “if they were channeled immediately through the
+Treasurer’s balance at the Reserve Banks” (Auerbach,
+
+1963, p. 333).
+
+2.2 The Importance of the “Reserve Effect ”
+The inability to perfectly coordinate Treasury receipts and expenditures
+for the level of bank reserves and, subsequently,
+
+the money market.
+
+has serious implications
+
+Because banks are required
+
+by law to hold reserves against some fraction of their deposits but earn no interest on reserves
+held in excess of this amount, they will normally prefer not to hold substantial excess reserves.
+
+-6-
+
+Government
+
+spending, then, will leave them with more reserves than they prefer/need to hold
+
+while the clearing of tax payments will leave them with fewer reserves than are desired/required
+(ceterisparibus).
+The fed fi_mds market is the “market of first resort” for banks wishing to rid themselves of
+excess reserves or to acquire reserves needed to meet deficiencies (Poole, 1987, p. 10). When
+there is a build-up of reserves within the system, many banks will attempt to lend reserves in the
+federal Cmds market.
+
+The problem, of course, is that lending reserves in the funds market cannot
+
+help a banking system, which began with an ‘equilibrium’ level of reserves, to rid itself of excess
+reserves.
+
+Moreover, when the system is f-lush with excess reserves, banks will find that there are
+
+no bidders for these funds, and the federal funds rate may fall to a zero percent bid.
+Likewise, the clearing of tax payments will leave a banking system which began with an
+‘equilibrium’ level of reserves short of required (and/or desired) reserves.
+
+Banks will look to the
+
+funds market to acquire needed reserves, but since all banks cannot return to an equilibrium
+reserve position by borrowing federal funds, a system-wide shortage will persist.
+
+That is, like a
+
+system-wide surplus, a system-wide deficiency cannot be alleviated through the fi_mds market6;
+attempts to do so will simply drive the &nds rate higher and higher.
+Importantly,
+
+the fi_mds rate is not the only interest rate affected by changes in the level of
+
+’ When there is a reserve deficiency for the banking system as a whole, banks could attempt to
+resolve the deficiency by reducing deposits. If a single bank begins this process (selling U.S.
+securities to a member of the non-bank public or allowing loans to be repaid without reissuing
+them), it will result in a multiple contraction of deposits (assuming all banks follow suit). Though
+this would ultimately eliminate the banking system’s reserve deficiency (without requiring banks
+to acquire additional reserves), the process takes time and will disrupt interest rates until
+‘equilibrium’ is restored. Deficiencies will, therefore, usually be eliminated as the banking system
+acquires more reserves, not as it reduces deposits that reserves are required to ‘back up’.
+-7-
+
+bank reserves
+
+As the “focus of monetary policy”, the funds rate is the “anchor for all other
+
+interest rates” (Poole, 1987, p. 11). Thus, when banks are content with their reserve positions,
+Treasury operations (such as government
+
+spending and taxation) disrupt these positions by adding
+
+or draining reserves, and banks react to these changes by first turning to the funds market.
+the funds rate is bid up or down and other short-term interest rates are affected.
+
+Although some
+
+individual banks will be successful in eliminating their own reserve deficiencies/excesses,
+banking system us a wholewill not be able to alleviate a shortage/deficiency
+through government
+
+adding/draining
+
+There,
+
+the
+
+on its own. Only
+
+of reserves can a system-wide imbalance be eliminated.
+
+Because attempts to resolve system-wide reserve ‘disequilibrium’ through the funds market can
+affect a number of other interest rates, a variety of procedures
+
+have been developed to mitigate
+
+the adverse impact of Treasury operations on banks’ reserve positions.
+
+3. STRATEGIES
+
+FOR REDUCING
+
+THE “RESERVE EFFECT”
+
+In the preceding discussion, the effects of government
+examined by assuming that all disbursements
+
+spending and taxing on bank reserves were
+
+and receipts were immediately credited/debited
+
+to
+
+the Treasury’s accounts at Federal Reserve banks. This treatment allowed us to highlight the
+impact of each of these operations on the level of bank reserves, but it did not paint a realistic
+picture of the way things currently work.
+
+If things did indeed work this way, there would be an
+
+unrelenting disruption of banks’ reserve positions and, subsequently,
+market.
+
+Because these consequences
+
+chronic turmoil in the funds
+
+are highly undesirable from a policy perspective,
+
+important strategies have been developed to mitigate these persistent, yet unpredictable,
+effects”.
+
+Let us move to an examination of these techniques,
+
+-8-
+
+some
+“reserve
+
+3. I The Use of Tmc and Loan Accounts
+The disruptive nature of the Treasury’s operations was recognized under the Independent
+Treasury System’ and ultimately led to the use of General and Special Depositories8, private
+banks in which government
+
+funds could be kept. This was the first important strategy developed
+
+to mitigate the “reserve effect”. As Ranlett recognized, the reserve effect caused by the “point
+inflow-continuous
+government
+
+outflow nature of Treasury activities” could be tempered by placing certain
+
+receipts into Tax and Loan (T&L) accounts at private depositories
+
+(1977, p. 226).
+
+Thus, the reserve drain that would otherwise accompany payments made to the government
+be temporarily preventedg.
+
+The benefits of using these depositories
+
+were quickly recognized,
+
+could
+and
+
+their functions were broadened whenever it became clear that they could be used to further
+mitigate the reserve effect. As the size of the government’s
+Depositories
+
+fiscal operations grew, Special
+
+quickly became the most important group of bank depositories
+
+As Figure 3 shows,
+
+just over two-thirds of all Federal tax receipts are currently deposited directly into T&L accounts.
+
+’ The Independent Treasury System was in effect long before the establishment of the Federal
+Reserve System. It was established in 1840, abolished the following year, re-established in 1846,
+and discontinued in 192 1.
+’ General Depositories have become known as “remittance-option
+banks” while Special
+Depositories are currently referred to as “note-option banks”. Both are depository institutions
+with T&L Accounts, but a “remittance-option bank”, like its predecessor, the General Depository,
+must remit its T&L balances to a Reserve bank the day after the f%nds are received. In 1978,
+“note-option banks” were given the opportunity to accumulate the daily tax payments they receive
+by transferring them from the ordinary T&L Accounts (where they are held interest-free for one
+day) into an interest-bearing “note account”. Up to a pre-approved limit, these funds can remain
+in “note accounts” until the Treasury “calls” for them to be transferred to Reserve Banks
+(Manypenny and Bermudez, 1992, p, 728).
+’ In this case, a distinction between the ‘supply of money’ and HPM should be made. When tax
+receipts are placed into a T&L account, HPM (bank reserves and currency outstanding) is not
+affected. The ‘money supply’ (Ml), however, is. When funds are transferred from demand
+deposits, where they are part of Ml, into T&L accounts (or the Treasury’s account at the Fed),
+which is not part of any standard measure of the money supply (Ml, M2, etc.), the ‘money
+supply’ declines.
+
+Figure 3
+Disposition
+
+of Federal Tax Deposits
+
+Other
+2%
+
+(Nov. ‘97- Mar. ‘98)
+
+Federal Reserve
+Account (Direct)
+13%
+Remittance Option
+Depositaries
+18%
+
+Tax and Loan Note
+Accounts
+67%
+
+Source:
+
+Daily Treasury Statement, http://fedbbs.access.gpo.gov/dailys.htm
+
+Today, the T&L accounts are by far the most important device used to guard the money market
+against the sizable daily differences (shown in Figure 2) between the flows of government
+
+receipts
+
+and disbursements.
+
+3.2 Managing the Treasury ‘s Balance at the Fed
+Since almost all government
+
+spending involves writing checks on accounts at the Fed, virtually all
+
+funds in T&L accounts must eventually be transferred to Reserve banks”.
+
+Because only net
+
+changes in the Treasury’s account at the Fed impact the aggregate level of reserves (ceteris
+paribzq), maintaining “the Treasurer’s balance with the Reserve Banks at a reasonably constant
+level” is the second strategy used to minimize the “reserve effect” of the Treasury’s operations
+(ibid., p. 364). Specifically, the Treasury “aims to maintain a closing balance of $5 billion in its
+Federal Reserve checking accounts each day” (Manypenny, et. al, 1992, p. 728). Figure 4 shows
+how successful the Treasury is in its endeavor to maintain its target closing balance.
+
+lo This is not because the government needs the proceeds from taxation in order to spend again,
+but because it chooses to coordinate its taxing and spending. This will be taken up in the final
+section.
+-lO-
+
+Figure 4
+Daily Closing Balance In Treasury’s Account at the
+Federal Reserve (Nov. ‘97 - Mar. ‘98)
+
+Source:
+
+Daily Treasury Statement, http://fedbbs.access.gpo.gov/dailys.htm
+
+Recall that the government
+
+receives funds into its accounts at the twelve Reserve banks as well as
+
+thousands of commercial banks each day but that nearly all government
+
+spending is done by
+
+writing checks on accounts at Reserve banks. Maintaining a closing balance of $5 billion at
+Reserve banks, then, usually requires transferring the appropriate
+
+amount from T&L accounts to
+
+the Treasury’s account at the Fed. For example, if the Treasury expected to receive $5 billion
+directly into accounts at Reserve banks (today) and expected $6 billion in previously-issued
+checks to be presented for payment (today), $1 billion wiii need to be transferred to the
+Treasury’s account at the Fed (today) so that there will be no net change in the level of reserves.
+The Treasury transfers funds to cover anticipated shortfalls by making a “call” on T&L
+accounts.
+
+In most cases, advance notice is given before transferring funds from these accounts”.
+
+rr Special Depositories (or note-option banks) fall into three categories: A banks, B banks and C
+banks. A and B banks are typically smaller institutions, while depositories that are classified as C
+banks are generally large banks. T&L calls are calculated as fractions of the book balance in each
+T&L account on the previous day. “Calls” made on A and B banks are usually made with longer
+lead times than calls made on C banks, and the latter are usually the only banks against which
+same-day or next day calls may be issued.
+-ll-
+
+A “reverse-call” or “direct investment” is also possible.
+
+This would be necessary if the Treasury’s
+
+closing balance at Reserve banks was expected to substantially exceed $5 billion12. To avoid the
+reserve drain that would result from an excessive closing balance, the Treasury may place some or
+all of the excessive funds into T&L accounts at note-option
+
+banks13. Whether “calling” funds
+
+,fiom T&L’s to make up for an expected shortfall or transferring funds to T&L’s through direct
+investment (or canceling previous calls) to prevent an excessive closing balance, the amounts
+transferred are intended to maintain the Treasury’s balance at Reserve banks as steady as possible.
+In pursuit of this goal, the Treasury relies on the cooperation
+
+3.3 Coordination
+
+of the Federal Reserve.
+
+With The Federal Reserve
+
+The Federal Reserve is extremely interested in helping the Treasury achieve its target closing
+balance because the Treasury’s balance at the Fed is “often the biggest source of uncertainty
+about reserve levels” (Meulendyke,
+
+1989, p. 159). Indeed, the Fed’s ability to successfully
+
+conduct monetary policy (specifically, to hit its target h_mds rate) depends, to a large extent, on
+the Treasury’s ability to hit its target closing balance. Daily contact between the Treasury and the
+
+l2 The closing balance in the Treasury’s account at the Fed could exceed the target level for two
+reasons. First, previously placed T&L calls may have been too large. In this case, the amount of
+spending from accounts at Reserve banks is less than the sum of the payments received directly
+into accounts at the Fed and the amounts “called” from T&L’s Second, it is possible that the
+payments made to the government and deposited directly into accounts at Reserve banks exceed
+the amount presented for payment from these accounts. This could happen, for example, during
+months in which quarterly tax payments sent directly to accounts at the Fed are large enough to
+more than compensate for government spending.
+I3 The Treasury will not, in all instances, be successful in its attempt to directly invest its excess
+Curds. Some note-option banks will not meet the collateral requirements and will be ineligible
+recipients of additional T&L funds. Additionally, T&L accounts, like the Treasury’s account at
+the Fed, may swell during unusually heavy quarterly tax payments. Because banks must pay
+interest on T&L accounts, they limit the size of T&L balances they are willing to accept. When
+direct investment is not an option, the Treasury can attempt to cancel previously scheduled calls in
+an attempt to draw down its balance in Reserve banks.
+-12-
+
+Fed provide the Treasury with “numerous occasions
+achieve a desired objective” (Auerbach,
+Unfortunately,
+
+to assist the Reserve authorities to
+
+1963, p. 328).
+
+the Treasury is unable, even with the cooperation
+
+of the Federal Reserve,
+
+to completely offset the effects of its daily spending using T&L calls and direct investment.
+Indeed, as Table 1 shows, the Treasury’s average monthly closing balance can differ substantially
+from its $5 billion target.
+
+Table 1
+Month
+
+Source:
+
+Average Closing Balance ($Millions)
+
+November 1997
+December 1997
+January 1998
+February 1998
+March 1998
+
+5,015
+5,371
+6,563
+5,118
+5,763
+
+5-month Average
+
+5,618
+
+Daily Treasury Statement, http://fedbbs.access.gpo.gov/dailys.htm
+
+This, again, is the result of the inherent uncertainty regarding the size/timing of receipts and
+expenditures.
+
+That is, because the payments coming into/going out of the Treasury’s account at
+
+the Fed can never be precisely known in advance, transfers to/from T&L accounts will not
+normally offset (exactly) the shortfall/excess
+
+in these accounts.
+
+Thus, as Figure 5 confirms, one
+
+expects a non-zero change in the Treasury’s daily closing balance. Despite this, changes in the
+daily closing balance do tend to fluctuate fairly closely around zero, deviating most drastically
+with quarterly tax payments.
+
+-13-
+
+Figure 5
+Change in Daily Closing Balance (Nov. ‘97 - Mar. ‘98)
+
+Source:
+
+Daily Treasury Statement, http://fedbbs.access.gpo.gov/dailys.htm
+
+In sum, three important points have been made regarding the Treasury’s operations.
+
+First,
+
+the Treasury recognized the disruptive nature of its cash operations and responded by maintaining
+accounts at private depositories.
+
+Second, the Treasury uses these accounts to diminish the
+
+reserve effect of its operations by using T&L calls and direct investments to minimize the net
+changes in Reserve account balances (to coordinate the flow of its receipts with its expenditures).
+Finally, the Treasury and the Fed cooperate to bring about a fairly high degree of harmony in
+managing the Treasury’s balances at Reserve banks
+
+4. SELLING BONDS TO COORDINATE
+
+THE TREASURY’S
+
+OPERATIONS
+
+So far we have addressed only the Treasury’s attempts to balance its taxing and spending flows in
+order to minimize the reserve effect of its operations.
+the notion that the government
+if the government
+
+Implicit in our discussion, therefore, was
+
+attempts to balance its budget.
+
+What if it doesn’t?
+
+That is, what
+
+runs a budget deficit? How does the sale of bonds affect the Treasury’s cash
+
+flow operations and, subsequently, the reserve effect? There are three scenarios that must be
+
+-14-
+
+analyzed in order to determine the reserve effect of selling bonds, the key being by whom and
+how are they purchased
+First, it must be recognized that T&L accounts actually receive not only proceeds from tax
+payments, but also funds from the sale of government
+
+debt, When commercial banks with T&L
+
+accounts (or customers of these banks) purchase government
+
+bonds, there may be no immediate
+
+loss of reserves to the purchasing bank or the banking system,
+
+If, when the Treasury auctions
+
+new debt, it specifies that at least some portion of the bonds are eligible for purchase by credit to
+T&L accounts, Special Depositories
+the U.S. Treasury).
+issued bond?.
+
+may acquire the bonds by crediting deposits (in the name of
+
+These depositories,
+
+therefore, will not lose reserves as they purchase newly-
+
+Similarly, the purchase of newly-issued government
+
+Special Depository,
+
+debt by a customer of a
+
+as long as the Treasury specifies that some (or all) of the offering is eligible
+
+for purchase by T&L credit, will leave reserves unaffected.
+Special Depository purchases government
+
+For example, when a customer of a
+
+securities, the Treasury redeposits the check into the
+
+bank on which the check was drawn. The bank then credits the Treasury’s T&L account,
+offsetting the debit to the buyer’s account.
+
+Thus, like the purchase of government
+
+Special Depository,
+
+debt to a customer of one of these institutions can be
+
+the sale of government
+
+debt by a
+
+effected without any loss of reserves.
+The second method concerns the private purchase of newly-issued government
+does not involve crediting a T&L account.
+
+When the securities are ineligible for purchase by
+
+T&L credit, and/or are not purchased by a so-called “note-option”
+the purchase of government
+
+debt that
+
+bank (or one of its customers),
+
+bonds will immediately drain reserves from both the bank and the
+
+I4 The reader might wonder whether additional reserves are required as a result of the larger T&L
+balance. The answer is no. Since the establishment of interest-bearing note accounts in November
+1978, Special Depositories have been free of reserve requirements against T&L deposits.
+-15
+
+banking system.
+
+This is because the proceeds from the sale of the securities will not stay “in the
+
+system” but will be deposited directly into one of the Treasury’s accounts at a Federal Reserve
+bank. When bonds are sold in this way, member bank reserves decline as the Federal Reserve
+credits the Treasury’s account, increasing the RHB in Figure 1. Thus, a bank wishing to purchase
+U.S. government
+
+securities, when T&L credit is not an option, will do so by drawing on its
+
+account at the Federal Reserve. A system-wide loss of reserves will, therefore, accompany every
+private purchase of newly-issued government
+
+debt not eligible for payment through T&L credit.
+
+Finally, the sale of Treasury securities to the Federal Reserve must be considered.
+
+If the
+
+Fed purchases newly-issued bonds directly from the Treasury, it will not cause a change in
+member bank reserves.
+
+This, as Figure 1 makes clear, is because both the RHB (U.S. Treasury
+
+Balance at Fed ) and the LHB (U.S. Government
+leaving total reserves unaffected.
+considered on a consolihted
+
+Furthermore,
+
+Securities ) increase by the same amount,
+since the government’s
+
+balance sheet can be
+
+basis, given by the sum of the Treasury’s and Federal Reserve’s
+
+balance sheets with offsetting assets and liabilities simply canceling one another out (Tobin,
+1998) the sale of bonds by the Treasury to the Fed is simply an internal accounting operation,
+providing the government
+
+with a self-constructed
+
+spendable balance. Although self-imposed
+
+constraints may prevent the Treasury from creating all of its deposits in this way, there is no real
+limit on its ability to do so15,
+Now, the Treasury clearly has choices regarding the manner in which newly-issued bonds
+will be sold. For example, if the government p1au.s to engage in deficit spending, the Treasury can
+sell bonds, allow them to be purchased by T&L credit, and thereby eliminate any immediate
+
+l5 The Federal Reserve was, for a time, prohibited from purchasing bonds directly from the
+Treasury. This changed during WWII, when the Fed was authorized to purchase up to $5 billion
+Since then, the limit has been raised several times.
+of securities directly from the Treasury
+-16-
+
+impact on reserve?.
+
+When the Treasury sells bonds in this way, the bonds act as a sort of
+
+ex ante coordination
+
+tool. Since the Treasury can control the size and timing of hmds transferred
+
+from T&L accounts, this type of bond sale helps the Treasury to drain (more-or-less)
+
+the same
+
+number of reserves from the system that are being added to the system as a result of its deficit
+spending17.
+If, however, there is a problem with the coordination
+underestimate
+
+(for example if the Treasury and Fed
+
+the amount of checks that are drawn on the Treasury’s account at the
+
+Fed), bonds could be sold in order to drain exce.s.s reserves.
+
+In other words, insufficient T&L calls
+
+(which result in a system-wide increase in reserves and threaten to send the overnight lending rate
+to a zero percent bid) could prompt the sale of bonds as an expost coordination
+
+tool. In order to
+
+immediately drain the excess reserves, banks could not be allowed to purchase the bonds by
+crediting a T&L account, but this is something the Treasury can specify (or something the Fed
+can do).
+
+5. THE NUANCES OF RESERVE ACCOUNTING
+The purpose of this section is twofold.
+used to finance government
+
+First, the commonly-held
+
+spending will be examined.
+
+belief that taxes and bonds are
+
+First, the question will be addressed
+
+intuitively, drawing on the reserve effects analyzed in Sections 2-4. Second, for those who
+remain unconvinced
+
+by the intuitive analysis, the question as to whether the proceeds from taxes
+
+and bond sales are even capable of financing government
+
+spending will be considered.
+
+The
+
+I6 Boulding notes that deficit spending most commonly involves this practice (1966).
+17Note that the government can deficit spend without taxing or selling bonds first but that if
+government spending is greater than taxation, the banking system will be left with excess reserves.
+The Treasury, therefore, prefers to use bonds to coordinate its deficit spending, selling them to
+Special Depositories (and allowing T&L credit) before spending from its accounts at Reserve
+banks. The bonds, then, allow the government to defend (ex ante) the fed funds rate.
+-17-
+
+argument requires an application of basic accounting principles to an analysis of reserve
+accounting in order to determine whether revenues from taxation and the sale of bonds are even
+capable of financing government
+
+spending.
+
+Both questions seems absurd.
+
+There is surely no doubt that the proceeds from taxation
+
+and bond sales are deposited into accounts held by the U.S. Treasury (either with commercial
+banks or at the Federal Reserve) and that the government
+accounts at Reserve banks. Moreover,
+
+spends by writing checks on Treasury
+
+since funds are transferred from T&L accounts to the
+
+Treasury’s account at the Fed in order to cover anticipated shortfalls in these accounts, it certainly
+looks as though the government
+
+uses these proceeds to finance its spending.
+
+interdependence
+
+the basis for the treatment of taxation and bond sales as
+
+is, undoubtedly,
+
+financing operations.
+
+But is the coordination
+
+This apparent
+
+of taxation and bond sales with (deficit) spending
+
+due to necessity or does it mask a more pragmatic operation?
+Let us consider the argument that the coordination
+government
+
+owes itself to necessity; that is, that the
+
+needs to tax or borrow from the private sector in order to finance its spending.
+
+question can be approached
+
+The
+
+pragmatically, using the following important conclusions drawn in
+
+Sections 2-4:
+1. The payment of taxes and the purchase of bonds by the private sector drain reserves from the
+
+banking system as the proceeds are placed into the Treasury’s account at the Federal Reserve.
+2. Government
+
+spending causes a system-wide increase in aggregate bank reserves.
+
+3. Changes in the total level of bank reserves cause changes in the federal funds and other shortterm interest rates.
+
+-18-
+
+4. The Treasury manages its closing balance in Reserve accounts by coordinating
+
+its spending,
+
+taxing and bond sales.
+5. Barring self-imposed constraints, the Treasury could manufacture
+
+all of its spending balances
+
+by selling bonds directly to the Federal Reserve.
+
+But why should the government
+
+need to take from the private sector the money (currency and/or
+
+bank reserves) that it alone is capable of creating?
+
+It seems reasonable to suggest that it is not
+
+money but bridges, armies, satellites, etc. that the government
+encouraging
+
+wants and that it acquires them by
+
+the population to provide them in exchange for government
+
+cannot be the government
+
+money.
+
+That is, it
+
+but the public/citizens who need the money in order to settle their tax
+
+liabilities to the state.
+Indeed, the entire process of taxing and spending must, as a matter of logic, have begun
+with the government
+a population
+
+first creating (and spending) new government
+
+had made its money available? In other words, the government’s
+money mustfirst
+
+purchase of goods and services
+
+have supplied the citizens with the means with which to pay
+
+taxes. Thus, taxes can be conceived as the means by which the government
+from private to public domain.
+the government’s
+
+directs real resources
+
+If this theory is accepted, taxes are used to create a demand for
+
+money, not to “finance” the government’s
+
+spending.
+
+Similarly, bonds need not be issued in order to allow the government
+current taxation.
+
+How, after all, could
+
+money (I-PM) before the government
+
+settle its tax liabilities using the government’s
+
+using newly-created
+
+money.
+
+This, again, is because the government
+
+balance internally (on its consolidated
+
+to spend in excess of
+
+can always create its own spendable
+
+balance sheet) by offsetting a Treasury liability against a
+
+-19-
+
+Federal Reserve asset (e.g., but not necessarily, a Treasury bond).
+
+In the absence of bond sales,
+
+deficit spending would result in a net increase in aggregate bank reserves.
+
+Bonds, then, are used
+
+to coordinate deficit spending, draining what would otherwise become excess reserves.
+provide the private sector with an interest-earning
+currency and allow the government
+
+alternative to non-interest-bearing
+
+They
+
+government
+
+to spend in excess of taxation while maintaining positive
+
+overnight lending rates.
+Thus, an intuitive analysis of Treasury operations suggests a practical motivation for the
+coordination
+
+of taxation and bond sales with government
+
+spending.
+
+Specifically, because of the
+
+reserve effects of taxing, spending, and selling bonds, the government
+
+chooses to coordinate these
+
+operations in order to mitigate the impact on banks’ reserve positions and, hence, on short-term
+interest rates. This interdependence,
+and bonds.
+government’s
+
+then, is not de,facto evidence of a “financing” role for taxes
+
+On the contrary, taxes can be viewed as a means of creating a demand for the
+money, HPM. Bonds, which are used to prevent deficit spending from flooding the
+
+system with excess reserves, allow the maintenance of positive overnight lending rates. Neither
+taxes nor bond sales, therefore, need be viewed as a financing operation.
+Many readers will undoubtedly
+
+remain unconvinced,
+
+based on the intuitive analysis just
+
+presented, that the treatment of taxation and bond sales as financing operations should be
+discontinued.
+
+Fortunately,
+
+there is another, more powerful, method by which to argue that
+
+taxation and bond sales should not be considered financing operations,
+technical one and requires an understanding
+
+The argument is a
+
+that Federal Reserve notes (and reserves) are booked
+
+as liabilities on the Fed’s balance sheet and that these liabilities are extinguished/discharged
+they are offered in payment to the State. It must also be recognized that when currency or
+
+-2o-
+
+when
+
+reserves return to the State, the liabilities of the State are reduced and high-powered
+
+money is
+
+destroyed.
+The destruction of these promises is no different from the private destruction
+
+of a promise
+
+once it has been fulfilled. In other words, when an individual takes out a loan, she issues a
+promise to a bank. Once she ‘makes good’ on that promise (i.e. repays the loan), she may
+‘destroy’ that loan debt (liability) by eliminating it from her balance sheet. Likewise, the State,
+once it fulfills its promise to accept its own money (HPM) at State pay-offices, can eliminate an
+equivalent number of these liabilities from its balance sheet.
+Thus, while bank money (Ml) is destroyed when demand deposits are used to pay taxes,
+the government’s
+
+money, HPM, is destroyed as the funds are placed into the Treasury’s account
+
+at the Fed. Viewed this way, it can be convincingly argued that the money collected from taxation
+and bond sales cannot possibly finance the government’s
+
+spending.
+
+This is because in order to
+
+‘get its hands on’ the proceeds from taxation and bond sales, the government
+money it has collected.
+
+Clearly, government
+
+must destroy the
+
+spending cannot be financed by money that is
+
+destroyed when received in payment to the State!
+How, if not by using the money received in payment of taxes and bond sales, does the
+government
+
+finance its spending?
+
+Notice that the government
+
+writes checks on an account that
+
+does not comprise part of the money supply or HPM but that as it does, the funds become part of
+the money supply (Ml if deposited into checking accounts, M2 if savings accounts, etc.) and part
+of HPM. It is therefore apparent that while the payment of taxes destroys an equivalent amount
+of money (Ml immediately and HPM as the proceeds go into the Treasury’s account at the Fed),
+spending from this account creates an equivalent amount of new money - both bank money and
+
+-21-
+
+HPM. Modern governments,
+(high-powered)
+
+then, finance all of their spending through the direct creation of new
+
+money.
+
+6. SUMMARY AND CONCLUSIONS
+If the government
+
+(Fed and Treasury) had no regard for the “reserve effect” of its operations,
+
+would have little use for T&L accounts.
+consolidated
+
+it
+
+It could simply create its own spendable deposit (on its
+
+balance sheet) and then spend (adding reserves and creating money) without regard
+
+for the size/timing of its tax receipts.
+
+But this behavior would frequently leave a banking system
+
+which was previously satisfied with its reserve position with substantially more excess reserves
+than it wished to maintain,
+
+A system flush with excess reserves would find few bidders for these
+
+funds, and the overnight lending rate would fall toward zero. Taxes, as they drifted in, would
+drain a portion of the excess reserves.
+
+Still, the funds rate could remain at a zero percent bid for a
+
+prolonged period of time.
+In order to move to a positive funds rate, either the Federal Reserve or the Treasury
+would be forced to sell bonds to drain excess reserves18. Banks, not wishing to hold an excessive
+amount of non-interest-bearing
+interest-earning
+
+government
+
+reserves for interest-bearing
+
+money, would be all-too-happy
+Treasury bonds.
+
+to exchange non-
+
+The bonds would have to be sold
+
+until enough excess reserves had been drained to yield a positive (target) mnds rate. Although
+this process of adding and later draining reserves could work, it would involve substantial
+variation in the level of reserves and, subsequently,
+
+significant turmoil in the market for federal
+
+l8 Note that bonds would have to be sold even if the government ran an annually balanced
+budget. This is because it is impossible to eliminate the “reserve effects” of the Treasury’s daily
+operations. Thus, swings in the Treasury’s daily closing balance, which threaten to move the
+fi.mds rate away from its target, would induce the sale of bonds despite an annually balanced
+budget.
+-22-
+
+funds
+
+Knowing that these are the undesirable effects of disregarding the reserve effects of its
+
+operations, the Treasury chooses to coordinate its operations, transferring funds from T&L
+accounts (draining reserves) as it spends from its account at the Fed.
+Taxes are not necessary for, or even capable of, financing government
+are paid using high-powered
+the government
+
+spending when they
+
+money (i.e. by cash or check in a fiat money system).
+
+In order for
+
+to ‘get its hands on’ the proceeds from taxation, it must place these funds into the
+
+Treasury’s account at the Fed. As it does, the banking system loses an equivalent amount of
+desired and/or required reserves (either immediately or as the Treasury transfers the proceeds
+from T&L accounts into its accounts at Reserve banks), and an equivalent amount of HPM is
+destroyed.
+
+Similarly, reserves are drained and HPM is destroyed when the Treasury issues bonds
+
+(immediately if T&L credit is not allowed or with a lag as the proceeds are transferred from T&L
+accounts).
+
+In contrast, government
+
+spending from the Treasury’s account at the Fed injects
+
+reserves and creates an equivalent amount of new money (Ml, M2, etc. and HPM).
+It is impossible to perfectly balance (in timing and amount) the government’s
+its expenditures.
+
+receipts with
+
+The best the Treasury and the Fed can do is to compare estimates of anticipated
+
+changes in the Treasury’s account at the Fed and to transfer approximately
+to/from T&L accounts.
+
+the correct amount
+
+Errors due to excessive or insufficient T&L “calls” are the norm.
+
+Although “same-day calls” and “direct investments”
+
+are designed to permit the authorities to react
+
+to these errors, they are not always an option.
+When the Treasury is unable to correct these errors on its own, the Federal Reserve may
+have to offset changes in the Treasury’s closing balance.
+
+This will be necessary whenever the
+
+errors are large enough to move the funds rate away from its target rate. In fact, as argued
+
+-23-
+
+previously, the Treasury’s balance at the Fed is “often the biggest source of uncertainty”
+monetary policy-makers
+
+(Meulendyke,
+
+forced upon it by its commitment
+
+faced by
+
+1989, p. 159). Its role as an offsetting agency is essentially
+
+to a target funds rate. Indeed, Poole (1975) goes further,
+
+stating that the Fed will usually abandon any other objective target in order to maintain the funds
+rate within its tolerance range. The adding/draining
+
+of reserves, then, is largely non-discretionary,
+
+as monetary policy is concerned primarily with maintaining the overnight lending rate. Fiscal
+policy, in contrast, has to do with determining the supply of high-powered
+
+money.
+
+Moreover,
+
+while both taxation and bond sales drain reserves from the banking system, neither provide the
+government
+
+with money with which to finance its spending.
+
+lead (ultimately) to the destruction
+
+Indeed, both taxation and bond sales
+
+of HPM.
+
+An analysis of reserve accounting reveals that all government
+
+spending is financed by the
+
+direct creation of HPM; bond sales and taxation are merely alternative means by which to drain
+reserves/destroy
+
+HPM. The choice, then, is between alternative methods for draining reserves in
+
+order to prevent the overnight lending rate from falling to zero. In light of these findings, it is,
+perhaps, time to reconsider our definitions of monetary and fiscal policy as well as our treatment
+of taxation and bond sales as “financing” operations.
+
+-24-
+
+Auerbach, Irving, 1963, United States Treasury Cash Balances And The Control Of Member
+Bank Reserves, Fiscal and Debt Management
+Credit (Englewood
+
+Policies: The Commission
+
+on Money and
+
+Cliffs: Prentice-Hall).
+
+Barro, Robert J., 1974, Are Government
+
+Bonds Net Wealth?, Journal of Political Economy 82(6),
+
+1095-l 117.
+Blinder, Alan S. and Robert M. Solow, 1973, Does Fiscal Policy Matter, Journal of Public
+Economics 2, 3 18-37.
+Blinder, Alan S. and Robert M. Solow, 1976, Does Fiscal Policy Still Matter?, Journal of Public
+Economics
+
+5, 501-10.
+
+Boulding, Kenneth, 1966, Economic Analysis: Macroeconomics,
+
+Vo1.2, Fourth Edition (New
+
+York: Harper & Row).
+Buiter, William H., 1977, Crowding Out and the Effectiveness
+Economics
+Ludvigson,
+
+of Fiscal Policy, Journal of Public
+
+7, 309-28.
+
+Sydney, 1996, The Macroeconomic
+
+Growth Model,
+
+Effects of Government
+
+Debt in a Stochastic
+
+Journal of Monetary Economics 38(l), 25-45.
+
+Lerner, Abba P., 1973, Money, Debt and Wealth, in W. Sellekaerts, ed., Econometrics
+Economic Theory:
+
+and
+
+Essays in Honor of Jan Tinbergen
+
+Manypenny, Gerald D. and Michael L. Bermudez,
+Agents and Depositories
+
+1992, The Federal Reserve Banks as Fiscal
+
+of the United States, Federal Reserve Bulletin 78(10), 727-737.
+
+Modigliani, France, 196 1, Long-Run Implications of Alternative Fiscal Policies and the
+Burden of the National Debt, Economic Journal 7 1, 73 O-55.
+
+Poole, William, 1975, The Making of Monetary Policy: Description and Analysis, Economic
+Inquiry 13, 253-65.
+Poole, William, 1989, Federal Funds Rate, in: John Eatwell, Murray Milgate, and Peter Newman,
+eds., The New Palgrave: Money (New York and London: W. W. Norton) 1O-l 1.
+Ranlett, John, 1977, Money And Banking: An Introduction
+
+to Analysis and Policy, Third edition,
+
+(Santa Barbara: John Wiley & Sons).
+Smith, Bruce D. and Anne P. Villamil, 1998, Government
+Randomly Determined Returns:
+of Deficit Finance,
+
+Borrowing Using Bonds With
+
+Welfare Improving Randomization
+
+In The Context
+
+Journal of Monetary Economics 4 l(2), 3 5 l-3 70.
+
+Tobin, James, 196 1, Money, Capital and Other Stores of Value, American Economic Review
+51(2), 26-37.
+Tobin, James and Stephen S. Golub, 1998, Money, Credit, And Capital (Boston: Irwin
+McGraw-Hill).
+Trostel, Phillip. A., 1993, The Nonequivalence
+Journal of Monetary Economics
+U.S. Department
+
+Between Deficits and Distortionary
+
+Taxation,
+
+3 l(2), 207-227.
+
+of the Treasury, 1997, 1998, Daily Treasury Statements (Superintendent
+
+Documents,
+
+U.S. Government
+
+Printing Office), http://fedbbs.access.gpo.gov/dailys.htm.
+
+of
+
+-
+
+

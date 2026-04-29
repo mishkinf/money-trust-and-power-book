@@ -149,5 +149,3 @@ The asymmetry that trapped Edward III did not vanish with the medieval monarchie
 
 But the path to that solution would first require witnessing private money's spectacular failure. The goldsmith-bankers had created credit through fractional reserve lending, issuing receipts that circulated as currency. For three decades the system worked — until 1672 revealed its flaw. When the crown suspended debt payments, the entire network collapsed. What monarchies needed was not more private bankers but a public institution backed by the full fiscal power of the state, capable of making its promises believable to foreign creditors who would never accept a goldsmith's note.
 
-> Money is institutional credit, given value by the power to tax and bounded only by the productive capacity of the economies that bear it.
-

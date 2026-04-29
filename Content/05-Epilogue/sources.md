@@ -75,4 +75,48 @@ For readers interested in exploring these themes further, the following works pr
 - Congressional Budget Office. (Various years). *The Budget and Economic Outlook.* [Current account deficit data]
 - Gourinchas, P. O., & Rey, H. (2007). "From World Banker to World Venture Capitalist: U.S. External Adjustment and the Exorbitant Privilege." In *G7 Current Account Imbalances: Sustainability and Adjustment.* University of Chicago Press.
 
+---
+
+### **Additional sources for "What this means now" (positions 1–7)**
+
+**On the household-budget metaphor and operational mechanics of federal spending (Position 1, Position 3):**
+- Bell, Stephanie. (1998). "Can Taxes and Bonds Finance Government Spending?" *Levy Economics Institute Working Paper No. 244.* [Detailed reserve-accounting analysis demonstrating Treasury–Federal Reserve operations: spending creates high-powered money; taxation and bond sales drain reserves rather than finance subsequent spending. Author later published as Stephanie Kelton.]
+- Manypenny, Gerald D., & Bermudez, Michael L. (1992). "The Federal Reserve Banks as Fiscal Agents and Depositories of the United States." *Federal Reserve Bulletin,* 78(10), 727–737. [Institutional documentation of the Treasury General Account, Tax and Loan accounts, and the Treasury–Fed daily coordination.]
+- Federal Reserve Bank of St. Louis (FRED). "Liabilities and Capital: Liabilities: Deposits with F.R. Banks, Other Than Reserve Balances: U.S. Treasury, General Account." Series WTREGEN. [Daily TGA balance, public record.]
+
+**On Eurozone post-2010 distributional outcomes (Position 2):**
+- Kangur, Alvar, Niki Kalavrezou, and Daehaeng Kim. (2021). "Reforming the Greek Pension System." *IMF Working Paper No. 21/188.* [The 7.3% of GDP pension deficit at 2010 peak; the 2010–2017 reform sequence; EKAS elimination; cumulative nominal pension cuts that exceeded forty percent for some cohorts before partial restoration.]
+- Brookings Institution. (2024). "Structural Drivers of Eurozone Underperformance." [Eurozone bloc cumulative GDP shortfall vs. pre-2008 trend.]
+- Eurostat. (Various years). Spanish youth unemployment time series. [Peak 56.2% (males, late 2013); 27.01% (2024).]
+
+**On the Federal Reserve dual mandate and the rates spread within MMT (Position 4):**
+- Forstater, Mathew, and Warren Mosler. (2005). "The Natural Rate of Interest Is Zero." *Journal of Economic Issues,* 39(2), 535–542. [Mosler's foundational permanent-ZIRP argument.]
+- Mosler, Warren. (2010). *The 7 Deadly Innocent Frauds of Economic Policy.* US Virgin Islands: Valance Co. [Mosler's framing of positive interest rates as inflationary, regressive transfer to bondholders.]
+- Wray, L. Randall. (2015). *Modern Money Theory: A Primer on Macroeconomics for Sovereign Monetary Systems.* 2nd ed. Palgrave Macmillan. [The "indeterminate" framing of macroeconomic effect of rate changes; the Job Guarantee as inflation anchor.]
+- Kelton, Stephanie. (2020). *The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy.* PublicAffairs. [The "weak tea in a slump" framing of rate cuts; the political-economy critique of the household-budget metaphor.]
+- IMF World Economic Outlook Historical Database; OECD Economic Outlook Statistical Annex. [Decadal output-gap series 1971–2024 for U.S., Eurozone, Japan, U.K. — basis for the "running too tight more often than too loose" claim.]
+
+**On CBDC governance (Position 5):**
+- European Central Bank. (October 2025). "Preparation Phase of a Digital Euro — Closing Report." [Privacy-by-design architecture, offline cash-like anonymity, holding limits ~€3,000 per person, target issuance 2029.]
+- European Central Bank. (March 2026). "Eurosystem Unveils Appia Roadmap for Europe's Tokenised Finance." [Pontes DLT bridge, scheduled launch Q3 2026.]
+- People's Bank of China. (December 2025). *Action Plan for Further Strengthening the Digital Yuan.* [January 2026 reclassification of e-CNY as interest-bearing deposit currency under commercial-bank operation.]
+- People's Bank of China; Atlantic Council. (Various, 2025–2026). [Cumulative e-CNY transaction volume ~$2.37 trillion through November 2025.]
+- Federal Reserve Bank of Boston and MIT Digital Currency Initiative. (2022). *Project Hamilton Phase 1 Executive Summary.* [1.7 million transactions per second throughput; two-phase commit architecture; Fed posture that no retail CBDC will be issued without explicit Congressional mandate.]
+- Bank for International Settlements. (October 2024). Public statements regarding withdrawal from Project mBridge. [BIS exit framed as project graduation; widely interpreted as response to the platform's emergent role as a de-dollarization mechanism.]
+
+**On the institutional answer to public-choice concerns (Position 6):**
+- Tcherneva, Pavlina R. (2020). *The Case for a Job Guarantee.* Polity Press. [Federal job guarantee as automatic stabilizer.]
+- Buchanan, James M., and Richard E. Wagner. (1977). *Democracy in Deficit: The Political Legacy of Lord Keynes.* Academic Press. [The strongest version of the public-choice critique the chapter and Epilogue both engage.]
+
+**On trade architecture and external balance — the author's divergence from canonical MMT (Position 7):**
+- Keynes, John Maynard. (1943). "Proposals for an International Clearing Union." *British Government White Paper Cmd. 6437* (April 1943). [The Bancor proposal in operational detail, including the symmetric pressure mechanism: 5% charge on average annual excess balances above one-quarter of quota, 10% above one-half.]
+- Steil, Benn. (2013). *The Battle of Bretton Woods: John Maynard Keynes, Harry Dexter White, and the Making of a New World Order.* Princeton University Press. [Historical account of the Keynes–White contest and the procedural defeat of the Bancor.]
+- Mosler, Warren. (2010). *The 7 Deadly Innocent Frauds of Economic Policy.* Valance Co. [Canonical MMT position that imports are real benefits and exports are real costs; trade deficits as non-issue under floating rates. Cited above for Position 4 as well.]
+- Kelton, Stephanie. (2020). *The Deficit Myth.* PublicAffairs. [Canonical MMT framing of foreign reserve accumulation as accounting non-event.]
+- Mitchell, William F. (Various, paecon.net and other heterodox publications). [Canonical MMT position that current account deficits represent real benefits exceeding real costs.]
+- Keen, Steve. (2022). *The New Economics: A Manifesto.* Polity Press. [Stock-flow consistent modeling argument that persistent trade deficits drain private-sector net financial wealth and induce offsetting private leverage; the basis for the author's divergence from canonical MMT on global-order stability.]
+- Stiglitz, Joseph E., and Bruce Greenwald. (2010). "Towards a New Global Reserve System." *Journal of Globalization and Development,* 1(2). [Modern bancor-revival argument; the deflationary bias of the dollar standard.]
+
+---
+
 The journey from ancient grain credits to modern fiat currency is long, but the principles remain constant. Money is trust, institutionalized and made portable. Understanding its history is essential to managing its future.
