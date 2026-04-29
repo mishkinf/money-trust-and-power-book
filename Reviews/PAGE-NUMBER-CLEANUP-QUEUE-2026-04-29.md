@@ -137,7 +137,7 @@ Still needs edition/page access:
 
 ## Internal-Dossier Conversion
 
-First conversion pass complete: chapter source files no longer contain public-facing `Local research dossier` entries. Working research files remain in the repository for internal audit, but the reader-facing source layer now points to underlying source families.
+Conversion pass complete for the submission draft: chapter source files no longer contain public-facing `Local research dossier` entries. Working research files remain in the repository for internal audit, but the reader-facing source layer now points to underlying source families.
 
 ## Current-Data Refresh Pass
 

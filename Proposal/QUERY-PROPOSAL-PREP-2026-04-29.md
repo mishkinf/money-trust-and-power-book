@@ -3,7 +3,7 @@
 **Book:** *Money, Trust, and Power*
 **Subtitle:** *The Five-Thousand-Year Fight Over Who Gets to Create Money*
 **Current manuscript:** approximately 62,000 words
-**Status:** Out of substantive revision; ready for source/page-number cleanup, current-data freeze, copyedit, and submission-material development.
+**Status:** Complete manuscript, out of substantive revision; query/proposal/package drafted. Remaining items are agent-specific tailoring, author bio/platform, page pins where stable editions support them, and submission-day data refresh.
 
 ## Core Positioning
 
@@ -84,22 +84,35 @@ Sincerely,
 
 [Name]
 
-## Proposal Sections To Draft Next
+## Submission Packet Status
 
 Draft file created: `Proposal/BOOK-PROPOSAL-DRAFT-2026-04-29.md`.
 
-Remaining proposal work:
+Complete book-facing materials:
 
-1. Finish book-facing materials first: title/subtitle, cover direction, insert/front-back matter, source notes, and page-number cleanup.
-2. Choose final comp-title mix for the specific agent list.
-3. Decide sample chapters.
-4. Tighten overview to each agent's taste and submission rules.
-5. Refresh any current-data claims immediately before sending.
-6. Add author bio and platform details last.
+- Query draft.
+- Book proposal draft.
+- Core positioning, comps, audience, selling scenes, and chapter synopsis.
+- Title/subtitle/cover/insert package.
+- Table of contents, figure list, reader guide, and source-method note.
+- Final review record and fact-check/source cleanup ledgers.
+
+Recommended sample material:
+
+- **Narrative-history package:** Chapter 10, with Chapter 3 or 4 as the optional second sample.
+- **Contemporary-relevance package:** Chapter 12, with the Epilogue as the optional second sample.
+- **Distinctive-thesis package:** Chapter 8, with Chapter 12 as the optional second sample.
+
+Remaining external work:
+
+1. Choose final comp-title mix for the specific agent list.
+2. Tighten overview to each agent's stated taste and submission rules.
+3. Refresh any current-data claims immediately before sending.
+4. Add author bio and platform details last.
 
 ## Current Risks To Handle In Proposal
 
 - Avoid sounding like "another money history"; lead with the household-budget replacement and paired-vindication frame.
 - Avoid sounding like an MMT pamphlet; stress constraint, inflation, credibility, and institutional discipline.
 - Avoid overpromising a policy program; the payoff is a civic framework, not a manifesto.
-- Platform/bio will matter, but it is intentionally parked until the book-facing package is complete.
+- Platform/bio will matter, but it is intentionally parked until author materials are ready.

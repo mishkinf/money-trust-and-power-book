@@ -59,7 +59,7 @@ The guiding practice is:
 - Prefer rounded figures when precision would imply false confidence.
 - Avoid making a vivid number carry more interpretive weight than it can support.
 
-The Chapter 8 deposits-versus-notes statistic is the current example: the live manuscript uses softened wording while the exact denominator is researched separately.
+The Chapter 8 deposits-versus-notes statistic is the current example: the live manuscript uses softened wording because the old exact decimal could not be tied to a reliable c.1900 historical denominator.
 
 ## Methodological Choices
 
@@ -97,7 +97,7 @@ Before final submission or typesetting:
 - Preserve the direct public citation layer rather than reverting to internal research-file labels.
 - Add or verify page numbers for major book citations where practical and where the final edition is known.
 - Refresh contemporary data: CPI, Fed balance sheet, crypto/stablecoin figures, and any market-size claim used in proposal materials.
-- Keep the old exact Chapter 8 deposits-versus-notes statistic out of the manuscript unless a primary historical source is found.
+- Keep the old exact Chapter 8 deposits-versus-notes statistic out of the manuscript unless a primary historical source with the correct period, geography, and denominator is found.
 
 ## Transparency
 
