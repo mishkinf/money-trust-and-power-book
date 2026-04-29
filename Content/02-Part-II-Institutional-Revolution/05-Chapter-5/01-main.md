@@ -6,7 +6,7 @@ William's throne came with an immediate price: war. Louis XIV of France refused 
 
 The sums dwarfed older English habits of government. Annual military expenditure rose into the millions of pounds. Ordinary revenue could not cover it. The gap had to be filled by borrowing, and borrowing required the thing England had only just begun to build: public credit.
 
-Chapter 4 showed the bargain: Parliament chartered the Bank of England, private subscribers supplied capital, the Bank lent £1.2 million to the government, and Parliament pledged taxes to service the debt. This chapter follows the machinery. How did paper move from statute to salary, from ledgers to shipyards, from government debt into everyday payments?
+The bargain was now in place: Parliament had chartered the Bank of England, private subscribers had supplied capital, the Bank had lent £1.2 million to the government, and Parliament had pledged taxes to service the debt. The remaining question was operational. How did paper move from statute to salary, from ledgers to shipyards, from government debt into everyday payments?
 
 ---
 

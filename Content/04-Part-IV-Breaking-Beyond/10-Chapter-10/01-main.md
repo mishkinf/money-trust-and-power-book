@@ -180,4 +180,4 @@ The compromise White built outlasted the metal that anchored it. France in the 1
 
 ---
 
-The next chapter traces how the compromise unraveled — how Triffin's mathematical impossibility became political crisis, how allies became adversaries testing American promises, and how Nixon's "temporary" closure of the gold window in August 1971 became permanent.
+The compromise unraveled when Triffin's mathematical impossibility became political crisis, when allies became adversaries testing American promises, and when Nixon's "temporary" closure of the gold window in August 1971 became permanent.

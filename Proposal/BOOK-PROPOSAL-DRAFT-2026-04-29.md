@@ -4,11 +4,11 @@
 **Subtitle:** *The Five-Thousand-Year Fight Over Who Gets to Create Money*
 **Length:** Approximately 62,000 words
 **Status:** Complete manuscript, out of substantive revision; book-facing proposal/package drafted; remaining work is submission-day data freeze, page pins where available, and author/platform material.
-**Category:** Serious trade nonfiction / economic history / political economy
+**Category:** Serious trade nonfiction / grand narrative economic history / political economy
 
 ## Overview
 
-*Money, Trust, and Power: The Five-Thousand-Year Fight Over Who Gets to Create Money* is a serious trade history of money that replaces the household-budget metaphor with a more accurate and more useful one: money is institutional credit, sustained by enforceable obligation, productive capacity, credible governance, and public trust.
+*Money, Trust, and Power: The Five-Thousand-Year Fight Over Who Gets to Create Money* is a grand narrative of monetary power: a serious trade history showing how societies decide who may create money, whose promises become public infrastructure, and who pays when trust fails. It replaces the household-budget metaphor with a more accurate and more useful one: money is institutional credit, sustained by enforceable obligation, productive capacity, credible governance, and public trust.
 
 The book moves from ancient barley debts and medieval merchant bills to the Bank of England, the gold standard, Churchill's disastrous return to gold, Keynes's defeat at Bretton Woods, Nixon's closure of the gold window, Volcker's disinflation, quantitative easing, pandemic inflation, and cryptocurrency. Across five thousand years, the same question keeps returning: what makes a monetary promise trusted, and who pays when that trust fails?
 
@@ -18,7 +18,7 @@ That frame gives readers a way to understand today's debates over deficits, infl
 
 ## Why This Book Now
 
-The nearly two decades since 2008 have made ordinary citizens fluent in monetary events without giving them a coherent monetary education. The 2008 crisis showed central banks creating trillions to rescue the financial system. The pandemic response showed governments spending at a scale once described as impossible. The 2021-22 inflation, and the harder last mile of the 2026 inflation fight, showed that real capacity constraints still bite. Crypto promised escape from institutions and then recreated banks, runs, leverage, fraud, custody failures, and finally court-administered recoveries in less accountable form.
+The nearly two decades since 2008 have made ordinary citizens fluent in monetary events without giving them a coherent monetary education. The 2008 crisis showed central banks creating trillions to rescue the financial system. The pandemic response showed governments spending at a scale once described as impossible. The 2021-22 inflation, and the harder last mile visible in the April 2026 data freeze, showed that real capacity constraints still bite. Crypto promised escape from institutions and then recreated banks, runs, leverage, fraud, custody failures, and finally court-administered recoveries in less accountable form.
 
 Public debate still reaches reflexively for the household-budget metaphor: government must live within its means, debt burdens our grandchildren, money printing always causes inflation, and "sound money" means discipline. The opposing slogan, that sovereign currency makes money easy, is equally inadequate. *Money, Trust, and Power* gives readers the historical grammar needed to reject both simplifications.
 
@@ -31,7 +31,7 @@ Primary readers include:
 - Policy-interested readers frustrated by debt-ceiling, deficit, inflation, and central-bank debates.
 - Readers of Liaquat Ahamed, Adam Tooze, Barry Eichengreen, David Graeber, Stephanie Kelton, Christine Desan, and financial-crisis nonfiction.
 
-The book is not personal finance, not a textbook, not a narrow MMT manifesto, and not a simple gold-standard debunking tract. It is a narrative institutional history with a civic payoff.
+The book is not personal finance, not a textbook, not an MMT explainer, and not a simple gold-standard debunking tract. It is a narrative history of monetary power with a civic payoff.
 
 ## Comparable Titles
 
@@ -45,7 +45,7 @@ Comparable for monetary architecture as political power. This manuscript is more
 Comparable for the long history of credit and obligation. This manuscript is more disciplined around monetary institutions, central banking, and policy tradeoffs.
 
 **Stephanie Kelton, *The Deficit Myth***
-Comparable for public-facing challenge to household-budget politics. This manuscript is less programmatic and more historical, with stronger emphasis on inflation, institutional credibility, and real-resource limits.
+Comparable for public-facing challenge to household-budget politics. This manuscript is less programmatic and more historical: a broader narrative of monetary power, with stronger emphasis on inflation, institutional credibility, and real-resource limits.
 
 **Christine Desan, *Making Money***
 Comparable for money as legal and institutional design. This manuscript translates adjacent insights into a more narrative trade frame.
@@ -121,7 +121,7 @@ Do not draft this section until the book content, source apparatus, page-number 
 
 The manuscript has completed multiple full-manuscript review cycles, including a final clean-context review of the current 62,000-word version using a must-read rubric. The most recent aggregate assessment was approximately 4.62/5: two reviewers called it 5/5 must-read, two called it 4.5/5 near-must-read, all four recommended stopping substantive revision, and no reviewer identified a blocker.
 
-Book-facing content and package materials are now substantively complete. Remaining work is external or submission-day finishing:
+Book-facing content and package materials are now substantively complete and positioned as a grand narrative of monetary power rather than an MMT explainer. Remaining work is external or submission-day finishing:
 
 - Publication-facing pin-cite/page-number cleanup for print-book citations where final editions or scans expose stable pagination.
 - Normal fact-checking/current-data freeze immediately before submission.

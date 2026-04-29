@@ -126,4 +126,4 @@ This is why the Bank belongs in a book about money, trust, and power rather than
 
 The Bank of England did not prove that money was just metal. It proved that a transferable promise could circulate when public debt, taxation, corporate privilege, and political constraint made the promise hard to break.
 
-Backwell's world ended because private credit had no anchor strong enough to survive sovereign default. Paterson's world began by attaching credit creation to Parliament's power to tax. The next question is how that machine worked closely enough, and routinely enough, that people used its promises as money.
+Backwell's world ended because private credit had no anchor strong enough to survive sovereign default. Paterson's world began by attaching credit creation to Parliament's power to tax. The invention mattered only if it could become routine: paper moving from statute to salary, from public debt into private payment, until people used the promise without having to think about the machinery behind it.

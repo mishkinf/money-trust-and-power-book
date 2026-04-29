@@ -28,13 +28,15 @@ These now look sufficiently anchored for working manuscript purposes:
 - Lehman employees: Chapter 12 sources include SEC plan documents, ERISA litigation, and profile sources.
 - Maureen McKenzie: Chapter 12 sources include loan documents, reset notice, and St. Louis Public Radio case-study material.
 - Michinao Kono: Chapter 12 sources identify the Bloomberg Businessweek profile and related government context.
+- Ty Stehlik: Chapter 12 sources now identify the Abha Bhattarai / *Washington Post* January 22, 2022 profile as the wage/inflation anchor.
+- John Nephew / Atlas Games: Chapter 12 sources now identify the Scott Horsley / NPR June 21, 2021 supply-chain profile as the freight-delay/freight-cost anchor.
 - Hagedorn farm: Chapter 12 sources identify the Iowa PBS documentary/transcript and farm-crisis scholarship.
-- Terri Smith / FTX: Chapter 12 sources identify FTX bankruptcy/legal context and journalism-based customer profile framing.
+- Terri Smith / FTX: Chapter 12 sources identify the Chris Arnold / NPR November 2022 customer profile, FTX bankruptcy/legal context, and journalism-based customer profile framing.
 
 ## Before Submission
 
 1. Do not reopen substantive revision unless a source cannot support the live wording.
 2. Keep internal dossier references in working research files for audit, but do not use them as public-facing citations.
 3. For any publication-facing notes packet, preserve the underlying source-family language added in this pass rather than reverting to internal dossier labels.
-4. Refresh current-data claims immediately before proposal submission: CPI, Fed balance-sheet numbers if mentioned in pitch materials, Bitcoin/stablecoin market numbers if used.
+4. Refresh current-data claims immediately before proposal submission: CPI, PCE, Fed balance-sheet numbers if mentioned in pitch materials, capacity utilization, Bitcoin/stablecoin market numbers if used, and FTX recovery/distribution status. The current manuscript freeze is April 29, 2026.
 5. Use `Reviews/PAGE-NUMBER-CLEANUP-QUEUE-2026-04-29.md` for page-number verification; do not invent page numbers from memory.

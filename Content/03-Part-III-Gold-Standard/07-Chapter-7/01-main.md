@@ -180,4 +180,4 @@ Second, returning to gold at the wrong parity could be devastating. The cruelty 
 
 This double lesson should have made British monetary thought more humble. Instead, the memory split. The success of paper was minimized. The pain of resumption was treated as discipline. Gold's return became evidence of virtue, not a choice with victims.
 
-The next chapter follows the people who tried to turn that suffering into politics, and the people who turned the fear of paper into doctrine. Attwood would insist that monetary contraction was a social catastrophe. The Currency School would insist that discretionary paper was a standing danger. Both saw something real. The tragedy was that only one side captured the institutions.
+Out of that split came the political contest that made nineteenth-century monetary orthodoxy. Attwood would try to turn suffering into politics. The Currency School would turn the fear of paper into doctrine. Both saw something real. The tragedy was that only one side captured the institutions.
