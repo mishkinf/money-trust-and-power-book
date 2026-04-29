@@ -178,6 +178,7 @@ Immediate fixes completed from that round:
 - Added the concise Epilogue Job Guarantee / employment-buffer-stock paragraph requested by the heterodox reviewer.
 - Continued source-safe paraphrase cleanup for unpaginated exact quotations.
 - Completed a conservative Chapter 12 streamline: Chapter 12 narrative now counts at 7,921 words, and the full narrative manuscript counts at 62,816 words.
+- Completed a final repetition/density polish across Chapters 2, 4, 5, 8, 12, and the Epilogue: full narrative manuscript now counts at 62,012 words.
 
 Remaining high-confidence craft pass:
 

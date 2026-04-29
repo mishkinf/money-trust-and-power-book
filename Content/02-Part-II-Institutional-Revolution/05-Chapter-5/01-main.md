@@ -6,7 +6,7 @@ William's throne came with an immediate price: war. Louis XIV of France refused 
 
 The sums dwarfed older English habits of government. Annual military expenditure rose into the millions of pounds. Ordinary revenue could not cover it. The gap had to be filled by borrowing, and borrowing required the thing England had only just begun to build: public credit.
 
-Chapter 4 showed the bargain: Parliament chartered the Bank of England, private subscribers supplied capital, the Bank lent £1.2 million to the government, and Parliament pledged taxes to service the debt. This chapter follows the machinery. How did a bank turn that parliamentary tax promise into money people would use? How did paper move from statute to salary, from ledgers to shipyards, from government debt into everyday payments? The answer is the operational heart of the book: modern money is not a lump of treasure. It is a hierarchy of enforceable promises.
+Chapter 4 showed the bargain: Parliament chartered the Bank of England, private subscribers supplied capital, the Bank lent £1.2 million to the government, and Parliament pledged taxes to service the debt. This chapter follows the machinery. How did paper move from statute to salary, from ledgers to shipyards, from government debt into everyday payments?
 
 ---
 
@@ -66,7 +66,7 @@ This nearness created a practical hierarchy. A merchant who accepted a private b
 
 Third, the notes had network value and everyday convenience. If merchants, suppliers, tax receivers, and creditors accepted them, each new holder had reason to accept them too. A government contractor did not have to move heavy coin through dangerous roads if a recognized paper claim would settle the matter. Convertibility, fiscal connection, and network acceptance reinforced one another. Reduce the Bank to metal alone and the political innovation disappears. Reduce it to tax power alone and the seventeenth-century need for convertibility vanishes too quickly. The actual system was a hybrid.
 
-This is why the Bank's notes were different from Backwell's receipts. Backwell had reputation. The Bank had reputation plus Parliament.
+That is why the Bank's notes were different from Backwell's receipts. Backwell had reputation. The Bank had reputation plus Parliament.
 
 ---
 
@@ -148,9 +148,7 @@ That difference would shape the next century of European monetary thought. To ha
 
 By 1700, England had built a machine for converting institutional credibility into purchasing power. It did not discover a hidden treasure. It made promises more believable, more transferable, and more useful.
 
-The Bank of England's notes showed that money could be a claim issued by a bank, backed by public debt, accepted through fiscal machinery, convertible into coin, and trusted because institutions made the promise hard to break. This was not pure commodity money. It was not pure fiat in the modern sense. It was the bridge between them.
-
-That bridge is why the institution matters so much. It joins the medieval story of public credit to the modern story of central-bank money. It shows that "money backed by the state" did not arrive suddenly in the twentieth century. It grew through hybrid arrangements in which metal, law, taxation, debt, and private banking all reinforced one another.
+The Bank of England's notes were not pure commodity money, and not pure fiat in the modern sense. They were the bridge between them: claims issued by a bank, backed by public debt, accepted through fiscal machinery, convertible into coin, and trusted because institutions made the promise hard to break.
 
 The modern system would change the instruments, but not the question: whose promise sits closest to final payment?
 

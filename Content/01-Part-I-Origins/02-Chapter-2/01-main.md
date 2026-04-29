@@ -28,13 +28,7 @@ What made the system work was reputation. Merchants across Europe accepted bills
 
 By 1399, Datini had executed approximately five thousand such transactions. His archive—150,000 letters and 500 account books preserved in Prato—documents medieval finance in extraordinary detail. The December 12, 1399 transaction survives in the original: Archivio di Stato di Prato, Fondo Datini, pp. 1146. We can read the exact words, see the exchange rates, trace the money's path from Bruges to Barcelona and back.
 
-For Datini, this was business routine. For us, it reveals how merchants created international credit networks while remaining entirely dependent on the sovereign currencies they claimed to transcend.
-
-Because beneath this merchant ingenuity lay a foundation Datini rarely considered: sovereign currency. The bill specified payment in "Barcelonese currency" — not abstract merchant units but actual money backed by the Crown of Aragon's taxation authority. When the chain of bills finally settled, someone needed Barcelonese currency to pay taxes, buy local goods, or settle debts outside the merchant network.
-
-The merchant credit system multiplied sovereign money's efficiency, extending it across borders through reputation and double-entry accounting. But it could not replace sovereign money. It was built on top of it, like a cathedral on bedrock. If the foundation crumbled—if sovereigns debased currency or tax collection failed—the merchant network would shake.
-
-Reputation could extend trust across distance, but it still needed a unit other people recognized and institutions could enforce.
+For Datini, this was business routine. For us, it reveals how merchants created international credit networks while remaining dependent on the sovereign currencies they claimed to transcend. Reputation could move trust across distance, but the promise still had to be denominated in a unit other people recognized and institutions could enforce.
 
 ---
 
@@ -60,7 +54,7 @@ Canon lawyers — the Church's legal scholars, who interpreted religious law —
 
 The financial geography of Europe shifted from the fairs of Champagne to the countinghouses of Italy, Flanders, and southern Germany. Merchant families — Lombards, Peruzzi, Bardi, Medici, Fugger — wove a web of correspondent banking relationships, but in structurally different ways. The fourteenth-century super-companies, Peruzzi and Bardi above all, operated as extended partnerships of family capital: every member's wealth was at stake on every loan, and the failure of any large debtor could pull the whole partnership down. The Medici, founded in 1397, pioneered something new — limited-liability branch structures, separate *libri segreti* for each branch's confidential accounts, a centralized headquarters in Florence that monitored its branches' exposure and could absorb the failure of one without the loss of all. The Fugger of Augsburg added a different innovation a century later: vertical integration into mining and metals, securing the silver and copper their loans were eventually denominated in. All three forms used bills of exchange to move value without shipping physical money. All three depended on reputation: a merchant's trustworthiness, vouched for by an established banking house, became a form of capital. But the institutional evolution from partnership to limited-liability branch network to vertically integrated finance was telling. The cathedral of trust required not just signatures and seals but legal frameworks robust enough to survive the failure of any single node. Each branch held accounts with others, balancing debts through *giro* transfers in common ledgers. Trust replaced treasure.
 
-At the great trade fairs of Bruges and later Antwerp, merchants gathered not merely to sell goods but to settle accounts. They exchanged bills, canceled debts, and adjusted balances with a few strokes of the pen. Money became information, transmitted by courier and codified in double-entry books. Every credit had its offsetting debit; the ledger itself became the world's first distributed database.
+At the great trade fairs of Bruges and later Antwerp, merchants gathered not merely to sell goods but to settle accounts. They exchanged bills, canceled debts, and adjusted balances with a few strokes of the pen. Money became information, transmitted by courier and codified in double-entry books. Every credit had its offsetting debit; the ledger became a distributed memory of obligation.
 
 This system's stability depended entirely on reputation. A merchant's signature was a moral asset. When one house defaulted, the shock rippled across Europe. In 1345, the collapse of the Bardi and Peruzzi—creditors to the English crown—froze trade for years and bankrupted lesser partners. Yet the system recovered, for the idea had taken root: credit was not a local arrangement but a global network of trust.
 
@@ -127,18 +121,6 @@ Venice's *Monte Vecchio* (1150) and *Monte Nuovo* (1262) were early examples of 
 The moral vocabulary of medieval finance—trust, faith, risk, balance—endured long after theology had lost its grip on commerce. Bills of exchange depended on personal integrity; ledgers demanded honesty; and the entire network rested on belief that debts would be honored. Even as the Church retreated, that moral residue shaped capitalism's culture.
 
 In a sense, the Lombards and Fuggers replaced priests with accountants. Their confessional was the ledger; their salvation, solvency. Yet their innovations—paper credit, double-entry bookkeeping, clearinghouses—made modern finance possible. They transformed money from matter into memory, from coin into code.
-
----
-
-### The quiet revolution
-
-The rise of the bill of exchange did not abolish gold; it pushed metal downward into the settlement layer beneath a mountain of paper promises. The merchant of 1500 no longer thought of money only as a chest of coins but as a network of claims stretching from Florence to Antwerp to London. Wealth lay in connectivity.
-
-This system was fragile but self-correcting. So long as trade flowed and reputations held, the web endured. When confidence wavered, it contracted, but each crisis left behind new institutions of resilience. Out of the chaos of defaults emerged mechanisms of insurance, partnerships, and eventually central banks.
-
-By the time monarchs learned to harness these instruments for war finance, Europe's destiny was set. The same logic that allowed a Florentine merchant to settle a bill in Bruges would soon allow governments to mobilize credit for armies and empires.
-
-The first international monetary system was not a metallic standard but a moral one—an invisible cathedral built of trust. Its architecture of ledgers and signatures still underpins the global economy. But the merchant bankers of Florence could not make their promises stand outside law, reputation, and sovereign units of account. Their bills were denominated in florins, ducats, and pounds. The network multiplied monetary trust; it did not replace the foundations beneath it.
 
 ---
 

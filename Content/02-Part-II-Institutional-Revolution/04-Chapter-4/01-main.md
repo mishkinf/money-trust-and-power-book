@@ -74,7 +74,7 @@ This was the old tally principle in a new form. Medieval tallies had allowed the
 
 The newness lay in scale and marketability. A tally was tied to a particular revenue stream and an administrative world of sheriffs, Exchequer officials, and assignment. Bank stock and Bank paper belonged to a broader market. They could be bought, sold, discounted, pledged, and compared with other claims. Public debt was becoming not only an obligation but an asset class. Once that happened, creditors had a direct interest in the constitutional order that protected the debt.
 
-This is the quiet political genius of the arrangement. It converted creditors from nervous outsiders into stakeholders in the regime. A goldsmith with a royal assignment could be sacrificed when the Crown ran short. A Bank shareholder, by contrast, held a claim embedded in an institution Parliament itself had created. The more widely those claims circulated, the more people had reason to defend the machinery that serviced them. Public credit did not float above politics. It recruited politics into its defense.
+This was the quiet political genius of the arrangement: it converted creditors from nervous outsiders into stakeholders in the regime. A goldsmith with a royal assignment could be sacrificed when the Crown ran short. A Bank shareholder held a claim embedded in an institution Parliament itself had created. The more widely those claims circulated, the more people had reason to defend the machinery that serviced them.
 
 ---
 
@@ -124,6 +124,6 @@ That is the double edge of institutional money. A credible monetary system can f
 
 This is why the Bank belongs in a book about money, trust, and power rather than in a footnote about banking history. It changed who could be trusted, how trust could be priced, and how far the state could project force. The old problem had been that sovereign power was too arbitrary for creditors. The new problem was that once sovereign power became credible, it could borrow on a scale that made war and empire easier to sustain.
 
-Still, the historical lesson is decisive. The Bank of England did not prove that money was just metal. It proved the opposite. Money could be a transferable promise, issued by a bank, backed by public debt, supported by taxation, and trusted because institutions made the promise hard to break.
+The Bank of England did not prove that money was just metal. It proved that a transferable promise could circulate when public debt, taxation, corporate privilege, and political constraint made the promise hard to break.
 
-Backwell's world ended because private credit had no anchor strong enough to survive sovereign default. Paterson's world began by attaching credit creation to Parliament's power to tax. The next question is how that machine actually worked: how a bank could lend to the government, issue notes, expand purchasing power, and make the results feel ordinary enough that people used them as money.
+Backwell's world ended because private credit had no anchor strong enough to survive sovereign default. Paterson's world began by attaching credit creation to Parliament's power to tax. The next question is how that machine worked closely enough, and routinely enough, that people used its promises as money.
