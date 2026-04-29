@@ -79,8 +79,6 @@ This is why de Gaulle accelerated French gold conversions after November 1967. T
 
 The only question was timing: when, not if, would someone force America to choose between honoring convertibility (exhausting gold reserves) and preserving reserves (closing the gold window). Britain's crisis in 1967 made that choice inevitable within four years.
 
-The system facilitated postwar reconstruction and enabled unprecedented trade expansion during its successful years — but it contained a fatal flaw that economist Robert Triffin had identified in his 1959–60 Congressional testimony: once "outstanding dollar liabilities to the rest of the world would eventually exceed the US monetary gold stock," a "classic bank run" would occur.
-
 ---
 
 ### The Triffin Dilemma plays out
@@ -141,12 +139,6 @@ He would have a different chair, then, and a different problem. The system the C
 
 The suspension was announced as temporary. It became permanent. By 1973 the Bretton Woods system had collapsed entirely. Major currencies floated against each other, their values determined by market forces rather than fixed parities. For the first time in history, the world's monetary system was based entirely on fiat currency — money backed by nothing but government decree and public confidence.
 
-The gold standard, which had dominated monetary thinking for two centuries, was over. The world did not collapse. Inflation rose in the 1970s and was eventually broken; trade continued to expand; financial markets adapted to floating exchange rates. The post-1971 record made one observation available that the gold-standard century had concealed: institutional credibility, fiscal capacity, and competent monetary management could carry a currency without commodity backing. Whether they would continue to do so under different stresses, and whether the public-choice and Currency School worries would eventually find an institutional answer, were the questions the next chapter would take up.
+The gold standard, which had dominated monetary thinking for two centuries, was over. The world did not collapse. Inflation rose in the 1970s and was eventually broken; trade continued to expand; financial markets adapted to floating exchange rates. The post-1971 record made one observation available that the gold-standard century had concealed: institutional credibility, fiscal capacity, and competent monetary management could carry a currency without commodity backing.
 
----
-
-### The liberation from gold
-
-Nixon's August 1971 decision ended the gold standard forever. What he called a "temporary" suspension became permanent. The last link between major currencies and precious metal was severed — not through careful planning but through crisis and necessity. The world entered uncharted territory: pure fiat money, backed by nothing but institutional credibility and government fiscal power. No commodity anchor. No automatic constraints. No historical precedent at this scale.
-
-Milton Friedman warned that governments without gold's discipline would inflate currencies to worthlessness. Gold bugs predicted the dollar would collapse within a decade. Austrian-school economists insisted that money required commodity backing or chaos would follow. For the first time in history the world's reserve currency was backed by nothing but trust. Whether institutional credibility alone could sustain a global monetary system was the open question of the next fifty years. The next chapter examines what the post-1971 record has actually shown — the 1970s stagflation, the 2008 trillions, the COVID stimulus, the 2021 inflation — and where the evidence has and has not settled the longer-running questions.
+Milton Friedman warned that governments without gold's discipline would inflate currencies to worthlessness. Gold bugs predicted the dollar would collapse within a decade. Austrian-school economists insisted that money required commodity backing or chaos would follow. For the first time in history the world's reserve currency was backed by nothing but trust. Whether institutional credibility alone could sustain a global monetary system, and whether the public-choice and Currency School worries would eventually find an institutional answer, were the questions the next chapter would take up.

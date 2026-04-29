@@ -108,7 +108,7 @@ For readers interested in exploring these themes further, the following works pr
 - Tcherneva, Pavlina R. (2020). *The Case for a Job Guarantee.* Polity Press. [Federal job guarantee as automatic stabilizer.]
 - Buchanan, James M., and Richard E. Wagner. (1977). *Democracy in Deficit: The Political Legacy of Lord Keynes.* Academic Press. [The strongest version of the public-choice critique the chapter and Epilogue both engage.]
 
-**On trade architecture and external balance — the author's divergence from canonical MMT (Position 7):**
+**On trade architecture and external balance — the divergence from canonical MMT flagged in Chapter 10's bancor section as a future-book argument the manuscript does not undertake to settle:**
 - Keynes, John Maynard. (1943). "Proposals for an International Clearing Union." *British Government White Paper Cmd. 6437* (April 1943). [The Bancor proposal in operational detail, including the symmetric pressure mechanism: 5% charge on average annual excess balances above one-quarter of quota, 10% above one-half.]
 - Steil, Benn. (2013). *The Battle of Bretton Woods: John Maynard Keynes, Harry Dexter White, and the Making of a New World Order.* Princeton University Press. [Historical account of the Keynes–White contest and the procedural defeat of the Bancor.]
 - Mosler, Warren. (2010). *The 7 Deadly Innocent Frauds of Economic Policy.* Valance Co. [Canonical MMT position that imports are real benefits and exports are real costs; trade deficits as non-issue under floating rates. Cited above for Position 4 as well.]

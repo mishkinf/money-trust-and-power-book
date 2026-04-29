@@ -80,8 +80,6 @@ Smaller countries understood the power dynamic. They faced anticipated "dollar s
 
 As one Latin American delegate privately acknowledged, his government instructed him to vote with the United States on all major issues. The Americans had the gold, the industrial capacity, and the military power. Opposition would be remembered.
 
-By conference end, Keynes recognized defeat was complete. In December 1944, he explained to the Foreign Office that delegates "had to sign, of course, before we had had a chance of reading through a clean and consecutive copy of the document. All we had seen of it was the dotted line."
-
 **July 13: The Decisive Moment**
 
 The turning point came on July 13, 1944, during a Commission I session discussing the IMF's Articles of Agreement. The draft document referred repeatedly to "gold and gold-convertible exchange" as the assets countries could use to meet their obligations to the Fund. But what, exactly, did "gold-convertible exchange" mean?
@@ -106,11 +104,7 @@ The irony was profound: It was not Americans who formally placed the dollar at t
 
 **What "Compromise" Actually Meant**
 
-American negotiators offered tactical concessions to create appearance of give-and-take: Fund size increased to $8.5 billion (Keynes had wanted $26 billion), and a "scarce currency clause" allowed rationing currencies in short supply—theoretically applicable to dollars but never actually used.
-
-These concessions cost America nothing while allowing other nations to claim negotiating victories to sell domestically. The core architecture remained unchanged: dollar-centered, American-controlled, designed to prevent the symmetric adjustment that Keynes's bancor would have imposed.
-
-By conference end, 730 delegates had debated, voted, and signed agreements. The appearance of democratic negotiation was complete. The reality was that American gold reserves had dictated outcomes before the first delegate arrived.
+American negotiators offered tactical concessions to create the appearance of give-and-take: Fund size increased to $8.5 billion (Keynes had wanted $26 billion), and a "scarce currency clause" that allowed rationing currencies in short supply, theoretically applicable to dollars but never actually used. These concessions cost America nothing. The core architecture remained unchanged — dollar-centered, American-controlled, designed to prevent the symmetric adjustment Keynes's bancor would have imposed. By the time 730 delegates had debated and signed, the appearance of democratic negotiation was complete and the reality was that American gold reserves had dictated outcomes before the first delegate arrived.
 
 ---
 
@@ -125,6 +119,8 @@ White's Stabilization Fund proposed the opposite: the U.S. dollar as the world's
 The mathematical contradiction in White's design was the **Triffin dilemma**, and Robert Triffin would not formalize it until 1959 — but the arithmetic was visible to anyone in the conference rooms in 1944 who chose to see it. The world needed an expanding supply of dollars to settle a growing volume of trade. But every additional dollar held abroad as reserves was a dollar the United States had promised to redeem in gold at a fixed price. As world trade grew exponentially and the U.S. gold stock grew linearly, the ratio between outstanding dollar claims and underlying reserves had to deteriorate. Once foreign claims exceeded American gold, the convertibility promise became a target rather than a guarantee. Bancor would have eliminated the contradiction structurally; the dollar standard built it in.
 
 *(See Figure 10.1: The Triffin Dilemma in Numbers — U.S. gold reserves peak at $24.6 billion in 1949 against $8–10 billion in foreign dollar claims; foreign claims first exceed reserves in 1962; reserves fall to $13.2 billion against $14 billion in claims by 1966; after the London Gold Pool collapse in March 1968, $10.7 billion against rising claims; by August 1971, $10 billion against $80 billion — a 12.5 percent backing ratio. World trade grew exponentially, gold supply grew linearly. Collapse was arithmetic, not policy error.)*
+
+The contemporary heterodox extension of the bancor argument — that the dollar standard's persistent-deficit dynamics, under floating rates after 1971, induced offsetting private-sector leverage that the canonical MMT account of currency sovereignty under floating exchange rates does not fully accommodate — runs through Steve Keen's stock-flow consistent reconstruction of the trade-architecture critique, building on Wynne Godley and Marc Lavoie's macroeconomics. That extension is a fruitful continuation of the divergence Keynes opened in 1942 and the conference closed in 1944, but it is a future-book argument this manuscript does not undertake to settle. The book's argument here goes only as far as the historical record carries it: Keynes's bancor proposal was a serious institutional alternative to the dollar standard, it would have produced different distributional outcomes than the system that displaced it, and the failure of its symmetric-adjustment principle to be enacted in 1944 was a load-bearing feature of the half-century that followed. The Notes on Sources entry on the trade-architecture tradition points readers to where the contemporary argument lives.
 
 ---
 
@@ -159,6 +155,8 @@ American policymakers made this choice consciously. They understood that a dolla
 The calculation was cold-blooded but clear: twenty-seven years of dollar dominance (1944-1971) was worth the eventual crisis. Short-term national advantage trumped long-term systemic stability. White understood bancor's economic logic but opposed it because his job was advancing American power, not designing optimal institutions.
 
 Keynes had bet on reason defeating power. He lost.
+
+Eric Helleiner's *Forgotten Foundations of Bretton Woods* offers a corrective this account does not foreclose. The Steil-aligned framing captures what the negotiating dynamics at Mount Washington produced — the procedural domination, the asymmetric outcome — but underweights the post-war development order White and his Treasury colleagues had been thinking through since the late 1930s. The system's first draft was, in many ways, the 1939–40 Inter-American Bank proposal, designed under the New Deal's "Good Neighbor" policy to provide development finance across Latin America. The "money doctors" White consulted in Cuba and Paraguay had been seeking, since the 1920s, to escape the rigidities of the gold standard their countries were locked into. The IMF and World Bank were intended, on Helleiner's reading, to be more inclusive and developmental than the conventional account suggests — institutions through which the post-war order could finance state-led growth in countries the gold standard had left chronically illiquid. The procedural and institutional-design readings are not strictly opposed. The conference's dynamics produced the asymmetric outcome Steil renders accurately, and the post-war institutions also embedded developmental ambitions Helleiner documents. What survived was both: a dollar-centered architecture delivering American power-political dominance, and an IMF/World Bank framework that retained more developmental capacity than the pre-war gold standard had allowed.
 
 ---
 
