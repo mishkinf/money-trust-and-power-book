@@ -132,12 +132,12 @@ Lines connect each country bank up to the Bank of England, labeled "convertibili
 
 ---
 
-## Chapter 12: The Age of Pure Fiat
+## Chapter 12: The Tests
 
-### Figure 12.1 — Federal Reserve Balance Sheet, 2007–2022
+### Figure 12.1 — Federal Reserve Balance Sheet, 2007–2026
 **Placement:** Replaces the inline ASCII chart in the QE section.
-**Specification:** Area chart, Fed total assets in trillions of dollars, 2007–2022. Key inflection points: Dec 2007 = $0.9T; Dec 2008 = $2.2T (Bear/Lehman/TARP); Dec 2014 = $4.5T (QE3 ends); Dec 2019 = $4.2T (pre-COVID); Dec 2020 = $7.4T (COVID response); Jun 2022 = $9.0T (peak); Dec 2022 = $8.6T (QT begins). Secondary axis: % of GDP (6.05% pre-crisis → 34.67% peak). Shaded bands show QE1, QE2, QE3, COVID response. Inflation overlay: 2010–2014 average = 1.4% (low); 2022 peak = 9.1%.
-**Caption:** "The same monetary tool, opposite results. The 2008–2014 expansion ($3.6T) caused minimal inflation because capacity was idle. The 2020–2022 expansion ($4.7T) hit binding supply constraints. The constraint is real resources, not money itself."
+**Specification:** Area chart, Fed total assets in trillions of dollars, 2007–2026. Key inflection points: Dec 2007 = $0.9T; Dec 2008 = $2.2T (Bear/Lehman/TARP); Dec 2014 = $4.5T (QE3 ends); Dec 2019 = $4.2T (pre-COVID); Dec 2020 = $7.4T (COVID response); Jun 2022 = about $9.0T (peak); Dec 2022 = $8.6T (QT begins); Apr 2026 = about $6.7T after sustained quantitative tightening. Secondary axis: percent of GDP if designer/source data permit. Shaded bands show QE1, QE2, QE3, COVID response, and QT. Inflation overlay: 2010–2014 average = 1.4% (low); June 2022 CPI peak = 9.1%; March 2026 CPI = 3.3%.
+**Caption:** "The same monetary tool, different results under different real conditions. The 2008–2014 expansion caused minimal consumer inflation because capacity was idle. The 2020–2022 expansion hit damaged supply and binding constraints. The constraint is real resources, not money itself."
 **Sources:** FRED series WALCL; Federal Reserve H.4.1; BEA GDP series.
 
 ### Figure 12.2 — Money vs. Real Resources: Three Scenarios
@@ -146,10 +146,3 @@ Lines connect each country bank up to the Bank of England, labeled "convertibili
 **Caption:** "Money is the ticket. Real resources are the seats. The constraint is always seats — not tickets."
 
 ---
-
-## Epilogue
-
-### Figure E.1 — Three Possible Monetary Futures
-**Placement:** In the "Three Possible Monetary Futures" section.
-**Specification:** Side-by-side comparison table of three columns: **CBDC Dominant**, **Crypto Replaces Fiat**, **Status Quo Enhanced**. Rows compare across: control (centralized / decentralized / mixed), privacy (low / high / medium), policy flexibility (maximum / none / traditional), financial inclusion (high / high / mixed), stability (high / low / proven), transaction speed (instant / variable / slow), programmability (yes — double-edged / limited / none), constraint on government (minimal / absolute / institutional), risk of authoritarianism (high / low / medium). Visual coding: green checkmarks, yellow tildes, red warnings.
-**Caption:** "Same technology, different institutions, radically different outcomes. China's CBDC enables authoritarianism; Sweden's e-krona preserves democracy. The choice is not which technology is superior but which governance framework serves human flourishing."

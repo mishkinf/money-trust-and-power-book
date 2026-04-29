@@ -204,12 +204,11 @@ Recommended order:
 
 For submission, the proposal does not need the whole back matter package, but the manuscript package should keep the source note apparatus visible because it is one of the book's credibility strengths.
 
-## Insert Material Still To Finish
+## Insert Material Status
 
-- Final table of contents with part titles and chapter titles.
-- Draft created at `Packaging/TABLE-OF-CONTENTS-DRAFT-2026-04-29.md`.
-- Figure list once final figure count is decided.
-- Draft created at `Packaging/FIGURE-LIST-DRAFT-2026-04-29.md`.
-- Clean one-page reader guide adjusted to the current manuscript.
-- Optional discussion-guide PDF / appendix.
-- Subtitle locked as *The Five-Thousand-Year Fight Over Who Gets to Create Money* unless agent/publisher positioning later requires a change.
+- Final table of contents with part titles and chapter titles is drafted at `Packaging/TABLE-OF-CONTENTS-DRAFT-2026-04-29.md`.
+- Figure list is drafted at `Packaging/FIGURE-LIST-DRAFT-2026-04-29.md`; final count can be reduced by agent/publisher preference.
+- Figure specifications are drafted at `Figures-Designer-Notes.md`.
+- One-page reader guide and discussion questions are drafted above and adjusted to the current manuscript.
+- Subtitle is locked as *The Five-Thousand-Year Fight Over Who Gets to Create Money* unless agent/publisher positioning later requires a change.
+- Author bio/platform remains intentionally deferred until the end.

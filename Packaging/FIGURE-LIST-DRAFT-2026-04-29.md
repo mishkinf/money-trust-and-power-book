@@ -18,9 +18,8 @@
 | 8.1 | Chapter 8 | Notes vs. Deposits: Functionally Similar Money | Shows why the 1844 Act regulated the visible form while deposits expanded. |
 | 9.1 | Chapter 9 | Gold-Standard Exit and Recovery, 1929-1937 | Shows earlier exit from gold correlating with faster recovery. |
 | 11.1 | Chapter 11 | The Triffin Dilemma in Numbers | Shows gold reserves versus foreign dollar claims. |
-| 12.1 | Chapter 12 | Federal Reserve Balance Sheet, 2007-2022 | Shows money creation under slack versus capacity pressure. |
+| 12.1 | Chapter 12 | Federal Reserve Balance Sheet, 2007-2026 | Shows money creation under slack, capacity pressure, and subsequent quantitative tightening. |
 | 12.2 | Chapter 12 | Money vs. Real Resources: Three Scenarios | Explains the capacity constraint. |
-| E.1 | Epilogue | Three Possible Monetary Futures | Optional closing comparison if the epilogue retains future-scenarios material. |
 
 ## Recommendation
 
@@ -38,4 +37,4 @@ Use a smaller final figure set if the publisher wants a leaner trade package. Th
 - Figure 8.1 should not use the old overprecise deposit statistic. The safer visual language is "bank deposits, checks, and bills dominate high-value exchange" with Pownall/Lubbock/clearing-house support.
 - Figure 9.1 data should be checked against the final Eichengreen dataset or whatever source the designer uses.
 - Figure 11.1 should present the Triffin figures with denominator caveats if plotted precisely.
-- Figure 12.1 should refresh Fed balance-sheet data if the chart extends beyond 2022.
+- Figure 12.1 should use the current Fed balance-sheet endpoint if the chart extends through 2026; freeze the data immediately before submission.

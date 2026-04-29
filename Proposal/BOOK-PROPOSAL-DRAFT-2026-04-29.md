@@ -103,7 +103,7 @@ At Bretton Woods, Keynes's bancor proposal lost to Harry Dexter White's dollar-c
 
 De Gaulle's gold offensive, Britain's devaluation, the London Gold Pool collapse, and Nixon's 1971 closure of the gold window revealed that the postwar gold-dollar compromise could not survive its own success. Nixon called the suspension temporary. It became permanent, inaugurating the age of pure fiat.
 
-### Chapter 12: The Age of Pure Fiat
+### Chapter 12: The Tests
 
 Pure fiat did not remove monetary constraint; it changed its location. The 2008 crisis showed that money creation in a slack economy need not produce consumer inflation. The 2021-22 inflation showed that money meeting damaged capacity can become painfully real. Volcker's disinflation, Japan's stagnation, the Hagedorn farm, quantitative easing, and crypto all test the same principle: the limit is not metal but capacity, credibility, governance, and distributional legitimacy.
 
